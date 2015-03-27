@@ -4,8 +4,8 @@
   <id>urn:book:03c543bb-bf0c-40c3-a2d7-bf4f7ba6b3fa</id>
   <updated>2015-03-27T01:53:42Z</updated>
   <link href="./df1729b6%40book_155.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="The Scorch Trials" />
-  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Biblioteca de Calibre de CJ" />
-  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Biblioteca de Calibre de CJ" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Biblioteca de Calibre de CJ" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Biblioteca de Calibre de CJ" />
   <link href="../8f6fb6ff%40authorlist/e8e4356e%40authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
   <link href="../8f6fb6ff%40author_0/e50cb160%40author_45_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Dashner, James" />
   <link href="df1729b6@book_155_cover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />

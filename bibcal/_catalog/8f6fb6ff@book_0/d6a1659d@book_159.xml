@@ -4,8 +4,8 @@
   <id>urn:book:1c33b523-f13d-4a3f-9c6a-c554f80eef84</id>
   <updated>2015-03-27T01:53:42Z</updated>
   <link href="./d6a1659d%40book_159.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="The Kill Order" />
-  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Biblioteca de Calibre de CJ" />
-  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Biblioteca de Calibre de CJ" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Biblioteca de Calibre de CJ" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Biblioteca de Calibre de CJ" />
   <link href="../8f6fb6ff%40authorlist/e8e4356e%40authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
   <link href="../8f6fb6ff%40author_0/e50cb160%40author_45_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Dashner, James" />
   <link href="d6a1659d@book_159_cover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />

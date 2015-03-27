@@ -4,8 +4,8 @@
   <id>urn:book:ae95331f-b1ff-4403-9fad-5d17c1a5fd26</id>
   <updated>2015-03-27T01:53:43Z</updated>
   <link href="./7345de97%40book_172.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="No estamos locos" />
-  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Biblioteca de Calibre de CJ" />
-  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Biblioteca de Calibre de CJ" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Biblioteca de Calibre de CJ" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Biblioteca de Calibre de CJ" />
   <link href="../8f6fb6ff%40authorlist/e8e4356e%40authorlist_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
   <link href="7345de97@book_172_cover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
   <link href="../8f6fb6ff@book_0/7345de97@book_172_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />

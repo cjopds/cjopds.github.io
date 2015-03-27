@@ -4,8 +4,8 @@
   <id>urn:book:bc85ee5b-a6f2-4305-9358-4a0a49ac0b6c</id>
   <updated>2015-03-27T01:53:43Z</updated>
   <link href="./1ad3a374%40book_180.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="El mar de los monstruos" />
-  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Biblioteca de Calibre de CJ" />
-  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Biblioteca de Calibre de CJ" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Biblioteca de Calibre de CJ" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Biblioteca de Calibre de CJ" />
   <link href="../8f6fb6ff%40authorlist/e8e4356e%40authorlist_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
   <link href="../8f6fb6ff%40author_0/82a6fc9c%40author_58_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Riordan, Rick" />
   <link href="1ad3a374@book_180_cover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />

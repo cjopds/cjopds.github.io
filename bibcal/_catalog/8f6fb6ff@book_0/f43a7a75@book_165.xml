@@ -4,8 +4,8 @@
   <id>urn:book:984e5f2e-3fb3-4990-b8d7-44658e75d463</id>
   <updated>2015-03-27T01:53:45Z</updated>
   <link href="./f43a7a75%40book_165.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Extras" />
-  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Biblioteca de Calibre de CJ" />
-  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Biblioteca de Calibre de CJ" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Biblioteca de Calibre de CJ" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Biblioteca de Calibre de CJ" />
   <link href="../8f6fb6ff%40authorlist/e8e4356e%40authorlist_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
   <link href="../8f6fb6ff%40author_0/b926d235%40author_74_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Westerfeld, Scott" />
   <link href="f43a7a75@book_165_cover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />

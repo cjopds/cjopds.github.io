@@ -4,8 +4,8 @@
   <id>urn:book:c056faa6-3aaa-4944-bd24-cdcadd10fabc</id>
   <updated>2015-03-27T01:53:44Z</updated>
   <link href="./9ac1c38f%40book_193.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Canciones para Paula" />
-  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Biblioteca de Calibre de CJ" />
-  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Biblioteca de Calibre de CJ" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Biblioteca de Calibre de CJ" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Biblioteca de Calibre de CJ" />
   <link href="../8f6fb6ff%40authorlist/e8e4356e%40authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
   <link href="../8f6fb6ff%40author_0/a98baf5f%40author_68_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Jeans, Blue" />
   <link href="9ac1c38f@book_193_cover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />

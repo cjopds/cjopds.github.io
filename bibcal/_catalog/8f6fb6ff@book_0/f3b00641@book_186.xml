@@ -4,8 +4,8 @@
   <id>urn:book:b40e3d4f-af88-4894-8179-dc01b724c945</id>
   <updated>2015-03-27T01:53:44Z</updated>
   <link href="./f3b00641%40book_186.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="El libro rojo del cole" />
-  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Biblioteca de Calibre de CJ" />
-  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Biblioteca de Calibre de CJ" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Biblioteca de Calibre de CJ" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Biblioteca de Calibre de CJ" />
   <link href="../8f6fb6ff%40authorlist/e8e4356e%40authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
   <link href="f3b00641@book_186_cover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
   <link href="../8f6fb6ff@book_0/f3b00641@book_186_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />

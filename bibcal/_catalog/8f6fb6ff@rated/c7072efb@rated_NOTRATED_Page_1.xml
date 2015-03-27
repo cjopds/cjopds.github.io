@@ -9,8 +9,8 @@
   </author>
   <updated>1973-01-26T08:00:00Z</updated>
   <link href="./c7072efb%40rated_NOTRATED_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Sin puntuación" />
-  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Biblioteca de Calibre de CJ" />
-  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Biblioteca de Calibre de CJ" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Biblioteca de Calibre de CJ" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Biblioteca de Calibre de CJ" />
   <link href="./c7072efb%40rated.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Valoración" />
   <link href="../8f6fb6ff@rated/c7072efb@rated_NOTRATED_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (2 de 3)" />
   <entry>

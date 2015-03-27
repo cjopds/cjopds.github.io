@@ -9,8 +9,8 @@
   </author>
   <updated>1973-01-26T08:00:00Z</updated>
   <link href="./6d63577e%40recent_YEAR_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Año pasado" />
-  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Biblioteca de Calibre de CJ" />
-  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Biblioteca de Calibre de CJ" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Biblioteca de Calibre de CJ" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Biblioteca de Calibre de CJ" />
   <link href="./6d63577e%40recent_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Añadidos recientemente" />
   <entry>
     <title>En llamas [14 de agosto de 2014]</title>

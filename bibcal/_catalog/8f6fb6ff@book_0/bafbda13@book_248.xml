@@ -4,8 +4,8 @@
   <id>urn:book:a76287c0-4944-4c9c-8e8e-4eeb5ddd17b3</id>
   <updated>2015-03-27T01:53:51Z</updated>
   <link href="./bafbda13%40book_248.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Misery" />
-  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Biblioteca de Calibre de CJ" />
-  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Biblioteca de Calibre de CJ" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Biblioteca de Calibre de CJ" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Biblioteca de Calibre de CJ" />
   <link href="../8f6fb6ff%40authorlist/e8e4356e%40authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
   <link href="../8f6fb6ff%40author_0/c9ab9e97%40author_96_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="King, Stephen" />
   <link href="bafbda13@book_248_cover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />

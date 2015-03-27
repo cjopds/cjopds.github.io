@@ -4,8 +4,8 @@
   <id>urn:book:c73bad37-6ed4-46dc-8888-0a890728fcab</id>
   <updated>2015-03-27T01:53:45Z</updated>
   <link href="./a02663aa%40book_205.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Divergente" />
-  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Biblioteca de Calibre de CJ" />
-  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Biblioteca de Calibre de CJ" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Biblioteca de Calibre de CJ" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Biblioteca de Calibre de CJ" />
   <link href="../8f6fb6ff%40authorlist/e8e4356e%40authorlist_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
   <link href="../8f6fb6ff%40author_0/8b10b0b7%40author_54_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Ramírez Tello, Pilar" />
   <link href="a02663aa@book_205_cover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />

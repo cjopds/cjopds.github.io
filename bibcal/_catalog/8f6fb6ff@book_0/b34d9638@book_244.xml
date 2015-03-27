@@ -4,8 +4,8 @@
   <id>urn:book:c87359aa-f6a4-4cdd-83bf-b0619e0f0441</id>
   <updated>2015-03-27T01:53:51Z</updated>
   <link href="./b34d9638%40book_244.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Yo, robot" />
-  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Biblioteca de Calibre de CJ" />
-  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Biblioteca de Calibre de CJ" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Biblioteca de Calibre de CJ" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Biblioteca de Calibre de CJ" />
   <link href="../8f6fb6ff%40authorlist/e8e4356e%40authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
   <link href="../8f6fb6ff%40author_0/27a5ffbb%40author_94_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Asimov, Isaac" />
   <link href="b34d9638@book_244_cover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />

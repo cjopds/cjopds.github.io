@@ -4,8 +4,8 @@
   <id>urn:book:0eec473b-0f29-4ad7-b70d-2ef215147d7d</id>
   <updated>2015-03-27T01:53:43Z</updated>
   <link href="./32f2a18%40book_177.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Will Grayson, Will Grayson" />
-  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Biblioteca de Calibre de CJ" />
-  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Biblioteca de Calibre de CJ" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Biblioteca de Calibre de CJ" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Biblioteca de Calibre de CJ" />
   <link href="../8f6fb6ff%40authorlist/e8e4356e%40authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
   <link href="32f2a18@book_177_cover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
   <link href="../8f6fb6ff@book_0/32f2a18@book_177_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />

@@ -4,8 +4,8 @@
   <id>urn:book:0c7cc88f-a660-4fc7-8acf-424e9a69fa95</id>
   <updated>2015-03-27T01:53:45Z</updated>
   <link href="./4945c69f%40book_203.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Luna nueva" />
-  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Biblioteca de Calibre de CJ" />
-  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Biblioteca de Calibre de CJ" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Biblioteca de Calibre de CJ" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Biblioteca de Calibre de CJ" />
   <link href="../8f6fb6ff%40authorlist/e8e4356e%40authorlist_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
   <link href="../8f6fb6ff%40author_0/50457700%40author_72_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Meyer, Stephenie" />
   <link href="4945c69f@book_203_cover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />

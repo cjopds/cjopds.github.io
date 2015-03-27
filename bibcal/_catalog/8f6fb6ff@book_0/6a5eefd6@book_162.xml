@@ -4,8 +4,8 @@
   <id>urn:book:b9fdf587-69ad-4c9d-9a9b-8ce241e0f897</id>
   <updated>2015-03-27T01:53:43Z</updated>
   <link href="./6a5eefd6%40book_162.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Rise" />
-  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Biblioteca de Calibre de CJ" />
-  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Biblioteca de Calibre de CJ" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Biblioteca de Calibre de CJ" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Biblioteca de Calibre de CJ" />
   <link href="../8f6fb6ff%40authorlist/e8e4356e%40authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
   <link href="../8f6fb6ff%40author_0/ecbafd4b%40author_49_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Carey, Anna" />
   <link href="6a5eefd6@book_162_cover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />

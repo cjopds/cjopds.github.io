@@ -4,8 +4,8 @@
   <id>urn:book:2228daaf-1cd7-4f77-af4d-a2f03f9c9c08</id>
   <updated>2015-03-27T01:53:51Z</updated>
   <link href="./b4205221%40book_240.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="La sombra del viento" />
-  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Biblioteca de Calibre de CJ" />
-  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Biblioteca de Calibre de CJ" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Biblioteca de Calibre de CJ" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Biblioteca de Calibre de CJ" />
   <link href="../8f6fb6ff%40authorlist/e8e4356e%40authorlist_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
   <link href="../8f6fb6ff%40author_0/20c83ba2%40author_90_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Zafón, Carlos Ruiz" />
   <link href="b4205221@book_240_cover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />

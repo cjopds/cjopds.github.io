@@ -4,8 +4,8 @@
   <id>urn:book:eb549da1-697a-4f7f-ad76-5d16eb8d28e4</id>
   <updated>2015-03-27T01:53:51Z</updated>
   <link href="./cdfcea85%40book_249.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="El resplandor" />
-  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Biblioteca de Calibre de CJ" />
-  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Biblioteca de Calibre de CJ" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Biblioteca de Calibre de CJ" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Biblioteca de Calibre de CJ" />
   <link href="../8f6fb6ff%40authorlist/e8e4356e%40authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
   <link href="../8f6fb6ff%40author_0/c9ab9e97%40author_96_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="King, Stephen" />
   <link href="cdfcea85@book_249_cover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
