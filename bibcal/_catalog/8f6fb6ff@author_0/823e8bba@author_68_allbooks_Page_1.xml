@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:opds="http://opds-spec.org/2010/catalog">
+  <title>Todos los libros de Blue Jeans</title>
+  <id>Calibre2opds:allbooks</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./823e8bba%40author_68_allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Todos los libros de Blue Jeans" />
+  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Biblioteca de Calibre de CJ" />
+  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Biblioteca de Calibre de CJ" />
+  <link href="../8f6fb6ff%40authorlist/e8e4356e%40authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="./a98baf5f%40author_68_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Jeans, Blue" />
+  <entry>
+    <title>¿Puedo soñar contigo?</title>
+    <id>calibre:book:195</id>
+    <updated>2015-03-27T01:53:45Z</updated>
+    <link href="../8f6fb6ff@book_0/73a266ba@book_195_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Blue%20Jeans/_Puedo%20sonar%20contigo_%20%28195%29/_Puedo%20sonar%20contigo_%20-%20Blue%20Jeans.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Blue%20Jeans/_Puedo%20sonar%20contigo_%20%28195%29/_Puedo%20sonar%20contigo_%20-%20Blue%20Jeans.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Descargar este libro como PDF" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Blue%20Jeans/_Puedo%20sonar%20contigo_%20%28195%29/_Puedo%20sonar%20contigo_%20-%20Blue%20Jeans.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Descargar este libro como MOBI" />
+    <author>
+      <name>Blue Jeans</name>
+      <uri>../8f6fb6ff@author_0/a98baf5f@author_68_Page_1.xml</uri>
+    </author>
+    <published>2014-02-03T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Grupo Planeta</dcterms:publisher>
+    <category term="Lang:es" />
+    <category term="El Club de los Incomprendidos" />
+    <summary>El Club de los Incomprendidos [3]:</summary>
+    <link href="../8f6fb6ff%40book_0/73a266ba%40book_195.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>¿Sabes que te quiero?</title>
+    <id>calibre:book:196</id>
+    <updated>2015-03-27T01:53:45Z</updated>
+    <link href="../8f6fb6ff@book_0/eaab3700@book_196_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Blue%20Jeans/_Sabes%20que%20te%20quiero_%20%28196%29/_Sabes%20que%20te%20quiero_%20-%20Blue%20Jeans.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>Blue Jeans</name>
+      <uri>../8f6fb6ff@author_0/a98baf5f@author_68_Page_1.xml</uri>
+    </author>
+    <published>2010-09-01T10:14:45Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Everest</dcterms:publisher>
+    <category term="Romantico" />
+    <category term="Infantil y Juvenil" />
+    <category term="Literatura y ficción" />
+    <category term="Ficción contemporánea" />
+    <category term="Romántica" />
+    <category term="Literatura y narrativa" />
+    <category term="Infantil-Juvenil" />
+    <category term="Lang:es" />
+    <category term="Canciones para Paula" />
+    <summary>Canciones para Paula [2]: Reseña del editorLos problemas que Paula intentó olvidar cuando se fue a París, siguen esperándole a su regreso y no le será nada fácil dejarlos pasar. Surgirán nuevos líos amorosos y desengaños, a los que se sumará un error imperdonable que pudo cometer la protagonista en la “ciudad del amor”. Pero no todo girará en torno a Paula, si no que el resto de “las Sugus” también adquirirán un mayor protagonismo en la novela, que se verá salpicada de mentiras, traiciones y pro...</summary>
+    <link href="../8f6fb6ff%40book_0/eaab3700%40book_196.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Buenos dias, Princesa</title>
+    <id>calibre:book:191</id>
+    <updated>2015-03-27T01:53:44Z</updated>
+    <link href="../8f6fb6ff@book_0/74cfa2a3@book_191_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Blue%20Jeans/Buenos%20dias%2C%20Princesa%20%28191%29/Buenos%20dias%2C%20Princesa%20-%20Blue%20Jeans.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Blue%20Jeans/Buenos%20dias%2C%20Princesa%20%28191%29/Buenos%20dias%2C%20Princesa%20-%20Blue%20Jeans.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Descargar este libro como PDF" />
+    <author>
+      <name>Blue Jeans</name>
+      <uri>../8f6fb6ff@author_0/a98baf5f@author_68_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Grupo Planeta</dcterms:publisher>
+    <category term="Lang:es" />
+    <category term="El Club de los Incomprendidos" />
+    <summary>El Club de los Incomprendidos [1]: Hace dos años se conocieron cuando más se necesitaban y formaron el CLUB DE LOS INCOMPRENDIDOS. Sin embargo, algo ha cambiado y ahora ya no saben si pueden contar los unos con los otros. Valeria no sabe si al dejarse llevar por lo que siente puede traicionar a su mejor amiga; Bruno escribe cartas de amor que no dan resultado; María es el patito feo que busca su sitio; Elísabet no está acostumbrada a que le digan que no; Raúl no quiere equivocarse esta vez, y a ...</summary>
+    <link href="../8f6fb6ff%40book_0/74cfa2a3%40book_191.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Cállame con un beso</title>
+    <id>calibre:book:192</id>
+    <updated>2015-03-27T01:53:44Z</updated>
+    <link href="../8f6fb6ff@book_0/edc6f319@book_192_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Blue%20Jeans/Callame%20con%20un%20beso%20%28192%29/Callame%20con%20un%20beso%20-%20Blue%20Jeans.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>Blue Jeans</name>
+      <uri>../8f6fb6ff@author_0/a98baf5f@author_68_Page_1.xml</uri>
+    </author>
+    <published>2011-12-15T10:15:17Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Everest</dcterms:publisher>
+    <category term="Romántico" />
+    <category term="Relato" />
+    <category term="Children's Literature" />
+    <category term="General" />
+    <category term="Literary Criticism" />
+    <category term="Fiction" />
+    <category term="Lang:es" />
+    <category term="Canciones para Paula" />
+    <summary>Canciones para Paula [3]: ¡El libro que ya ha enamorado a más de 100.000 lectores regresa en navidades con su última entrega que nos hará reír y llorar más que nunca! "Cállame con un beso" resolverá todas nuestras dudas y promete ser el mejor de los tres libros. Será la culminación a todo un fenómeno social CPP protagonizado por todos vosotros. El tiempo pasa en la vida de Paula. Nuevas experiencias, nuevos amigos, nuevas dificultades... la distancia es mal rival para el amor. Tendrá que tomar d...</summary>
+    <link href="../8f6fb6ff%40book_0/edc6f319%40book_192.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Canciones para Paula</title>
+    <id>calibre:book:193</id>
+    <updated>2015-03-27T01:53:44Z</updated>
+    <link href="../8f6fb6ff@book_0/9ac1c38f@book_193_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Blue%20Jeans/Canciones%20para%20Paula%20%28193%29/Canciones%20para%20Paula%20-%20Blue%20Jeans.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>Blue Jeans</name>
+      <uri>../8f6fb6ff@author_0/a98baf5f@author_68_Page_1.xml</uri>
+    </author>
+    <published>2009-12-11T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Everest</dcterms:publisher>
+    <category term="Romántico" />
+    <category term="Infantil y Juvenil" />
+    <category term="Literatura y ficción" />
+    <category term="Ficción contemporánea" />
+    <category term="GusiX" />
+    <category term="Literatura y narrativa" />
+    <category term="Lang:es" />
+    <category term="Canciones para Paula" />
+    <summary>Canciones para Paula [1]: Reseña del editorPaula, una joven a punto de cumplir los 17, se ha citado con Ángel, un chico de 22 años al que ha conocido por internet. Está nerviosa e ilusionada. Los minutos pasan y el chico no llega, por lo que ella decide meterse en un café cercano. Allí tiene un divertido encuentro con Álex, un desconocido, que casualmente está leyendo el mismo libro que ella. Ambos son jóvenes y guapos... Álex tiene que irse precipitadamente porque tiene un compromiso. Cuando Pa...</summary>
+    <link href="../8f6fb6ff%40book_0/9ac1c38f%40book_193.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>No sonrías que me enamoro</title>
+    <id>calibre:book:194</id>
+    <updated>2015-03-27T01:53:45Z</updated>
+    <link href="../8f6fb6ff@book_0/4a5562c@book_194_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Blue%20Jeans/No%20sonrias%20que%20me%20enamoro%20%28194%29/No%20sonrias%20que%20me%20enamoro%20-%20Blue%20Jeans.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Descargar este libro como PDF" />
+    <author>
+      <name>Blue Jeans</name>
+      <uri>../8f6fb6ff@author_0/a98baf5f@author_68_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Grupo Planeta</dcterms:publisher>
+    <category term="Lang:es" />
+    <category term="El Club de los Incomprendidos" />
+    <summary>El Club de los Incomprendidos [2]:</summary>
+    <link href="../8f6fb6ff%40book_0/4a5562c%40book_194.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>
+

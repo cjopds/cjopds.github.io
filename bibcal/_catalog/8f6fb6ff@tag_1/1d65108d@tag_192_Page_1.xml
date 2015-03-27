@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:opds="http://opds-spec.org/2010/catalog">
+  <title>Lang:eu</title>
+  <id>Calibre2opds:taglist:L:192</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./1d65108d%40tag_192_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Lang:eu" />
+  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Biblioteca de Calibre de CJ" />
+  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Biblioteca de Calibre de CJ" />
+  <link href="../8f6fb6ff%40taglist/87d7be0%40taglist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="etiquetas" />
+  <link href="../8f6fb6ff%40taglist/87d7be0%40taglist_L_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Etiquetas que empiezan por L" />
+  <entry>
+    <title>Hamlet</title>
+    <id>calibre:book:253</id>
+    <updated>2015-03-27T01:53:52Z</updated>
+    <link href="../8f6fb6ff@book_0/343232da@book_253_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/William%20Shakespeare/Hamlet%20%28253%29/Hamlet%20-%20William%20Shakespeare.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>William Shakespeare</name>
+      <uri>../8f6fb6ff@author_0/beacae01@author_97_Page_1.xml</uri>
+    </author>
+    <published>1602-12-31T11:00:00Z</published>
+    <dcterms:language>eu</dcterms:language>
+    <dcterms:publisher>ePubLibre</dcterms:publisher>
+    <category term="Teatro" />
+    <category term="Drama" />
+    <category term="Lang:eu" />
+    <summary>Shakespearen tragedia honetan, Danimarkako erregea Klaudio bere anaiak hil du, eta ondoren tronua usurpatu eta hildakoaren alargunarekin, Gertrudis, ezkontzen da, ohiturak errespetatu gabe. Aitaren mamua Hamlet-eri agertzen zaio Elsinore-ko gazteluko harresian, delituaren inguruabarrak kontatzen dizkio eta mendekua eskatzen dio. Hamlet-ek obeditzea hitzematen du, baina bere natura malenkoniatsuak zalantzati egiten du eta akzioa atzeratzera behartzen du; bitartean erorena egiten du erregearen biz...</summary>
+    <link href="../8f6fb6ff%40book_0/343232da%40book_253.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>
+

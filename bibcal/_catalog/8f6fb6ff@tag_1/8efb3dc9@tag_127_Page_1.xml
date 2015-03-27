@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:opds="http://opds-spec.org/2010/catalog">
+  <title>Historical</title>
+  <id>Calibre2opds:taglist:H:127</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./8efb3dc9%40tag_127_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Historical" />
+  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Biblioteca de Calibre de CJ" />
+  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Biblioteca de Calibre de CJ" />
+  <link href="../8f6fb6ff%40taglist/87d7be0%40taglist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="etiquetas" />
+  <link href="../8f6fb6ff%40taglist/87d7be0%40taglist_H_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Etiquetas que empiezan por H" />
+  <entry>
+    <title>El dilema: 600 días de vértigo</title>
+    <id>calibre:book:171</id>
+    <updated>2015-03-27T01:53:43Z</updated>
+    <link href="../8f6fb6ff@book_0/ea4c8f2d@book_171_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Jose%20Luis%20Rodriguez%20Zapatero/El%20dilema_%20600%20dias%20de%20vertigo%20%28171%29/El%20dilema_%20600%20dias%20de%20vertigo%20-%20Jose%20Luis%20Rodriguez%20Zapatero.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>José Luis Rodríguez Zapatero</name>
+      <uri>../8f6fb6ff@author_0/fc178021@author_55_Page_1.xml</uri>
+    </author>
+    <published>2013-11-25T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Editorial Planeta</dcterms:publisher>
+    <category term="Biography &amp; Autobiography" />
+    <category term="Historical" />
+    <category term="Crónica" />
+    <category term="Memorias" />
+    <category term="Lang:es" />
+    <summary>Descripción del productoÉste es el relato en primera persona de quien tuvo en España la principal responsabilidad ante la crisis en el periodo 2008-2011.Sobre las decisiones adoptadas por el Gobierno en mayo de 2010, escribe el autor: «Qué dilema tan acuciante. O recortabas, o podías alimentar la espiral de la falta de solvencia, del riesgo sobre el cumplimiento de nuestros compromisos de deuda. No había un camino intermedio. Y en apenas días, casi horas, debías actuar en una intersección en la ...</summary>
+    <link href="../8f6fb6ff%40book_0/ea4c8f2d%40book_171.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Inés y la alegría</title>
+    <id>calibre:book:187</id>
+    <updated>2015-03-27T01:53:44Z</updated>
+    <link href="../8f6fb6ff@book_0/84b736d7@book_187_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Almudena%20Grandes/Ines%20y%20la%20alegria%20%28187%29/Ines%20y%20la%20alegria%20-%20Almudena%20Grandes.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Descargar este libro como MOBI" />
+    <author>
+      <name>Almudena Grandes</name>
+      <uri>../8f6fb6ff@author_0/d73ad3e2@author_65_Page_1.xml</uri>
+    </author>
+    <published>2010-12-24T11:00:00Z</published>
+    <dcterms:publisher>Spanish Pubs Llc</dcterms:publisher>
+    <category term="Historical" />
+    <category term="Fiction" />
+    <summary>Toulouse, verano de 1939. Carmen de Pedro, responsable en Francia de los diezmados comunistas españoles, se cruza con Jesús Monzón, un cargo menor del partido que, sin ella intuirlo, alberga un ambicioso plan. Unos años después, en 1944, Monzón, convertido en su pareja, ha organizado el grupo más disciplinado de la Resistencia contra la ocupación alemana, prepara la plataforma de la Unión Nacional Española y cuenta con un ejército de hombres dispuestos a invadir España. Entre ellos está Galán, q...</summary>
+    <link href="../8f6fb6ff%40book_0/84b736d7%40book_187.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>
+

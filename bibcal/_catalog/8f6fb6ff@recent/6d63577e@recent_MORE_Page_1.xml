@@ -1,0 +1,476 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:opds="http://opds-spec.org/2010/catalog">
+  <title>Hace más de un año</title>
+  <id>Calibre2opds:recent:MORE</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./6d63577e%40recent_MORE_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Hace más de un año" />
+  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Biblioteca de Calibre de CJ" />
+  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Biblioteca de Calibre de CJ" />
+  <link href="./6d63577e%40recent_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Añadidos recientemente" />
+  <entry>
+    <title>No sonrías que me enamoro [16 de febrero de 2014]</title>
+    <id>calibre:book:194</id>
+    <updated>2015-03-27T01:53:45Z</updated>
+    <link href="../8f6fb6ff@book_0/4a5562c@book_194_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Blue%20Jeans/No%20sonrias%20que%20me%20enamoro%20%28194%29/No%20sonrias%20que%20me%20enamoro%20-%20Blue%20Jeans.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Descargar este libro como PDF" />
+    <author>
+      <name>Blue Jeans</name>
+      <uri>../8f6fb6ff@author_0/a98baf5f@author_68_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Grupo Planeta</dcterms:publisher>
+    <category term="Lang:es" />
+    <category term="El Club de los Incomprendidos" />
+    <summary>El Club de los Incomprendidos [2]:</summary>
+    <link href="../8f6fb6ff%40book_0/4a5562c%40book_194.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>¿Puedo soñar contigo? [16 de febrero de 2014]</title>
+    <id>calibre:book:195</id>
+    <updated>2015-03-27T01:53:45Z</updated>
+    <link href="../8f6fb6ff@book_0/73a266ba@book_195_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Blue%20Jeans/_Puedo%20sonar%20contigo_%20%28195%29/_Puedo%20sonar%20contigo_%20-%20Blue%20Jeans.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Blue%20Jeans/_Puedo%20sonar%20contigo_%20%28195%29/_Puedo%20sonar%20contigo_%20-%20Blue%20Jeans.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Descargar este libro como PDF" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Blue%20Jeans/_Puedo%20sonar%20contigo_%20%28195%29/_Puedo%20sonar%20contigo_%20-%20Blue%20Jeans.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Descargar este libro como MOBI" />
+    <author>
+      <name>Blue Jeans</name>
+      <uri>../8f6fb6ff@author_0/a98baf5f@author_68_Page_1.xml</uri>
+    </author>
+    <published>2014-02-03T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Grupo Planeta</dcterms:publisher>
+    <category term="Lang:es" />
+    <category term="El Club de los Incomprendidos" />
+    <summary>El Club de los Incomprendidos [3]:</summary>
+    <link href="../8f6fb6ff%40book_0/73a266ba%40book_195.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Buenos dias, Princesa [16 de febrero de 2014]</title>
+    <id>calibre:book:191</id>
+    <updated>2015-03-27T01:53:44Z</updated>
+    <link href="../8f6fb6ff@book_0/74cfa2a3@book_191_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Blue%20Jeans/Buenos%20dias%2C%20Princesa%20%28191%29/Buenos%20dias%2C%20Princesa%20-%20Blue%20Jeans.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Blue%20Jeans/Buenos%20dias%2C%20Princesa%20%28191%29/Buenos%20dias%2C%20Princesa%20-%20Blue%20Jeans.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Descargar este libro como PDF" />
+    <author>
+      <name>Blue Jeans</name>
+      <uri>../8f6fb6ff@author_0/a98baf5f@author_68_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Grupo Planeta</dcterms:publisher>
+    <category term="Lang:es" />
+    <category term="El Club de los Incomprendidos" />
+    <summary>El Club de los Incomprendidos [1]: Hace dos años se conocieron cuando más se necesitaban y formaron el CLUB DE LOS INCOMPRENDIDOS. Sin embargo, algo ha cambiado y ahora ya no saben si pueden contar los unos con los otros. Valeria no sabe si al dejarse llevar por lo que siente puede traicionar a su mejor amiga; Bruno escribe cartas de amor que no dan resultado; María es el patito feo que busca su sitio; Elísabet no está acostumbrada a que le digan que no; Raúl no quiere equivocarse esta vez, y a ...</summary>
+    <link href="../8f6fb6ff%40book_0/74cfa2a3%40book_191.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Análisis 1º [8 de enero de 2014]</title>
+    <id>calibre:book:198</id>
+    <updated>2015-03-27T01:53:45Z</updated>
+    <link href="../8f6fb6ff@book_0/d131a07@book_198_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Katalin%20Szekely/Analisis%201o%20%28198%29/Analisis%201o%20-%20Katalin%20Szekely.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Descargar este libro como PDF" />
+    <author>
+      <name>Katalin Szekely</name>
+      <uri>../8f6fb6ff@author_0/be4b162c@author_70_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <category term="Lang:es" />
+    <link href="../8f6fb6ff%40book_0/d131a07%40book_198.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>El sueño de Alicia [30 de diciembre de 2013]</title>
+    <id>calibre:book:197</id>
+    <updated>2015-03-27T01:53:45Z</updated>
+    <link href="../8f6fb6ff@book_0/9dac0796@book_197_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Eduard%20Punset/El%20sueno%20de%20Alicia%20%28197%29/El%20sueno%20de%20Alicia%20-%20Eduard%20Punset.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>Eduard Punset</name>
+      <uri>../8f6fb6ff@author_0/de8c9fc9@author_69_Page_1.xml</uri>
+    </author>
+    <published>2013-09-16T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Ediciones Destino</dcterms:publisher>
+    <category term="Ciencias; tecnología y medicina" />
+    <category term="Ciencia" />
+    <category term="Lang:es" />
+    <summary>Descripción del productoAlicia –«verdad», en griego– es el personaje inseparable de Eduardo Punset en esta historia apasionante sobre la vida y la ciencia que reúne el legado científico y humanístico de personas sabias con la osadía de romper barreras y desvelar conocimientos que creíamos imposibles. Conocimientos que logran sumergirnos en la arqueología de las emociones e iluminar habitaciones secretas de nuestra mente. Ésta es una obra llena de respuestas y de preguntas abiertas. Es también un...</summary>
+    <link href="../8f6fb6ff%40book_0/9dac0796%40book_197.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Eclipse [27 de diciembre de 2013]</title>
+    <id>calibre:book:202</id>
+    <updated>2015-03-27T01:53:45Z</updated>
+    <link href="../8f6fb6ff@book_0/3e42f609@book_202_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Stephenie%20Meyer/Eclipse%20%28202%29/Eclipse%20-%20Stephenie%20Meyer.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Stephenie%20Meyer/Eclipse%20%28202%29/Eclipse%20-%20Stephenie%20Meyer.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Descargar este libro como PDF" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Stephenie%20Meyer/Eclipse%20%28202%29/Eclipse%20-%20Stephenie%20Meyer.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Descargar este libro como MOBI" />
+    <author>
+      <name>Stephenie Meyer</name>
+      <uri>../8f6fb6ff@author_0/50457700@author_72_Page_1.xml</uri>
+    </author>
+    <published>2008-11-19T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Alfaguara</dcterms:publisher>
+    <category term="Infantil y Juvenil" />
+    <category term="Literatura y narrativa" />
+    <category term="Lang:es" />
+    <category term="Crepúsculo" />
+    <summary>Crepúsculo [3]: Reseña del editor«De pronto, saltó una chispa de intuición en aquel silencio sepulcral y encajaron todos los detalles. Algo que Edward no quería que supiera. Algo que Jacob no me hubiera ocultado. Algo que había hecho que los Cullen y los licántropos anduvieran juntos por los bosques en una peligrosa proximidad.» Biografía del autorStephenie Meyer nació en Connecticut en 1973. Su familia se trasladó a Phoenix (Arizona) cuando ella tenía cuatro años. Su particular nombre (Stepheni...</summary>
+    <link href="../8f6fb6ff%40book_0/3e42f609%40book_202.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Amanecer [27 de diciembre de 2013]</title>
+    <id>calibre:book:200</id>
+    <updated>2015-03-27T01:53:45Z</updated>
+    <link href="../8f6fb6ff@book_0/d04c9725@book_200_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Stephenie%20Meyer/Amanecer%20%28200%29/Amanecer%20-%20Stephenie%20Meyer.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>Stephenie Meyer</name>
+      <uri>../8f6fb6ff@author_0/50457700@author_72_Page_1.xml</uri>
+    </author>
+    <published>2008-10-01T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Alfaguara</dcterms:publisher>
+    <category term="Fantasía; terror y ciencia ficción" />
+    <category term="Fantástico" />
+    <category term="Infantil y Juvenil" />
+    <category term="Lang:es" />
+    <category term="Crepúsculo" />
+    <summary>Crepúsculo [4]: Críticas"Crepúsculo tentó a la imaginación. Luna nueva dejó a los lectores sedientos de más. Eclipse convirtió la saga en un fenómeno. Y ahora, Amanecer, te dejará sin aliento." Little, Brown for Young readers --Este texto se refiere a la edición Tapa blanda .Reseña del editorTe quedas sin opciones cuando amas a tu potencial asesino. ¿Acaso es posible huir o luchar si eso causa un grave perjuicio a quien quieres? Si la vida es cuanto puedes darle y de verdad le amas por encima de...</summary>
+    <link href="../8f6fb6ff%40book_0/d04c9725%40book_200.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Luna nueva [27 de diciembre de 2013]</title>
+    <id>calibre:book:203</id>
+    <updated>2015-03-27T01:53:45Z</updated>
+    <link href="../8f6fb6ff@book_0/4945c69f@book_203_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Stephenie%20Meyer/Luna%20nueva%20%28203%29/Luna%20nueva%20-%20Stephenie%20Meyer.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Stephenie%20Meyer/Luna%20nueva%20%28203%29/Luna%20nueva%20-%20Stephenie%20Meyer.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Descargar este libro como PDF" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Stephenie%20Meyer/Luna%20nueva%20%28203%29/Luna%20nueva%20-%20Stephenie%20Meyer.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Descargar este libro como MOBI" />
+    <author>
+      <name>Stephenie Meyer</name>
+      <uri>../8f6fb6ff@author_0/50457700@author_72_Page_1.xml</uri>
+    </author>
+    <published>2007-10-01T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Alfaguara</dcterms:publisher>
+    <category term="Infantil y Juvenil" />
+    <category term="Fantasía; terror y ciencia ficción" />
+    <category term="Lang:es" />
+    <category term="Crepúsculo" />
+    <summary>Crepúsculo [2]: Para Bella Swan, hay una cosa más importante que su propia vida - Edward Cullen. Pero enamorarse de un vampiro es más peligroso de lo que Bella nunca podría haber imaginado. Edward ya ha rescatado a Bella de las garras de un diabólico vampiro, pero ahora, a medida que su arriesgada relación amenaza todo lo que es cercano y querido para ellos, se dan cuenta que sus problemas puede que sólo estén empezando.</summary>
+    <link href="../8f6fb6ff%40book_0/4945c69f%40book_203.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Crepusculo [27 de diciembre de 2013]</title>
+    <id>calibre:book:201</id>
+    <updated>2015-03-27T01:53:45Z</updated>
+    <link href="../8f6fb6ff@book_0/a74ba7b3@book_201_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Stephenie%20Meyer/Crepusculo%20%28201%29/Crepusculo%20-%20Stephenie%20Meyer.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>Stephenie Meyer</name>
+      <uri>../8f6fb6ff@author_0/50457700@author_72_Page_1.xml</uri>
+    </author>
+    <published>2006-06-20T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Alfaguara</dcterms:publisher>
+    <category term="Juvenile Fiction" />
+    <category term="Love &amp; Romance" />
+    <category term="Infantil y Juvenil" />
+    <category term="Fantástico" />
+    <category term="Lang:es" />
+    <category term="Crepúsculo" />
+    <summary>Crepúsculo [1]: CríticasLlega a nuestro país el fenómeno de literatura fantástica que ha conmocionado el panorama de la literatura juvenil internacional y que seducirá a los lectores ávidos de una historia de amor apasionante, llena de sensualidad, aventura e intriga, con la que sentirse identificados y a la vez transportados a un mundo diferente. Cuando Isabella Swan se muda a Forks, una pequeña localidad del estado de Washington en la que nunca deja de llover, piensa que es lo más aburrido que...</summary>
+    <link href="../8f6fb6ff%40book_0/a74ba7b3%40book_201.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Cállame con un beso [26 de diciembre de 2013]</title>
+    <id>calibre:book:192</id>
+    <updated>2015-03-27T01:53:44Z</updated>
+    <link href="../8f6fb6ff@book_0/edc6f319@book_192_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Blue%20Jeans/Callame%20con%20un%20beso%20%28192%29/Callame%20con%20un%20beso%20-%20Blue%20Jeans.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>Blue Jeans</name>
+      <uri>../8f6fb6ff@author_0/a98baf5f@author_68_Page_1.xml</uri>
+    </author>
+    <published>2011-12-15T10:15:17Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Everest</dcterms:publisher>
+    <category term="Romántico" />
+    <category term="Relato" />
+    <category term="Children's Literature" />
+    <category term="General" />
+    <category term="Literary Criticism" />
+    <category term="Fiction" />
+    <category term="Lang:es" />
+    <category term="Canciones para Paula" />
+    <summary>Canciones para Paula [3]: ¡El libro que ya ha enamorado a más de 100.000 lectores regresa en navidades con su última entrega que nos hará reír y llorar más que nunca! "Cállame con un beso" resolverá todas nuestras dudas y promete ser el mejor de los tres libros. Será la culminación a todo un fenómeno social CPP protagonizado por todos vosotros. El tiempo pasa en la vida de Paula. Nuevas experiencias, nuevos amigos, nuevas dificultades... la distancia es mal rival para el amor. Tendrá que tomar d...</summary>
+    <link href="../8f6fb6ff%40book_0/edc6f319%40book_192.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>¿Sabes que te quiero? [26 de diciembre de 2013]</title>
+    <id>calibre:book:196</id>
+    <updated>2015-03-27T01:53:45Z</updated>
+    <link href="../8f6fb6ff@book_0/eaab3700@book_196_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Blue%20Jeans/_Sabes%20que%20te%20quiero_%20%28196%29/_Sabes%20que%20te%20quiero_%20-%20Blue%20Jeans.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>Blue Jeans</name>
+      <uri>../8f6fb6ff@author_0/a98baf5f@author_68_Page_1.xml</uri>
+    </author>
+    <published>2010-09-01T10:14:45Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Everest</dcterms:publisher>
+    <category term="Romantico" />
+    <category term="Infantil y Juvenil" />
+    <category term="Literatura y ficción" />
+    <category term="Ficción contemporánea" />
+    <category term="Romántica" />
+    <category term="Literatura y narrativa" />
+    <category term="Infantil-Juvenil" />
+    <category term="Lang:es" />
+    <category term="Canciones para Paula" />
+    <summary>Canciones para Paula [2]: Reseña del editorLos problemas que Paula intentó olvidar cuando se fue a París, siguen esperándole a su regreso y no le será nada fácil dejarlos pasar. Surgirán nuevos líos amorosos y desengaños, a los que se sumará un error imperdonable que pudo cometer la protagonista en la “ciudad del amor”. Pero no todo girará en torno a Paula, si no que el resto de “las Sugus” también adquirirán un mayor protagonismo en la novela, que se verá salpicada de mentiras, traiciones y pro...</summary>
+    <link href="../8f6fb6ff%40book_0/eaab3700%40book_196.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Canciones para Paula [26 de diciembre de 2013]</title>
+    <id>calibre:book:193</id>
+    <updated>2015-03-27T01:53:44Z</updated>
+    <link href="../8f6fb6ff@book_0/9ac1c38f@book_193_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Blue%20Jeans/Canciones%20para%20Paula%20%28193%29/Canciones%20para%20Paula%20-%20Blue%20Jeans.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>Blue Jeans</name>
+      <uri>../8f6fb6ff@author_0/a98baf5f@author_68_Page_1.xml</uri>
+    </author>
+    <published>2009-12-11T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Everest</dcterms:publisher>
+    <category term="Romántico" />
+    <category term="Infantil y Juvenil" />
+    <category term="Literatura y ficción" />
+    <category term="Ficción contemporánea" />
+    <category term="GusiX" />
+    <category term="Literatura y narrativa" />
+    <category term="Lang:es" />
+    <category term="Canciones para Paula" />
+    <summary>Canciones para Paula [1]: Reseña del editorPaula, una joven a punto de cumplir los 17, se ha citado con Ángel, un chico de 22 años al que ha conocido por internet. Está nerviosa e ilusionada. Los minutos pasan y el chico no llega, por lo que ella decide meterse en un café cercano. Allí tiene un divertido encuentro con Álex, un desconocido, que casualmente está leyendo el mismo libro que ella. Ambos son jóvenes y guapos... Álex tiene que irse precipitadamente porque tiene un compromiso. Cuando Pa...</summary>
+    <link href="../8f6fb6ff%40book_0/9ac1c38f%40book_193.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Divergente [25 de diciembre de 2013]</title>
+    <id>calibre:book:205</id>
+    <updated>2015-03-27T01:53:45Z</updated>
+    <link href="../8f6fb6ff@book_0/a02663aa@book_205_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Veronica%20Roth/Divergente%20%28205%29/Divergente%20-%20Veronica%20Roth.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>Veronica Roth</name>
+      <uri>../8f6fb6ff@author_0/27424796@author_73_Page_1.xml</uri>
+    </author>
+    <author>
+      <name>Pilar Ramírez Tello</name>
+      <uri>../8f6fb6ff@author_0/8b10b0b7@author_54_Page_1.xml</uri>
+    </author>
+    <published>2011-10-17T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Molino</dcterms:publisher>
+    <category term="Aventura" />
+    <category term="Fantasía; terror y ciencia ficción" />
+    <category term="Infantil y Juvenil" />
+    <category term="Romántico" />
+    <category term="Ciencia Ficción" />
+    <category term="Lang:es" />
+    <category term="Divergent" />
+    <summary>Divergent [1]: En el Chicago distópico de Beatrice Prior, la sociedad está dividida en cinco facciones, cada una de ellas dedicada a cultivar una virtud concreta: Verdad (los sinceros), Abnegación (los altruistas), Osadía (los valientes), Cordialidad (los pacíficos) y Erudición (los inteligentes). En una ceremonia anual, todos los chicos de dieciséis años deben decidir a qué facción dedicarán el resto de sus vidas. Beatrice tiene que elegir entre quedarse con su familia... y ser quien realmente ...</summary>
+    <link href="../8f6fb6ff%40book_0/a02663aa%40book_205.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Insurgente [25 de diciembre de 2013]</title>
+    <id>calibre:book:207</id>
+    <updated>2015-03-27T01:53:45Z</updated>
+    <link href="../8f6fb6ff@book_0/4e280286@book_207_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Veronica%20Roth/Insurgente%20%28207%29/Insurgente%20-%20Veronica%20Roth.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>Veronica Roth</name>
+      <uri>../8f6fb6ff@author_0/27424796@author_73_Page_1.xml</uri>
+    </author>
+    <author>
+      <name>Pilar Ramírez Tello</name>
+      <uri>../8f6fb6ff@author_0/8b10b0b7@author_54_Page_1.xml</uri>
+    </author>
+    <published>2012-09-05T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Molino</dcterms:publisher>
+    <category term="Literary Criticism" />
+    <category term="Children's Literature" />
+    <category term="Ciencia Ficción" />
+    <category term="Infantil y Juvenil" />
+    <category term="Romántico" />
+    <category term="Lang:es" />
+    <category term="Divergent" />
+    <summary>Divergent [2]: Reseña del editorUna sola opción puede transformarte, o te puede destruir, pero siempre tiene consecuencias. Con la oleada de disturbios en las distintas facciones, Tris deberá asegurarse de proteger a los que ama, mientras se enfrenta a inquietantes preguntas sobre la culpabilidad, el perdón, la identidad, la lealtad, la política y el amor. El día de la iniciación de Tris debería haber sido una celebración de la facción elegida, en cambio, el día terminó con un gran problema. El ...</summary>
+    <link href="../8f6fb6ff%40book_0/4e280286%40book_207.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Transfer: A Divergent Story [25 de diciembre de 2013]</title>
+    <id>calibre:book:208</id>
+    <updated>2015-03-27T01:53:45Z</updated>
+    <link href="../8f6fb6ff@book_0/de971f17@book_208_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Veronica%20Roth/The%20Transfer_%20A%20Divergent%20Story%20%28208%29/The%20Transfer_%20A%20Divergent%20Story%20-%20Veronica%20Roth.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>Veronica Roth</name>
+      <uri>../8f6fb6ff@author_0/27424796@author_73_Page_1.xml</uri>
+    </author>
+    <published>2013-09-02T10:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>HarperCollins UK</dcterms:publisher>
+    <category term="Juvenile Fiction" />
+    <category term="General" />
+    <category term="Action &amp; Adventure" />
+    <category term="Fantasy &amp; Magic" />
+    <category term="Love &amp; Romance" />
+    <category term="Lang:en" />
+    <category term="Four: A Divergent Story Collection" />
+    <summary>Four: A Divergent Story Collection [2]: More Four!Fans of the Divergent series by No. 1 New York Times bestselling author Veronica Roth will be thrilled by ‘The Transfer’, the first of four new short stories told from Four’s perspective. DIVERGENT – a major motion picture in 2014. This short story explores the world of the Divergent series through the eyes of the mysterious but charismatic Tobias Eaton, revealing previously unknown secrets of his personality and intriguing backstory. See how it ...</summary>
+    <link href="../8f6fb6ff%40book_0/de971f17%40book_208.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Allegiant [25 de diciembre de 2013]</title>
+    <id>calibre:book:204</id>
+    <updated>2015-03-27T01:53:45Z</updated>
+    <link href="../8f6fb6ff@book_0/d721533c@book_204_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Veronica%20Roth/Allegiant%20%28204%29/Allegiant%20-%20Veronica%20Roth.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>Veronica Roth</name>
+      <uri>../8f6fb6ff@author_0/27424796@author_73_Page_1.xml</uri>
+    </author>
+    <published>2013-10-21T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <category term="Juvenile Fiction" />
+    <category term="Dystopian" />
+    <category term="Love &amp; Romance" />
+    <category term="Social Issues" />
+    <category term="Values &amp; Virtues" />
+    <category term="YA" />
+    <category term="Distopía" />
+    <category term="Ciencia Ficción" />
+    <category term="Romance" />
+    <category term="Aventura" />
+    <category term="Lang:es" />
+    <category term="Divergent" />
+    <summary>Divergent [3]: What if your whole world was a lie?What if a single revelation—like a single choice—changed everything?What if love and loyalty made you do things you never expected?The explosive conclusion to Veronica Roth's #1 New York Times bestselling Divergent trilogy reveals the secrets of the dystopian world that has captivated millions of readers in Divergent and Insurgent.</summary>
+    <link href="../8f6fb6ff%40book_0/d721533c%40book_204.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Free Four - Tobias Tells the Divergent Knife-Throwing Scene [25 de diciembre de 2013]</title>
+    <id>calibre:book:206</id>
+    <updated>2015-03-27T01:53:45Z</updated>
+    <link href="../8f6fb6ff@book_0/392f3210@book_206_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Veronica%20Roth/Free%20Four%20-%20Tobias%20Tells%20the%20Divergent%20Knife-Throwing%20Scene%20%28206%29/Free%20Four%20-%20Tobias%20Tells%20the%20Divergent%20Kni%20-%20Veronica%20Roth.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>Veronica Roth</name>
+      <uri>../8f6fb6ff@author_0/27424796@author_73_Page_1.xml</uri>
+    </author>
+    <published>2013-09-25T10:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>HarperCollins UK</dcterms:publisher>
+    <category term="Juvenile Fiction" />
+    <category term="General" />
+    <category term="Fantasy &amp; Magic" />
+    <category term="Love &amp; Romance" />
+    <category term="Lang:en" />
+    <category term="Four: A Divergent Story Collection" />
+    <summary>Four: A Divergent Story Collection [3]: Fans of the Divergent series by No. 1 New York Times bestselling author Veronica Roth will be thrilled by the knife-throwing scene from Divergent, now told from Four’s perspective. This brief story explores the world of the Divergent series through the eyes of the mysterious but charismatic Tobias Eaton, revealing previously unknown facets of his personality, backstory and relationships.</summary>
+    <link href="../8f6fb6ff%40book_0/392f3210%40book_206.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Divergent [25 de diciembre de 2013]</title>
+    <id>calibre:book:199</id>
+    <updated>2015-03-27T01:53:45Z</updated>
+    <link href="../8f6fb6ff@book_0/7a142a91@book_199_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Veronica%20Roth/Divergent%20%28199%29/Divergent%20-%20Veronica%20Roth.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>Veronica Roth</name>
+      <uri>../8f6fb6ff@author_0/27424796@author_73_Page_1.xml</uri>
+    </author>
+    <published>2011-05-02T02:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Harper Collins, Inc.</dcterms:publisher>
+    <category term="Lang:en" />
+    <link href="../8f6fb6ff%40book_0/7a142a91%40book_199.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Esto tiene arreglo [20 de mayo de 2013]</title>
+    <id>calibre:book:145</id>
+    <updated>2015-03-27T01:53:42Z</updated>
+    <link href="../8f6fb6ff@book_0/c60c18f7@book_145_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Alberto%20Garzon%20Espinosa/Esto%20tiene%20arreglo%20%28145%29/Esto%20tiene%20arreglo%20-%20Alberto%20Garzon%20Espinosa.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>Alberto Garzón Espinosa</name>
+      <uri>../8f6fb6ff@author_0/956645ef@author_40_Page_1.xml</uri>
+    </author>
+    <published>2012-03-15T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>LIBRANDA PLANETA</dcterms:publisher>
+    <category term="Lang:es" />
+    <link href="../8f6fb6ff%40book_0/c60c18f7%40book_145.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>El evangelio según Jesucristo [20 de mayo de 2013]</title>
+    <id>calibre:book:144</id>
+    <updated>2015-03-27T01:53:42Z</updated>
+    <link href="../8f6fb6ff@book_0/b10b2861@book_144_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Jose%20Saramago/El%20evangelio%20segun%20Jesucristo%20%28144%29/El%20evangelio%20segun%20Jesucristo%20-%20Jose%20Saramago.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>José Saramago</name>
+      <uri>../8f6fb6ff@author_0/a3fb6b8c@author_39_Page_1.xml</uri>
+    </author>
+    <published>1990-12-31T04:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <category term="Lang:es" />
+    <summary>En palabras del propio autor, El Evangelio según Jesucristo "es como una relectura de los evangelios, es como un viaje al origen de una religión". Narrada en tercera persona y centrada de modo particular en las etapas y zonas de la vida de Jesucristo acerca de las que procuran menos información los textos evangélicos, la presente novela ha sido acogida del modo más favorable por la crítica en virtud de su vigor y pujanza literaria.</summary>
+    <link href="../8f6fb6ff%40book_0/b10b2861%40book_144.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Caín [20 de mayo de 2013]</title>
+    <id>calibre:book:143</id>
+    <updated>2015-03-27T01:53:42Z</updated>
+    <link href="../8f6fb6ff@book_0/2f6fbdc2@book_143_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Jose%20Saramago/Cain%20%28143%29/Cain%20-%20Jose%20Saramago.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>José Saramago</name>
+      <uri>../8f6fb6ff@author_0/a3fb6b8c@author_39_Page_1.xml</uri>
+    </author>
+    <published>2008-12-31T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <category term="Narrativa" />
+    <category term="Lang:es" />
+    <summary>Qué diablo de Dios es éste que, para enaltecer a Abel, desprecia a Caín. Si en El Evangelio según Jesucristo José Saramago nos dio su visión del Nuevo Testamento, en Caín regresa a los primeros libros de la Biblia. En un itinerario heterodoxo, recorre ciudades decadentes y establos, palacios de tiranos y campos de batalla de la mano de los principales protagonistas del Antiguo Testamento, imprimiéndole la música y el humor refinado que caracterizan su obra. Caín pone de manifiesto lo que hay de ...</summary>
+    <link href="../8f6fb6ff%40book_0/2f6fbdc2%40book_143.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Nadie es más que nadie [20 de mayo de 2013]</title>
+    <id>calibre:book:142</id>
+    <updated>2015-03-27T01:53:42Z</updated>
+    <link href="../8f6fb6ff@book_0/58688d54@book_142_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Miguel%20Angel%20Revilla/Nadie%20es%20mas%20que%20nadie%20%28142%29/Nadie%20es%20mas%20que%20nadie%20-%20Miguel%20Angel%20Revilla.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>Miguel Ángel Revilla</name>
+      <uri>../8f6fb6ff@author_0/d4fc5b1a@author_38_Page_1.xml</uri>
+    </author>
+    <published>2012-04-02T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <category term="Biografía" />
+    <category term="Política" />
+    <category term="Lang:es" />
+    <summary>El muchacho listucu que en los años cincuenta pastoreaba ovejas en las laderas de Peña Labra se convertiría en 2003 en presidente de Cantabria. Esta es su historia. Y nos la cuenta con ese estilo único que lo ha hecho popular y querido, con sentido del humor y naturalidad. Miguel Ángel Revilla nos dibuja una España de penuria y esfuerzo que ya no existe. Y relata con viveza cómo, con tesón, animado por el amor a la tierra que lo vio nacer, consiguió alcanzar las más altas responsabilidades. La s...</summary>
+    <link href="../8f6fb6ff%40book_0/58688d54%40book_142.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>
+

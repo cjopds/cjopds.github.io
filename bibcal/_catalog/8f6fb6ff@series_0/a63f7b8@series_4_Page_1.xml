@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:opds="http://opds-spec.org/2010/catalog">
+  <title>The Maze Runner</title>
+  <id>Calibre2opds::serieslistseries:4</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./a63f7b8%40series_4_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="The Maze Runner" />
+  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Biblioteca de Calibre de CJ" />
+  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Biblioteca de Calibre de CJ" />
+  <link href="../8f6fb6ff%40serieslist/9b9c2e2f%40serieslist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Series:" />
+  <entry>
+    <title>0,5 - The Kill Order</title>
+    <id>calibre:book:159</id>
+    <updated>2015-03-27T01:53:42Z</updated>
+    <link href="../8f6fb6ff@book_0/d6a1659d@book_159_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/James%20Dashner/The%20Kill%20Order%20%28159%29/The%20Kill%20Order%20-%20James%20Dashner.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>James Dashner</name>
+      <uri>../8f6fb6ff@author_0/e50cb160@author_45_Page_1.xml</uri>
+    </author>
+    <published>2012-08-14T04:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Random House</dcterms:publisher>
+    <category term="Lang:en" />
+    <category term="The Maze Runner" />
+    <summary>The Maze Runner [0,50]: The prequel to the New York Times bestselling Maze Runner series.Before WICKED was formed, before the Glade was built, before Thomas entered the Maze, sun flares hit the earth and mankind fell to disease.Mark and Trina were there when it happened, and they survived. But surviving the sun flares was easy compared to what came next.Now a disease of rage and lunacy races across the eastern United States, and there’s something suspicious about its origin. Worse yet, it’s muta...</summary>
+    <link href="../8f6fb6ff%40book_0/d6a1659d%40book_159.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>0,6 - The Maze Runner Files (Maze Runner Trilogy)</title>
+    <id>calibre:book:160</id>
+    <updated>2015-03-27T01:53:42Z</updated>
+    <link href="../8f6fb6ff@book_0/84508efa@book_160_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/James%20Dashner/The%20Maze%20Runner%20Files%20%28Maze%20Runner%20Trilogy%29%20%28160%29/The%20Maze%20Runner%20Files%20%28Maze%20Runner%20Trilogy%20-%20James%20Dashner.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>James Dashner</name>
+      <uri>../8f6fb6ff@author_0/e50cb160@author_45_Page_1.xml</uri>
+    </author>
+    <published>2013-08-12T04:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Random House Children's Books</dcterms:publisher>
+    <category term="Lang:en" />
+    <category term="The Maze Runner" />
+    <summary>The Maze Runner [0,60]:</summary>
+    <link href="../8f6fb6ff%40book_0/84508efa%40book_160.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>1 - The Maze Runner</title>
+    <id>calibre:book:158</id>
+    <updated>2015-03-27T01:53:42Z</updated>
+    <link href="../8f6fb6ff@book_0/a1a6550b@book_158_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/James%20Dashner/The%20Maze%20Runner%20%28158%29/The%20Maze%20Runner%20-%20James%20Dashner.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>James Dashner</name>
+      <uri>../8f6fb6ff@author_0/e50cb160@author_45_Page_1.xml</uri>
+    </author>
+    <published>2009-10-28T02:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Random House Children's Books</dcterms:publisher>
+    <category term="Lang:en" />
+    <category term="The Maze Runner" />
+    <summary>The Maze Runner [1]:</summary>
+    <link href="../8f6fb6ff%40book_0/a1a6550b%40book_158.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>2 - The Scorch Trials</title>
+    <id>calibre:book:155</id>
+    <updated>2015-03-27T01:53:42Z</updated>
+    <link href="../8f6fb6ff@book_0/df1729b6@book_155_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/James%20Dashner/The%20Scorch%20Trials%20%28155%29/The%20Scorch%20Trials%20-%20James%20Dashner.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>James Dashner</name>
+      <uri>../8f6fb6ff@author_0/e50cb160@author_45_Page_1.xml</uri>
+    </author>
+    <published>2010-10-12T03:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Random House Children's Books</dcterms:publisher>
+    <category term="Lang:en" />
+    <category term="The Maze Runner" />
+    <summary>The Maze Runner [2]:</summary>
+    <link href="../8f6fb6ff%40book_0/df1729b6%40book_155.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>2,5 - Thomas's First Memory of the Flare</title>
+    <id>calibre:book:157</id>
+    <updated>2015-03-27T01:53:42Z</updated>
+    <link href="../8f6fb6ff@book_0/3119489a@book_157_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/James%20Dashner/Thomas%27s%20First%20Memory%20of%20the%20Flare%20%28157%29/Thomas%27s%20First%20Memory%20of%20the%20Flare%20-%20James%20Dashner.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>James Dashner</name>
+      <uri>../8f6fb6ff@author_0/e50cb160@author_45_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <category term="Lang:en" />
+    <category term="The Maze Runner" />
+    <summary>The Maze Runner [2,50]:</summary>
+    <link href="../8f6fb6ff%40book_0/3119489a%40book_157.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>3 - The Death Cure</title>
+    <id>calibre:book:156</id>
+    <updated>2015-03-27T01:53:42Z</updated>
+    <link href="../8f6fb6ff@book_0/461e780c@book_156_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/James%20Dashner/The%20Death%20Cure%20%28156%29/The%20Death%20Cure%20-%20James%20Dashner.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>James Dashner</name>
+      <uri>../8f6fb6ff@author_0/e50cb160@author_45_Page_1.xml</uri>
+    </author>
+    <published>2012-07-19T10:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Delacorte</dcterms:publisher>
+    <category term="Lang:en" />
+    <category term="The Maze Runner" />
+    <summary>The Maze Runner [3]:</summary>
+    <link href="../8f6fb6ff%40book_0/461e780c%40book_156.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>
+

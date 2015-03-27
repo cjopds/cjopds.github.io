@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:opds="http://opds-spec.org/2010/catalog">
+  <title>Wyoming, El Gran</title>
+  <id>Calibre2opds:author:56</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./651ed19b%40author_56_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Wyoming, El Gran" />
+  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Biblioteca de Calibre de CJ" />
+  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Biblioteca de Calibre de CJ" />
+  <link href="../8f6fb6ff%40authorlist/e8e4356e%40authorlist_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <entry>
+    <title>No estamos locos</title>
+    <id>calibre:book:172</id>
+    <updated>2015-03-27T01:53:43Z</updated>
+    <link href="../8f6fb6ff@book_0/7345de97@book_172_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/El%20Gran%20Wyoming/No%20estamos%20locos%20%28172%29/No%20estamos%20locos%20-%20El%20Gran%20Wyoming.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>El Gran Wyoming</name>
+      <uri>../8f6fb6ff@author_0/651ed19b@author_56_Page_1.xml</uri>
+    </author>
+    <published>2013-11-18T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Editorial Planeta</dcterms:publisher>
+    <category term="Ensayo" />
+    <category term="Ciencias sociales" />
+    <category term="Lang:es" />
+    <summary>Descripción del productoEste libro es el golpe que estremecerá a todos los mangantes y enemigos del progreso en general. Un fantasma recorre La Moncloa, La Zarzuela, Bruselas, el Vaticano y el Bundesbank: la amenaza de un médico que sabe diagnosticar, un maestro de la comunicación que sabe explicar sus diagnósticos. La obra demoledora de un genio que no utiliza más armas que la palabra, ahora que todavía le acompaña la memoria, y cierta ayuda de la Wikipedia.- Un relato lleno de humor, ironía y ...</summary>
+    <link href="../8f6fb6ff%40book_0/7345de97%40book_172.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>
+

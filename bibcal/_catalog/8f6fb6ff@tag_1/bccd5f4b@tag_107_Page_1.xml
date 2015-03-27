@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:opds="http://opds-spec.org/2010/catalog">
+  <title>Fantasía. Ciencia ficción</title>
+  <id>Calibre2opds:taglist:F:107</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./bccd5f4b%40tag_107_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Fantasía. Ciencia ficción" />
+  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Biblioteca de Calibre de CJ" />
+  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Biblioteca de Calibre de CJ" />
+  <link href="../8f6fb6ff%40taglist/87d7be0%40taglist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="etiquetas" />
+  <link href="../8f6fb6ff%40taglist/87d7be0%40taglist_F_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Etiquetas que empiezan por F" />
+  <entry>
+    <title>El corredor del laberinto</title>
+    <id>calibre:book:151</id>
+    <updated>2015-03-27T01:53:42Z</updated>
+    <link href="../8f6fb6ff@book_0/d87aedaf@book_151_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/James%20Dashner/El%20corredor%20del%20laberinto%20%28151%29/El%20corredor%20del%20laberinto%20-%20James%20Dashner.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>James Dashner</name>
+      <uri>../8f6fb6ff@author_0/e50cb160@author_45_Page_1.xml</uri>
+    </author>
+    <published>2010-11-01T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Nocturna Ediciones</dcterms:publisher>
+    <category term="Juvenile Nonfiction" />
+    <category term="Language Arts" />
+    <category term="Composition &amp; Creative Writing" />
+    <category term="Fantasía. Ciencia ficción" />
+    <category term="Lang:es" />
+    <category term="El corredor del laberinto" />
+    <summary>El corredor del laberinto [1]: «Bienvenido al bosque. Verás que una vez a la semana, siempre el mismo día y a la misma hora, nos llegan víveres. Una vez al mes, siempre el mismo día y a la misma hora, aparece un nuevo chico, como tú. Siempre un chico. Como ves, este lugar está cercado por muros de piedra? Has de saber que estos muros se abren por la mañana y se cierran por la noche, siempre a la hora exacta. Al otro lado se encuentra el laberinto. De noche, las puertas se cierran? y, si quieres ...</summary>
+    <link href="../8f6fb6ff%40book_0/d87aedaf%40book_151.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>
+

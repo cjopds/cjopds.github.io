@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Insurgente</title>
+  <id>urn:book:8e50e8fc-566f-4060-b115-fad46b2d8bb5</id>
+  <updated>2015-03-27T01:53:45Z</updated>
+  <link href="./4e280286%40book_207.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Insurgente" />
+  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Biblioteca de Calibre de CJ" />
+  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Biblioteca de Calibre de CJ" />
+  <link href="../8f6fb6ff%40authorlist/e8e4356e%40authorlist_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../8f6fb6ff%40author_0/8b10b0b7%40author_54_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Ramírez Tello, Pilar" />
+  <link href="4e280286@book_207_cover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../8f6fb6ff@book_0/4e280286@book_207_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Veronica%20Roth/Insurgente%20%28207%29/Insurgente%20-%20Veronica%20Roth.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+  <author>
+    <name>Veronica Roth</name>
+    <uri>../8f6fb6ff@author_0/27424796@author_73_Page_1.xml</uri>
+  </author>
+  <author>
+    <name>Pilar Ramírez Tello</name>
+    <uri>../8f6fb6ff@author_0/8b10b0b7@author_54_Page_1.xml</uri>
+  </author>
+  <published>2012-09-05T10:00:00Z</published>
+  <dcterms:language>es</dcterms:language>
+  <dcterms:publisher>Molino</dcterms:publisher>
+  <category term="Literary Criticism" />
+  <category term="Children's Literature" />
+  <category term="Ciencia Ficción" />
+  <category term="Infantil y Juvenil" />
+  <category term="Romántico" />
+  <category term="Lang:es" />
+  <category term="Divergent" />
+  <content type="text/html">
+    <p>
+      <strong>Series:</strong>
+      Libro 2 en la Divergent serie
+    </p>
+    <p>
+      <strong>Rating:</strong>
+      ****
+    </p>
+    <p>
+      <strong>Etiquetas:</strong>
+      Literary Criticism, Children's Literature, Ciencia Ficción, Infantil y Juvenil, Romántico, Lang:es
+    </p>
+    <p>
+      <strong>Published:</strong>
+      5 de septiembre de 2012
+    </p>
+    <p>
+      <strong>Sumario:</strong>
+    </p>
+    <div xmlns="">
+      <h3>Reseña del editor</h3>
+      <p>Una sola opción puede transformarte, o te puede
+      destruir, pero siempre tiene consecuencias. Con la oleada de
+      disturbios en las distintas facciones, Tris deberá
+      asegurarse de proteger a los que ama, mientras se enfrenta a
+      inquietantes preguntas sobre la culpabilidad, el perdón,
+      la identidad, la lealtad, la política y el amor. El
+      día de la iniciación de Tris debería haber
+      sido una celebración de la facción elegida, en
+      cambio, el día terminó con un gran problema. El
+      conflicto entre las facciones se intensifica y las
+      ideologías se enfrentan. En tiempos de guerra, se eligen
+      líderes y los secretos afloran… cada decisión
+      tiene mayores consecuencias más potentes.</p>
+      <h3>Biografía del autor</h3>
+      <p>Se graduó en Escritura Creativa por la Northwestern
+      University. Durante sus años de estudiante, a menudo
+      prefería trabajar en la historia que después se
+      convertitía en Divergente antes que en sus deberes
+      académicos. Sin duda, fue una elección que la
+      transformó. Ahora se dedica a la escritura a tiempo
+      completo y vive cerca de Chicago.</p>
+    </div>
+  </content>
+  <link href="../8f6fb6ff%40series_0/3b1b43bb%40series_11_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Libro 2 en la Divergent serie" />
+  <link href="../8f6fb6ff%40author_0/27424796%40author_73_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Libros de Veronica Roth" />
+  <link href="../8f6fb6ff%40author_0/8b10b0b7%40author_54_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Libros de Pilar Ramírez Tello" />
+  <link href="http://www.goodreads.com/book/title/Insurgente" type="text/html" rel="related" title="Este libro en Goodreads" />
+  <link href="http://es.wikipedia.org/wiki/Insurgente" type="text/html" rel="related" title="Este libro en Wikipedia" />
+  <link href="http://www.librarything.com/title/Insurgente%20Veronica%20Roth" type="text/html" rel="related" title="Este libro en LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=Insurgente&amp;field-author=Veronica%20Roth" type="text/html" rel="related" title="Este libro en Amazon" />
+  <link href="http://www.goodreads.com/book/author/Veronica%20Roth" type="text/html" rel="related" title="Veronica Roth en Goodreads" />
+  <link href="http://www.goodreads.com/book/author/Pilar%20Ram%C3%ADrez%20Tello" type="text/html" rel="related" title="Pilar Ramírez Tello en Goodreads" />
+  <link href="http://es.wikipedia.org/wiki/Veronica%20Roth" type="text/html" rel="related" title="Veronica Roth en Wikipedia" />
+  <link href="http://es.wikipedia.org/wiki/Pilar%20Ram%C3%ADrez%20Tello" type="text/html" rel="related" title="Pilar Ramírez Tello en Wikipedia" />
+  <link href="http://www.librarything.com/author/RothVeronica" type="text/html" rel="related" title="Veronica Roth en LibraryThing" />
+  <link href="http://www.librarything.com/author/Ram%C3%ADrezTelloPilar" type="text/html" rel="related" title="Pilar Ramírez Tello en LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Veronica%20Roth" type="text/html" rel="related" title="Veronica Roth en Amazon" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Pilar%20Ram%C3%ADrez%20Tello" type="text/html" rel="related" title="Pilar Ramírez Tello en Amazon" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Veronica%20Roth" type="text/html" rel="related" title="Veronica Roth en ISFDB" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Pilar%20Ram%C3%ADrez%20Tello" type="text/html" rel="related" title="Pilar Ramírez Tello en ISFDB" />
+</entry>
+

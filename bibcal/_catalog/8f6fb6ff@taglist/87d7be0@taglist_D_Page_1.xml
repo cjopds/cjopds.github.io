@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:opds="http://opds-spec.org/2010/catalog">
+  <title>Etiquetas que empiezan por D</title>
+  <id>Calibre2opds:taglist:D</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./87d7be0%40taglist_D_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Etiquetas que empiezan por D" />
+  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Biblioteca de Calibre de CJ" />
+  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Biblioteca de Calibre de CJ" />
+  <link href="./87d7be0%40taglist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="etiquetas" />
+  <entry>
+    <title>Death &amp; Dying</title>
+    <id>Calibre2opds:taglist:D:134</id>
+    <content type="text">2 libros</content>
+    <link href="../8f6fb6ff%40tag_1/ee95d32%40tag_134_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../tags.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Didáctico</title>
+    <id>Calibre2opds:taglist:D:185</id>
+    <content type="text">El principito</content>
+    <link href="../8f6fb6ff%40tag_1/9a1ab46f%40tag_185_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../tags.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Distopía</title>
+    <id>Calibre2opds:taglist:D:160</id>
+    <content type="text">Allegiant</content>
+    <link href="../8f6fb6ff%40tag_1/74f36d6e%40tag_160_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../tags.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Divulgación</title>
+    <id>Calibre2opds:taglist:D:141</id>
+    <content type="text">Gente Tóxica</content>
+    <link href="../8f6fb6ff%40tag_1/31c23f7a%40tag_141_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../tags.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Drama</title>
+    <id>Calibre2opds:taglist:D:111</id>
+    <content type="text">13 libros</content>
+    <link href="../8f6fb6ff%40tag_1/4cb5cb3f%40tag_111_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../tags.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Dystopia</title>
+    <id>Calibre2opds:taglist:D:178</id>
+    <content type="text">Under the Never Sky</content>
+    <link href="../8f6fb6ff%40tag_1/6333d41d%40tag_178_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../tags.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Dystopian</title>
+    <id>Calibre2opds:taglist:D:157</id>
+    <content type="text">2 libros</content>
+    <link href="../8f6fb6ff%40tag_1/c1baab0e%40tag_157_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../tags.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+</feed>
+

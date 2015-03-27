@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:opds="http://opds-spec.org/2010/catalog">
+  <title>Libros que empiezan por F</title>
+  <id>Calibre2opds:allbooks:F</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./c67a4b73%40allbooks_F_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Libros que empiezan por F" />
+  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Biblioteca de Calibre de CJ" />
+  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Biblioteca de Calibre de CJ" />
+  <link href="./c67a4b73%40allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Todos los libros" />
+  <entry>
+    <title>Fahrenheit 451</title>
+    <id>calibre:book:243</id>
+    <updated>2015-03-27T01:53:51Z</updated>
+    <link href="../8f6fb6ff@book_0/2d29039b@book_243_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Ray%20Bradbury/Fahrenheit%20451%20%28243%29/Fahrenheit%20451%20-%20Ray%20Bradbury.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>Ray Bradbury</name>
+      <uri>../8f6fb6ff@author_0/b9c16a18@author_93_Page_1.xml</uri>
+    </author>
+    <published>1952-12-31T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>ePubLibre</dcterms:publisher>
+    <category term="Relato" />
+    <category term="Ciencia Ficción" />
+    <category term="Lang:es" />
+    <summary>Fahrenheit 451: la temperatura a la que el papel se enciende y arde. Guy Montag es un bombero y el trabajo de un bombero es quemar libros, que están prohibidos porque son causa de discordia y sufrimiento. El Sabueso Mecánico del Departamento de Incendios, armado con una letal inyección hipodérmica, escoltado por helicópteros, está preparado para rastrear a los disidentes que aún conservan y leen libros. Como 1984, de George Orwell, como Un mundo feliz, de Aldous Huxley, Fahrenheit 451 describe u...</summary>
+    <link href="../8f6fb6ff%40book_0/2d29039b%40book_243.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Fault in Our Stars</title>
+    <id>calibre:book:175</id>
+    <updated>2015-03-27T01:53:42Z</updated>
+    <link href="../8f6fb6ff@book_0/ed214b34@book_175_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/John%20Green/The%20Fault%20in%20Our%20Stars%20%28175%29/The%20Fault%20in%20Our%20Stars%20-%20John%20Green.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>John Green</name>
+      <uri>../8f6fb6ff@author_0/7c05e0da@author_46_Page_1.xml</uri>
+    </author>
+    <published>2012-01-09T05:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Dutton Juvenile</dcterms:publisher>
+    <category term="Juvenile Fiction" />
+    <category term="Social Issues" />
+    <category term="Death &amp; Dying" />
+    <category term="Lang:en" />
+    <summary>Amazon.com ReviewAmazon Best Books of the Month, January 2012: In The Fault in Our Stars, John Green has created a soulful novel that tackles big subjects--life, death, love--with the perfect blend of levity and heart-swelling emotion. Hazel is sixteen, with terminal cancer, when she meets Augustus at her kids-with-cancer support group. The two are kindred spirits, sharing an irreverent sense of humor and immense charm, and watching them fall in love even as they face universal questions of the ...</summary>
+    <link href="../8f6fb6ff%40book_0/ed214b34%40book_175.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Free Four - Tobias Tells the Divergent Knife-Throwing Scene</title>
+    <id>calibre:book:206</id>
+    <updated>2015-03-27T01:53:45Z</updated>
+    <link href="../8f6fb6ff@book_0/392f3210@book_206_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Veronica%20Roth/Free%20Four%20-%20Tobias%20Tells%20the%20Divergent%20Knife-Throwing%20Scene%20%28206%29/Free%20Four%20-%20Tobias%20Tells%20the%20Divergent%20Kni%20-%20Veronica%20Roth.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>Veronica Roth</name>
+      <uri>../8f6fb6ff@author_0/27424796@author_73_Page_1.xml</uri>
+    </author>
+    <published>2013-09-25T10:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>HarperCollins UK</dcterms:publisher>
+    <category term="Juvenile Fiction" />
+    <category term="General" />
+    <category term="Fantasy &amp; Magic" />
+    <category term="Love &amp; Romance" />
+    <category term="Lang:en" />
+    <category term="Four: A Divergent Story Collection" />
+    <summary>Four: A Divergent Story Collection [3]: Fans of the Divergent series by No. 1 New York Times bestselling author Veronica Roth will be thrilled by the knife-throwing scene from Divergent, now told from Four’s perspective. This brief story explores the world of the Divergent series through the eyes of the mysterious but charismatic Tobias Eaton, revealing previously unknown facets of his personality, backstory and relationships.</summary>
+    <link href="../8f6fb6ff%40book_0/392f3210%40book_206.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>La fierecilla domada</title>
+    <id>calibre:book:264</id>
+    <updated>2015-03-27T01:53:52Z</updated>
+    <link href="../8f6fb6ff@book_0/817bf4ba@book_264_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/William%20Shakespeare/La%20fierecilla%20domada%20%28264%29/La%20fierecilla%20domada%20-%20William%20Shakespeare.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>William Shakespeare</name>
+      <uri>../8f6fb6ff@author_0/beacae01@author_97_Page_1.xml</uri>
+    </author>
+    <published>2015-01-25T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>ePubLibre</dcterms:publisher>
+    <category term="Teatro" />
+    <category term="Humor" />
+    <category term="Lang:es" />
+    <summary>La obra se basa, en principio, en el carácter díscolo y malhumorado de Catalina Minola, mujer que ahuyenta, no pocas veces, a golpes a cuantos pretendientes se interesan por ella ante su padre. El asunto no tendría mayor transcendencia si no fuese porque, según la costumbre, el padre de Catalina, el rico mercader Bautista Minola, se niega a entregar en matrimonio a su hija menor, Blanca, hasta que no haya casado a la mayor; para desconsuelo de los ambiciosos aspirantes a su mano, Hortensio, Grem...</summary>
+    <link href="../8f6fb6ff%40book_0/817bf4ba%40book_264.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>
+

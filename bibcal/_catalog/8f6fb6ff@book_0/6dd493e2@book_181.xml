@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>La maldición del titán</title>
+  <id>urn:book:456c71b0-17db-4a51-9b20-e94f2d88ee48</id>
+  <updated>2015-03-27T01:53:43Z</updated>
+  <link href="./6dd493e2%40book_181.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="La maldición del titán" />
+  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Biblioteca de Calibre de CJ" />
+  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Biblioteca de Calibre de CJ" />
+  <link href="../8f6fb6ff%40authorlist/e8e4356e%40authorlist_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../8f6fb6ff%40author_0/82a6fc9c%40author_58_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Riordan, Rick" />
+  <link href="6dd493e2@book_181_cover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../8f6fb6ff@book_0/6dd493e2@book_181_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Rick%20Riordan/La%20maldicion%20del%20titan%20%28181%29/La%20maldicion%20del%20titan%20-%20Rick%20Riordan.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+  <author>
+    <name>Rick Riordan</name>
+    <uri>../8f6fb6ff@author_0/82a6fc9c@author_58_Page_1.xml</uri>
+  </author>
+  <published>2007-05-10T10:00:00Z</published>
+  <dcterms:language>es</dcterms:language>
+  <dcterms:publisher>Salamandra</dcterms:publisher>
+  <category term="Literatura y narrativa" />
+  <category term="Infantil y Juvenil" />
+  <category term="Fantástico" />
+  <category term="Lang:es" />
+  <category term="Percy Jackson y los dioses del Olimpo" />
+  <content type="text/html">
+    <p>
+      <strong>Series:</strong>
+      Libro 3 en la Percy Jackson y los dioses del Olimpo serie
+    </p>
+    <p>
+      <strong>Rating:</strong>
+      ****
+    </p>
+    <p>
+      <strong>Etiquetas:</strong>
+      Literatura y narrativa, Infantil y Juvenil, Fantástico, Lang:es
+    </p>
+    <p>
+      <strong>Published:</strong>
+      10 de mayo de 2007
+    </p>
+    <p>
+      <strong>Sumario:</strong>
+    </p>
+    <p xmlns="" class="description">Cuando Percy Jackson recibe una llamada
+    urgente de auxilio de su amigo Grover, de inmediato se prepara
+    para la batalla. Sabe que tendrá sus poderosos aliados
+    semidióses a su lado, su fiel espada de bronce "Riptide",
+    y... un viaje de su mamá. Los semidioses corren al rescate
+    para encontrar que Grover ha hecho un descubrimiento
+    importante: dos mestizos poderosos cuya filiación se
+    desconoce. Pero eso no es todo lo que les espera. El señor
+    titán Kronos ha elaborado su plan aún más
+    traicionero, y los jóvenes héroes acaban de caer como
+    presas. No son los únicos en peligro. Un antiguo monstruo
+    se ha producido - un rumor que a ser tan poderoso podría
+    destruir al Olympo - y Artemisa, la diosa que sólo
+    podría saber cómo realizar un seguimiento, con algo
+    que falta. Ahora, Percy y sus amigos, junto con los cazadores
+    de Artemisa, sólo tienen una semana para encontrar la
+    diosa secuestrada y resolver el misterio del monstruo que
+    estaba buscando.En el camino, deben enfrentar su desafío
+    más peligroso: la profecía de refrigeración de
+    la maldición de Titán.</p>
+  </content>
+  <link href="../8f6fb6ff%40series_0/936aa602%40series_7_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Libro 3 en la Percy Jackson y los dioses del Olimpo serie" />
+  <link href="../8f6fb6ff%40author_0/82a6fc9c%40author_58_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Libros de Rick Riordan" />
+  <link href="http://www.goodreads.com/book/title/La%20maldici%C3%B3n%20del%20tit%C3%A1n" type="text/html" rel="related" title="Este libro en Goodreads" />
+  <link href="http://es.wikipedia.org/wiki/La%20maldici%C3%B3n%20del%20tit%C3%A1n" type="text/html" rel="related" title="Este libro en Wikipedia" />
+  <link href="http://www.librarything.com/title/La%20maldici%C3%B3n%20del%20tit%C3%A1n%20Rick%20Riordan" type="text/html" rel="related" title="Este libro en LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=La%20maldici%C3%B3n%20del%20tit%C3%A1n&amp;field-author=Rick%20Riordan" type="text/html" rel="related" title="Este libro en Amazon" />
+  <link href="http://www.goodreads.com/book/author/Rick%20Riordan" type="text/html" rel="related" title="Rick Riordan en Goodreads" />
+  <link href="http://es.wikipedia.org/wiki/Rick%20Riordan" type="text/html" rel="related" title="Rick Riordan en Wikipedia" />
+  <link href="http://www.librarything.com/author/RiordanRick" type="text/html" rel="related" title="Rick Riordan en LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Rick%20Riordan" type="text/html" rel="related" title="Rick Riordan en Amazon" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Rick%20Riordan" type="text/html" rel="related" title="Rick Riordan en ISFDB" />
+</entry>
+

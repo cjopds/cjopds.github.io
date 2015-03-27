@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:opds="http://opds-spec.org/2010/catalog">
+  <title>Baroja, Pío</title>
+  <id>Calibre2opds:author:75</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./ce21e2a3%40author_75_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Baroja, Pío" />
+  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Biblioteca de Calibre de CJ" />
+  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Biblioteca de Calibre de CJ" />
+  <link href="../8f6fb6ff%40authorlist/e8e4356e%40authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <entry>
+    <title>El árbol de la ciencia</title>
+    <id>calibre:book:209</id>
+    <updated>2015-03-27T01:53:46Z</updated>
+    <link href="../8f6fb6ff@book_0/a9902f81@book_209_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Pio%20Baroja/El%20arbol%20de%20la%20ciencia%20%28209%29/El%20arbol%20de%20la%20ciencia%20-%20Pio%20Baroja.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>Pío Baroja</name>
+      <uri>../8f6fb6ff@author_0/ce21e2a3@author_75_Page_1.xml</uri>
+    </author>
+    <published>1911-04-08T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>espaebook</dcterms:publisher>
+    <category term="Novela" />
+    <category term="Lang:es" />
+    <summary>Se considera que “El árbol de la ciencia” es una de las obras capitales de Baroja. La escribió en época de plenitud completa y apareció en la biblioteca "Renacimiento", en 1911. La vida de Andrés Hurtado, como estudiante de Medicina en el Madrid de finales del siglo XIX, es, en gran parte, la vida del novelista, que, en general, no conservaba muy buenos recuerdos de sus profesores. Los retratos que aparecen al principio de algunos de ellos, pueden compararse con los que, mucho después, trazó en ...</summary>
+    <link href="../8f6fb6ff%40book_0/a9902f81%40book_209.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>
+

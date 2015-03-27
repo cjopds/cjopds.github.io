@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Mucho ruido y pocas nueces</title>
+  <id>urn:book:af01e2ee-1fa7-4b38-b128-f0b83b466d91</id>
+  <updated>2015-03-27T01:53:52Z</updated>
+  <link href="./6818518f%40book_262.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Mucho ruido y pocas nueces" />
+  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Biblioteca de Calibre de CJ" />
+  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Biblioteca de Calibre de CJ" />
+  <link href="../8f6fb6ff%40authorlist/e8e4356e%40authorlist_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="6818518f@book_262_cover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../8f6fb6ff@book_0/6818518f@book_262_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/William%20Shakespeare/Mucho%20ruido%20y%20pocas%20nueces%20%28262%29/Mucho%20ruido%20y%20pocas%20nueces%20-%20William%20Shakespeare.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+  <author>
+    <name>William Shakespeare</name>
+    <uri>../8f6fb6ff@author_0/beacae01@author_97_Page_1.xml</uri>
+  </author>
+  <published>1597-12-31T11:00:00Z</published>
+  <dcterms:language>es</dcterms:language>
+  <dcterms:publisher>ePubLibre</dcterms:publisher>
+  <category term="Teatro" />
+  <category term="Humor" />
+  <category term="Lang:es" />
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      Sin puntuación
+    </p>
+    <p>
+      <strong>Etiquetas:</strong>
+      Teatro, Humor, Lang:es
+    </p>
+    <p>
+      <strong>Published:</strong>
+      31 de diciembre de 1597
+    </p>
+    <p>
+      <strong>Sumario:</strong>
+    </p>
+    <p xmlns="">Situada en su mayor parte en un amable marco de jardines,
+    aposentos y fiestas cortesanas, la obra gira principalmente en
+    torno a dos fuertes personajes enfrentados, Benedicto de Padua
+    y Beatriz, adversarios irreconciliables y ambos tan ingeniosos,
+    mordaces y sarcásticos como desdeñosos del amor. A
+    lomos de una trama animada por los equívocos, las
+    traiciones y los imprevistos, los enemigos jurados acaban sin
+    embargo, para su propia sorpresa, en aquel lugar a donde se
+    prometieron nunca ir a parar y, lo que es más, en la
+    compañía para ellos más insospechada.</p>
+  </content>
+  <link href="../8f6fb6ff%40author_0/beacae01%40author_97_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Libros de William Shakespeare" />
+  <link href="http://www.goodreads.com/book/title/Mucho%20ruido%20y%20pocas%20nueces" type="text/html" rel="related" title="Este libro en Goodreads" />
+  <link href="http://es.wikipedia.org/wiki/Mucho%20ruido%20y%20pocas%20nueces" type="text/html" rel="related" title="Este libro en Wikipedia" />
+  <link href="http://www.librarything.com/title/Mucho%20ruido%20y%20pocas%20nueces%20William%20Shakespeare" type="text/html" rel="related" title="Este libro en LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=Mucho%20ruido%20y%20pocas%20nueces&amp;field-author=William%20Shakespeare" type="text/html" rel="related" title="Este libro en Amazon" />
+  <link href="http://www.goodreads.com/book/author/William%20Shakespeare" type="text/html" rel="related" title="William Shakespeare en Goodreads" />
+  <link href="http://es.wikipedia.org/wiki/William%20Shakespeare" type="text/html" rel="related" title="William Shakespeare en Wikipedia" />
+  <link href="http://www.librarything.com/author/ShakespeareWilliam" type="text/html" rel="related" title="William Shakespeare en LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=William%20Shakespeare" type="text/html" rel="related" title="William Shakespeare en Amazon" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?William%20Shakespeare" type="text/html" rel="related" title="William Shakespeare en ISFDB" />
+</entry>
+

@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>No estamos locos</title>
+  <id>urn:book:ae95331f-b1ff-4403-9fad-5d17c1a5fd26</id>
+  <updated>2015-03-27T01:53:43Z</updated>
+  <link href="./7345de97%40book_172.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="No estamos locos" />
+  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Biblioteca de Calibre de CJ" />
+  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Biblioteca de Calibre de CJ" />
+  <link href="../8f6fb6ff%40authorlist/e8e4356e%40authorlist_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="7345de97@book_172_cover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../8f6fb6ff@book_0/7345de97@book_172_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/El%20Gran%20Wyoming/No%20estamos%20locos%20%28172%29/No%20estamos%20locos%20-%20El%20Gran%20Wyoming.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+  <author>
+    <name>El Gran Wyoming</name>
+    <uri>../8f6fb6ff@author_0/651ed19b@author_56_Page_1.xml</uri>
+  </author>
+  <published>2013-11-18T11:00:00Z</published>
+  <dcterms:language>es</dcterms:language>
+  <dcterms:publisher>Editorial Planeta</dcterms:publisher>
+  <category term="Ensayo" />
+  <category term="Ciencias sociales" />
+  <category term="Lang:es" />
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      ****
+    </p>
+    <p>
+      <strong>Etiquetas:</strong>
+      Ensayo, Ciencias sociales, Lang:es
+    </p>
+    <p>
+      <strong>Published:</strong>
+      18 de noviembre de 2013
+    </p>
+    <p>
+      <strong>Sumario:</strong>
+    </p>
+    <div xmlns="">
+      <h3>Descripción del producto</h3>
+      <p>Este libro es el golpe que estremecerá a todos los
+      mangantes y enemigos del progreso en general. Un
+      fantasma recorre La Moncloa, La Zarzuela, Bruselas, el
+      Vaticano y el Bundesbank: la amenaza de un médico
+      que sabe diagnosticar, un maestro de la
+      comunicación que sabe explicar
+      sus diagnósticos. La obra demoledora de un genio
+      que no utiliza más armas que la palabra, ahora que
+      todavía le acompaña la memoria, y cierta ayuda
+      de la Wikipedia.- Un relato lleno de humor, ironía y
+      crítica social que nos cuenta crudamente por
+      qué estamos atrapados en este terrible momento
+      político e ideológico.- El manifiesto definitivo en
+      el que palpita toda la indignación, toda la
+      pasión y todo el sarcasmo que hoy sacude a la
+      sociedad entera.</p>
+      <h3>Biografía del autor</h3>
+      <p>Madrileño del barrio de la Prosperidad, hijo de
+      funcionario y farmacéutica, licenciado en medicina,
+      es un personaje polifacético a su pesar ya que
+      le fueron despidiendo de todos los oficios con
+      los que intentaba buscarse la vida. Así, ha
+      ejercido de médico, humorista, actor, guionista,
+      músico y actualmente es presentador de uno de los
+      espacios de humor e información que más
+      impacto están teniendo en la audiencia televisiva,
+      El Intermedio (La Sexta). El Gran Wyoming, abreviado a
+      veces como Gran Wyoming o Wyoming, ha sido
+      también columnista de prensa y sus artículos
+      pueden leerse actualmente en el diario de Internet
+      Infolibre.A lo largo de toda su carrera ha
+      recibido innumerables premios, entre otros, el Premio
+      Ondas por su trabajo en El Intermedio y este mismo
+      año el Premio al mejor presentador de la Academia
+      de la Televisión. Como escritor es autor de Un
+      vago, dos vagos, tres vagos (Temas de Hoy, 1990), Te
+      quiero personalmente (Anagrama, 1993), Las
+      aventuras del mapache (Alfaguara juvenil, 1997), El
+      niño que soñaba despierto (Agruparte, 2000),
+      así como una ingente cantidad de impresos e
+      instancias que dan fe de que está vivo. A pesar de
+      su provecta edad, afirma encontrarse en la flor de la
+      vida. Tiene tres hijos, los cuales han logrado
+      sobrevivir a tan extravagante paternidad.</p>
+    </div>
+  </content>
+  <link href="../8f6fb6ff%40author_0/651ed19b%40author_56_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Libros de El Gran Wyoming" />
+  <link href="http://www.goodreads.com/book/title/No%20estamos%20locos" type="text/html" rel="related" title="Este libro en Goodreads" />
+  <link href="http://es.wikipedia.org/wiki/No%20estamos%20locos" type="text/html" rel="related" title="Este libro en Wikipedia" />
+  <link href="http://www.librarything.com/title/No%20estamos%20locos%20El%20Gran%20Wyoming" type="text/html" rel="related" title="Este libro en LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=No%20estamos%20locos&amp;field-author=El%20Gran%20Wyoming" type="text/html" rel="related" title="Este libro en Amazon" />
+  <link href="http://www.goodreads.com/book/author/El%20Gran%20Wyoming" type="text/html" rel="related" title="El Gran Wyoming en Goodreads" />
+  <link href="http://es.wikipedia.org/wiki/El%20Gran%20Wyoming" type="text/html" rel="related" title="El Gran Wyoming en Wikipedia" />
+  <link href="http://www.librarything.com/author/WyomingElGran" type="text/html" rel="related" title="El Gran Wyoming en LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=El%20Gran%20Wyoming" type="text/html" rel="related" title="El Gran Wyoming en Amazon" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?El%20Gran%20Wyoming" type="text/html" rel="related" title="El Gran Wyoming en ISFDB" />
+</entry>
+

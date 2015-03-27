@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:opds="http://opds-spec.org/2010/catalog">
+  <title>Etiquetas que empiezan por S</title>
+  <id>Calibre2opds:taglist:S</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./87d7be0%40taglist_S_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Etiquetas que empiezan por S" />
+  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Biblioteca de Calibre de CJ" />
+  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Biblioteca de Calibre de CJ" />
+  <link href="./87d7be0%40taglist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="etiquetas" />
+  <entry>
+    <title>School &amp; Education</title>
+    <id>Calibre2opds:taglist:S:133</id>
+    <content type="text">Looking for Alaska</content>
+    <link href="../8f6fb6ff%40tag_1/908dc891%40tag_133_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../tags.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Science Fiction</title>
+    <id>Calibre2opds:taglist:S:175</id>
+    <content type="text">Under the Never Sky</content>
+    <link href="../8f6fb6ff%40tag_1/1d82a8a0%40tag_175_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../tags.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Self-Help</title>
+    <id>Calibre2opds:taglist:S:168</id>
+    <content type="text">Improve Your Social Skills</content>
+    <link href="../8f6fb6ff%40tag_1/7a28e55c%40tag_168_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../tags.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Social Issues</title>
+    <id>Calibre2opds:taglist:S:117</id>
+    <content type="text">5 libros</content>
+    <link href="../8f6fb6ff%40tag_1/a5d66e0a%40tag_117_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../tags.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Spanish wit and humor</title>
+    <id>Calibre2opds:taglist:S:105</id>
+    <content type="text">Nueva antología del disparate</content>
+    <link href="../8f6fb6ff%40tag_1/52c33e67%40tag_105_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../tags.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Sátira</title>
+    <id>Calibre2opds:taglist:S:189</id>
+    <content type="text">Comedias &amp; tragicomedias</content>
+    <link href="../8f6fb6ff%40tag_1/93acf844%40tag_189_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../tags.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>spanish</title>
+    <id>Calibre2opds:taglist:S:146</id>
+    <content type="text">El Asedio</content>
+    <link href="../8f6fb6ff%40tag_1/afa6aad9%40tag_146_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../tags.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+</feed>
+

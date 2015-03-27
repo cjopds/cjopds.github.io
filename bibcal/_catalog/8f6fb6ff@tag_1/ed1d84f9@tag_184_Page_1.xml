@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:opds="http://opds-spec.org/2010/catalog">
+  <title>Filosofía</title>
+  <id>Calibre2opds:taglist:F:184</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./ed1d84f9%40tag_184_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Filosofía" />
+  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Biblioteca de Calibre de CJ" />
+  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Biblioteca de Calibre de CJ" />
+  <link href="../8f6fb6ff%40taglist/87d7be0%40taglist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="etiquetas" />
+  <link href="../8f6fb6ff%40taglist/87d7be0%40taglist_F_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Etiquetas que empiezan por F" />
+  <entry>
+    <title>Sobre la libertad</title>
+    <id>calibre:book:242</id>
+    <updated>2015-03-27T01:53:51Z</updated>
+    <link href="../8f6fb6ff@book_0/5a2e330d@book_242_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/John%20Stuart%20Mill/Sobre%20la%20libertad%20%28242%29/Sobre%20la%20libertad%20-%20John%20Stuart%20Mill.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>John Stuart Mill</name>
+      <uri>../8f6fb6ff@author_0/cec65a8e@author_92_Page_1.xml</uri>
+    </author>
+    <published>1858-12-31T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>ePubLibre</dcterms:publisher>
+    <category term="Ensayo" />
+    <category term="Filosofía" />
+    <category term="Lang:es" />
+    <summary>El ensayo «Sobre la libertad» figura por derecho propio en la breve galería de obras de combate político que, tras modificar de manera decisiva las ideas de su época, continúan determinando, siglos después, los comportamientos de los hombres a través de las instituciones o formas generalizadas de pensar creadas bajo su influencia. El ensayo de John Stuart Mill (1806-1873) es una vibrante defensa de la libertad de pensamiento y expresión, una apasionada apología de la tolerancia y del respeto deb...</summary>
+    <link href="../8f6fb6ff%40book_0/5a2e330d%40book_242.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>
+

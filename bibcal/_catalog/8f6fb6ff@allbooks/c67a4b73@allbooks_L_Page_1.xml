@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:opds="http://opds-spec.org/2010/catalog">
+  <title>Libros que empiezan por L</title>
+  <id>Calibre2opds:allbooks:L</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./c67a4b73%40allbooks_L_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Libros que empiezan por L" />
+  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Biblioteca de Calibre de CJ" />
+  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Biblioteca de Calibre de CJ" />
+  <link href="./c67a4b73%40allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Todos los libros" />
+  <entry>
+    <title>Looking for Alaska</title>
+    <id>calibre:book:174</id>
+    <updated>2015-03-27T01:53:42Z</updated>
+    <link href="../8f6fb6ff@book_0/9a267ba2@book_174_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/John%20Green/Looking%20for%20Alaska%20%28174%29/Looking%20for%20Alaska%20-%20John%20Green.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>John Green</name>
+      <uri>../8f6fb6ff@author_0/7c05e0da@author_46_Page_1.xml</uri>
+    </author>
+    <published>2006-12-27T11:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Speak</dcterms:publisher>
+    <category term="Juvenile Fiction" />
+    <category term="School &amp; Education" />
+    <category term="Social Issues" />
+    <category term="General" />
+    <category term="Death &amp; Dying" />
+    <category term="Friendship" />
+    <category term="Lang:en" />
+    <summary>The award-winning, genre-defining debut from #1 bestselling author of The Fault in Our Stars  Winner of the Michael L. Printz AwardLos Angeles Times Book Prize FinalistNew York Times bestseller  Before. Miles “Pudge” Halter is done with his safe life at home. His whole life has been one big non-event, and his obsession with famous last words has only made him crave “the Great Perhaps” even more (Francois Rabelais, poet). He heads off to the sometimes crazy and anything-but-boring world of Culver...</summary>
+    <link href="../8f6fb6ff%40book_0/9a267ba2%40book_174.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Luces de bohemia</title>
+    <id>calibre:book:210</id>
+    <updated>2015-03-27T01:53:46Z</updated>
+    <link href="../8f6fb6ff@book_0/c957a664@book_210_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Ramon%20Maria%20del%20Valle-Inclan/Luces%20de%20bohemia%20%28210%29/Luces%20de%20bohemia%20-%20Ramon%20Maria%20del%20Valle-Inclan.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>Ramón María del Valle-Inclán</name>
+      <uri>../8f6fb6ff@author_0/5728b319@author_76_Page_1.xml</uri>
+    </author>
+    <published>1924-04-22T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>ePubLibre</dcterms:publisher>
+    <category term="Teatro" />
+    <category term="Otros" />
+    <category term="Lang:es" />
+    <summary>Esperpento trágico de la vida literaria de la época. Al degradarse la realidad aparece la farsa y, en un segundo nivel, el esperpento; Los héroes clásicos reflejados en los espejos cóncavos dan el Esperpento, aclara Valle-Inclán. Aquí el espejo cóncavo es una conciencia dolorida, una conciencia moral que escandaliza o aterra. Resulta patético que quien vea la verdad sea un ciego, Max Estrella, soñador perdido en un Madrid absurdo y hambriento.</summary>
+    <link href="../8f6fb6ff%40book_0/c957a664%40book_210.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Luna nueva</title>
+    <id>calibre:book:203</id>
+    <updated>2015-03-27T01:53:45Z</updated>
+    <link href="../8f6fb6ff@book_0/4945c69f@book_203_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Stephenie%20Meyer/Luna%20nueva%20%28203%29/Luna%20nueva%20-%20Stephenie%20Meyer.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Stephenie%20Meyer/Luna%20nueva%20%28203%29/Luna%20nueva%20-%20Stephenie%20Meyer.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Descargar este libro como PDF" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Stephenie%20Meyer/Luna%20nueva%20%28203%29/Luna%20nueva%20-%20Stephenie%20Meyer.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Descargar este libro como MOBI" />
+    <author>
+      <name>Stephenie Meyer</name>
+      <uri>../8f6fb6ff@author_0/50457700@author_72_Page_1.xml</uri>
+    </author>
+    <published>2007-10-01T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Alfaguara</dcterms:publisher>
+    <category term="Infantil y Juvenil" />
+    <category term="Fantasía; terror y ciencia ficción" />
+    <category term="Lang:es" />
+    <category term="Crepúsculo" />
+    <summary>Crepúsculo [2]: Para Bella Swan, hay una cosa más importante que su propia vida - Edward Cullen. Pero enamorarse de un vampiro es más peligroso de lo que Bella nunca podría haber imaginado. Edward ya ha rescatado a Bella de las garras de un diabólico vampiro, pero ahora, a medida que su arriesgada relación amenaza todo lo que es cercano y querido para ellos, se dan cuenta que sus problemas puede que sólo estén empezando.</summary>
+    <link href="../8f6fb6ff%40book_0/4945c69f%40book_203.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>El ladrón del rayo</title>
+    <id>calibre:book:182</id>
+    <updated>2015-03-27T01:53:43Z</updated>
+    <link href="../8f6fb6ff@book_0/f4ddc258@book_182_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Rick%20Riordan/El%20ladron%20del%20rayo%20%28182%29/El%20ladron%20del%20rayo%20-%20Rick%20Riordan.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>Rick Riordan</name>
+      <uri>../8f6fb6ff@author_0/82a6fc9c@author_58_Page_1.xml</uri>
+    </author>
+    <published>2005-06-30T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Salamandra</dcterms:publisher>
+    <category term="Fantástico" />
+    <category term="Infantil y Juvenil" />
+    <category term="Lang:es" />
+    <category term="Percy Jackson y los dioses del Olimpo" />
+    <summary>Percy Jackson y los dioses del Olimpo [1]: ¿Qué pasaría si los dioses del Olimpo estan vivos en el siglo 21? ¿Y si aún se enamoraran de los mortales y que los niños-héroes podrían llegar a ser grandes, como Teseo, Jasón y Hércules?. ¿Qué pasa si tu fueras uno de esos niños?. Tal es el descubrimiento que a los doce años de edad, Percy Jackson, se lanza en la búsqueda más peligroso de su vida. Con la ayuda de un sátiro y una hija de Atenea, Percy viaja a través de los Estados Unidos para atrapar a...</summary>
+    <link href="../8f6fb6ff%40book_0/f4ddc258%40book_182.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>El libro rojo del cole</title>
+    <id>calibre:book:186</id>
+    <updated>2015-03-27T01:53:44Z</updated>
+    <link href="../8f6fb6ff@book_0/f3b00641@book_186_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Soren%20Hansen/El%20libro%20rojo%20del%20cole%20%28186%29/El%20libro%20rojo%20del%20cole%20-%20Soren%20Hansen.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Descargar este libro como PDF" />
+    <author>
+      <name>Søren Hansen</name>
+      <uri>../8f6fb6ff@author_0/3e5976d7@author_63_Page_1.xml</uri>
+    </author>
+    <author>
+      <name>Jesper Jensen</name>
+      <uri>../8f6fb6ff@author_0/a03de374@author_64_Page_1.xml</uri>
+    </author>
+    <published>1979-09-27T06:03:59Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Nuestra Cultura</dcterms:publisher>
+    <category term="Lang:es" />
+    <link href="../8f6fb6ff%40book_0/f3b00641%40book_186.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>
+

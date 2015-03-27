@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:opds="http://opds-spec.org/2010/catalog">
+  <title>Saga de Ender</title>
+  <id>Calibre2opds::serieslistseries:17</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./d278e68e%40series_17_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Saga de Ender" />
+  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Biblioteca de Calibre de CJ" />
+  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Biblioteca de Calibre de CJ" />
+  <link href="../8f6fb6ff%40serieslist/9b9c2e2f%40serieslist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Series:" />
+  <entry>
+    <title>1 - El juego de Ender</title>
+    <id>calibre:book:241</id>
+    <updated>2015-03-27T01:53:51Z</updated>
+    <link href="../8f6fb6ff@book_0/c32762b7@book_241_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Orson%20Scott%20Card/El%20juego%20de%20Ender%20%28241%29/El%20juego%20de%20Ender%20-%20Orson%20Scott%20Card.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>Orson Scott Card</name>
+      <uri>../8f6fb6ff@author_0/57cf0b34@author_91_Page_1.xml</uri>
+    </author>
+    <published>1984-12-31T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>ePubLibre</dcterms:publisher>
+    <category term="Novela" />
+    <category term="Ciencia Ficción" />
+    <category term="Lang:es" />
+    <category term="Saga de Ender" />
+    <summary>Saga de Ender [1]: La Tierra se ve amenazada por los insectores, una raza extraterrestre completamente ajena a los humanos, a los que pretende destruir. Para vencer a los insectores es necesario un nuevo tipo de genio militar, y por ello se ha permitido el nacimiento de Ender, quien en cierta forma constituye una anomalía viviente: es el tercer hijo de una pareja en un mundo que ha limitado estrictamente a dos el número de descendientes. El niño Ender deberá aprender todo lo relativo a la guerra...</summary>
+    <link href="../8f6fb6ff%40book_0/c32762b7%40book_241.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>
+

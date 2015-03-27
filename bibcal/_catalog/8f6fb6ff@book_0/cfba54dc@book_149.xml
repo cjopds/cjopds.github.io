@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>El conde de montecristo</title>
+  <id>urn:book:f1b68487-d192-425c-86fc-01db4ca776a3</id>
+  <updated>2015-03-27T01:53:42Z</updated>
+  <link href="./cfba54dc%40book_149.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="El conde de montecristo" />
+  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Biblioteca de Calibre de CJ" />
+  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Biblioteca de Calibre de CJ" />
+  <link href="../8f6fb6ff%40authorlist/e8e4356e%40authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="cfba54dc@book_149_cover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../8f6fb6ff@book_0/cfba54dc@book_149_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Alexandre%20Dumas/El%20conde%20de%20montecristo%20%28149%29/El%20conde%20de%20montecristo%20-%20Alexandre%20Dumas.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+  <author>
+    <name>Alexandre Dumas</name>
+    <uri>../8f6fb6ff@author_0/c6f1455@author_43_Page_1.xml</uri>
+  </author>
+  <published>1845-04-11T11:00:00Z</published>
+  <dcterms:language>es</dcterms:language>
+  <dcterms:publisher>Feedbooks</dcterms:publisher>
+  <category term="Ficción" />
+  <category term="Acción y Aventura" />
+  <category term="Lang:es" />
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      Sin puntuación
+    </p>
+    <p>
+      <strong>Etiquetas:</strong>
+      Ficción, Acción y Aventura, Lang:es
+    </p>
+    <p>
+      <strong>Published:</strong>
+      11 de abril de 1845
+    </p>
+    <p>
+      <strong>Sumario:</strong>
+    </p>
+    <p xmlns="">Novela de aventuras que tiene lugar en Francia, Italia y
+    varias islas del Mediterráneo entre 1814 y 1838. La
+    historia esta basada en las memorias de Jacques Peuchet, quien
+    escribió sobre un zapatero llamado François
+    Picaud.</p>
+  </content>
+  <link href="../8f6fb6ff%40author_0/c6f1455%40author_43_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Libros de Alexandre Dumas" />
+  <link href="http://www.goodreads.com/book/title/El%20conde%20de%20montecristo" type="text/html" rel="related" title="Este libro en Goodreads" />
+  <link href="http://es.wikipedia.org/wiki/El%20conde%20de%20montecristo" type="text/html" rel="related" title="Este libro en Wikipedia" />
+  <link href="http://www.librarything.com/title/El%20conde%20de%20montecristo%20Alexandre%20Dumas" type="text/html" rel="related" title="Este libro en LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=El%20conde%20de%20montecristo&amp;field-author=Alexandre%20Dumas" type="text/html" rel="related" title="Este libro en Amazon" />
+  <link href="http://www.goodreads.com/book/author/Alexandre%20Dumas" type="text/html" rel="related" title="Alexandre Dumas en Goodreads" />
+  <link href="http://es.wikipedia.org/wiki/Alexandre%20Dumas" type="text/html" rel="related" title="Alexandre Dumas en Wikipedia" />
+  <link href="http://www.librarything.com/author/DumasAlexandre" type="text/html" rel="related" title="Alexandre Dumas en LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Alexandre%20Dumas" type="text/html" rel="related" title="Alexandre Dumas en Amazon" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Alexandre%20Dumas" type="text/html" rel="related" title="Alexandre Dumas en ISFDB" />
+</entry>
+

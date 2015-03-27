@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>El corredor del laberinto</title>
+  <id>urn:book:9414318e-dea3-4f69-8003-fd7c3eb11d2f</id>
+  <updated>2015-03-27T01:53:42Z</updated>
+  <link href="./d87aedaf%40book_151.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="El corredor del laberinto" />
+  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Biblioteca de Calibre de CJ" />
+  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Biblioteca de Calibre de CJ" />
+  <link href="../8f6fb6ff%40authorlist/e8e4356e%40authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../8f6fb6ff%40author_0/e50cb160%40author_45_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Dashner, James" />
+  <link href="d87aedaf@book_151_cover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../8f6fb6ff@book_0/d87aedaf@book_151_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/James%20Dashner/El%20corredor%20del%20laberinto%20%28151%29/El%20corredor%20del%20laberinto%20-%20James%20Dashner.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+  <author>
+    <name>James Dashner</name>
+    <uri>../8f6fb6ff@author_0/e50cb160@author_45_Page_1.xml</uri>
+  </author>
+  <published>2010-11-01T11:00:00Z</published>
+  <dcterms:language>es</dcterms:language>
+  <dcterms:publisher>Nocturna Ediciones</dcterms:publisher>
+  <category term="Juvenile Nonfiction" />
+  <category term="Language Arts" />
+  <category term="Composition &amp; Creative Writing" />
+  <category term="Fantasía. Ciencia ficción" />
+  <category term="Lang:es" />
+  <category term="El corredor del laberinto" />
+  <content type="text/html">
+    <p>
+      <strong>Series:</strong>
+      Libro 1 en la El corredor del laberinto serie
+    </p>
+    <p>
+      <strong>Rating:</strong>
+      Sin puntuación
+    </p>
+    <p>
+      <strong>Etiquetas:</strong>
+      Juvenile Nonfiction, Language Arts, Composition &amp; Creative Writing, Fantasía. Ciencia ficción, Lang:es
+    </p>
+    <p>
+      <strong>Published:</strong>
+      1 de noviembre de 2010
+    </p>
+    <p>
+      <strong>Sumario:</strong>
+    </p>
+    <p xmlns="" class="description">«Bienvenido al bosque. Verás
+    que una vez a la semana, siempre el mismo día y a la misma
+    hora, nos llegan víveres. Una vez al mes, siempre el mismo
+    día y a la misma hora, aparece un nuevo chico, como
+    tú. Siempre un chico. Como ves, este lugar está
+    cercado por muros de piedra? Has de saber que estos muros se
+    abren por la mañana y se cierran por la noche, siempre a
+    la hora exacta. Al otro lado se encuentra el laberinto. De
+    noche, las puertas se cierran? y, si quieres sobrevivir, no
+    debes estar allí para entonces». Todo sigue un orden?
+    y, sin embargo, al día siguiente suena una alarma.
+    Significa que ha llegado alguien más. Para asombro de
+    todos, es una chica. Su llegada vendrá acompañada de
+    un mensaje que cambiará las reglas del juego.</p>
+  </content>
+  <link href="../8f6fb6ff%40series_0/7a090337%40series_1_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Libro 1 en la El corredor del laberinto serie" />
+  <link href="../8f6fb6ff%40author_0/e50cb160%40author_45_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Libros de James Dashner" />
+  <link href="http://www.goodreads.com/book/title/El%20corredor%20del%20laberinto" type="text/html" rel="related" title="Este libro en Goodreads" />
+  <link href="http://es.wikipedia.org/wiki/El%20corredor%20del%20laberinto" type="text/html" rel="related" title="Este libro en Wikipedia" />
+  <link href="http://www.librarything.com/title/El%20corredor%20del%20laberinto%20James%20Dashner" type="text/html" rel="related" title="Este libro en LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=El%20corredor%20del%20laberinto&amp;field-author=James%20Dashner" type="text/html" rel="related" title="Este libro en Amazon" />
+  <link href="http://www.goodreads.com/book/author/James%20Dashner" type="text/html" rel="related" title="James Dashner en Goodreads" />
+  <link href="http://es.wikipedia.org/wiki/James%20Dashner" type="text/html" rel="related" title="James Dashner en Wikipedia" />
+  <link href="http://www.librarything.com/author/DashnerJames" type="text/html" rel="related" title="James Dashner en LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=James%20Dashner" type="text/html" rel="related" title="James Dashner en Amazon" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?James%20Dashner" type="text/html" rel="related" title="James Dashner en ISFDB" />
+</entry>
+

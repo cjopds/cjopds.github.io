@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:opds="http://opds-spec.org/2010/catalog">
+  <title>Etiquetas que empiezan por I</title>
+  <id>Calibre2opds:taglist:I</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./87d7be0%40taglist_I_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Etiquetas que empiezan por I" />
+  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Biblioteca de Calibre de CJ" />
+  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Biblioteca de Calibre de CJ" />
+  <link href="./87d7be0%40taglist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="etiquetas" />
+  <entry>
+    <title>Infantil</title>
+    <id>Calibre2opds:taglist:I:186</id>
+    <content type="text">El principito</content>
+    <link href="../8f6fb6ff%40tag_1/313e5d5%40tag_186_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../tags.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Infantil y Juvenil</title>
+    <id>Calibre2opds:taglist:I:112</id>
+    <content type="text">18 libros</content>
+    <link href="../8f6fb6ff%40tag_1/d5bc9a85%40tag_112_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../tags.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Infantil-Juvenil</title>
+    <id>Calibre2opds:taglist:I:154</id>
+    <content type="text">¿Sabes que te quiero?</content>
+    <link href="../8f6fb6ff%40tag_1/58b3fab4%40tag_154_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../tags.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Instruction &amp; Study</title>
+    <id>Calibre2opds:taglist:I:181</id>
+    <content type="text">El estudio de la orquestación</content>
+    <link href="../8f6fb6ff%40tag_1/9d777076%40tag_181_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../tags.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Intermediate</title>
+    <id>Calibre2opds:taglist:I:137</id>
+    <content type="text">Paper Towns</content>
+    <link href="../8f6fb6ff%40tag_1/97e00c88%40tag_137_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../tags.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Interpersonal Relations</title>
+    <id>Calibre2opds:taglist:I:170</id>
+    <content type="text">Improve Your Social Skills</content>
+    <link href="../8f6fb6ff%40tag_1/6de85c2f%40tag_170_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../tags.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Intriga</title>
+    <id>Calibre2opds:taglist:I:183</id>
+    <content type="text">La sombra del viento</content>
+    <link href="../8f6fb6ff%40tag_1/7379115a%40tag_183_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../tags.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+</feed>
+

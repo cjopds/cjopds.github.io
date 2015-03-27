@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:opds="http://opds-spec.org/2010/catalog">
+  <title>Hoy</title>
+  <id>Calibre2opds:recent:ONEDAY</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./6d63577e%40recent_ONEDAY_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Hoy" />
+  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Biblioteca de Calibre de CJ" />
+  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Biblioteca de Calibre de CJ" />
+  <link href="./6d63577e%40recent_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Añadidos recientemente" />
+  <entry>
+    <title>El juego de Ender [26 de marzo de 2015]</title>
+    <id>calibre:book:241</id>
+    <updated>2015-03-27T01:53:51Z</updated>
+    <link href="../8f6fb6ff@book_0/c32762b7@book_241_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Orson%20Scott%20Card/El%20juego%20de%20Ender%20%28241%29/El%20juego%20de%20Ender%20-%20Orson%20Scott%20Card.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>Orson Scott Card</name>
+      <uri>../8f6fb6ff@author_0/57cf0b34@author_91_Page_1.xml</uri>
+    </author>
+    <published>1984-12-31T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>ePubLibre</dcterms:publisher>
+    <category term="Novela" />
+    <category term="Ciencia Ficción" />
+    <category term="Lang:es" />
+    <category term="Saga de Ender" />
+    <summary>Saga de Ender [1]: La Tierra se ve amenazada por los insectores, una raza extraterrestre completamente ajena a los humanos, a los que pretende destruir. Para vencer a los insectores es necesario un nuevo tipo de genio militar, y por ello se ha permitido el nacimiento de Ender, quien en cierta forma constituye una anomalía viviente: es el tercer hijo de una pareja en un mundo que ha limitado estrictamente a dos el número de descendientes. El niño Ender deberá aprender todo lo relativo a la guerra...</summary>
+    <link href="../8f6fb6ff%40book_0/c32762b7%40book_241.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>La sombra del viento [26 de marzo de 2015]</title>
+    <id>calibre:book:240</id>
+    <updated>2015-03-27T01:53:51Z</updated>
+    <link href="../8f6fb6ff@book_0/b4205221@book_240_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Carlos%20Ruiz%20Zafon/La%20sombra%20del%20viento%20%28240%29/La%20sombra%20del%20viento%20-%20Carlos%20Ruiz%20Zafon.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>Carlos Ruiz Zafón</name>
+      <uri>../8f6fb6ff@author_0/20c83ba2@author_90_Page_1.xml</uri>
+    </author>
+    <published>2000-12-31T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>ePubLibre</dcterms:publisher>
+    <category term="Novela" />
+    <category term="Intriga" />
+    <category term="Lang:es" />
+    <category term="El cementerio de los libros olvidados" />
+    <summary>El cementerio de los libros olvidados [1]: Un amanecer de 1945 un muchacho es conducido por su padre a un misterioso lugar oculto en el corazón de la ciudad vieja: El Cementerio de los Libros Olvidados. Allí, Daniel Sempere encuentra un libro maldito que cambiará el rumbo de su vida y le arrastrará a un laberinto de intrigas y secretos enterrados en el alma oscura de la ciudad. La Sombra del Viento es un misterio literario ambientado en la Barcelona de la primera mitad del siglo XX, desde los úl...</summary>
+    <link href="../8f6fb6ff%40book_0/b4205221%40book_240.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>1984 [26 de marzo de 2015]</title>
+    <id>calibre:book:239</id>
+    <updated>2015-03-27T01:53:51Z</updated>
+    <link href="../8f6fb6ff@book_0/82bd7c42@book_239_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/George%20Orwell/1984%20%28239%29/1984%20-%20George%20Orwell.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>George Orwell</name>
+      <uri>../8f6fb6ff@author_0/400fb247@author_89_Page_1.xml</uri>
+    </author>
+    <published>1948-12-31T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>ePubLibre</dcterms:publisher>
+    <category term="Novela" />
+    <category term="Ciencia Ficción" />
+    <category term="Lang:es" />
+    <summary>En una supuesta sociedad policial, el estado ha conseguido el control total sobre el individuo. No existe siquiera un resquicio para la intimidad personal: el sexo es un crimen, las emociones están prohibidas, la adoración al sistema es la condición para seguir vivo. La Policía del Pensamiento se encargará de torturar hasta la muerte a los conspiradores, aunque para ello sea necesario acusar a inocentes. Winston y Julia, a pesar de ser miembros del Partido y sabiendo que el Gran Hermano les vigi...</summary>
+    <link href="../8f6fb6ff%40book_0/82bd7c42%40book_239.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>La naranja mecánica [26 de marzo de 2015]</title>
+    <id>calibre:book:238</id>
+    <updated>2015-03-27T01:53:51Z</updated>
+    <link href="../8f6fb6ff@book_0/f5ba4cd4@book_238_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Anthony%20Burgess/La%20naranja%20mecanica%20%28238%29/La%20naranja%20mecanica%20-%20Anthony%20Burgess.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>Anthony Burgess</name>
+      <uri>../8f6fb6ff@author_0/370882d1@author_88_Page_1.xml</uri>
+    </author>
+    <published>1961-12-31T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>ePubLibre</dcterms:publisher>
+    <category term="Novela" />
+    <category term="Ciencia Ficción" />
+    <category term="Lang:es" />
+    <summary>Anthony Burgess fue un famoso escritor y compositor británico cuya obra más famosa fue la novela La naranja mecánica publicada en 1962. La historia está inspirada por un incidente vivido por el autor durante la Segunda Guerra Mundial, cuando él y su mujer fueron asaltados en 1944, siendo la esposa del propio Burgess víctima de robo y violación por parte de cuatro soldados estadounidenses en las calles londinenses. Dado que se encontraba embarazada, la paliza le provocó un aborto. El libro trata ...</summary>
+    <link href="../8f6fb6ff%40book_0/f5ba4cd4%40book_238.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <link href="../8f6fb6ff@recent/6d63577e@recent_ONEDAY_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="prev" title="previous page (1 of 2)" />
+</feed>
+

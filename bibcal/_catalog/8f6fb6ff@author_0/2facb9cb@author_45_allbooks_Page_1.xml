@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:opds="http://opds-spec.org/2010/catalog">
+  <title>Todos los libros de James Dashner</title>
+  <id>Calibre2opds:allbooks</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./2facb9cb%40author_45_allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Todos los libros de James Dashner" />
+  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Biblioteca de Calibre de CJ" />
+  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Biblioteca de Calibre de CJ" />
+  <link href="../8f6fb6ff%40authorlist/e8e4356e%40authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="./e50cb160%40author_45_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Dashner, James" />
+  <entry>
+    <title>El corredor del laberinto</title>
+    <id>calibre:book:151</id>
+    <updated>2015-03-27T01:53:42Z</updated>
+    <link href="../8f6fb6ff@book_0/d87aedaf@book_151_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/James%20Dashner/El%20corredor%20del%20laberinto%20%28151%29/El%20corredor%20del%20laberinto%20-%20James%20Dashner.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>James Dashner</name>
+      <uri>../8f6fb6ff@author_0/e50cb160@author_45_Page_1.xml</uri>
+    </author>
+    <published>2010-11-01T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Nocturna Ediciones</dcterms:publisher>
+    <category term="Juvenile Nonfiction" />
+    <category term="Language Arts" />
+    <category term="Composition &amp; Creative Writing" />
+    <category term="Fantasía. Ciencia ficción" />
+    <category term="Lang:es" />
+    <category term="El corredor del laberinto" />
+    <summary>El corredor del laberinto [1]: «Bienvenido al bosque. Verás que una vez a la semana, siempre el mismo día y a la misma hora, nos llegan víveres. Una vez al mes, siempre el mismo día y a la misma hora, aparece un nuevo chico, como tú. Siempre un chico. Como ves, este lugar está cercado por muros de piedra? Has de saber que estos muros se abren por la mañana y se cierran por la noche, siempre a la hora exacta. Al otro lado se encuentra el laberinto. De noche, las puertas se cierran? y, si quieres ...</summary>
+    <link href="../8f6fb6ff%40book_0/d87aedaf%40book_151.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>La cura mortal</title>
+    <id>calibre:book:184</id>
+    <updated>2015-03-27T01:53:42Z</updated>
+    <link href="../8f6fb6ff@book_0/1dbe676d@book_184_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/James%20Dashner/La%20cura%20mortal%20%28184%29/La%20cura%20mortal%20-%20James%20Dashner.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>James Dashner</name>
+      <uri>../8f6fb6ff@author_0/e50cb160@author_45_Page_1.xml</uri>
+    </author>
+    <published>2010-12-31T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>ePubLibre</dcterms:publisher>
+    <category term="Novela" />
+    <category term="Fantástico" />
+    <category term="Lang:es" />
+    <category term="El corredor del laberinto" />
+    <summary>El corredor del laberinto [3]: «MÁTAME. SI ALGUNA VEZ HAS SIDO MI AMIGO, MÁTAME». Desde hace tres semanas, Thomas vive en una habitación sin ventanas, de un blanco resplandeciente y siempre iluminada. Sin reloj y sin contacto con nadie, más allá de las tres bandejas de comida que alguien le lleva a diario (aunque a horas distintas, como para desorientarle). Al vigésimo sexto día, la puerta se abre y un hombre le conduce a una sala llena de viejos amigos. —Muy bien, damas y caballeros. Estáis a p...</summary>
+    <link href="../8f6fb6ff%40book_0/1dbe676d%40book_184.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Las pruebas</title>
+    <id>calibre:book:163</id>
+    <updated>2015-03-27T01:53:42Z</updated>
+    <link href="../8f6fb6ff@book_0/1d59df40@book_163_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/James%20Dashner/Las%20pruebas%20%28163%29/Las%20pruebas%20-%20James%20Dashner.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>James Dashner</name>
+      <uri>../8f6fb6ff@author_0/e50cb160@author_45_Page_1.xml</uri>
+    </author>
+    <published>2011-08-01T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Nocturna Ediciones, S. L.</dcterms:publisher>
+    <category term="Fantasía" />
+    <category term="Ciencia Ficción" />
+    <category term="Lang:es" />
+    <category term="El corredor del laberinto" />
+    <summary>El corredor del laberinto [2]: Resolver el laberinto se suponía que era el final. No más pruebas, no más huidas. Thomas creía que salir significaba que todos recobrarían sus vidas, pero ninguno sabía a qué clase de vida estaban volviendo. Árida y carbonizada, gran parte de la tierra es un territorio inservible. El sol abrasa, los gobiernos han caído y una misteriosa enfermedad se ha ido apoderando poco a poco de la gente. Sus causas son desconocidas; su resultado, la locura. En un lugar infestad...</summary>
+    <link href="../8f6fb6ff%40book_0/1d59df40%40book_163.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Death Cure</title>
+    <id>calibre:book:156</id>
+    <updated>2015-03-27T01:53:42Z</updated>
+    <link href="../8f6fb6ff@book_0/461e780c@book_156_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/James%20Dashner/The%20Death%20Cure%20%28156%29/The%20Death%20Cure%20-%20James%20Dashner.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>James Dashner</name>
+      <uri>../8f6fb6ff@author_0/e50cb160@author_45_Page_1.xml</uri>
+    </author>
+    <published>2012-07-19T10:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Delacorte</dcterms:publisher>
+    <category term="Lang:en" />
+    <category term="The Maze Runner" />
+    <summary>The Maze Runner [3]:</summary>
+    <link href="../8f6fb6ff%40book_0/461e780c%40book_156.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Kill Order</title>
+    <id>calibre:book:159</id>
+    <updated>2015-03-27T01:53:42Z</updated>
+    <link href="../8f6fb6ff@book_0/d6a1659d@book_159_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/James%20Dashner/The%20Kill%20Order%20%28159%29/The%20Kill%20Order%20-%20James%20Dashner.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>James Dashner</name>
+      <uri>../8f6fb6ff@author_0/e50cb160@author_45_Page_1.xml</uri>
+    </author>
+    <published>2012-08-14T04:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Random House</dcterms:publisher>
+    <category term="Lang:en" />
+    <category term="The Maze Runner" />
+    <summary>The Maze Runner [0,50]: The prequel to the New York Times bestselling Maze Runner series.Before WICKED was formed, before the Glade was built, before Thomas entered the Maze, sun flares hit the earth and mankind fell to disease.Mark and Trina were there when it happened, and they survived. But surviving the sun flares was easy compared to what came next.Now a disease of rage and lunacy races across the eastern United States, and there’s something suspicious about its origin. Worse yet, it’s muta...</summary>
+    <link href="../8f6fb6ff%40book_0/d6a1659d%40book_159.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Maze Runner</title>
+    <id>calibre:book:158</id>
+    <updated>2015-03-27T01:53:42Z</updated>
+    <link href="../8f6fb6ff@book_0/a1a6550b@book_158_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/James%20Dashner/The%20Maze%20Runner%20%28158%29/The%20Maze%20Runner%20-%20James%20Dashner.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>James Dashner</name>
+      <uri>../8f6fb6ff@author_0/e50cb160@author_45_Page_1.xml</uri>
+    </author>
+    <published>2009-10-28T02:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Random House Children's Books</dcterms:publisher>
+    <category term="Lang:en" />
+    <category term="The Maze Runner" />
+    <summary>The Maze Runner [1]:</summary>
+    <link href="../8f6fb6ff%40book_0/a1a6550b%40book_158.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Maze Runner Files (Maze Runner Trilogy)</title>
+    <id>calibre:book:160</id>
+    <updated>2015-03-27T01:53:42Z</updated>
+    <link href="../8f6fb6ff@book_0/84508efa@book_160_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/James%20Dashner/The%20Maze%20Runner%20Files%20%28Maze%20Runner%20Trilogy%29%20%28160%29/The%20Maze%20Runner%20Files%20%28Maze%20Runner%20Trilogy%20-%20James%20Dashner.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>James Dashner</name>
+      <uri>../8f6fb6ff@author_0/e50cb160@author_45_Page_1.xml</uri>
+    </author>
+    <published>2013-08-12T04:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Random House Children's Books</dcterms:publisher>
+    <category term="Lang:en" />
+    <category term="The Maze Runner" />
+    <summary>The Maze Runner [0,60]:</summary>
+    <link href="../8f6fb6ff%40book_0/84508efa%40book_160.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Scorch Trials</title>
+    <id>calibre:book:155</id>
+    <updated>2015-03-27T01:53:42Z</updated>
+    <link href="../8f6fb6ff@book_0/df1729b6@book_155_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/James%20Dashner/The%20Scorch%20Trials%20%28155%29/The%20Scorch%20Trials%20-%20James%20Dashner.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>James Dashner</name>
+      <uri>../8f6fb6ff@author_0/e50cb160@author_45_Page_1.xml</uri>
+    </author>
+    <published>2010-10-12T03:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Random House Children's Books</dcterms:publisher>
+    <category term="Lang:en" />
+    <category term="The Maze Runner" />
+    <summary>The Maze Runner [2]:</summary>
+    <link href="../8f6fb6ff%40book_0/df1729b6%40book_155.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Thomas's First Memory of the Flare</title>
+    <id>calibre:book:157</id>
+    <updated>2015-03-27T01:53:42Z</updated>
+    <link href="../8f6fb6ff@book_0/3119489a@book_157_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/James%20Dashner/Thomas%27s%20First%20Memory%20of%20the%20Flare%20%28157%29/Thomas%27s%20First%20Memory%20of%20the%20Flare%20-%20James%20Dashner.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>James Dashner</name>
+      <uri>../8f6fb6ff@author_0/e50cb160@author_45_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <category term="Lang:en" />
+    <category term="The Maze Runner" />
+    <summary>The Maze Runner [2,50]:</summary>
+    <link href="../8f6fb6ff%40book_0/3119489a%40book_157.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>
+

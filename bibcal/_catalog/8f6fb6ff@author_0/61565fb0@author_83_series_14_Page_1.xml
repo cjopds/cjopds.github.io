@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:opds="http://opds-spec.org/2010/catalog">
+  <title>Series: Bajo el cielo eterno</title>
+  <id>Calibre2opds:author:83series:14</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./61565fb0%40author_83_series_14_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Series: Bajo el cielo eterno" />
+  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Biblioteca de Calibre de CJ" />
+  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Biblioteca de Calibre de CJ" />
+  <link href="../8f6fb6ff%40authorlist/e8e4356e%40authorlist_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="./a0da5b59%40author_83_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Rossi, Veronica" />
+  <entry>
+    <title>1 - Bajo el cielo eterno</title>
+    <id>calibre:book:222</id>
+    <updated>2015-03-27T01:53:46Z</updated>
+    <link href="../8f6fb6ff@book_0/c74948b@book_222_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Veronica%20Rossi/Bajo%20el%20cielo%20eterno%20%28222%29/Bajo%20el%20cielo%20eterno%20-%20Veronica%20Rossi.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>Veronica Rossi</name>
+      <uri>../8f6fb6ff@author_0/a0da5b59@author_83_Page_1.xml</uri>
+    </author>
+    <published>2012-03-27T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>B de Books</dcterms:publisher>
+    <category term="Juvenile Fiction" />
+    <category term="Love &amp; Romance" />
+    <category term="Lang:es" />
+    <category term="Bajo el cielo eterno" />
+    <summary>Bajo el cielo eterno [1]: Distopía + Aventura + Romance + Ciencia ficción: la novela perfecta. ¡Vendida a más de 20 idiomas! Desde que estaba fuera había sobrevivido a una tormenta de éter, alguien la había amenazado con un cuchillo y había visto hombres asesinados. Pero esto es aun peor. Aria ha perdido su casa en la protegida ciudad de Ensoñación y sabe que sus probabilidades de sobrevivir en esta tierra agreste son mínimas. Si no son los caníbales, serán las violentas tormentas eléctricas de ...</summary>
+    <link href="../8f6fb6ff%40book_0/c74948b%40book_222.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>2 - Through The Ever Night</title>
+    <id>calibre:book:223</id>
+    <updated>2015-03-27T01:53:46Z</updated>
+    <link href="../8f6fb6ff@book_0/7b73a41d@book_223_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Veronica%20Rossi/Through%20The%20Ever%20Night%20%28223%29/Through%20The%20Ever%20Night%20-%20Veronica%20Rossi.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>Veronica Rossi</name>
+      <uri>../8f6fb6ff@author_0/a0da5b59@author_83_Page_1.xml</uri>
+    </author>
+    <published>2013-01-08T06:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>HarperCollins</dcterms:publisher>
+    <category term="Ficción Juvenil" />
+    <category term="Ciencia Ficción" />
+    <category term="Amor &amp; Romance" />
+    <category term="Lang:es" />
+    <category term="Bajo el cielo eterno" />
+    <summary>Bajo el cielo eterno [2]:</summary>
+    <link href="../8f6fb6ff%40book_0/7b73a41d%40book_223.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>
+

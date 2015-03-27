@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Luna nueva</title>
+  <id>urn:book:0c7cc88f-a660-4fc7-8acf-424e9a69fa95</id>
+  <updated>2015-03-27T01:53:45Z</updated>
+  <link href="./4945c69f%40book_203.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Luna nueva" />
+  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Biblioteca de Calibre de CJ" />
+  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Biblioteca de Calibre de CJ" />
+  <link href="../8f6fb6ff%40authorlist/e8e4356e%40authorlist_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../8f6fb6ff%40author_0/50457700%40author_72_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Meyer, Stephenie" />
+  <link href="4945c69f@book_203_cover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../8f6fb6ff@book_0/4945c69f@book_203_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Stephenie%20Meyer/Luna%20nueva%20%28203%29/Luna%20nueva%20-%20Stephenie%20Meyer.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+  <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Stephenie%20Meyer/Luna%20nueva%20%28203%29/Luna%20nueva%20-%20Stephenie%20Meyer.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Descargar este libro como PDF" />
+  <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Stephenie%20Meyer/Luna%20nueva%20%28203%29/Luna%20nueva%20-%20Stephenie%20Meyer.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Descargar este libro como MOBI" />
+  <author>
+    <name>Stephenie Meyer</name>
+    <uri>../8f6fb6ff@author_0/50457700@author_72_Page_1.xml</uri>
+  </author>
+  <published>2007-10-01T10:00:00Z</published>
+  <dcterms:language>es</dcterms:language>
+  <dcterms:publisher>Alfaguara</dcterms:publisher>
+  <category term="Infantil y Juvenil" />
+  <category term="Fantasía; terror y ciencia ficción" />
+  <category term="Lang:es" />
+  <category term="Crepúsculo" />
+  <content type="text/html">
+    <p>
+      <strong>Series:</strong>
+      Libro 2 en la Crepúsculo serie
+    </p>
+    <p>
+      <strong>Rating:</strong>
+      ****
+    </p>
+    <p>
+      <strong>Etiquetas:</strong>
+      Infantil y Juvenil, Fantasía; terror y ciencia ficción, Lang:es
+    </p>
+    <p>
+      <strong>Published:</strong>
+      1 de octubre de 2007
+    </p>
+    <p>
+      <strong>Sumario:</strong>
+    </p>
+    <p xmlns="" class="description">Para Bella Swan, hay una cosa más
+    importante que su propia vida - Edward Cullen. Pero enamorarse
+    de un vampiro es más peligroso de lo que Bella nunca
+    podría haber imaginado. Edward ya ha rescatado a Bella de
+    las garras de un diabólico vampiro, pero ahora, a medida
+    que su arriesgada relación amenaza todo lo que es cercano
+    y querido para ellos, se dan cuenta que sus problemas puede que
+    sólo estén empezando.</p>
+  </content>
+  <link href="../8f6fb6ff%40series_0/4c1c732d%40series_10_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Libro 2 en la Crepúsculo serie" />
+  <link href="../8f6fb6ff%40author_0/50457700%40author_72_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Libros de Stephenie Meyer" />
+  <link href="http://www.goodreads.com/book/title/Luna%20nueva" type="text/html" rel="related" title="Este libro en Goodreads" />
+  <link href="http://es.wikipedia.org/wiki/Luna%20nueva" type="text/html" rel="related" title="Este libro en Wikipedia" />
+  <link href="http://www.librarything.com/title/Luna%20nueva%20Stephenie%20Meyer" type="text/html" rel="related" title="Este libro en LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=Luna%20nueva&amp;field-author=Stephenie%20Meyer" type="text/html" rel="related" title="Este libro en Amazon" />
+  <link href="http://www.goodreads.com/book/author/Stephenie%20Meyer" type="text/html" rel="related" title="Stephenie Meyer en Goodreads" />
+  <link href="http://es.wikipedia.org/wiki/Stephenie%20Meyer" type="text/html" rel="related" title="Stephenie Meyer en Wikipedia" />
+  <link href="http://www.librarything.com/author/MeyerStephenie" type="text/html" rel="related" title="Stephenie Meyer en LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Stephenie%20Meyer" type="text/html" rel="related" title="Stephenie Meyer en Amazon" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Stephenie%20Meyer" type="text/html" rel="related" title="Stephenie Meyer en ISFDB" />
+</entry>
+

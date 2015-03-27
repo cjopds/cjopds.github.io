@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:opds="http://opds-spec.org/2010/catalog">
+  <title>Novela</title>
+  <id>Calibre2opds:taglist:N:99</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./15b3130c%40tag_99_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Novela" />
+  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Biblioteca de Calibre de CJ" />
+  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Biblioteca de Calibre de CJ" />
+  <link href="../8f6fb6ff%40taglist/87d7be0%40taglist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="etiquetas" />
+  <link href="../8f6fb6ff%40taglist/87d7be0%40taglist_N_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Etiquetas que empiezan por N" />
+  <entry>
+    <title>1984</title>
+    <id>calibre:book:239</id>
+    <updated>2015-03-27T01:53:51Z</updated>
+    <link href="../8f6fb6ff@book_0/82bd7c42@book_239_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/George%20Orwell/1984%20%28239%29/1984%20-%20George%20Orwell.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>George Orwell</name>
+      <uri>../8f6fb6ff@author_0/400fb247@author_89_Page_1.xml</uri>
+    </author>
+    <published>1948-12-31T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>ePubLibre</dcterms:publisher>
+    <category term="Novela" />
+    <category term="Ciencia Ficción" />
+    <category term="Lang:es" />
+    <summary>En una supuesta sociedad policial, el estado ha conseguido el control total sobre el individuo. No existe siquiera un resquicio para la intimidad personal: el sexo es un crimen, las emociones están prohibidas, la adoración al sistema es la condición para seguir vivo. La Policía del Pensamiento se encargará de torturar hasta la muerte a los conspiradores, aunque para ello sea necesario acusar a inocentes. Winston y Julia, a pesar de ser miembros del Partido y sabiendo que el Gran Hermano les vigi...</summary>
+    <link href="../8f6fb6ff%40book_0/82bd7c42%40book_239.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Crónica de una muerte anunciada</title>
+    <id>calibre:book:212</id>
+    <updated>2015-03-27T01:53:46Z</updated>
+    <link href="../8f6fb6ff@book_0/2759c748@book_212_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Gabriel%20Garcia%20Marquez/Cronica%20de%20una%20muerte%20anunciada%20%28212%29/Cronica%20de%20una%20muerte%20anunciada%20-%20Gabriel%20Garcia%20Marquez.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>Gabriel García Márquez</name>
+      <uri>../8f6fb6ff@author_0/b0909e1e@author_78_Page_1.xml</uri>
+    </author>
+    <published>1980-12-31T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>ePubLibre</dcterms:publisher>
+    <category term="Novela" />
+    <category term="Drama" />
+    <category term="Lang:es" />
+    <summary>Esta novela se basa en un hecho histórico acontecido en la tierra natal del autor. Sin embargo, en García Márquez la dialéctica entre realidad y mito es tan fecunda que eleva el hecho a categoría de metáfora universal sobre la condición humana. Cuando empieza el relato, Santiago Nasar ya está muerto, pues sabe que los hermanos Vicario lo van a matar —de hecho ya lo han matado— para vengar el honor ultrajado de su hermana Ángela, pero la novela concluye en el momento en que Santiago Nasar muere… ...</summary>
+    <link href="../8f6fb6ff%40book_0/2759c748%40book_212.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>El amor en los tiempos del cólera</title>
+    <id>calibre:book:245</id>
+    <updated>2015-03-27T01:53:46Z</updated>
+    <link href="../8f6fb6ff@book_0/c44aa6ae@book_245_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Gabriel%20Garcia%20Marquez/El%20amor%20en%20los%20tiempos%20del%20colera%20%28245%29/El%20amor%20en%20los%20tiempos%20del%20colera%20-%20Gabriel%20Garcia%20Marquez.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>Gabriel García Márquez</name>
+      <uri>../8f6fb6ff@author_0/b0909e1e@author_78_Page_1.xml</uri>
+    </author>
+    <published>1984-12-31T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>ePubLibre</dcterms:publisher>
+    <category term="Novela" />
+    <category term="Romántico" />
+    <category term="Drama" />
+    <category term="Lang:es" />
+    <summary>En este relato infinitamente seductor, Gabriel García Márquez narra la obsesión del deseo con un arrebato que lo aparta de sus grandes novelas anteriores y a la vez lo acerca a ellas. A la circularidad del tiempo en Macondo, al enclaustramiento del tirano aislado en su poder demencial, sucede ahora la vigencia imbatible del deseo, ahincado en sí mismo. Un deseo que avanza hacia su origen en un movimiento que no cesa. Como el movimiento del barco Nueva Fidelidad, que seguirá yendo y viniendo "tod...</summary>
+    <link href="../8f6fb6ff%40book_0/c44aa6ae%40book_245.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>El árbol de la ciencia</title>
+    <id>calibre:book:209</id>
+    <updated>2015-03-27T01:53:46Z</updated>
+    <link href="../8f6fb6ff@book_0/a9902f81@book_209_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Pio%20Baroja/El%20arbol%20de%20la%20ciencia%20%28209%29/El%20arbol%20de%20la%20ciencia%20-%20Pio%20Baroja.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>Pío Baroja</name>
+      <uri>../8f6fb6ff@author_0/ce21e2a3@author_75_Page_1.xml</uri>
+    </author>
+    <published>1911-04-08T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>espaebook</dcterms:publisher>
+    <category term="Novela" />
+    <category term="Lang:es" />
+    <summary>Se considera que “El árbol de la ciencia” es una de las obras capitales de Baroja. La escribió en época de plenitud completa y apareció en la biblioteca "Renacimiento", en 1911. La vida de Andrés Hurtado, como estudiante de Medicina en el Madrid de finales del siglo XIX, es, en gran parte, la vida del novelista, que, en general, no conservaba muy buenos recuerdos de sus profesores. Los retratos que aparecen al principio de algunos de ellos, pueden compararse con los que, mucho después, trazó en ...</summary>
+    <link href="../8f6fb6ff%40book_0/a9902f81%40book_209.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>El ingenioso hidalgo Don Quijote de la Mancha</title>
+    <id>calibre:book:148</id>
+    <updated>2015-03-27T01:53:44Z</updated>
+    <link href="../8f6fb6ff@book_0/b8bd644a@book_148_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Miguel%20de%20Cervantes%20Saavedra/El%20ingenioso%20hidalgo%20Don%20Quijote%20de%20la%20Mancha%20%28148%29/El%20ingenioso%20hidalgo%20Don%20Quijote%20de%20la%20Man%20-%20Miguel%20de%20Cervantes%20Saavedra.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>Miguel de Cervantes Saavedra</name>
+      <uri>../8f6fb6ff@author_0/7b6824c3@author_42_Page_1.xml</uri>
+    </author>
+    <published>1605-04-11T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Feedbooks</dcterms:publisher>
+    <category term="Ficción" />
+    <category term="Novela" />
+    <category term="Lang:es" />
+    <summary>Don Quijote de la Mancha, escrito por Miguel de Cervantes Saavedra, editado en 1605, es una de las obras más destacadas de la literatura española y la literatura universal, y una de las más traducidas
+
+La novela consta de dos partes: la primera, El ingenioso hidalgo don Quijote de la Mancha, fue publicada en 1605; la segunda, El ingenioso caballero don Quijote de la Mancha, en 1615.
+
+
+http://es.wikipedia.org/wiki/Don_Quijote_de_la_Mancha</summary>
+    <link href="../8f6fb6ff%40book_0/b8bd644a%40book_148.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>El juego de Ender</title>
+    <id>calibre:book:241</id>
+    <updated>2015-03-27T01:53:51Z</updated>
+    <link href="../8f6fb6ff@book_0/c32762b7@book_241_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Orson%20Scott%20Card/El%20juego%20de%20Ender%20%28241%29/El%20juego%20de%20Ender%20-%20Orson%20Scott%20Card.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>Orson Scott Card</name>
+      <uri>../8f6fb6ff@author_0/57cf0b34@author_91_Page_1.xml</uri>
+    </author>
+    <published>1984-12-31T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>ePubLibre</dcterms:publisher>
+    <category term="Novela" />
+    <category term="Ciencia Ficción" />
+    <category term="Lang:es" />
+    <category term="Saga de Ender" />
+    <summary>Saga de Ender [1]: La Tierra se ve amenazada por los insectores, una raza extraterrestre completamente ajena a los humanos, a los que pretende destruir. Para vencer a los insectores es necesario un nuevo tipo de genio militar, y por ello se ha permitido el nacimiento de Ender, quien en cierta forma constituye una anomalía viviente: es el tercer hijo de una pareja en un mundo que ha limitado estrictamente a dos el número de descendientes. El niño Ender deberá aprender todo lo relativo a la guerra...</summary>
+    <link href="../8f6fb6ff%40book_0/c32762b7%40book_241.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>El resplandor</title>
+    <id>calibre:book:249</id>
+    <updated>2015-03-27T01:53:51Z</updated>
+    <link href="../8f6fb6ff@book_0/cdfcea85@book_249_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Stephen%20King/El%20resplandor%20%28249%29/El%20resplandor%20-%20Stephen%20King.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>Stephen King</name>
+      <uri>../8f6fb6ff@author_0/c9ab9e97@author_96_Page_1.xml</uri>
+    </author>
+    <published>1976-12-31T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>ePubLibre</dcterms:publisher>
+    <category term="Novela" />
+    <category term="Terror" />
+    <category term="Lang:es" />
+    <category term="El resplandor" />
+    <summary>El resplandor [1]: REDRUM. Esa es la palabra que Danny había visto en el espejo. Y aunque no sabía leer, entendió que era un mensaje de horror. Danny tenía cinco años. Y a esa edad pocos niños saben que los espejos invierten las imágenes y menos aún saben diferenciar entre realidad y fantasía. Pero Danny tenía pruebas de que sus fantasías relacionadas con el resplandor del espejo acabarían cumpliéndose: REDRUM&amp; MURDER, asesinato. Pero su padre necesitaba aquel trabajo en el hotel. Danny sabía qu...</summary>
+    <link href="../8f6fb6ff%40book_0/cdfcea85%40book_249.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Ensayo sobre la ceguera</title>
+    <id>calibre:book:247</id>
+    <updated>2015-03-27T01:53:42Z</updated>
+    <link href="../8f6fb6ff@book_0/2a44c782@book_247_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Jose%20Saramago/Ensayo%20sobre%20la%20ceguera%20%28247%29/Ensayo%20sobre%20la%20ceguera%20-%20Jose%20Saramago.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>José Saramago</name>
+      <uri>../8f6fb6ff@author_0/a3fb6b8c@author_39_Page_1.xml</uri>
+    </author>
+    <published>1994-12-31T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>ePubLibre</dcterms:publisher>
+    <category term="Novela" />
+    <category term="Drama" />
+    <category term="Lang:es" />
+    <summary>Un hombre parado ante un semáforo en rojo se queda ciego súbitamente. Es el primer caso de una «ceguera blanca» que se expande de manera fulminante. Internados en cuarentena o perdidos en la ciudad, los ciegos tendrán que enfrentarse con lo que existe de más primitivo en la naturaleza humana: la voluntad de sobrevivir a cualquier precio. Ensayo sobre la ceguera es la ficción de un autor que nos alerta sobre «la responsabilidad de tener ojos cuando otros los perdieron». José Saramago traza en est...</summary>
+    <link href="../8f6fb6ff%40book_0/2a44c782%40book_247.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>La cura mortal</title>
+    <id>calibre:book:184</id>
+    <updated>2015-03-27T01:53:42Z</updated>
+    <link href="../8f6fb6ff@book_0/1dbe676d@book_184_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/James%20Dashner/La%20cura%20mortal%20%28184%29/La%20cura%20mortal%20-%20James%20Dashner.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>James Dashner</name>
+      <uri>../8f6fb6ff@author_0/e50cb160@author_45_Page_1.xml</uri>
+    </author>
+    <published>2010-12-31T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>ePubLibre</dcterms:publisher>
+    <category term="Novela" />
+    <category term="Fantástico" />
+    <category term="Lang:es" />
+    <category term="El corredor del laberinto" />
+    <summary>El corredor del laberinto [3]: «MÁTAME. SI ALGUNA VEZ HAS SIDO MI AMIGO, MÁTAME». Desde hace tres semanas, Thomas vive en una habitación sin ventanas, de un blanco resplandeciente y siempre iluminada. Sin reloj y sin contacto con nadie, más allá de las tres bandejas de comida que alguien le lleva a diario (aunque a horas distintas, como para desorientarle). Al vigésimo sexto día, la puerta se abre y un hombre le conduce a una sala llena de viejos amigos. —Muy bien, damas y caballeros. Estáis a p...</summary>
+    <link href="../8f6fb6ff%40book_0/1dbe676d%40book_184.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>La naranja mecánica</title>
+    <id>calibre:book:238</id>
+    <updated>2015-03-27T01:53:51Z</updated>
+    <link href="../8f6fb6ff@book_0/f5ba4cd4@book_238_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Anthony%20Burgess/La%20naranja%20mecanica%20%28238%29/La%20naranja%20mecanica%20-%20Anthony%20Burgess.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>Anthony Burgess</name>
+      <uri>../8f6fb6ff@author_0/370882d1@author_88_Page_1.xml</uri>
+    </author>
+    <published>1961-12-31T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>ePubLibre</dcterms:publisher>
+    <category term="Novela" />
+    <category term="Ciencia Ficción" />
+    <category term="Lang:es" />
+    <summary>Anthony Burgess fue un famoso escritor y compositor británico cuya obra más famosa fue la novela La naranja mecánica publicada en 1962. La historia está inspirada por un incidente vivido por el autor durante la Segunda Guerra Mundial, cuando él y su mujer fueron asaltados en 1944, siendo la esposa del propio Burgess víctima de robo y violación por parte de cuatro soldados estadounidenses en las calles londinenses. Dado que se encontraba embarazada, la paliza le provocó un aborto. El libro trata ...</summary>
+    <link href="../8f6fb6ff%40book_0/f5ba4cd4%40book_238.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>La sombra del viento</title>
+    <id>calibre:book:240</id>
+    <updated>2015-03-27T01:53:51Z</updated>
+    <link href="../8f6fb6ff@book_0/b4205221@book_240_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Carlos%20Ruiz%20Zafon/La%20sombra%20del%20viento%20%28240%29/La%20sombra%20del%20viento%20-%20Carlos%20Ruiz%20Zafon.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>Carlos Ruiz Zafón</name>
+      <uri>../8f6fb6ff@author_0/20c83ba2@author_90_Page_1.xml</uri>
+    </author>
+    <published>2000-12-31T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>ePubLibre</dcterms:publisher>
+    <category term="Novela" />
+    <category term="Intriga" />
+    <category term="Lang:es" />
+    <category term="El cementerio de los libros olvidados" />
+    <summary>El cementerio de los libros olvidados [1]: Un amanecer de 1945 un muchacho es conducido por su padre a un misterioso lugar oculto en el corazón de la ciudad vieja: El Cementerio de los Libros Olvidados. Allí, Daniel Sempere encuentra un libro maldito que cambiará el rumbo de su vida y le arrastrará a un laberinto de intrigas y secretos enterrados en el alma oscura de la ciudad. La Sombra del Viento es un misterio literario ambientado en la Barcelona de la primera mitad del siglo XX, desde los úl...</summary>
+    <link href="../8f6fb6ff%40book_0/b4205221%40book_240.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Los girasoles ciegos</title>
+    <id>calibre:book:211</id>
+    <updated>2015-03-27T01:53:46Z</updated>
+    <link href="../8f6fb6ff@book_0/be5096f2@book_211_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Alberto%20Mendez/Los%20girasoles%20ciegos%20%28211%29/Los%20girasoles%20ciegos%20-%20Alberto%20Mendez.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>Alberto Méndez</name>
+      <uri>../8f6fb6ff@author_0/202f838f@author_77_Page_1.xml</uri>
+    </author>
+    <published>2003-12-31T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>ePubLibre</dcterms:publisher>
+    <category term="Novela" />
+    <category term="Drama" />
+    <category term="Lang:es" />
+    <summary>La guerra civil española se convierte en la pluma de Alberto Méndez en una colección de susurros, de historias contadas por fin con la boca abierta, sin eufemismos, y que desnudan fundamentalmente una inquietante verdad: después de toda aquella devastadora carnicería no hubo rastro de victoria alguna, no existió presunto héroe que no hubiese sido fatalmente derrotado. Los rumores broncos y las sílabas miedosas de aquel período forman en Los girasoles ciegos un pentagrama frágil, cuajado de notas...</summary>
+    <link href="../8f6fb6ff%40book_0/be5096f2%40book_211.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Misery</title>
+    <id>calibre:book:248</id>
+    <updated>2015-03-27T01:53:51Z</updated>
+    <link href="../8f6fb6ff@book_0/bafbda13@book_248_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Stephen%20King/Misery%20%28248%29/Misery%20-%20Stephen%20King.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>Stephen King</name>
+      <uri>../8f6fb6ff@author_0/c9ab9e97@author_96_Page_1.xml</uri>
+    </author>
+    <published>1986-12-31T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>ePubLibre</dcterms:publisher>
+    <category term="Novela" />
+    <category term="Terror" />
+    <category term="Lang:es" />
+    <summary>Paul Sheldon es un escritor que sufre un grave accidente y recobra el conocimiento en una apartada casa en la que vive una misteriosa mujer, corpulenta y de extraño carácter. Se trata de una antigua enfermera, involucrada en varias muertes misteriosas ocurridas en diversos hospitales. Fanática de un personaje de una serie de libros que él ha decidido deja de escribir, está dispuesto a hacer todo lo necesario para "convencerlo" de que retome la escritura. Esta mujer es capaz de los mayores horror...</summary>
+    <link href="../8f6fb6ff%40book_0/bafbda13%40book_248.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>
+

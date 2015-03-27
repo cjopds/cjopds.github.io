@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:opds="http://opds-spec.org/2010/catalog">
+  <title>Green, John</title>
+  <id>Calibre2opds:author:46</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./7c05e0da%40author_46_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Green, John" />
+  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Biblioteca de Calibre de CJ" />
+  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Biblioteca de Calibre de CJ" />
+  <link href="../8f6fb6ff%40authorlist/e8e4356e%40authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <entry>
+    <title>An Abundance of Katherines</title>
+    <id>calibre:book:173</id>
+    <updated>2015-03-27T01:53:42Z</updated>
+    <link href="../8f6fb6ff@book_0/442ee01@book_173_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/John%20Green/An%20Abundance%20of%20Katherines%20%28173%29/An%20Abundance%20of%20Katherines%20-%20John%20Green.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>John Green</name>
+      <uri>../8f6fb6ff@author_0/7c05e0da@author_46_Page_1.xml</uri>
+    </author>
+    <published>2006-09-01T10:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Dutton E P</dcterms:publisher>
+    <category term="Infantil y Juvenil" />
+    <category term="Literatura y narrativa" />
+    <category term="Juvenile Fiction" />
+    <category term="General" />
+    <category term="Lang:en" />
+    <summary>From the #1 bestselling author of The Fault in Our Stars   Michael L. Printz Honor Book Los Angeles Times Book Prize Finalist   Katherine V thought boys were gross Katherine X just wanted to be friends Katherine XVIII dumped him in an e-mail K-19 broke his heart  When it comes to relationships, Colin Singleton's type happens to be girls named Katherine. And when it comes to girls named Katherine, Colin is always getting dumped. Nineteen times, to be exact.  On a road trip miles from home, this a...</summary>
+    <link href="../8f6fb6ff%40book_0/442ee01%40book_173.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Looking for Alaska</title>
+    <id>calibre:book:174</id>
+    <updated>2015-03-27T01:53:42Z</updated>
+    <link href="../8f6fb6ff@book_0/9a267ba2@book_174_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/John%20Green/Looking%20for%20Alaska%20%28174%29/Looking%20for%20Alaska%20-%20John%20Green.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>John Green</name>
+      <uri>../8f6fb6ff@author_0/7c05e0da@author_46_Page_1.xml</uri>
+    </author>
+    <published>2006-12-27T11:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Speak</dcterms:publisher>
+    <category term="Juvenile Fiction" />
+    <category term="School &amp; Education" />
+    <category term="Social Issues" />
+    <category term="General" />
+    <category term="Death &amp; Dying" />
+    <category term="Friendship" />
+    <category term="Lang:en" />
+    <summary>The award-winning, genre-defining debut from #1 bestselling author of The Fault in Our Stars  Winner of the Michael L. Printz AwardLos Angeles Times Book Prize FinalistNew York Times bestseller  Before. Miles “Pudge” Halter is done with his safe life at home. His whole life has been one big non-event, and his obsession with famous last words has only made him crave “the Great Perhaps” even more (Francois Rabelais, poet). He heads off to the sometimes crazy and anything-but-boring world of Culver...</summary>
+    <link href="../8f6fb6ff%40book_0/9a267ba2%40book_174.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Paper Towns</title>
+    <id>calibre:book:176</id>
+    <updated>2015-03-27T01:53:43Z</updated>
+    <link href="../8f6fb6ff@book_0/74281a8e@book_176_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/John%20Green/Paper%20Towns%20%28176%29/Paper%20Towns%20-%20John%20Green.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>John Green</name>
+      <uri>../8f6fb6ff@author_0/7c05e0da@author_46_Page_1.xml</uri>
+    </author>
+    <published>2010-05-02T10:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Bloomsbury Childrens</dcterms:publisher>
+    <category term="Juvenile Fiction" />
+    <category term="General" />
+    <category term="Readers" />
+    <category term="Intermediate" />
+    <category term="Lang:en" />
+    <summary>Descripción del productoWho is the real Margo? Quentin Jacobsen has spent a lifetime loving the magnificently adventurous Margo Roth Spiegelman from afar. So when she cracks open a window and climbs into his life - dressed like a ninja and summoning him for an ingenious campaign of revenge - he follows. After their all-nighter ends and a new day breaks, Q arrives at school to discover that Margo, always an enigma, has now become a mystery. She has disappeared. Q soon learns that there are clues ...</summary>
+    <link href="../8f6fb6ff%40book_0/74281a8e%40book_176.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Fault in Our Stars</title>
+    <id>calibre:book:175</id>
+    <updated>2015-03-27T01:53:42Z</updated>
+    <link href="../8f6fb6ff@book_0/ed214b34@book_175_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/John%20Green/The%20Fault%20in%20Our%20Stars%20%28175%29/The%20Fault%20in%20Our%20Stars%20-%20John%20Green.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>John Green</name>
+      <uri>../8f6fb6ff@author_0/7c05e0da@author_46_Page_1.xml</uri>
+    </author>
+    <published>2012-01-09T05:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Dutton Juvenile</dcterms:publisher>
+    <category term="Juvenile Fiction" />
+    <category term="Social Issues" />
+    <category term="Death &amp; Dying" />
+    <category term="Lang:en" />
+    <summary>Amazon.com ReviewAmazon Best Books of the Month, January 2012: In The Fault in Our Stars, John Green has created a soulful novel that tackles big subjects--life, death, love--with the perfect blend of levity and heart-swelling emotion. Hazel is sixteen, with terminal cancer, when she meets Augustus at her kids-with-cancer support group. The two are kindred spirits, sharing an irreverent sense of humor and immense charm, and watching them fall in love even as they face universal questions of the ...</summary>
+    <link href="../8f6fb6ff%40book_0/ed214b34%40book_175.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Will Grayson, Will Grayson</title>
+    <id>calibre:book:177</id>
+    <updated>2015-03-27T01:53:43Z</updated>
+    <link href="../8f6fb6ff@book_0/32f2a18@book_177_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/John%20Green/Will%20Grayson%2C%20Will%20Grayson%20%28177%29/Will%20Grayson%2C%20Will%20Grayson%20-%20John%20Green.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>John Green</name>
+      <uri>../8f6fb6ff@author_0/7c05e0da@author_46_Page_1.xml</uri>
+    </author>
+    <author>
+      <name>David Levithan</name>
+      <uri>../8f6fb6ff@author_0/1219e10d@author_57_Page_1.xml</uri>
+    </author>
+    <published>2010-04-01T10:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Dutton Juvenile</dcterms:publisher>
+    <category term="Infantil y Juvenil" />
+    <category term="Literatura y narrativa" />
+    <category term="Lang:en" />
+    <summary>One cold night, in a most unlikely corner of Chicago, two teens?both named Will Grayson?are about to cross paths. As their worlds collide and intertwine, the Will Graysons find their lives going in new and unexpected directions, building toward romantic turns-of-heart and the epic production of history's most fabulous high school musical.  Hilarious, poignant, and deeply insightful, John Green and David Levithan's collaborative novel is brimming with a double helping of the heart and humor that ...</summary>
+    <link href="../8f6fb6ff%40book_0/32f2a18%40book_177.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>
+

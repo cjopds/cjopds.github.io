@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:opds="http://opds-spec.org/2010/catalog">
+  <title>Libros que empiezan por O</title>
+  <id>Calibre2opds:allbooks:O</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./c67a4b73%40allbooks_O_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Libros que empiezan por O" />
+  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Biblioteca de Calibre de CJ" />
+  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Biblioteca de Calibre de CJ" />
+  <link href="./c67a4b73%40allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Todos los libros" />
+  <entry>
+    <title>Once</title>
+    <id>calibre:book:161</id>
+    <updated>2015-03-27T01:53:43Z</updated>
+    <link href="../8f6fb6ff@book_0/f357be6c@book_161_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Anna%20Carey/Once%20%28161%29/Once%20-%20Anna%20Carey.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>Anna Carey</name>
+      <uri>../8f6fb6ff@author_0/ecbafd4b@author_49_Page_1.xml</uri>
+    </author>
+    <published>2012-07-02T04:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>HarperCollins</dcterms:publisher>
+    <category term="Fiction" />
+    <category term="Fantasy" />
+    <category term="epic" />
+    <category term="General" />
+    <category term="Juvenile Fiction" />
+    <category term="Social Issues" />
+    <category term="Love &amp; Romance" />
+    <category term="Fantasy &amp; Magic" />
+    <category term="Adolescence" />
+    <category term="Lang:en" />
+    <category term="Eve" />
+    <summary>Eve [2]: When you're being hunted, who can you trust?  For the first time since she escaped from her school many months ago, Eve can sleep soundly. She's living in Califia, a haven for women, protected from the terrifying fate that awaits orphaned girls in The New America.  But her safety came at a price: She was forced to abandon Caleb, the boy she loves, wounded and alone at the city gates. When Eve gets word that Caleb is in trouble, she sets out into the wild again to rescue him, only to be ...</summary>
+    <link href="../8f6fb6ff%40book_0/f357be6c%40book_161.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Otelo</title>
+    <id>calibre:book:255</id>
+    <updated>2015-03-27T01:53:52Z</updated>
+    <link href="../8f6fb6ff@book_0/dd5197ef@book_255_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/William%20Shakespeare/Otelo%20%28255%29/Otelo%20-%20William%20Shakespeare.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>William Shakespeare</name>
+      <uri>../8f6fb6ff@author_0/beacae01@author_97_Page_1.xml</uri>
+    </author>
+    <published>1602-12-31T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>ePubLibre</dcterms:publisher>
+    <category term="Teatro" />
+    <category term="Drama" />
+    <category term="Lang:es" />
+    <summary>La historia original del moro de Venecia, de Gianbattista Cinthio (1565), sirvió a William Shakespeare para crear Otelo, la única de sus «grandes tragedias» basada en una obra de ficción. Contraviniendo la imagen isabelina del «moro», Shakespeare invierte los papeles de los protagonistas y otorga a Otelo el carácter de hombre noble y aristocrático, mientras que reserva para el italiano Yago la perversidad y la hipocresía, desarrollando en él uno de los estudios más profundos del mal. Otelo se re...</summary>
+    <link href="../8f6fb6ff%40book_0/dd5197ef%40book_255.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>
+

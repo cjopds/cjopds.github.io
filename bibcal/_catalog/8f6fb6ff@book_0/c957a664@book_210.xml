@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Luces de bohemia</title>
+  <id>urn:book:32db26f8-68cd-4fe2-85de-f2b95d199445</id>
+  <updated>2015-03-27T01:53:46Z</updated>
+  <link href="./c957a664%40book_210.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Luces de bohemia" />
+  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Biblioteca de Calibre de CJ" />
+  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Biblioteca de Calibre de CJ" />
+  <link href="../8f6fb6ff%40authorlist/e8e4356e%40authorlist_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="c957a664@book_210_cover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../8f6fb6ff@book_0/c957a664@book_210_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Ramon%20Maria%20del%20Valle-Inclan/Luces%20de%20bohemia%20%28210%29/Luces%20de%20bohemia%20-%20Ramon%20Maria%20del%20Valle-Inclan.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+  <author>
+    <name>Ramón María del Valle-Inclán</name>
+    <uri>../8f6fb6ff@author_0/5728b319@author_76_Page_1.xml</uri>
+  </author>
+  <published>1924-04-22T10:00:00Z</published>
+  <dcterms:language>es</dcterms:language>
+  <dcterms:publisher>ePubLibre</dcterms:publisher>
+  <category term="Teatro" />
+  <category term="Otros" />
+  <category term="Lang:es" />
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      Sin puntuación
+    </p>
+    <p>
+      <strong>Etiquetas:</strong>
+      Teatro, Otros, Lang:es
+    </p>
+    <p>
+      <strong>Published:</strong>
+      22 de abril de 1924
+    </p>
+    <p>
+      <strong>Sumario:</strong>
+    </p>
+    <p xmlns="">Esperpento trágico de la vida literaria de la
+    época. Al degradarse la realidad aparece la farsa y, en un
+    segundo nivel, el esperpento; Los héroes clásicos
+    reflejados en los espejos cóncavos dan el Esperpento,
+    aclara Valle-Inclán. Aquí el espejo cóncavo es
+    una conciencia dolorida, una conciencia moral que escandaliza o
+    aterra. Resulta patético que quien vea la verdad sea un
+    ciego, Max Estrella, soñador perdido en un Madrid absurdo
+    y hambriento.</p>
+  </content>
+  <link href="../8f6fb6ff%40author_0/5728b319%40author_76_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Libros de Ramón María del Valle-Inclán" />
+  <link href="http://www.goodreads.com/book/title/Luces%20de%20bohemia" type="text/html" rel="related" title="Este libro en Goodreads" />
+  <link href="http://es.wikipedia.org/wiki/Luces%20de%20bohemia" type="text/html" rel="related" title="Este libro en Wikipedia" />
+  <link href="http://www.librarything.com/title/Luces%20de%20bohemia%20Ram%C3%B3n%20Mar%C3%ADa%20del%20Valle-Incl%C3%A1n" type="text/html" rel="related" title="Este libro en LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=Luces%20de%20bohemia&amp;field-author=Ram%C3%B3n%20Mar%C3%ADa%20del%20Valle-Incl%C3%A1n" type="text/html" rel="related" title="Este libro en Amazon" />
+  <link href="http://www.goodreads.com/book/author/Ram%C3%B3n%20Mar%C3%ADa%20del%20Valle-Incl%C3%A1n" type="text/html" rel="related" title="Ramón María del Valle-Inclán en Goodreads" />
+  <link href="http://es.wikipedia.org/wiki/Ram%C3%B3n%20Mar%C3%ADa%20del%20Valle-Incl%C3%A1n" type="text/html" rel="related" title="Ramón María del Valle-Inclán en Wikipedia" />
+  <link href="http://www.librarything.com/author/Valle-Incl%C3%A1nRam%C3%B3nMar%C3%ADadel" type="text/html" rel="related" title="Ramón María del Valle-Inclán en LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Ram%C3%B3n%20Mar%C3%ADa%20del%20Valle-Incl%C3%A1n" type="text/html" rel="related" title="Ramón María del Valle-Inclán en Amazon" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Ram%C3%B3n%20Mar%C3%ADa%20del%20Valle-Incl%C3%A1n" type="text/html" rel="related" title="Ramón María del Valle-Inclán en ISFDB" />
+</entry>
+

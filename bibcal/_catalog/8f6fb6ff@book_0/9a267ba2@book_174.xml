@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Looking for Alaska</title>
+  <id>urn:book:d188f139-68bf-4a5f-a671-1ca424bf94f9</id>
+  <updated>2015-03-27T01:53:42Z</updated>
+  <link href="./9a267ba2%40book_174.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Looking for Alaska" />
+  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Biblioteca de Calibre de CJ" />
+  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Biblioteca de Calibre de CJ" />
+  <link href="../8f6fb6ff%40authorlist/e8e4356e%40authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="9a267ba2@book_174_cover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../8f6fb6ff@book_0/9a267ba2@book_174_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/John%20Green/Looking%20for%20Alaska%20%28174%29/Looking%20for%20Alaska%20-%20John%20Green.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+  <author>
+    <name>John Green</name>
+    <uri>../8f6fb6ff@author_0/7c05e0da@author_46_Page_1.xml</uri>
+  </author>
+  <published>2006-12-27T11:00:00Z</published>
+  <dcterms:language>en</dcterms:language>
+  <dcterms:publisher>Speak</dcterms:publisher>
+  <category term="Juvenile Fiction" />
+  <category term="School &amp; Education" />
+  <category term="Social Issues" />
+  <category term="General" />
+  <category term="Death &amp; Dying" />
+  <category term="Friendship" />
+  <category term="Lang:en" />
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      ****
+    </p>
+    <p>
+      <strong>Etiquetas:</strong>
+      Juvenile Fiction, School &amp; Education, Social Issues, General, Death &amp; Dying, Friendship, Lang:en
+    </p>
+    <p>
+      <strong>Published:</strong>
+      27 de diciembre de 2006
+    </p>
+    <p>
+      <strong>Sumario:</strong>
+    </p>
+    <div xmlns="">
+      <p>
+        <strong>The award-winning, genre-defining debut from #1
+        bestselling author of The Fault in Our Stars</strong>
+      </p>
+      <p>
+        Winner of the Michael L. Printz Award
+        <br />
+        <em>Los Angeles Times</em>
+        Book Prize Finalist
+        <br />
+        <em>New York Times</em>
+        bestseller
+      </p>
+      <p>Before. Miles “Pudge” Halter is done with his
+      safe life at home. His whole life has been one big non-event,
+      and his obsession with famous last words has only made him
+      crave “the Great Perhaps” even more (Francois
+      Rabelais, poet). He heads off to the sometimes crazy and
+      anything-but-boring world of Culver Creek Boarding School,
+      and his life becomes the opposite of safe. Because down the
+      hall is Alaska Young. The gorgeous, clever, funny, sexy,
+      self-destructive, screwed up, and utterly fascinating Alaska
+      Young. She is an event unto herself. She pulls Pudge into her
+      world, launches him into the Great Perhaps, and steals his
+      heart. Then. . . .</p>
+      <p>
+        After. Nothing is ever the same.
+        <br />
+      </p>
+      <p>**</p>
+    </div>
+  </content>
+  <link href="../8f6fb6ff%40author_0/7c05e0da%40author_46_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Libros de John Green" />
+  <link href="http://www.goodreads.com/book/title/Looking%20for%20Alaska" type="text/html" rel="related" title="Este libro en Goodreads" />
+  <link href="http://es.wikipedia.org/wiki/Looking%20for%20Alaska" type="text/html" rel="related" title="Este libro en Wikipedia" />
+  <link href="http://www.librarything.com/title/Looking%20for%20Alaska%20John%20Green" type="text/html" rel="related" title="Este libro en LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=Looking%20for%20Alaska&amp;field-author=John%20Green" type="text/html" rel="related" title="Este libro en Amazon" />
+  <link href="http://www.goodreads.com/book/author/John%20Green" type="text/html" rel="related" title="John Green en Goodreads" />
+  <link href="http://es.wikipedia.org/wiki/John%20Green" type="text/html" rel="related" title="John Green en Wikipedia" />
+  <link href="http://www.librarything.com/author/GreenJohn" type="text/html" rel="related" title="John Green en LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=John%20Green" type="text/html" rel="related" title="John Green en Amazon" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?John%20Green" type="text/html" rel="related" title="John Green en ISFDB" />
+</entry>
+

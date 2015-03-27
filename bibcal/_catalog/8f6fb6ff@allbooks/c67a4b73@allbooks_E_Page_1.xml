@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:opds="http://opds-spec.org/2010/catalog">
+  <title>Libros que empiezan por E</title>
+  <id>Calibre2opds:allbooks:E</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./c67a4b73%40allbooks_E_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Libros que empiezan por E" />
+  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Biblioteca de Calibre de CJ" />
+  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Biblioteca de Calibre de CJ" />
+  <link href="./c67a4b73%40allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Todos los libros" />
+  <entry>
+    <title>Eclipse</title>
+    <id>calibre:book:202</id>
+    <updated>2015-03-27T01:53:45Z</updated>
+    <link href="../8f6fb6ff@book_0/3e42f609@book_202_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Stephenie%20Meyer/Eclipse%20%28202%29/Eclipse%20-%20Stephenie%20Meyer.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Stephenie%20Meyer/Eclipse%20%28202%29/Eclipse%20-%20Stephenie%20Meyer.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Descargar este libro como PDF" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Stephenie%20Meyer/Eclipse%20%28202%29/Eclipse%20-%20Stephenie%20Meyer.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Descargar este libro como MOBI" />
+    <author>
+      <name>Stephenie Meyer</name>
+      <uri>../8f6fb6ff@author_0/50457700@author_72_Page_1.xml</uri>
+    </author>
+    <published>2008-11-19T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Alfaguara</dcterms:publisher>
+    <category term="Infantil y Juvenil" />
+    <category term="Literatura y narrativa" />
+    <category term="Lang:es" />
+    <category term="Crepúsculo" />
+    <summary>Crepúsculo [3]: Reseña del editor«De pronto, saltó una chispa de intuición en aquel silencio sepulcral y encajaron todos los detalles. Algo que Edward no quería que supiera. Algo que Jacob no me hubiera ocultado. Algo que había hecho que los Cullen y los licántropos anduvieran juntos por los bosques en una peligrosa proximidad.» Biografía del autorStephenie Meyer nació en Connecticut en 1973. Su familia se trasladó a Phoenix (Arizona) cuando ella tenía cuatro años. Su particular nombre (Stepheni...</summary>
+    <link href="../8f6fb6ff%40book_0/3e42f609%40book_202.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>El evangelio según Jesucristo</title>
+    <id>calibre:book:144</id>
+    <updated>2015-03-27T01:53:42Z</updated>
+    <link href="../8f6fb6ff@book_0/b10b2861@book_144_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Jose%20Saramago/El%20evangelio%20segun%20Jesucristo%20%28144%29/El%20evangelio%20segun%20Jesucristo%20-%20Jose%20Saramago.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>José Saramago</name>
+      <uri>../8f6fb6ff@author_0/a3fb6b8c@author_39_Page_1.xml</uri>
+    </author>
+    <published>1990-12-31T04:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <category term="Lang:es" />
+    <summary>En palabras del propio autor, El Evangelio según Jesucristo "es como una relectura de los evangelios, es como un viaje al origen de una religión". Narrada en tercera persona y centrada de modo particular en las etapas y zonas de la vida de Jesucristo acerca de las que procuran menos información los textos evangélicos, la presente novela ha sido acogida del modo más favorable por la crítica en virtud de su vigor y pujanza literaria.</summary>
+    <link href="../8f6fb6ff%40book_0/b10b2861%40book_144.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>En llamas</title>
+    <id>calibre:book:170</id>
+    <updated>2015-03-27T01:53:43Z</updated>
+    <link href="../8f6fb6ff@book_0/9d4bbfbb@book_170_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Suzanne%20Collins/En%20llamas%20%28170%29/En%20llamas%20-%20Suzanne%20Collins.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>Suzanne Collins</name>
+      <uri>../8f6fb6ff@author_0/62731582@author_52_Page_1.xml</uri>
+    </author>
+    <author>
+      <name>Pilar Ramírez Tello</name>
+      <uri>../8f6fb6ff@author_0/8b10b0b7@author_54_Page_1.xml</uri>
+    </author>
+    <published>2012-03-20T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Molino</dcterms:publisher>
+    <category term="Fantasía; terror y ciencia ficción" />
+    <category term="Aventura" />
+    <category term="Ciencia Ficción" />
+    <category term="Infantil y Juvenil" />
+    <category term="Lang:es" />
+    <category term="Los Juegos del Hambre" />
+    <summary>Los Juegos del Hambre [2]: Reseña del editorKatniss Everdeen ha sobrevivido a Los juegos del hambre. Pero el Capitolio quiere venganza. Contra todo pronóstico, Katniss Everdeen y Peeta Mellark siguen vivos. Aunque Katniss debería sentirse aliviada, se rumorea que existe una rebelión contra el Capitolio, una rebelión que puede que Katniss y Peeta hayan ayudado a inspirar. La nación les observa y hay mucho en juego. Un movimiento en falso y las consecuencias serán inimaginables. Biografía del auto...</summary>
+    <link href="../8f6fb6ff%40book_0/9d4bbfbb%40book_170.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Enrique IV Partes I y II</title>
+    <id>calibre:book:261</id>
+    <updated>2015-03-27T01:53:52Z</updated>
+    <link href="../8f6fb6ff@book_0/f1110035@book_261_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/William%20Shakespeare/Enrique%20IV%20Partes%20I%20y%20II%20%28261%29/Enrique%20IV%20Partes%20I%20y%20II%20-%20William%20Shakespeare.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>William Shakespeare</name>
+      <uri>../8f6fb6ff@author_0/beacae01@author_97_Page_1.xml</uri>
+    </author>
+    <published>1596-12-31T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>ePubLibre</dcterms:publisher>
+    <category term="Teatro" />
+    <category term="Histórico" />
+    <category term="Lang:es" />
+    <summary>Las dos partes de Enrique IV pertenecen a la segunda tetralogía de dramas históricos ingleses de Shakespeare (que comienza con Ricardo II y concluye con Enrique V). Si al escribir Ricardo II Shakespeare fue más allá de los avatares del juego político e indagó en la condición humana del rey y en el comportamiento de los hombres, en ENRIQUE IV no sólo avanzó más aún por esta senda, sino que incorporó por primera vez un decisivo ingrediente de comedia al drama histórico En pocas ocasiones planteó S...</summary>
+    <link href="../8f6fb6ff%40book_0/f1110035%40book_261.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Ensayo sobre la ceguera</title>
+    <id>calibre:book:247</id>
+    <updated>2015-03-27T01:53:42Z</updated>
+    <link href="../8f6fb6ff@book_0/2a44c782@book_247_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Jose%20Saramago/Ensayo%20sobre%20la%20ceguera%20%28247%29/Ensayo%20sobre%20la%20ceguera%20-%20Jose%20Saramago.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>José Saramago</name>
+      <uri>../8f6fb6ff@author_0/a3fb6b8c@author_39_Page_1.xml</uri>
+    </author>
+    <published>1994-12-31T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>ePubLibre</dcterms:publisher>
+    <category term="Novela" />
+    <category term="Drama" />
+    <category term="Lang:es" />
+    <summary>Un hombre parado ante un semáforo en rojo se queda ciego súbitamente. Es el primer caso de una «ceguera blanca» que se expande de manera fulminante. Internados en cuarentena o perdidos en la ciudad, los ciegos tendrán que enfrentarse con lo que existe de más primitivo en la naturaleza humana: la voluntad de sobrevivir a cualquier precio. Ensayo sobre la ceguera es la ficción de un autor que nos alerta sobre «la responsabilidad de tener ojos cuando otros los perdieron». José Saramago traza en est...</summary>
+    <link href="../8f6fb6ff%40book_0/2a44c782%40book_247.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Especiales</title>
+    <id>calibre:book:164</id>
+    <updated>2015-03-27T01:53:45Z</updated>
+    <link href="../8f6fb6ff@book_0/833d4ae3@book_164_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Scott%20Westerfeld/Especiales%20%28164%29/Especiales%20-%20Scott%20Westerfeld.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>Scott Westerfeld</name>
+      <uri>../8f6fb6ff@author_0/b926d235@author_74_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Montena</dcterms:publisher>
+    <category term="Ciencia Ficción" />
+    <category term="Romántica" />
+    <category term="Lang:es" />
+    <category term="Uglies" />
+    <summary>Uglies [3]: Tally se ha unido a Circunstancias Especiales y ahora está programada para vencer a la resistencia... Ya hace mucho tiempo que Tally dejó de ser una una imperfecta rebelde e indisciplinada. Por aquel entonces, ella aún creía que los especiales eran solo un rumor siniestro y aterrador: de ellos se decía que eran veloces, atractivos y crueles como nadie. Irónicamente, el destino ha llevado a Tally a convertirse en especial y, tras someterse a la más sofisticada de las operaciones quirú...</summary>
+    <link href="../8f6fb6ff%40book_0/833d4ae3%40book_164.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Esto tiene arreglo</title>
+    <id>calibre:book:145</id>
+    <updated>2015-03-27T01:53:42Z</updated>
+    <link href="../8f6fb6ff@book_0/c60c18f7@book_145_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Alberto%20Garzon%20Espinosa/Esto%20tiene%20arreglo%20%28145%29/Esto%20tiene%20arreglo%20-%20Alberto%20Garzon%20Espinosa.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>Alberto Garzón Espinosa</name>
+      <uri>../8f6fb6ff@author_0/956645ef@author_40_Page_1.xml</uri>
+    </author>
+    <published>2012-03-15T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>LIBRANDA PLANETA</dcterms:publisher>
+    <category term="Lang:es" />
+    <link href="../8f6fb6ff%40book_0/c60c18f7%40book_145.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Estética de la música</title>
+    <id>calibre:book:215</id>
+    <updated>2015-03-27T01:53:46Z</updated>
+    <link href="../8f6fb6ff@book_0/b93d52eb@book_215_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Enrico%20Fubini/Estetica%20de%20la%20musica%20%28215%29/Estetica%20de%20la%20musica%20-%20Enrico%20Fubini.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Enrico%20Fubini/Estetica%20de%20la%20musica%20%28215%29/Estetica%20de%20la%20musica%20-%20Enrico%20Fubini.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Descargar este libro como PDF" />
+    <author>
+      <name>Enrico Fubini</name>
+      <uri>../8f6fb6ff@author_0/4ed43a75@author_81_Page_1.xml</uri>
+    </author>
+    <published>2008-06-30T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Antonio Machado Libros</dcterms:publisher>
+    <category term="Lang:es" />
+    <link href="../8f6fb6ff%40book_0/b93d52eb%40book_215.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Eve</title>
+    <id>calibre:book:153</id>
+    <updated>2015-03-27T01:53:43Z</updated>
+    <link href="../8f6fb6ff@book_0/36748c83@book_153_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Anna%20Carey/Eve%20%28153%29/Eve%20-%20Anna%20Carey.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>Anna Carey</name>
+      <uri>../8f6fb6ff@author_0/ecbafd4b@author_49_Page_1.xml</uri>
+    </author>
+    <published>2012-04-01T10:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>HarperCollins US</dcterms:publisher>
+    <category term="Lang:en" />
+    <category term="Eve" />
+    <summary>Eve [1]: Where do you go when nowhere is safe?Sixteen years after a deadly virus wiped out most of Earth's population, the world is a perilous place. Eighteen-year-old Eve has never been beyond the heavily guarded perimeter of her school, where she and two hundred other orphaned girls have been promised a future as the teachers and artists of the New America. But the night before graduation, Eve learns the shocking truth about her school's real purpose&amp;#8212;and the horrifying fate that awaits h...</summary>
+    <link href="../8f6fb6ff%40book_0/36748c83%40book_153.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Extras</title>
+    <id>calibre:book:165</id>
+    <updated>2015-03-27T01:53:45Z</updated>
+    <link href="../8f6fb6ff@book_0/f43a7a75@book_165_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Scott%20Westerfeld/Extras%20%28165%29/Extras%20-%20Scott%20Westerfeld.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>Scott Westerfeld</name>
+      <uri>../8f6fb6ff@author_0/b926d235@author_74_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Montena</dcterms:publisher>
+    <category term="Ciencia Ficción" />
+    <category term="Romántica" />
+    <category term="Lang:es" />
+    <category term="Uglies" />
+    <summary>Uglies [4]: Tras el fin de la era de los perfectos, la sociedad está sumida en un renacimiento completo... en el que la popularidad manda. Ser famoso implica tener mejor casa, mejor ropa e incluso mejores amigos. En cambio, no serlo te convierte en invisible, en un perdedor, en un completo desconocido. En definitiva, en un extra.Aya Fuse lo es. Pero a sus quince años hay algo que tiene ya muy claro: por nada del mundo piensa resignarse al anonimato. Y está dispuesta a todo para hacer realidad su...</summary>
+    <link href="../8f6fb6ff%40book_0/f43a7a75%40book_165.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>El estudio de la orquestación</title>
+    <id>calibre:book:232</id>
+    <updated>2015-03-27T01:53:47Z</updated>
+    <link href="../8f6fb6ff@book_0/156fa5ca@book_232_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Samuel%20Adler/El%20estudio%20de%20la%20orquestacion%20%28232%29/El%20estudio%20de%20la%20orquestacion%20-%20Samuel%20Adler.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Descargar este libro como PDF" />
+    <author>
+      <name>Samuel Adler</name>
+      <uri>../8f6fb6ff@author_0/a7b79f40@author_87_Page_1.xml</uri>
+    </author>
+    <published>2006-12-14T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Idea Books, S.A.</dcterms:publisher>
+    <category term="Music" />
+    <category term="Instruction &amp; Study" />
+    <category term="Appreciation" />
+    <category term="Lang:es" />
+    <link href="../8f6fb6ff%40book_0/156fa5ca%40book_232.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>
+

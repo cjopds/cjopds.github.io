@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:opds="http://opds-spec.org/2010/catalog">
+  <title>Crepúsculo</title>
+  <id>Calibre2opds::serieslistseries:10</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./4c1c732d%40series_10_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Crepúsculo" />
+  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Biblioteca de Calibre de CJ" />
+  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Biblioteca de Calibre de CJ" />
+  <link href="../8f6fb6ff%40serieslist/9b9c2e2f%40serieslist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Series:" />
+  <entry>
+    <title>1 - Crepusculo</title>
+    <id>calibre:book:201</id>
+    <updated>2015-03-27T01:53:45Z</updated>
+    <link href="../8f6fb6ff@book_0/a74ba7b3@book_201_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Stephenie%20Meyer/Crepusculo%20%28201%29/Crepusculo%20-%20Stephenie%20Meyer.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>Stephenie Meyer</name>
+      <uri>../8f6fb6ff@author_0/50457700@author_72_Page_1.xml</uri>
+    </author>
+    <published>2006-06-20T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Alfaguara</dcterms:publisher>
+    <category term="Juvenile Fiction" />
+    <category term="Love &amp; Romance" />
+    <category term="Infantil y Juvenil" />
+    <category term="Fantástico" />
+    <category term="Lang:es" />
+    <category term="Crepúsculo" />
+    <summary>Crepúsculo [1]: CríticasLlega a nuestro país el fenómeno de literatura fantástica que ha conmocionado el panorama de la literatura juvenil internacional y que seducirá a los lectores ávidos de una historia de amor apasionante, llena de sensualidad, aventura e intriga, con la que sentirse identificados y a la vez transportados a un mundo diferente. Cuando Isabella Swan se muda a Forks, una pequeña localidad del estado de Washington en la que nunca deja de llover, piensa que es lo más aburrido que...</summary>
+    <link href="../8f6fb6ff%40book_0/a74ba7b3%40book_201.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>2 - Luna nueva</title>
+    <id>calibre:book:203</id>
+    <updated>2015-03-27T01:53:45Z</updated>
+    <link href="../8f6fb6ff@book_0/4945c69f@book_203_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Stephenie%20Meyer/Luna%20nueva%20%28203%29/Luna%20nueva%20-%20Stephenie%20Meyer.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Stephenie%20Meyer/Luna%20nueva%20%28203%29/Luna%20nueva%20-%20Stephenie%20Meyer.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Descargar este libro como PDF" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Stephenie%20Meyer/Luna%20nueva%20%28203%29/Luna%20nueva%20-%20Stephenie%20Meyer.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Descargar este libro como MOBI" />
+    <author>
+      <name>Stephenie Meyer</name>
+      <uri>../8f6fb6ff@author_0/50457700@author_72_Page_1.xml</uri>
+    </author>
+    <published>2007-10-01T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Alfaguara</dcterms:publisher>
+    <category term="Infantil y Juvenil" />
+    <category term="Fantasía; terror y ciencia ficción" />
+    <category term="Lang:es" />
+    <category term="Crepúsculo" />
+    <summary>Crepúsculo [2]: Para Bella Swan, hay una cosa más importante que su propia vida - Edward Cullen. Pero enamorarse de un vampiro es más peligroso de lo que Bella nunca podría haber imaginado. Edward ya ha rescatado a Bella de las garras de un diabólico vampiro, pero ahora, a medida que su arriesgada relación amenaza todo lo que es cercano y querido para ellos, se dan cuenta que sus problemas puede que sólo estén empezando.</summary>
+    <link href="../8f6fb6ff%40book_0/4945c69f%40book_203.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>3 - Eclipse</title>
+    <id>calibre:book:202</id>
+    <updated>2015-03-27T01:53:45Z</updated>
+    <link href="../8f6fb6ff@book_0/3e42f609@book_202_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Stephenie%20Meyer/Eclipse%20%28202%29/Eclipse%20-%20Stephenie%20Meyer.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Stephenie%20Meyer/Eclipse%20%28202%29/Eclipse%20-%20Stephenie%20Meyer.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Descargar este libro como PDF" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Stephenie%20Meyer/Eclipse%20%28202%29/Eclipse%20-%20Stephenie%20Meyer.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Descargar este libro como MOBI" />
+    <author>
+      <name>Stephenie Meyer</name>
+      <uri>../8f6fb6ff@author_0/50457700@author_72_Page_1.xml</uri>
+    </author>
+    <published>2008-11-19T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Alfaguara</dcterms:publisher>
+    <category term="Infantil y Juvenil" />
+    <category term="Literatura y narrativa" />
+    <category term="Lang:es" />
+    <category term="Crepúsculo" />
+    <summary>Crepúsculo [3]: Reseña del editor«De pronto, saltó una chispa de intuición en aquel silencio sepulcral y encajaron todos los detalles. Algo que Edward no quería que supiera. Algo que Jacob no me hubiera ocultado. Algo que había hecho que los Cullen y los licántropos anduvieran juntos por los bosques en una peligrosa proximidad.» Biografía del autorStephenie Meyer nació en Connecticut en 1973. Su familia se trasladó a Phoenix (Arizona) cuando ella tenía cuatro años. Su particular nombre (Stepheni...</summary>
+    <link href="../8f6fb6ff%40book_0/3e42f609%40book_202.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>4 - Amanecer</title>
+    <id>calibre:book:200</id>
+    <updated>2015-03-27T01:53:45Z</updated>
+    <link href="../8f6fb6ff@book_0/d04c9725@book_200_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Stephenie%20Meyer/Amanecer%20%28200%29/Amanecer%20-%20Stephenie%20Meyer.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>Stephenie Meyer</name>
+      <uri>../8f6fb6ff@author_0/50457700@author_72_Page_1.xml</uri>
+    </author>
+    <published>2008-10-01T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Alfaguara</dcterms:publisher>
+    <category term="Fantasía; terror y ciencia ficción" />
+    <category term="Fantástico" />
+    <category term="Infantil y Juvenil" />
+    <category term="Lang:es" />
+    <category term="Crepúsculo" />
+    <summary>Crepúsculo [4]: Críticas"Crepúsculo tentó a la imaginación. Luna nueva dejó a los lectores sedientos de más. Eclipse convirtió la saga en un fenómeno. Y ahora, Amanecer, te dejará sin aliento." Little, Brown for Young readers --Este texto se refiere a la edición Tapa blanda .Reseña del editorTe quedas sin opciones cuando amas a tu potencial asesino. ¿Acaso es posible huir o luchar si eso causa un grave perjuicio a quien quieres? Si la vida es cuanto puedes darle y de verdad le amas por encima de...</summary>
+    <link href="../8f6fb6ff%40book_0/d04c9725%40book_200.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>
+

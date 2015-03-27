@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Otelo</title>
+  <id>urn:book:6f481c4e-3bef-4c02-92d9-076f9bbbafbb</id>
+  <updated>2015-03-27T01:53:52Z</updated>
+  <link href="./dd5197ef%40book_255.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Otelo" />
+  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Biblioteca de Calibre de CJ" />
+  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Biblioteca de Calibre de CJ" />
+  <link href="../8f6fb6ff%40authorlist/e8e4356e%40authorlist_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="dd5197ef@book_255_cover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../8f6fb6ff@book_0/dd5197ef@book_255_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/William%20Shakespeare/Otelo%20%28255%29/Otelo%20-%20William%20Shakespeare.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+  <author>
+    <name>William Shakespeare</name>
+    <uri>../8f6fb6ff@author_0/beacae01@author_97_Page_1.xml</uri>
+  </author>
+  <published>1602-12-31T11:00:00Z</published>
+  <dcterms:language>es</dcterms:language>
+  <dcterms:publisher>ePubLibre</dcterms:publisher>
+  <category term="Teatro" />
+  <category term="Drama" />
+  <category term="Lang:es" />
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      Sin puntuación
+    </p>
+    <p>
+      <strong>Etiquetas:</strong>
+      Teatro, Drama, Lang:es
+    </p>
+    <p>
+      <strong>Published:</strong>
+      31 de diciembre de 1602
+    </p>
+    <p>
+      <strong>Sumario:</strong>
+    </p>
+    <p xmlns="">La historia original del moro de Venecia, de Gianbattista
+    Cinthio (1565), sirvió a William Shakespeare para crear
+    Otelo, la única de sus «grandes tragedias»
+    basada en una obra de ficción. Contraviniendo la imagen
+    isabelina del «moro», Shakespeare invierte los
+    papeles de los protagonistas y otorga a Otelo el carácter
+    de hombre noble y aristocrático, mientras que reserva para
+    el italiano Yago la perversidad y la hipocresía,
+    desarrollando en él uno de los estudios más profundos
+    del mal. Otelo se representa como la tragedia de la
+    incomprensión, en la que luchan el amor puro, la
+    pasión, el orgullo, los celos, la venganza..., y en la que
+    al final el protagonista, como un auténtico héroe
+    trágico, consciente de su degradación y de su
+    perdida, escribe su propio epitafio con la angustia del
+    héroe destrozado. Ángel-Luis Pujante,
+    catedrático de Filología Inglesa de la Universidad de
+    Murcia, argumenta en su Introducción los procedimientos
+    retóricos y poéticos de esta obra de acción,
+    cuya ironía estructural y dramática la convierte en
+    una de las tragedias más intensas del teatro
+    universal.</p>
+  </content>
+  <link href="../8f6fb6ff%40author_0/beacae01%40author_97_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Libros de William Shakespeare" />
+  <link href="http://www.goodreads.com/book/title/Otelo" type="text/html" rel="related" title="Este libro en Goodreads" />
+  <link href="http://es.wikipedia.org/wiki/Otelo" type="text/html" rel="related" title="Este libro en Wikipedia" />
+  <link href="http://www.librarything.com/title/Otelo%20William%20Shakespeare" type="text/html" rel="related" title="Este libro en LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=Otelo&amp;field-author=William%20Shakespeare" type="text/html" rel="related" title="Este libro en Amazon" />
+  <link href="http://www.goodreads.com/book/author/William%20Shakespeare" type="text/html" rel="related" title="William Shakespeare en Goodreads" />
+  <link href="http://es.wikipedia.org/wiki/William%20Shakespeare" type="text/html" rel="related" title="William Shakespeare en Wikipedia" />
+  <link href="http://www.librarything.com/author/ShakespeareWilliam" type="text/html" rel="related" title="William Shakespeare en LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=William%20Shakespeare" type="text/html" rel="related" title="William Shakespeare en Amazon" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?William%20Shakespeare" type="text/html" rel="related" title="William Shakespeare en ISFDB" />
+</entry>
+

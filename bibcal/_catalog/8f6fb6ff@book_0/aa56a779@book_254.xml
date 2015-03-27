@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Hamlet, Príncipe de Dinamarca</title>
+  <id>urn:book:e9c767fa-0488-4a6f-ab54-dca50a7310eb</id>
+  <updated>2015-03-27T01:53:52Z</updated>
+  <link href="./aa56a779%40book_254.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Hamlet, Príncipe de Dinamarca" />
+  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Biblioteca de Calibre de CJ" />
+  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Biblioteca de Calibre de CJ" />
+  <link href="../8f6fb6ff%40authorlist/e8e4356e%40authorlist_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="aa56a779@book_254_cover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../8f6fb6ff@book_0/aa56a779@book_254_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/William%20Shakespeare/Hamlet%2C%20Principe%20de%20Dinamarca%20%28254%29/Hamlet%2C%20Principe%20de%20Dinamarca%20-%20William%20Shakespeare.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+  <author>
+    <name>William Shakespeare</name>
+    <uri>../8f6fb6ff@author_0/beacae01@author_97_Page_1.xml</uri>
+  </author>
+  <published>1602-12-31T11:00:00Z</published>
+  <dcterms:language>es</dcterms:language>
+  <dcterms:publisher>ePubLibre</dcterms:publisher>
+  <category term="Teatro" />
+  <category term="Drama" />
+  <category term="Lang:es" />
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      Sin puntuación
+    </p>
+    <p>
+      <strong>Etiquetas:</strong>
+      Teatro, Drama, Lang:es
+    </p>
+    <p>
+      <strong>Published:</strong>
+      31 de diciembre de 1602
+    </p>
+    <p>
+      <strong>Sumario:</strong>
+    </p>
+    <p xmlns="">Obra en la que el genio de William Shakespeare brilla con
+    especial fuerza. La tragedia de Hamlet traza el admirable
+    retrato de un legendario príncipe de Dinamarca
+    soñador y contemplativo, sumido en dudas e irresoluciones,
+    que, obligado a esclarecer los motivos que llevaron a la muerte
+    de su padre, sucumbe ante la fatalidad de las circunstancias.
+    Poblada por una abundante y compleja galería de personajes
+    secundarios, la obra ha gozado de una constante vigencia a lo
+    largo del tiempo, que ha hecho que se incorporen al lenguaje
+    común numerosas expresiones de la obra («ser o no
+    ser», «palabras, palabras, palabras», «lo
+    demás es silencio») que han llegado a hacerse
+    emblemáticas. La ambigüedad, la ambivalencia y la
+    desorientación del protagonista lo aproximan notablemente,
+    por otro lado, a la sensibilidad de nuestra época.</p>
+  </content>
+  <link href="../8f6fb6ff%40author_0/beacae01%40author_97_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Libros de William Shakespeare" />
+  <link href="http://www.goodreads.com/book/title/Hamlet%2C%20Pr%C3%ADncipe%20de%20Dinamarca" type="text/html" rel="related" title="Este libro en Goodreads" />
+  <link href="http://es.wikipedia.org/wiki/Hamlet%2C%20Pr%C3%ADncipe%20de%20Dinamarca" type="text/html" rel="related" title="Este libro en Wikipedia" />
+  <link href="http://www.librarything.com/title/Hamlet%2C%20Pr%C3%ADncipe%20de%20Dinamarca%20William%20Shakespeare" type="text/html" rel="related" title="Este libro en LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=Hamlet%2C%20Pr%C3%ADncipe%20de%20Dinamarca&amp;field-author=William%20Shakespeare" type="text/html" rel="related" title="Este libro en Amazon" />
+  <link href="http://www.goodreads.com/book/author/William%20Shakespeare" type="text/html" rel="related" title="William Shakespeare en Goodreads" />
+  <link href="http://es.wikipedia.org/wiki/William%20Shakespeare" type="text/html" rel="related" title="William Shakespeare en Wikipedia" />
+  <link href="http://www.librarything.com/author/ShakespeareWilliam" type="text/html" rel="related" title="William Shakespeare en LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=William%20Shakespeare" type="text/html" rel="related" title="William Shakespeare en Amazon" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?William%20Shakespeare" type="text/html" rel="related" title="William Shakespeare en ISFDB" />
+</entry>
+

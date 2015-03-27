@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:opds="http://opds-spec.org/2010/catalog">
+  <title>Dashner, James</title>
+  <id>Calibre2opds:author:45</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./e50cb160%40author_45_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Dashner, James" />
+  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Biblioteca de Calibre de CJ" />
+  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Biblioteca de Calibre de CJ" />
+  <link href="../8f6fb6ff%40authorlist/e8e4356e%40authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <entry>
+    <title>Todos los libros de James Dashner</title>
+    <id>Calibre2opds:allbooks</id>
+    <content type="text">Indice alfabético de 9 libros</content>
+    <link href="../8f6fb6ff%40author_0/2facb9cb%40author_45_allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../allbooks.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Series: El corredor del laberinto</title>
+    <id>Calibre2opds:author:45series:1</id>
+    <content type="text">3 libros</content>
+    <link href="../8f6fb6ff%40author_0/5523833e%40author_45_series_1_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../series.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Series: The Maze Runner</title>
+    <id>Calibre2opds:author:45series:4</id>
+    <content type="text">6 libros</content>
+    <link href="../8f6fb6ff%40author_0/254977b1%40author_45_series_4_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../series.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+</feed>
+

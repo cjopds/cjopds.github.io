@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:opds="http://opds-spec.org/2010/catalog">
+  <title>Libros que empiezan por B</title>
+  <id>Calibre2opds:allbooks:B</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./c67a4b73%40allbooks_B_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Libros que empiezan por B" />
+  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Biblioteca de Calibre de CJ" />
+  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Biblioteca de Calibre de CJ" />
+  <link href="./c67a4b73%40allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Todos los libros" />
+  <entry>
+    <title>Bajo el cielo eterno</title>
+    <id>calibre:book:222</id>
+    <updated>2015-03-27T01:53:46Z</updated>
+    <link href="../8f6fb6ff@book_0/c74948b@book_222_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Veronica%20Rossi/Bajo%20el%20cielo%20eterno%20%28222%29/Bajo%20el%20cielo%20eterno%20-%20Veronica%20Rossi.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>Veronica Rossi</name>
+      <uri>../8f6fb6ff@author_0/a0da5b59@author_83_Page_1.xml</uri>
+    </author>
+    <published>2012-03-27T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>B de Books</dcterms:publisher>
+    <category term="Juvenile Fiction" />
+    <category term="Love &amp; Romance" />
+    <category term="Lang:es" />
+    <category term="Bajo el cielo eterno" />
+    <summary>Bajo el cielo eterno [1]: Distopía + Aventura + Romance + Ciencia ficción: la novela perfecta. ¡Vendida a más de 20 idiomas! Desde que estaba fuera había sobrevivido a una tormenta de éter, alguien la había amenazado con un cuchillo y había visto hombres asesinados. Pero esto es aun peor. Aria ha perdido su casa en la protegida ciudad de Ensoñación y sabe que sus probabilidades de sobrevivir en esta tierra agreste son mínimas. Si no son los caníbales, serán las violentas tormentas eléctricas de ...</summary>
+    <link href="../8f6fb6ff%40book_0/c74948b%40book_222.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Buenos dias, Princesa</title>
+    <id>calibre:book:191</id>
+    <updated>2015-03-27T01:53:44Z</updated>
+    <link href="../8f6fb6ff@book_0/74cfa2a3@book_191_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Blue%20Jeans/Buenos%20dias%2C%20Princesa%20%28191%29/Buenos%20dias%2C%20Princesa%20-%20Blue%20Jeans.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Blue%20Jeans/Buenos%20dias%2C%20Princesa%20%28191%29/Buenos%20dias%2C%20Princesa%20-%20Blue%20Jeans.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Descargar este libro como PDF" />
+    <author>
+      <name>Blue Jeans</name>
+      <uri>../8f6fb6ff@author_0/a98baf5f@author_68_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Grupo Planeta</dcterms:publisher>
+    <category term="Lang:es" />
+    <category term="El Club de los Incomprendidos" />
+    <summary>El Club de los Incomprendidos [1]: Hace dos años se conocieron cuando más se necesitaban y formaron el CLUB DE LOS INCOMPRENDIDOS. Sin embargo, algo ha cambiado y ahora ya no saben si pueden contar los unos con los otros. Valeria no sabe si al dejarse llevar por lo que siente puede traicionar a su mejor amiga; Bruno escribe cartas de amor que no dan resultado; María es el patito feo que busca su sitio; Elísabet no está acostumbrada a que le digan que no; Raúl no quiere equivocarse esta vez, y a ...</summary>
+    <link href="../8f6fb6ff%40book_0/74cfa2a3%40book_191.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>La batalla del laberinto</title>
+    <id>calibre:book:179</id>
+    <updated>2015-03-27T01:53:43Z</updated>
+    <link href="../8f6fb6ff@book_0/e497071f@book_179_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Rick%20Riordan/La%20batalla%20del%20laberinto%20%28179%29/La%20batalla%20del%20laberinto%20-%20Rick%20Riordan.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>Rick Riordan</name>
+      <uri>../8f6fb6ff@author_0/82a6fc9c@author_58_Page_1.xml</uri>
+    </author>
+    <published>2008-05-05T10:32:05Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Salamandra</dcterms:publisher>
+    <category term="Fantasía; terror y ciencia ficción" />
+    <category term="Infantil y Juvenil" />
+    <category term="Aventura" />
+    <category term="Fantástico" />
+    <category term="Lang:es" />
+    <category term="Percy Jackson y los dioses del Olimpo" />
+    <summary>Percy Jackson y los dioses del Olimpo [4]: Percy Jackson no espera que la orientación de primer año sera nada divertido, pero cuando un conocido mortal misterioso aparece, perseguido por porristas demonios, las cosas rápidamente van de mal en peor. El tiempo se agota para Percy. La guerra entre los dioses y los titanes se acerca. Ni siquiera el Campamento para semidioses es seguro, cuando el ejército de Kronos se prepara para invadir sus fronteras, una vez es impenetrable. Para detenerlos, Percy...</summary>
+    <link href="../8f6fb6ff%40book_0/e497071f%40book_179.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>
+

@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:opds="http://opds-spec.org/2010/catalog">
+  <title>Todos los libros de Veronica Roth</title>
+  <id>Calibre2opds:allbooks</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./bb50af8d%40author_73_allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Todos los libros de Veronica Roth" />
+  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Biblioteca de Calibre de CJ" />
+  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Biblioteca de Calibre de CJ" />
+  <link href="../8f6fb6ff%40authorlist/e8e4356e%40authorlist_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="./27424796%40author_73_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Roth, Veronica" />
+  <entry>
+    <title>Allegiant</title>
+    <id>calibre:book:204</id>
+    <updated>2015-03-27T01:53:45Z</updated>
+    <link href="../8f6fb6ff@book_0/d721533c@book_204_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Veronica%20Roth/Allegiant%20%28204%29/Allegiant%20-%20Veronica%20Roth.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>Veronica Roth</name>
+      <uri>../8f6fb6ff@author_0/27424796@author_73_Page_1.xml</uri>
+    </author>
+    <published>2013-10-21T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <category term="Juvenile Fiction" />
+    <category term="Dystopian" />
+    <category term="Love &amp; Romance" />
+    <category term="Social Issues" />
+    <category term="Values &amp; Virtues" />
+    <category term="YA" />
+    <category term="Distopía" />
+    <category term="Ciencia Ficción" />
+    <category term="Romance" />
+    <category term="Aventura" />
+    <category term="Lang:es" />
+    <category term="Divergent" />
+    <summary>Divergent [3]: What if your whole world was a lie?What if a single revelation—like a single choice—changed everything?What if love and loyalty made you do things you never expected?The explosive conclusion to Veronica Roth's #1 New York Times bestselling Divergent trilogy reveals the secrets of the dystopian world that has captivated millions of readers in Divergent and Insurgent.</summary>
+    <link href="../8f6fb6ff%40book_0/d721533c%40book_204.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Divergent</title>
+    <id>calibre:book:199</id>
+    <updated>2015-03-27T01:53:45Z</updated>
+    <link href="../8f6fb6ff@book_0/7a142a91@book_199_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Veronica%20Roth/Divergent%20%28199%29/Divergent%20-%20Veronica%20Roth.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>Veronica Roth</name>
+      <uri>../8f6fb6ff@author_0/27424796@author_73_Page_1.xml</uri>
+    </author>
+    <published>2011-05-02T02:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Harper Collins, Inc.</dcterms:publisher>
+    <category term="Lang:en" />
+    <link href="../8f6fb6ff%40book_0/7a142a91%40book_199.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Divergente</title>
+    <id>calibre:book:205</id>
+    <updated>2015-03-27T01:53:45Z</updated>
+    <link href="../8f6fb6ff@book_0/a02663aa@book_205_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Veronica%20Roth/Divergente%20%28205%29/Divergente%20-%20Veronica%20Roth.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>Veronica Roth</name>
+      <uri>../8f6fb6ff@author_0/27424796@author_73_Page_1.xml</uri>
+    </author>
+    <author>
+      <name>Pilar Ramírez Tello</name>
+      <uri>../8f6fb6ff@author_0/8b10b0b7@author_54_Page_1.xml</uri>
+    </author>
+    <published>2011-10-17T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Molino</dcterms:publisher>
+    <category term="Aventura" />
+    <category term="Fantasía; terror y ciencia ficción" />
+    <category term="Infantil y Juvenil" />
+    <category term="Romántico" />
+    <category term="Ciencia Ficción" />
+    <category term="Lang:es" />
+    <category term="Divergent" />
+    <summary>Divergent [1]: En el Chicago distópico de Beatrice Prior, la sociedad está dividida en cinco facciones, cada una de ellas dedicada a cultivar una virtud concreta: Verdad (los sinceros), Abnegación (los altruistas), Osadía (los valientes), Cordialidad (los pacíficos) y Erudición (los inteligentes). En una ceremonia anual, todos los chicos de dieciséis años deben decidir a qué facción dedicarán el resto de sus vidas. Beatrice tiene que elegir entre quedarse con su familia... y ser quien realmente ...</summary>
+    <link href="../8f6fb6ff%40book_0/a02663aa%40book_205.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Free Four - Tobias Tells the Divergent Knife-Throwing Scene</title>
+    <id>calibre:book:206</id>
+    <updated>2015-03-27T01:53:45Z</updated>
+    <link href="../8f6fb6ff@book_0/392f3210@book_206_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Veronica%20Roth/Free%20Four%20-%20Tobias%20Tells%20the%20Divergent%20Knife-Throwing%20Scene%20%28206%29/Free%20Four%20-%20Tobias%20Tells%20the%20Divergent%20Kni%20-%20Veronica%20Roth.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>Veronica Roth</name>
+      <uri>../8f6fb6ff@author_0/27424796@author_73_Page_1.xml</uri>
+    </author>
+    <published>2013-09-25T10:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>HarperCollins UK</dcterms:publisher>
+    <category term="Juvenile Fiction" />
+    <category term="General" />
+    <category term="Fantasy &amp; Magic" />
+    <category term="Love &amp; Romance" />
+    <category term="Lang:en" />
+    <category term="Four: A Divergent Story Collection" />
+    <summary>Four: A Divergent Story Collection [3]: Fans of the Divergent series by No. 1 New York Times bestselling author Veronica Roth will be thrilled by the knife-throwing scene from Divergent, now told from Four’s perspective. This brief story explores the world of the Divergent series through the eyes of the mysterious but charismatic Tobias Eaton, revealing previously unknown facets of his personality, backstory and relationships.</summary>
+    <link href="../8f6fb6ff%40book_0/392f3210%40book_206.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Insurgente</title>
+    <id>calibre:book:207</id>
+    <updated>2015-03-27T01:53:45Z</updated>
+    <link href="../8f6fb6ff@book_0/4e280286@book_207_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Veronica%20Roth/Insurgente%20%28207%29/Insurgente%20-%20Veronica%20Roth.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>Veronica Roth</name>
+      <uri>../8f6fb6ff@author_0/27424796@author_73_Page_1.xml</uri>
+    </author>
+    <author>
+      <name>Pilar Ramírez Tello</name>
+      <uri>../8f6fb6ff@author_0/8b10b0b7@author_54_Page_1.xml</uri>
+    </author>
+    <published>2012-09-05T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Molino</dcterms:publisher>
+    <category term="Literary Criticism" />
+    <category term="Children's Literature" />
+    <category term="Ciencia Ficción" />
+    <category term="Infantil y Juvenil" />
+    <category term="Romántico" />
+    <category term="Lang:es" />
+    <category term="Divergent" />
+    <summary>Divergent [2]: Reseña del editorUna sola opción puede transformarte, o te puede destruir, pero siempre tiene consecuencias. Con la oleada de disturbios en las distintas facciones, Tris deberá asegurarse de proteger a los que ama, mientras se enfrenta a inquietantes preguntas sobre la culpabilidad, el perdón, la identidad, la lealtad, la política y el amor. El día de la iniciación de Tris debería haber sido una celebración de la facción elegida, en cambio, el día terminó con un gran problema. El ...</summary>
+    <link href="../8f6fb6ff%40book_0/4e280286%40book_207.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Transfer: A Divergent Story</title>
+    <id>calibre:book:208</id>
+    <updated>2015-03-27T01:53:45Z</updated>
+    <link href="../8f6fb6ff@book_0/de971f17@book_208_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Veronica%20Roth/The%20Transfer_%20A%20Divergent%20Story%20%28208%29/The%20Transfer_%20A%20Divergent%20Story%20-%20Veronica%20Roth.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>Veronica Roth</name>
+      <uri>../8f6fb6ff@author_0/27424796@author_73_Page_1.xml</uri>
+    </author>
+    <published>2013-09-02T10:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>HarperCollins UK</dcterms:publisher>
+    <category term="Juvenile Fiction" />
+    <category term="General" />
+    <category term="Action &amp; Adventure" />
+    <category term="Fantasy &amp; Magic" />
+    <category term="Love &amp; Romance" />
+    <category term="Lang:en" />
+    <category term="Four: A Divergent Story Collection" />
+    <summary>Four: A Divergent Story Collection [2]: More Four!Fans of the Divergent series by No. 1 New York Times bestselling author Veronica Roth will be thrilled by ‘The Transfer’, the first of four new short stories told from Four’s perspective. DIVERGENT – a major motion picture in 2014. This short story explores the world of the Divergent series through the eyes of the mysterious but charismatic Tobias Eaton, revealing previously unknown secrets of his personality and intriguing backstory. See how it ...</summary>
+    <link href="../8f6fb6ff%40book_0/de971f17%40book_208.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>
+

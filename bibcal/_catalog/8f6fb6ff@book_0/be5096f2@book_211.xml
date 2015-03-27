@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Los girasoles ciegos</title>
+  <id>urn:book:34ca15c6-79d5-4635-8ca7-996a5b2cffa9</id>
+  <updated>2015-03-27T01:53:46Z</updated>
+  <link href="./be5096f2%40book_211.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Los girasoles ciegos" />
+  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Biblioteca de Calibre de CJ" />
+  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Biblioteca de Calibre de CJ" />
+  <link href="../8f6fb6ff%40authorlist/e8e4356e%40authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="be5096f2@book_211_cover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../8f6fb6ff@book_0/be5096f2@book_211_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Alberto%20Mendez/Los%20girasoles%20ciegos%20%28211%29/Los%20girasoles%20ciegos%20-%20Alberto%20Mendez.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+  <author>
+    <name>Alberto Méndez</name>
+    <uri>../8f6fb6ff@author_0/202f838f@author_77_Page_1.xml</uri>
+  </author>
+  <published>2003-12-31T11:00:00Z</published>
+  <dcterms:language>es</dcterms:language>
+  <dcterms:publisher>ePubLibre</dcterms:publisher>
+  <category term="Novela" />
+  <category term="Drama" />
+  <category term="Lang:es" />
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      Sin puntuación
+    </p>
+    <p>
+      <strong>Etiquetas:</strong>
+      Novela, Drama, Lang:es
+    </p>
+    <p>
+      <strong>Published:</strong>
+      31 de diciembre de 2003
+    </p>
+    <p>
+      <strong>Sumario:</strong>
+    </p>
+    <p xmlns="">La guerra civil española se convierte en la pluma de
+    Alberto Méndez en una colección de susurros, de
+    historias contadas por fin con la boca abierta, sin eufemismos,
+    y que desnudan fundamentalmente una inquietante verdad:
+    después de toda aquella devastadora carnicería no
+    hubo rastro de victoria alguna, no existió presunto
+    héroe que no hubiese sido fatalmente derrotado. Los
+    rumores broncos y las sílabas miedosas de aquel
+    período forman en Los girasoles ciegos un pentagrama
+    frágil, cuajado de notas perdidas y consonantes
+    desgarradas que terminan por evocar una melodía, narrada
+    en cuatro relatos que nos hablan de las vidas que fueron
+    borradas, suprimidas. El capitán Alegría, un miembro
+    del ejército ganador que el día antes de la victoria
+    se pasa al bando republicano; un joven poeta que huye con su
+    chica embarazada y debe enfrentarse tempranamente al misterio
+    último de la muerte; un preso que se resiste a ser
+    fusilado cubierto de mentiras, y prefiere arrastrar consigo a
+    la muerte los falsos y tranquilizadores recuerdos de los
+    verdugos; y un niño que protege celosamente un secreto de
+    las malvadas invectivas de un cura abrasado por la lascivia:
+    los personajes de Méndez componen la memoria de una
+    batalla sin victorias, se reivindican como los perdedores
+    heroicos que toda guerra deja tras de sí. Porque la
+    injusticia de la devastación en ocasiones sólo puede
+    ser contrarrestada por un acto luminoso de justicia
+    poética.</p>
+  </content>
+  <link href="../8f6fb6ff%40author_0/202f838f%40author_77_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Libros de Alberto Méndez" />
+  <link href="http://www.goodreads.com/book/title/Los%20girasoles%20ciegos" type="text/html" rel="related" title="Este libro en Goodreads" />
+  <link href="http://es.wikipedia.org/wiki/Los%20girasoles%20ciegos" type="text/html" rel="related" title="Este libro en Wikipedia" />
+  <link href="http://www.librarything.com/title/Los%20girasoles%20ciegos%20Alberto%20M%C3%A9ndez" type="text/html" rel="related" title="Este libro en LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=Los%20girasoles%20ciegos&amp;field-author=Alberto%20M%C3%A9ndez" type="text/html" rel="related" title="Este libro en Amazon" />
+  <link href="http://www.goodreads.com/book/author/Alberto%20M%C3%A9ndez" type="text/html" rel="related" title="Alberto Méndez en Goodreads" />
+  <link href="http://es.wikipedia.org/wiki/Alberto%20M%C3%A9ndez" type="text/html" rel="related" title="Alberto Méndez en Wikipedia" />
+  <link href="http://www.librarything.com/author/M%C3%A9ndezAlberto" type="text/html" rel="related" title="Alberto Méndez en LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Alberto%20M%C3%A9ndez" type="text/html" rel="related" title="Alberto Méndez en Amazon" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Alberto%20M%C3%A9ndez" type="text/html" rel="related" title="Alberto Méndez en ISFDB" />
+</entry>
+

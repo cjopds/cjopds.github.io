@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>An Abundance of Katherines</title>
+  <id>urn:book:6167b168-ec6c-4edd-a559-112b966d02d2</id>
+  <updated>2015-03-27T01:53:42Z</updated>
+  <link href="./442ee01%40book_173.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="An Abundance of Katherines" />
+  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Biblioteca de Calibre de CJ" />
+  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Biblioteca de Calibre de CJ" />
+  <link href="../8f6fb6ff%40authorlist/e8e4356e%40authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="442ee01@book_173_cover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../8f6fb6ff@book_0/442ee01@book_173_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/John%20Green/An%20Abundance%20of%20Katherines%20%28173%29/An%20Abundance%20of%20Katherines%20-%20John%20Green.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+  <author>
+    <name>John Green</name>
+    <uri>../8f6fb6ff@author_0/7c05e0da@author_46_Page_1.xml</uri>
+  </author>
+  <published>2006-09-01T10:00:00Z</published>
+  <dcterms:language>en</dcterms:language>
+  <dcterms:publisher>Dutton E P</dcterms:publisher>
+  <category term="Infantil y Juvenil" />
+  <category term="Literatura y narrativa" />
+  <category term="Juvenile Fiction" />
+  <category term="General" />
+  <category term="Lang:en" />
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      ****
+    </p>
+    <p>
+      <strong>Etiquetas:</strong>
+      Infantil y Juvenil, Literatura y narrativa, Juvenile Fiction, General, Lang:en
+    </p>
+    <p>
+      <strong>Published:</strong>
+      1 de septiembre de 2006
+    </p>
+    <p>
+      <strong>Sumario:</strong>
+    </p>
+    <p xmlns="" class="description">From the #1 bestselling author of The
+    Fault in Our Stars Michael L. Printz Honor Book Los Angeles
+    Times Book Prize Finalist Katherine V thought boys were gross
+    Katherine X just wanted to be friends Katherine XVIII dumped
+    him in an e-mail K-19 broke his heart When it comes to
+    relationships, Colin Singleton's type happens to be girls named
+    Katherine. And when it comes to girls named Katherine, Colin is
+    always getting dumped. Nineteen times, to be exact. On a road
+    trip miles from home, this anagram-happy, washed-up child
+    prodigy has ten thousand dollars in his pocket, a bloodthirsty
+    feral hog on his trail, and an overweight, Judge Judy-loving
+    best friend riding shotgun--but no Katherines. Colin is on a
+    mission to prove The Theorem of Underlying Katherine
+    Predictability, which he hopes will predict the future of any
+    relationship, avenge Dumpees everywhere, and finally win him
+    the girl. Love, friendship, and a dead Austro-Hungarian
+    archduke add up to surprising and heart-changing conclusions in
+    this ingeniously layered comic novel about reinventing
+    oneself.</p>
+  </content>
+  <link href="../8f6fb6ff%40author_0/7c05e0da%40author_46_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Libros de John Green" />
+  <link href="http://www.goodreads.com/book/title/An%20Abundance%20of%20Katherines" type="text/html" rel="related" title="Este libro en Goodreads" />
+  <link href="http://es.wikipedia.org/wiki/An%20Abundance%20of%20Katherines" type="text/html" rel="related" title="Este libro en Wikipedia" />
+  <link href="http://www.librarything.com/title/An%20Abundance%20of%20Katherines%20John%20Green" type="text/html" rel="related" title="Este libro en LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=An%20Abundance%20of%20Katherines&amp;field-author=John%20Green" type="text/html" rel="related" title="Este libro en Amazon" />
+  <link href="http://www.goodreads.com/book/author/John%20Green" type="text/html" rel="related" title="John Green en Goodreads" />
+  <link href="http://es.wikipedia.org/wiki/John%20Green" type="text/html" rel="related" title="John Green en Wikipedia" />
+  <link href="http://www.librarything.com/author/GreenJohn" type="text/html" rel="related" title="John Green en LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=John%20Green" type="text/html" rel="related" title="John Green en Amazon" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?John%20Green" type="text/html" rel="related" title="John Green en ISFDB" />
+</entry>
+

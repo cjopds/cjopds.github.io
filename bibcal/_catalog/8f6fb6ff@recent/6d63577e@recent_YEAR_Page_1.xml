@@ -1,0 +1,508 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:opds="http://opds-spec.org/2010/catalog">
+  <title>Año pasado</title>
+  <id>Calibre2opds:recent:YEAR</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./6d63577e%40recent_YEAR_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Año pasado" />
+  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Biblioteca de Calibre de CJ" />
+  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Biblioteca de Calibre de CJ" />
+  <link href="./6d63577e%40recent_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Añadidos recientemente" />
+  <link href="../8f6fb6ff@recent/6d63577e@recent_YEAR_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (2 de 2)" />
+  <entry>
+    <title>Improve Your Social Skills [22 de septiembre de 2014]</title>
+    <id>calibre:book:221</id>
+    <updated>2015-03-27T01:53:46Z</updated>
+    <link href="../8f6fb6ff@book_0/957dc531@book_221_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Daniel%20Wendler/Improve%20Your%20Social%20Skills%20%28221%29/Improve%20Your%20Social%20Skills%20-%20Daniel%20Wendler.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>Daniel Wendler</name>
+      <uri>../8f6fb6ff@author_0/d7dd6bcf@author_82_Page_1.xml</uri>
+    </author>
+    <published>2014-09-11T10:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <category term="Self-Help" />
+    <category term="Relationships" />
+    <category term="Interpersonal Relations" />
+    <category term="Health; Fitness &amp; Dieting" />
+    <category term="Lang:en" />
+    <summary>Improve Your Social Skills is a comprehensive, practical guide to social skills. It explains the core principles of social interaction in clear, easy to follow lessons. In it, you'll find detailed blueprints for basic skills like conversation and body language in depth, as well as clear explanations for complex topics like empathy, making friends, and dating successfully.   I wrote Improve Your Social Skills to be the guide I desperately needed during my own social struggles. Growing up, I was t...</summary>
+    <link href="../8f6fb6ff%40book_0/957dc531%40book_221.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Estética de la música [20 de septiembre de 2014]</title>
+    <id>calibre:book:215</id>
+    <updated>2015-03-27T01:53:46Z</updated>
+    <link href="../8f6fb6ff@book_0/b93d52eb@book_215_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Enrico%20Fubini/Estetica%20de%20la%20musica%20%28215%29/Estetica%20de%20la%20musica%20-%20Enrico%20Fubini.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Enrico%20Fubini/Estetica%20de%20la%20musica%20%28215%29/Estetica%20de%20la%20musica%20-%20Enrico%20Fubini.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Descargar este libro como PDF" />
+    <author>
+      <name>Enrico Fubini</name>
+      <uri>../8f6fb6ff@author_0/4ed43a75@author_81_Page_1.xml</uri>
+    </author>
+    <published>2008-06-30T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Antonio Machado Libros</dcterms:publisher>
+    <category term="Lang:es" />
+    <link href="../8f6fb6ff%40book_0/b93d52eb%40book_215.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Crónica de una muerte anunciada [17 de septiembre de 2014]</title>
+    <id>calibre:book:212</id>
+    <updated>2015-03-27T01:53:46Z</updated>
+    <link href="../8f6fb6ff@book_0/2759c748@book_212_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Gabriel%20Garcia%20Marquez/Cronica%20de%20una%20muerte%20anunciada%20%28212%29/Cronica%20de%20una%20muerte%20anunciada%20-%20Gabriel%20Garcia%20Marquez.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>Gabriel García Márquez</name>
+      <uri>../8f6fb6ff@author_0/b0909e1e@author_78_Page_1.xml</uri>
+    </author>
+    <published>1980-12-31T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>ePubLibre</dcterms:publisher>
+    <category term="Novela" />
+    <category term="Drama" />
+    <category term="Lang:es" />
+    <summary>Esta novela se basa en un hecho histórico acontecido en la tierra natal del autor. Sin embargo, en García Márquez la dialéctica entre realidad y mito es tan fecunda que eleva el hecho a categoría de metáfora universal sobre la condición humana. Cuando empieza el relato, Santiago Nasar ya está muerto, pues sabe que los hermanos Vicario lo van a matar —de hecho ya lo han matado— para vengar el honor ultrajado de su hermana Ángela, pero la novela concluye en el momento en que Santiago Nasar muere… ...</summary>
+    <link href="../8f6fb6ff%40book_0/2759c748%40book_212.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Los girasoles ciegos [17 de septiembre de 2014]</title>
+    <id>calibre:book:211</id>
+    <updated>2015-03-27T01:53:46Z</updated>
+    <link href="../8f6fb6ff@book_0/be5096f2@book_211_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Alberto%20Mendez/Los%20girasoles%20ciegos%20%28211%29/Los%20girasoles%20ciegos%20-%20Alberto%20Mendez.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>Alberto Méndez</name>
+      <uri>../8f6fb6ff@author_0/202f838f@author_77_Page_1.xml</uri>
+    </author>
+    <published>2003-12-31T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>ePubLibre</dcterms:publisher>
+    <category term="Novela" />
+    <category term="Drama" />
+    <category term="Lang:es" />
+    <summary>La guerra civil española se convierte en la pluma de Alberto Méndez en una colección de susurros, de historias contadas por fin con la boca abierta, sin eufemismos, y que desnudan fundamentalmente una inquietante verdad: después de toda aquella devastadora carnicería no hubo rastro de victoria alguna, no existió presunto héroe que no hubiese sido fatalmente derrotado. Los rumores broncos y las sílabas miedosas de aquel período forman en Los girasoles ciegos un pentagrama frágil, cuajado de notas...</summary>
+    <link href="../8f6fb6ff%40book_0/be5096f2%40book_211.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Luces de bohemia [17 de septiembre de 2014]</title>
+    <id>calibre:book:210</id>
+    <updated>2015-03-27T01:53:46Z</updated>
+    <link href="../8f6fb6ff@book_0/c957a664@book_210_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Ramon%20Maria%20del%20Valle-Inclan/Luces%20de%20bohemia%20%28210%29/Luces%20de%20bohemia%20-%20Ramon%20Maria%20del%20Valle-Inclan.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>Ramón María del Valle-Inclán</name>
+      <uri>../8f6fb6ff@author_0/5728b319@author_76_Page_1.xml</uri>
+    </author>
+    <published>1924-04-22T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>ePubLibre</dcterms:publisher>
+    <category term="Teatro" />
+    <category term="Otros" />
+    <category term="Lang:es" />
+    <summary>Esperpento trágico de la vida literaria de la época. Al degradarse la realidad aparece la farsa y, en un segundo nivel, el esperpento; Los héroes clásicos reflejados en los espejos cóncavos dan el Esperpento, aclara Valle-Inclán. Aquí el espejo cóncavo es una conciencia dolorida, una conciencia moral que escandaliza o aterra. Resulta patético que quien vea la verdad sea un ciego, Max Estrella, soñador perdido en un Madrid absurdo y hambriento.</summary>
+    <link href="../8f6fb6ff%40book_0/c957a664%40book_210.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>El árbol de la ciencia [17 de septiembre de 2014]</title>
+    <id>calibre:book:209</id>
+    <updated>2015-03-27T01:53:46Z</updated>
+    <link href="../8f6fb6ff@book_0/a9902f81@book_209_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Pio%20Baroja/El%20arbol%20de%20la%20ciencia%20%28209%29/El%20arbol%20de%20la%20ciencia%20-%20Pio%20Baroja.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>Pío Baroja</name>
+      <uri>../8f6fb6ff@author_0/ce21e2a3@author_75_Page_1.xml</uri>
+    </author>
+    <published>1911-04-08T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>espaebook</dcterms:publisher>
+    <category term="Novela" />
+    <category term="Lang:es" />
+    <summary>Se considera que “El árbol de la ciencia” es una de las obras capitales de Baroja. La escribió en época de plenitud completa y apareció en la biblioteca "Renacimiento", en 1911. La vida de Andrés Hurtado, como estudiante de Medicina en el Madrid de finales del siglo XIX, es, en gran parte, la vida del novelista, que, en general, no conservaba muy buenos recuerdos de sus profesores. Los retratos que aparecen al principio de algunos de ellos, pueden compararse con los que, mucho después, trazó en ...</summary>
+    <link href="../8f6fb6ff%40book_0/a9902f81%40book_209.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Calibre Quick Start Guide [9 de septiembre de 2014]</title>
+    <id>calibre:book:190</id>
+    <updated>2015-03-27T01:53:44Z</updated>
+    <link href="../8f6fb6ff@book_0/3c89235@book_190_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/John%20Schember/Calibre%20Quick%20Start%20Guide%20%28190%29/Calibre%20Quick%20Start%20Guide%20-%20John%20Schember.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>John Schember</name>
+      <uri>../8f6fb6ff@author_0/3934b2ce@author_67_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <category term="Lang:en" />
+    <link href="../8f6fb6ff%40book_0/3c89235%40book_190.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Un yanki en la corte del Rey Arturo [5 de septiembre de 2014]</title>
+    <id>calibre:book:189</id>
+    <updated>2015-03-27T01:53:43Z</updated>
+    <link href="../8f6fb6ff@book_0/630f1bd0@book_189_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Mark%20Twain/Un%20yanki%20en%20la%20corte%20del%20Rey%20Arturo%20%28189%29/Un%20yanki%20en%20la%20corte%20del%20Rey%20Arturo%20-%20Mark%20Twain.prc" type="application/x-mobipocket" rel="http://opds-spec.org/acquisition" title="Descargar este libro como PRC" />
+    <author>
+      <name>Mark Twain</name>
+      <uri>../8f6fb6ff@author_0/9bbdcddd@author_48_Page_1.xml</uri>
+    </author>
+    <published>2013-10-31T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Eliber Ediciones</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Escritaen 1889, “Un yanqui en la corte del Rey Arturo” es una ficcióncaballeresca satírica en la que Mark Twain enmarca ideaspolítico-religiosas y conocimientos tecnológicos de su época.Empieza burlándose del pasado medieval y acaba cuestionando lasuperioridad del presente moderno e industrializado. Su protagonista,un norteamericano del siglo XIX, viaja a través del tiempo para ir aparar al siglo VI inglés que se describe en los libros de leyendasartúricas.</summary>
+    <link href="../8f6fb6ff%40book_0/630f1bd0%40book_189.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>El Asedio [5 de septiembre de 2014]</title>
+    <id>calibre:book:188</id>
+    <updated>2015-03-27T01:53:44Z</updated>
+    <link href="../8f6fb6ff@book_0/14082b46@book_188_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Arturo%20Perez-Reverte/El%20Asedio%20%28188%29/El%20Asedio%20-%20Arturo%20Perez-Reverte.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Descargar este libro como MOBI" />
+    <author>
+      <name>Arturo Pérez-Reverte</name>
+      <uri>../8f6fb6ff@author_0/4e338258@author_66_Page_1.xml</uri>
+    </author>
+    <published>2010-04-28T10:00:00Z</published>
+    <dcterms:publisher>Santillana USA Pub Co Inc</dcterms:publisher>
+    <category term="spanish" />
+    <category term="Novela Histórica" />
+    <summary>Cádiz, 1811. España lucha por su independencia mientras América lo hace por la suya. En las calles de la ciudad más liberal de Europa se libran batallas de otra índole. Mujeres jóvenes aparecen desolladas a latigazos. En cada lugar, antes del hallazgo del cadáver, ha caído una bomba francesa. Eso traza sobre la ciudad un mapa superpuesto y siniestro: un complejo tablero de ajedrez donde la mano de un jugador oculto -un asesino despiadado, el azar, las curvas de artillería, la dirección de los vi...</summary>
+    <link href="../8f6fb6ff%40book_0/14082b46%40book_188.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Inés y la alegría [5 de septiembre de 2014]</title>
+    <id>calibre:book:187</id>
+    <updated>2015-03-27T01:53:44Z</updated>
+    <link href="../8f6fb6ff@book_0/84b736d7@book_187_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Almudena%20Grandes/Ines%20y%20la%20alegria%20%28187%29/Ines%20y%20la%20alegria%20-%20Almudena%20Grandes.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Descargar este libro como MOBI" />
+    <author>
+      <name>Almudena Grandes</name>
+      <uri>../8f6fb6ff@author_0/d73ad3e2@author_65_Page_1.xml</uri>
+    </author>
+    <published>2010-12-24T11:00:00Z</published>
+    <dcterms:publisher>Spanish Pubs Llc</dcterms:publisher>
+    <category term="Historical" />
+    <category term="Fiction" />
+    <summary>Toulouse, verano de 1939. Carmen de Pedro, responsable en Francia de los diezmados comunistas españoles, se cruza con Jesús Monzón, un cargo menor del partido que, sin ella intuirlo, alberga un ambicioso plan. Unos años después, en 1944, Monzón, convertido en su pareja, ha organizado el grupo más disciplinado de la Resistencia contra la ocupación alemana, prepara la plataforma de la Unión Nacional Española y cuenta con un ejército de hombres dispuestos a invadir España. Entre ellos está Galán, q...</summary>
+    <link href="../8f6fb6ff%40book_0/84b736d7%40book_187.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>El libro rojo del cole [5 de septiembre de 2014]</title>
+    <id>calibre:book:186</id>
+    <updated>2015-03-27T01:53:44Z</updated>
+    <link href="../8f6fb6ff@book_0/f3b00641@book_186_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Soren%20Hansen/El%20libro%20rojo%20del%20cole%20%28186%29/El%20libro%20rojo%20del%20cole%20-%20Soren%20Hansen.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Descargar este libro como PDF" />
+    <author>
+      <name>Søren Hansen</name>
+      <uri>../8f6fb6ff@author_0/3e5976d7@author_63_Page_1.xml</uri>
+    </author>
+    <author>
+      <name>Jesper Jensen</name>
+      <uri>../8f6fb6ff@author_0/a03de374@author_64_Page_1.xml</uri>
+    </author>
+    <published>1979-09-27T06:03:59Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Nuestra Cultura</dcterms:publisher>
+    <category term="Lang:es" />
+    <link href="../8f6fb6ff%40book_0/f3b00641%40book_186.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>La cura mortal [1 de septiembre de 2014]</title>
+    <id>calibre:book:184</id>
+    <updated>2015-03-27T01:53:42Z</updated>
+    <link href="../8f6fb6ff@book_0/1dbe676d@book_184_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/James%20Dashner/La%20cura%20mortal%20%28184%29/La%20cura%20mortal%20-%20James%20Dashner.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>James Dashner</name>
+      <uri>../8f6fb6ff@author_0/e50cb160@author_45_Page_1.xml</uri>
+    </author>
+    <published>2010-12-31T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>ePubLibre</dcterms:publisher>
+    <category term="Novela" />
+    <category term="Fantástico" />
+    <category term="Lang:es" />
+    <category term="El corredor del laberinto" />
+    <summary>El corredor del laberinto [3]: «MÁTAME. SI ALGUNA VEZ HAS SIDO MI AMIGO, MÁTAME». Desde hace tres semanas, Thomas vive en una habitación sin ventanas, de un blanco resplandeciente y siempre iluminada. Sin reloj y sin contacto con nadie, más allá de las tres bandejas de comida que alguien le lleva a diario (aunque a horas distintas, como para desorientarle). Al vigésimo sexto día, la puerta se abre y un hombre le conduce a una sala llena de viejos amigos. —Muy bien, damas y caballeros. Estáis a p...</summary>
+    <link href="../8f6fb6ff%40book_0/1dbe676d%40book_184.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Gente Tóxica [29 de agosto de 2014]</title>
+    <id>calibre:book:183</id>
+    <updated>2015-03-27T01:53:43Z</updated>
+    <link href="../8f6fb6ff@book_0/83daf2ce@book_183_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Bernardo%20Stamateas/Gente%20Toxica%20%28183%29/Gente%20Toxica%20-%20Bernardo%20Stamateas.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>Bernardo Stamateas</name>
+      <uri>../8f6fb6ff@author_0/f5a1cc0a@author_59_Page_1.xml</uri>
+    </author>
+    <published>2008-01-05T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <category term="Divulgación" />
+    <category term="Autoayuda" />
+    <category term="Lang:es" />
+    <summary>Gente tóxica. Descalificador o chismoso, agresivo o falso, cualquiera de estos tipos se enmarcan en una raza mayor denominada “gente tóxica” y que el psicólogo Bernardo Stamateas describe con maestría en un libro que muchos deberían consultar.En nuestra vida cotidiana no podemos evitar encontrarnos con personas problemáticas. Jefes autoritarios y descalificadores, vecinos quejosos, compañeros de trabajo o estudio envidiosos, parientes que siempre nos echan la culpa de todo, hombres y mujeres arr...</summary>
+    <link href="../8f6fb6ff%40book_0/83daf2ce%40book_183.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>El ladrón del rayo [14 de agosto de 2014]</title>
+    <id>calibre:book:182</id>
+    <updated>2015-03-27T01:53:43Z</updated>
+    <link href="../8f6fb6ff@book_0/f4ddc258@book_182_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Rick%20Riordan/El%20ladron%20del%20rayo%20%28182%29/El%20ladron%20del%20rayo%20-%20Rick%20Riordan.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>Rick Riordan</name>
+      <uri>../8f6fb6ff@author_0/82a6fc9c@author_58_Page_1.xml</uri>
+    </author>
+    <published>2005-06-30T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Salamandra</dcterms:publisher>
+    <category term="Fantástico" />
+    <category term="Infantil y Juvenil" />
+    <category term="Lang:es" />
+    <category term="Percy Jackson y los dioses del Olimpo" />
+    <summary>Percy Jackson y los dioses del Olimpo [1]: ¿Qué pasaría si los dioses del Olimpo estan vivos en el siglo 21? ¿Y si aún se enamoraran de los mortales y que los niños-héroes podrían llegar a ser grandes, como Teseo, Jasón y Hércules?. ¿Qué pasa si tu fueras uno de esos niños?. Tal es el descubrimiento que a los doce años de edad, Percy Jackson, se lanza en la búsqueda más peligroso de su vida. Con la ayuda de un sátiro y una hija de Atenea, Percy viaja a través de los Estados Unidos para atrapar a...</summary>
+    <link href="../8f6fb6ff%40book_0/f4ddc258%40book_182.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>La maldición del titán [14 de agosto de 2014]</title>
+    <id>calibre:book:181</id>
+    <updated>2015-03-27T01:53:43Z</updated>
+    <link href="../8f6fb6ff@book_0/6dd493e2@book_181_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Rick%20Riordan/La%20maldicion%20del%20titan%20%28181%29/La%20maldicion%20del%20titan%20-%20Rick%20Riordan.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>Rick Riordan</name>
+      <uri>../8f6fb6ff@author_0/82a6fc9c@author_58_Page_1.xml</uri>
+    </author>
+    <published>2007-05-10T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Salamandra</dcterms:publisher>
+    <category term="Literatura y narrativa" />
+    <category term="Infantil y Juvenil" />
+    <category term="Fantástico" />
+    <category term="Lang:es" />
+    <category term="Percy Jackson y los dioses del Olimpo" />
+    <summary>Percy Jackson y los dioses del Olimpo [3]: Cuando Percy Jackson recibe una llamada urgente de auxilio de su amigo Grover, de inmediato se prepara para la batalla. Sabe que tendrá sus poderosos aliados semidióses a su lado, su fiel espada de bronce "Riptide", y... un viaje de su mamá. Los semidioses corren al rescate para encontrar que Grover ha hecho un descubrimiento importante: dos mestizos poderosos cuya filiación se desconoce. Pero eso no es todo lo que les espera. El señor titán Kronos ha e...</summary>
+    <link href="../8f6fb6ff%40book_0/6dd493e2%40book_181.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>El mar de los monstruos [14 de agosto de 2014]</title>
+    <id>calibre:book:180</id>
+    <updated>2015-03-27T01:53:43Z</updated>
+    <link href="../8f6fb6ff@book_0/1ad3a374@book_180_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Rick%20Riordan/El%20mar%20de%20los%20monstruos%20%28180%29/El%20mar%20de%20los%20monstruos%20-%20Rick%20Riordan.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>Rick Riordan</name>
+      <uri>../8f6fb6ff@author_0/82a6fc9c@author_58_Page_1.xml</uri>
+    </author>
+    <published>2006-05-02T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Salamandra</dcterms:publisher>
+    <category term="Infantil y Juvenil" />
+    <category term="Literary Criticism" />
+    <category term="Fantástico" />
+    <category term="Children's Literature" />
+    <category term="Lang:es" />
+    <category term="Percy Jackson y los dioses del Olimpo" />
+    <summary>Percy Jackson y los dioses del Olimpo [2]: Desde que sabe que es hijo de un dios y una mortal, Percy Jackson espera que el destino le depare continuas aventuras. Y su expectativa se cumplirá con creses. Aunque el nuevo curso en la Escuela Meriwether transcurre con inusual normalidad, un simple partido de balón prisionero acaba en batalla compal contra una banda de feroces gigantes. A partir de ahí las cosas se precipitan: el perímentro mágico que protege el Campamento Mestizo es destruido por un...</summary>
+    <link href="../8f6fb6ff%40book_0/1ad3a374%40book_180.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>La batalla del laberinto [14 de agosto de 2014]</title>
+    <id>calibre:book:179</id>
+    <updated>2015-03-27T01:53:43Z</updated>
+    <link href="../8f6fb6ff@book_0/e497071f@book_179_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Rick%20Riordan/La%20batalla%20del%20laberinto%20%28179%29/La%20batalla%20del%20laberinto%20-%20Rick%20Riordan.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>Rick Riordan</name>
+      <uri>../8f6fb6ff@author_0/82a6fc9c@author_58_Page_1.xml</uri>
+    </author>
+    <published>2008-05-05T10:32:05Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Salamandra</dcterms:publisher>
+    <category term="Fantasía; terror y ciencia ficción" />
+    <category term="Infantil y Juvenil" />
+    <category term="Aventura" />
+    <category term="Fantástico" />
+    <category term="Lang:es" />
+    <category term="Percy Jackson y los dioses del Olimpo" />
+    <summary>Percy Jackson y los dioses del Olimpo [4]: Percy Jackson no espera que la orientación de primer año sera nada divertido, pero cuando un conocido mortal misterioso aparece, perseguido por porristas demonios, las cosas rápidamente van de mal en peor. El tiempo se agota para Percy. La guerra entre los dioses y los titanes se acerca. Ni siquiera el Campamento para semidioses es seguro, cuando el ejército de Kronos se prepara para invadir sus fronteras, una vez es impenetrable. Para detenerlos, Percy...</summary>
+    <link href="../8f6fb6ff%40book_0/e497071f%40book_179.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>El último héroe del Olimpo [14 de agosto de 2014]</title>
+    <id>calibre:book:178</id>
+    <updated>2015-03-27T01:53:43Z</updated>
+    <link href="../8f6fb6ff@book_0/93903789@book_178_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Rick%20Riordan/El%20ultimo%20heroe%20del%20Olimpo%20%28178%29/El%20ultimo%20heroe%20del%20Olimpo%20-%20Rick%20Riordan.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>Rick Riordan</name>
+      <uri>../8f6fb6ff@author_0/82a6fc9c@author_58_Page_1.xml</uri>
+    </author>
+    <published>2009-05-04T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Salamandra</dcterms:publisher>
+    <category term="Fantasía; terror y ciencia ficción" />
+    <category term="Infantil y Juvenil" />
+    <category term="Aventura" />
+    <category term="Fantástico" />
+    <category term="Lang:es" />
+    <category term="Percy Jackson y los dioses del Olimpo" />
+    <summary>Percy Jackson y los dioses del Olimpo [5]: Reseña del editorLos mestizos han dedicado mucho tiempo a prepararse para la batalla decisiva contra los titanes, aunque saben que sus posibilidades de obtener la victoria son mínimas. El ejército de Cronos es ahora más formidable que nunca y, con cada dios y cada mestizo que logra reclutar, aumentan los poderes del maligno titán. Tras fracasar en un primer intento de detener en alta mar las arrolladoras huestes de Cronos, Percy Jackson y los olímpicos ...</summary>
+    <link href="../8f6fb6ff%40book_0/93903789%40book_178.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Will Grayson, Will Grayson [14 de agosto de 2014]</title>
+    <id>calibre:book:177</id>
+    <updated>2015-03-27T01:53:43Z</updated>
+    <link href="../8f6fb6ff@book_0/32f2a18@book_177_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/John%20Green/Will%20Grayson%2C%20Will%20Grayson%20%28177%29/Will%20Grayson%2C%20Will%20Grayson%20-%20John%20Green.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>John Green</name>
+      <uri>../8f6fb6ff@author_0/7c05e0da@author_46_Page_1.xml</uri>
+    </author>
+    <author>
+      <name>David Levithan</name>
+      <uri>../8f6fb6ff@author_0/1219e10d@author_57_Page_1.xml</uri>
+    </author>
+    <published>2010-04-01T10:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Dutton Juvenile</dcterms:publisher>
+    <category term="Infantil y Juvenil" />
+    <category term="Literatura y narrativa" />
+    <category term="Lang:en" />
+    <summary>One cold night, in a most unlikely corner of Chicago, two teens?both named Will Grayson?are about to cross paths. As their worlds collide and intertwine, the Will Graysons find their lives going in new and unexpected directions, building toward romantic turns-of-heart and the epic production of history's most fabulous high school musical.  Hilarious, poignant, and deeply insightful, John Green and David Levithan's collaborative novel is brimming with a double helping of the heart and humor that ...</summary>
+    <link href="../8f6fb6ff%40book_0/32f2a18%40book_177.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Paper Towns [14 de agosto de 2014]</title>
+    <id>calibre:book:176</id>
+    <updated>2015-03-27T01:53:43Z</updated>
+    <link href="../8f6fb6ff@book_0/74281a8e@book_176_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/John%20Green/Paper%20Towns%20%28176%29/Paper%20Towns%20-%20John%20Green.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>John Green</name>
+      <uri>../8f6fb6ff@author_0/7c05e0da@author_46_Page_1.xml</uri>
+    </author>
+    <published>2010-05-02T10:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Bloomsbury Childrens</dcterms:publisher>
+    <category term="Juvenile Fiction" />
+    <category term="General" />
+    <category term="Readers" />
+    <category term="Intermediate" />
+    <category term="Lang:en" />
+    <summary>Descripción del productoWho is the real Margo? Quentin Jacobsen has spent a lifetime loving the magnificently adventurous Margo Roth Spiegelman from afar. So when she cracks open a window and climbs into his life - dressed like a ninja and summoning him for an ingenious campaign of revenge - he follows. After their all-nighter ends and a new day breaks, Q arrives at school to discover that Margo, always an enigma, has now become a mystery. She has disappeared. Q soon learns that there are clues ...</summary>
+    <link href="../8f6fb6ff%40book_0/74281a8e%40book_176.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Fault in Our Stars [14 de agosto de 2014]</title>
+    <id>calibre:book:175</id>
+    <updated>2015-03-27T01:53:42Z</updated>
+    <link href="../8f6fb6ff@book_0/ed214b34@book_175_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/John%20Green/The%20Fault%20in%20Our%20Stars%20%28175%29/The%20Fault%20in%20Our%20Stars%20-%20John%20Green.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>John Green</name>
+      <uri>../8f6fb6ff@author_0/7c05e0da@author_46_Page_1.xml</uri>
+    </author>
+    <published>2012-01-09T05:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Dutton Juvenile</dcterms:publisher>
+    <category term="Juvenile Fiction" />
+    <category term="Social Issues" />
+    <category term="Death &amp; Dying" />
+    <category term="Lang:en" />
+    <summary>Amazon.com ReviewAmazon Best Books of the Month, January 2012: In The Fault in Our Stars, John Green has created a soulful novel that tackles big subjects--life, death, love--with the perfect blend of levity and heart-swelling emotion. Hazel is sixteen, with terminal cancer, when she meets Augustus at her kids-with-cancer support group. The two are kindred spirits, sharing an irreverent sense of humor and immense charm, and watching them fall in love even as they face universal questions of the ...</summary>
+    <link href="../8f6fb6ff%40book_0/ed214b34%40book_175.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Looking for Alaska [14 de agosto de 2014]</title>
+    <id>calibre:book:174</id>
+    <updated>2015-03-27T01:53:42Z</updated>
+    <link href="../8f6fb6ff@book_0/9a267ba2@book_174_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/John%20Green/Looking%20for%20Alaska%20%28174%29/Looking%20for%20Alaska%20-%20John%20Green.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>John Green</name>
+      <uri>../8f6fb6ff@author_0/7c05e0da@author_46_Page_1.xml</uri>
+    </author>
+    <published>2006-12-27T11:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Speak</dcterms:publisher>
+    <category term="Juvenile Fiction" />
+    <category term="School &amp; Education" />
+    <category term="Social Issues" />
+    <category term="General" />
+    <category term="Death &amp; Dying" />
+    <category term="Friendship" />
+    <category term="Lang:en" />
+    <summary>The award-winning, genre-defining debut from #1 bestselling author of The Fault in Our Stars  Winner of the Michael L. Printz AwardLos Angeles Times Book Prize FinalistNew York Times bestseller  Before. Miles “Pudge” Halter is done with his safe life at home. His whole life has been one big non-event, and his obsession with famous last words has only made him crave “the Great Perhaps” even more (Francois Rabelais, poet). He heads off to the sometimes crazy and anything-but-boring world of Culver...</summary>
+    <link href="../8f6fb6ff%40book_0/9a267ba2%40book_174.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>An Abundance of Katherines [14 de agosto de 2014]</title>
+    <id>calibre:book:173</id>
+    <updated>2015-03-27T01:53:42Z</updated>
+    <link href="../8f6fb6ff@book_0/442ee01@book_173_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/John%20Green/An%20Abundance%20of%20Katherines%20%28173%29/An%20Abundance%20of%20Katherines%20-%20John%20Green.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>John Green</name>
+      <uri>../8f6fb6ff@author_0/7c05e0da@author_46_Page_1.xml</uri>
+    </author>
+    <published>2006-09-01T10:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Dutton E P</dcterms:publisher>
+    <category term="Infantil y Juvenil" />
+    <category term="Literatura y narrativa" />
+    <category term="Juvenile Fiction" />
+    <category term="General" />
+    <category term="Lang:en" />
+    <summary>From the #1 bestselling author of The Fault in Our Stars   Michael L. Printz Honor Book Los Angeles Times Book Prize Finalist   Katherine V thought boys were gross Katherine X just wanted to be friends Katherine XVIII dumped him in an e-mail K-19 broke his heart  When it comes to relationships, Colin Singleton's type happens to be girls named Katherine. And when it comes to girls named Katherine, Colin is always getting dumped. Nineteen times, to be exact.  On a road trip miles from home, this a...</summary>
+    <link href="../8f6fb6ff%40book_0/442ee01%40book_173.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>No estamos locos [14 de agosto de 2014]</title>
+    <id>calibre:book:172</id>
+    <updated>2015-03-27T01:53:43Z</updated>
+    <link href="../8f6fb6ff@book_0/7345de97@book_172_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/El%20Gran%20Wyoming/No%20estamos%20locos%20%28172%29/No%20estamos%20locos%20-%20El%20Gran%20Wyoming.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>El Gran Wyoming</name>
+      <uri>../8f6fb6ff@author_0/651ed19b@author_56_Page_1.xml</uri>
+    </author>
+    <published>2013-11-18T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Editorial Planeta</dcterms:publisher>
+    <category term="Ensayo" />
+    <category term="Ciencias sociales" />
+    <category term="Lang:es" />
+    <summary>Descripción del productoEste libro es el golpe que estremecerá a todos los mangantes y enemigos del progreso en general. Un fantasma recorre La Moncloa, La Zarzuela, Bruselas, el Vaticano y el Bundesbank: la amenaza de un médico que sabe diagnosticar, un maestro de la comunicación que sabe explicar sus diagnósticos. La obra demoledora de un genio que no utiliza más armas que la palabra, ahora que todavía le acompaña la memoria, y cierta ayuda de la Wikipedia.- Un relato lleno de humor, ironía y ...</summary>
+    <link href="../8f6fb6ff%40book_0/7345de97%40book_172.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>El dilema: 600 días de vértigo [14 de agosto de 2014]</title>
+    <id>calibre:book:171</id>
+    <updated>2015-03-27T01:53:43Z</updated>
+    <link href="../8f6fb6ff@book_0/ea4c8f2d@book_171_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Jose%20Luis%20Rodriguez%20Zapatero/El%20dilema_%20600%20dias%20de%20vertigo%20%28171%29/El%20dilema_%20600%20dias%20de%20vertigo%20-%20Jose%20Luis%20Rodriguez%20Zapatero.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>José Luis Rodríguez Zapatero</name>
+      <uri>../8f6fb6ff@author_0/fc178021@author_55_Page_1.xml</uri>
+    </author>
+    <published>2013-11-25T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Editorial Planeta</dcterms:publisher>
+    <category term="Biography &amp; Autobiography" />
+    <category term="Historical" />
+    <category term="Crónica" />
+    <category term="Memorias" />
+    <category term="Lang:es" />
+    <summary>Descripción del productoÉste es el relato en primera persona de quien tuvo en España la principal responsabilidad ante la crisis en el periodo 2008-2011.Sobre las decisiones adoptadas por el Gobierno en mayo de 2010, escribe el autor: «Qué dilema tan acuciante. O recortabas, o podías alimentar la espiral de la falta de solvencia, del riesgo sobre el cumplimiento de nuestros compromisos de deuda. No había un camino intermedio. Y en apenas días, casi horas, debías actuar en una intersección en la ...</summary>
+    <link href="../8f6fb6ff%40book_0/ea4c8f2d%40book_171.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>
+

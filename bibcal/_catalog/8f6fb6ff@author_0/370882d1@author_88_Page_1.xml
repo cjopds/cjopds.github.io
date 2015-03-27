@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:opds="http://opds-spec.org/2010/catalog">
+  <title>Burgess, Anthony</title>
+  <id>Calibre2opds:author:88</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./370882d1%40author_88_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Burgess, Anthony" />
+  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Biblioteca de Calibre de CJ" />
+  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Biblioteca de Calibre de CJ" />
+  <link href="../8f6fb6ff%40authorlist/e8e4356e%40authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <entry>
+    <title>La naranja mecánica</title>
+    <id>calibre:book:238</id>
+    <updated>2015-03-27T01:53:51Z</updated>
+    <link href="../8f6fb6ff@book_0/f5ba4cd4@book_238_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Anthony%20Burgess/La%20naranja%20mecanica%20%28238%29/La%20naranja%20mecanica%20-%20Anthony%20Burgess.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>Anthony Burgess</name>
+      <uri>../8f6fb6ff@author_0/370882d1@author_88_Page_1.xml</uri>
+    </author>
+    <published>1961-12-31T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>ePubLibre</dcterms:publisher>
+    <category term="Novela" />
+    <category term="Ciencia Ficción" />
+    <category term="Lang:es" />
+    <summary>Anthony Burgess fue un famoso escritor y compositor británico cuya obra más famosa fue la novela La naranja mecánica publicada en 1962. La historia está inspirada por un incidente vivido por el autor durante la Segunda Guerra Mundial, cuando él y su mujer fueron asaltados en 1944, siendo la esposa del propio Burgess víctima de robo y violación por parte de cuatro soldados estadounidenses en las calles londinenses. Dado que se encontraba embarazada, la paliza le provocó un aborto. El libro trata ...</summary>
+    <link href="../8f6fb6ff%40book_0/f5ba4cd4%40book_238.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>
+

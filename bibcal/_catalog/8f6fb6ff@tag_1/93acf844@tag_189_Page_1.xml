@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:opds="http://opds-spec.org/2010/catalog">
+  <title>Sátira</title>
+  <id>Calibre2opds:taglist:S:189</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./93acf844%40tag_189_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Sátira" />
+  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Biblioteca de Calibre de CJ" />
+  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Biblioteca de Calibre de CJ" />
+  <link href="../8f6fb6ff%40taglist/87d7be0%40taglist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="etiquetas" />
+  <link href="../8f6fb6ff%40taglist/87d7be0%40taglist_S_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Etiquetas que empiezan por S" />
+  <entry>
+    <title>Comedias &amp; tragicomedias</title>
+    <id>calibre:book:257</id>
+    <updated>2015-03-27T01:53:52Z</updated>
+    <link href="../8f6fb6ff@book_0/335ff6c3@book_257_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/William%20Shakespeare/Comedias%20%26%20tragicomedias%20%28257%29/Comedias%20%26%20tragicomedias%20-%20William%20Shakespeare.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>William Shakespeare</name>
+      <uri>../8f6fb6ff@author_0/beacae01@author_97_Page_1.xml</uri>
+    </author>
+    <published>2011-12-31T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>ePubLibre</dcterms:publisher>
+    <category term="Teatro" />
+    <category term="Drama" />
+    <category term="Humor" />
+    <category term="Sátira" />
+    <category term="Lang:es" />
+    <summary>La presente edición reúne las dieciocho comedias y tragicomedias compuestas por William Shakespeare (1564-1616). En ella se recogen las traducciones de Ángel-Luis Pujante, reconocido especialista en Shakespeare, publicadas en la colección Austral, y se incluyen ocho traducciones inéditas: Los dos caballeros de Verona, Todo bien si acaba bien, Cimbelino (de Ángel-Luis Pujante), La fierecilla domada, Las alegres comadres de Windsor (de Salvador Oliva), Pericles (de Salvador Oliva y Ángel-Luis Puja...</summary>
+    <link href="../8f6fb6ff%40book_0/335ff6c3%40book_257.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>
+

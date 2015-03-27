@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Las aventuras de Sherlock Holmes</title>
+  <id>urn:book:b1067bd7-70cd-48fd-bfbe-308f4192bbd1</id>
+  <updated>2015-03-27T01:53:42Z</updated>
+  <link href="./280279db%40book_147.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Las aventuras de Sherlock Holmes" />
+  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Biblioteca de Calibre de CJ" />
+  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Biblioteca de Calibre de CJ" />
+  <link href="../8f6fb6ff%40authorlist/e8e4356e%40authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="280279db@book_147_cover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../8f6fb6ff@book_0/280279db@book_147_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Arthur%20Conan%20Doyle/Las%20aventuras%20de%20Sherlock%20Holmes%20%28147%29/Las%20aventuras%20de%20Sherlock%20Holmes%20-%20Arthur%20Conan%20Doyle.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+  <author>
+    <name>Arthur Conan Doyle</name>
+    <uri>../8f6fb6ff@author_0/e2617579@author_41_Page_1.xml</uri>
+  </author>
+  <published>1892-04-11T11:00:00Z</published>
+  <dcterms:language>es</dcterms:language>
+  <dcterms:publisher>Feedbooks</dcterms:publisher>
+  <category term="Ficción" />
+  <category term="Policiacas y de misterio" />
+  <category term="Historias cortas" />
+  <category term="Lang:es" />
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      Sin puntuación
+    </p>
+    <p>
+      <strong>Etiquetas:</strong>
+      Ficción, Policiacas y de misterio, Historias cortas, Lang:es
+    </p>
+    <p>
+      <strong>Published:</strong>
+      11 de abril de 1892
+    </p>
+    <p>
+      <strong>Sumario:</strong>
+    </p>
+    <p xmlns="">Las Aventuras de Sherlock Holmes es un libro que recopila
+    cuentos policíacos escritos por Sir Arthur Conan Doyle en
+    donde el protagonista es su celebre detective privado "Sherlock
+    Holmes". El libro original fue ilustrado por Sidney Paget.
+    Aquí se cuentan las primeras aventuras de Sherlock
+    Holmes.</p>
+  </content>
+  <link href="../8f6fb6ff%40author_0/e2617579%40author_41_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Libros de Arthur Conan Doyle" />
+  <link href="http://www.goodreads.com/book/title/Las%20aventuras%20de%20Sherlock%20Holmes" type="text/html" rel="related" title="Este libro en Goodreads" />
+  <link href="http://es.wikipedia.org/wiki/Las%20aventuras%20de%20Sherlock%20Holmes" type="text/html" rel="related" title="Este libro en Wikipedia" />
+  <link href="http://www.librarything.com/title/Las%20aventuras%20de%20Sherlock%20Holmes%20Arthur%20Conan%20Doyle" type="text/html" rel="related" title="Este libro en LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=Las%20aventuras%20de%20Sherlock%20Holmes&amp;field-author=Arthur%20Conan%20Doyle" type="text/html" rel="related" title="Este libro en Amazon" />
+  <link href="http://www.goodreads.com/book/author/Arthur%20Conan%20Doyle" type="text/html" rel="related" title="Arthur Conan Doyle en Goodreads" />
+  <link href="http://es.wikipedia.org/wiki/Arthur%20Conan%20Doyle" type="text/html" rel="related" title="Arthur Conan Doyle en Wikipedia" />
+  <link href="http://www.librarything.com/author/DoyleArthurConan" type="text/html" rel="related" title="Arthur Conan Doyle en LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Arthur%20Conan%20Doyle" type="text/html" rel="related" title="Arthur Conan Doyle en Amazon" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Arthur%20Conan%20Doyle" type="text/html" rel="related" title="Arthur Conan Doyle en ISFDB" />
+</entry>
+

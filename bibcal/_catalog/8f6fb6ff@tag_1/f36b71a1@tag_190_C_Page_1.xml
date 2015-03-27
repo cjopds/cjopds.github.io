@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:opds="http://opds-spec.org/2010/catalog">
+  <title>Libros que empiezan por C</title>
+  <id>Calibre2opds:taglist:L:190:C</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./f36b71a1%40tag_190_C_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Libros que empiezan por C" />
+  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Biblioteca de Calibre de CJ" />
+  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Biblioteca de Calibre de CJ" />
+  <link href="../8f6fb6ff%40taglist/87d7be0%40taglist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="etiquetas" />
+  <link href="../8f6fb6ff%40taglist/87d7be0%40taglist_L_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Etiquetas que empiezan por L" />
+  <link href="./f36b71a1%40tag_190_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Lang:es" />
+  <entry>
+    <title>Canciones para Paula</title>
+    <id>calibre:book:193</id>
+    <updated>2015-03-27T01:53:44Z</updated>
+    <link href="../8f6fb6ff@book_0/9ac1c38f@book_193_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Blue%20Jeans/Canciones%20para%20Paula%20%28193%29/Canciones%20para%20Paula%20-%20Blue%20Jeans.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>Blue Jeans</name>
+      <uri>../8f6fb6ff@author_0/a98baf5f@author_68_Page_1.xml</uri>
+    </author>
+    <published>2009-12-11T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Everest</dcterms:publisher>
+    <category term="Romántico" />
+    <category term="Infantil y Juvenil" />
+    <category term="Literatura y ficción" />
+    <category term="Ficción contemporánea" />
+    <category term="GusiX" />
+    <category term="Literatura y narrativa" />
+    <category term="Lang:es" />
+    <category term="Canciones para Paula" />
+    <summary>Canciones para Paula [1]: Reseña del editorPaula, una joven a punto de cumplir los 17, se ha citado con Ángel, un chico de 22 años al que ha conocido por internet. Está nerviosa e ilusionada. Los minutos pasan y el chico no llega, por lo que ella decide meterse en un café cercano. Allí tiene un divertido encuentro con Álex, un desconocido, que casualmente está leyendo el mismo libro que ella. Ambos son jóvenes y guapos... Álex tiene que irse precipitadamente porque tiene un compromiso. Cuando Pa...</summary>
+    <link href="../8f6fb6ff%40book_0/9ac1c38f%40book_193.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Caín</title>
+    <id>calibre:book:143</id>
+    <updated>2015-03-27T01:53:42Z</updated>
+    <link href="../8f6fb6ff@book_0/2f6fbdc2@book_143_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Jose%20Saramago/Cain%20%28143%29/Cain%20-%20Jose%20Saramago.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>José Saramago</name>
+      <uri>../8f6fb6ff@author_0/a3fb6b8c@author_39_Page_1.xml</uri>
+    </author>
+    <published>2008-12-31T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <category term="Narrativa" />
+    <category term="Lang:es" />
+    <summary>Qué diablo de Dios es éste que, para enaltecer a Abel, desprecia a Caín. Si en El Evangelio según Jesucristo José Saramago nos dio su visión del Nuevo Testamento, en Caín regresa a los primeros libros de la Biblia. En un itinerario heterodoxo, recorre ciudades decadentes y establos, palacios de tiranos y campos de batalla de la mano de los principales protagonistas del Antiguo Testamento, imprimiéndole la música y el humor refinado que caracterizan su obra. Caín pone de manifiesto lo que hay de ...</summary>
+    <link href="../8f6fb6ff%40book_0/2f6fbdc2%40book_143.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Comedias &amp; tragicomedias</title>
+    <id>calibre:book:257</id>
+    <updated>2015-03-27T01:53:52Z</updated>
+    <link href="../8f6fb6ff@book_0/335ff6c3@book_257_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/William%20Shakespeare/Comedias%20%26%20tragicomedias%20%28257%29/Comedias%20%26%20tragicomedias%20-%20William%20Shakespeare.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>William Shakespeare</name>
+      <uri>../8f6fb6ff@author_0/beacae01@author_97_Page_1.xml</uri>
+    </author>
+    <published>2011-12-31T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>ePubLibre</dcterms:publisher>
+    <category term="Teatro" />
+    <category term="Drama" />
+    <category term="Humor" />
+    <category term="Sátira" />
+    <category term="Lang:es" />
+    <summary>La presente edición reúne las dieciocho comedias y tragicomedias compuestas por William Shakespeare (1564-1616). En ella se recogen las traducciones de Ángel-Luis Pujante, reconocido especialista en Shakespeare, publicadas en la colección Austral, y se incluyen ocho traducciones inéditas: Los dos caballeros de Verona, Todo bien si acaba bien, Cimbelino (de Ángel-Luis Pujante), La fierecilla domada, Las alegres comadres de Windsor (de Salvador Oliva), Pericles (de Salvador Oliva y Ángel-Luis Puja...</summary>
+    <link href="../8f6fb6ff%40book_0/335ff6c3%40book_257.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Crepusculo</title>
+    <id>calibre:book:201</id>
+    <updated>2015-03-27T01:53:45Z</updated>
+    <link href="../8f6fb6ff@book_0/a74ba7b3@book_201_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Stephenie%20Meyer/Crepusculo%20%28201%29/Crepusculo%20-%20Stephenie%20Meyer.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>Stephenie Meyer</name>
+      <uri>../8f6fb6ff@author_0/50457700@author_72_Page_1.xml</uri>
+    </author>
+    <published>2006-06-20T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Alfaguara</dcterms:publisher>
+    <category term="Juvenile Fiction" />
+    <category term="Love &amp; Romance" />
+    <category term="Infantil y Juvenil" />
+    <category term="Fantástico" />
+    <category term="Lang:es" />
+    <category term="Crepúsculo" />
+    <summary>Crepúsculo [1]: CríticasLlega a nuestro país el fenómeno de literatura fantástica que ha conmocionado el panorama de la literatura juvenil internacional y que seducirá a los lectores ávidos de una historia de amor apasionante, llena de sensualidad, aventura e intriga, con la que sentirse identificados y a la vez transportados a un mundo diferente. Cuando Isabella Swan se muda a Forks, una pequeña localidad del estado de Washington en la que nunca deja de llover, piensa que es lo más aburrido que...</summary>
+    <link href="../8f6fb6ff%40book_0/a74ba7b3%40book_201.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Crónica de una muerte anunciada</title>
+    <id>calibre:book:212</id>
+    <updated>2015-03-27T01:53:46Z</updated>
+    <link href="../8f6fb6ff@book_0/2759c748@book_212_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Gabriel%20Garcia%20Marquez/Cronica%20de%20una%20muerte%20anunciada%20%28212%29/Cronica%20de%20una%20muerte%20anunciada%20-%20Gabriel%20Garcia%20Marquez.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>Gabriel García Márquez</name>
+      <uri>../8f6fb6ff@author_0/b0909e1e@author_78_Page_1.xml</uri>
+    </author>
+    <published>1980-12-31T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>ePubLibre</dcterms:publisher>
+    <category term="Novela" />
+    <category term="Drama" />
+    <category term="Lang:es" />
+    <summary>Esta novela se basa en un hecho histórico acontecido en la tierra natal del autor. Sin embargo, en García Márquez la dialéctica entre realidad y mito es tan fecunda que eleva el hecho a categoría de metáfora universal sobre la condición humana. Cuando empieza el relato, Santiago Nasar ya está muerto, pues sabe que los hermanos Vicario lo van a matar —de hecho ya lo han matado— para vengar el honor ultrajado de su hermana Ángela, pero la novela concluye en el momento en que Santiago Nasar muere… ...</summary>
+    <link href="../8f6fb6ff%40book_0/2759c748%40book_212.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Cállame con un beso</title>
+    <id>calibre:book:192</id>
+    <updated>2015-03-27T01:53:44Z</updated>
+    <link href="../8f6fb6ff@book_0/edc6f319@book_192_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Blue%20Jeans/Callame%20con%20un%20beso%20%28192%29/Callame%20con%20un%20beso%20-%20Blue%20Jeans.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>Blue Jeans</name>
+      <uri>../8f6fb6ff@author_0/a98baf5f@author_68_Page_1.xml</uri>
+    </author>
+    <published>2011-12-15T10:15:17Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Everest</dcterms:publisher>
+    <category term="Romántico" />
+    <category term="Relato" />
+    <category term="Children's Literature" />
+    <category term="General" />
+    <category term="Literary Criticism" />
+    <category term="Fiction" />
+    <category term="Lang:es" />
+    <category term="Canciones para Paula" />
+    <summary>Canciones para Paula [3]: ¡El libro que ya ha enamorado a más de 100.000 lectores regresa en navidades con su última entrega que nos hará reír y llorar más que nunca! "Cállame con un beso" resolverá todas nuestras dudas y promete ser el mejor de los tres libros. Será la culminación a todo un fenómeno social CPP protagonizado por todos vosotros. El tiempo pasa en la vida de Paula. Nuevas experiencias, nuevos amigos, nuevas dificultades... la distancia es mal rival para el amor. Tendrá que tomar d...</summary>
+    <link href="../8f6fb6ff%40book_0/edc6f319%40book_192.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>El conde de montecristo</title>
+    <id>calibre:book:149</id>
+    <updated>2015-03-27T01:53:42Z</updated>
+    <link href="../8f6fb6ff@book_0/cfba54dc@book_149_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Alexandre%20Dumas/El%20conde%20de%20montecristo%20%28149%29/El%20conde%20de%20montecristo%20-%20Alexandre%20Dumas.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>Alexandre Dumas</name>
+      <uri>../8f6fb6ff@author_0/c6f1455@author_43_Page_1.xml</uri>
+    </author>
+    <published>1845-04-11T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Feedbooks</dcterms:publisher>
+    <category term="Ficción" />
+    <category term="Acción y Aventura" />
+    <category term="Lang:es" />
+    <summary>Novela de aventuras que tiene lugar en Francia, Italia y varias islas del Mediterráneo entre 1814 y 1838. La historia esta basada en las memorias de Jacques Peuchet, quien escribió sobre un zapatero llamado François Picaud.</summary>
+    <link href="../8f6fb6ff%40book_0/cfba54dc%40book_149.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>El corredor del laberinto</title>
+    <id>calibre:book:151</id>
+    <updated>2015-03-27T01:53:42Z</updated>
+    <link href="../8f6fb6ff@book_0/d87aedaf@book_151_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/James%20Dashner/El%20corredor%20del%20laberinto%20%28151%29/El%20corredor%20del%20laberinto%20-%20James%20Dashner.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>James Dashner</name>
+      <uri>../8f6fb6ff@author_0/e50cb160@author_45_Page_1.xml</uri>
+    </author>
+    <published>2010-11-01T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Nocturna Ediciones</dcterms:publisher>
+    <category term="Juvenile Nonfiction" />
+    <category term="Language Arts" />
+    <category term="Composition &amp; Creative Writing" />
+    <category term="Fantasía. Ciencia ficción" />
+    <category term="Lang:es" />
+    <category term="El corredor del laberinto" />
+    <summary>El corredor del laberinto [1]: «Bienvenido al bosque. Verás que una vez a la semana, siempre el mismo día y a la misma hora, nos llegan víveres. Una vez al mes, siempre el mismo día y a la misma hora, aparece un nuevo chico, como tú. Siempre un chico. Como ves, este lugar está cercado por muros de piedra? Has de saber que estos muros se abren por la mañana y se cierran por la noche, siempre a la hora exacta. Al otro lado se encuentra el laberinto. De noche, las puertas se cierran? y, si quieres ...</summary>
+    <link href="../8f6fb6ff%40book_0/d87aedaf%40book_151.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>La cura mortal</title>
+    <id>calibre:book:184</id>
+    <updated>2015-03-27T01:53:42Z</updated>
+    <link href="../8f6fb6ff@book_0/1dbe676d@book_184_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/James%20Dashner/La%20cura%20mortal%20%28184%29/La%20cura%20mortal%20-%20James%20Dashner.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>James Dashner</name>
+      <uri>../8f6fb6ff@author_0/e50cb160@author_45_Page_1.xml</uri>
+    </author>
+    <published>2010-12-31T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>ePubLibre</dcterms:publisher>
+    <category term="Novela" />
+    <category term="Fantástico" />
+    <category term="Lang:es" />
+    <category term="El corredor del laberinto" />
+    <summary>El corredor del laberinto [3]: «MÁTAME. SI ALGUNA VEZ HAS SIDO MI AMIGO, MÁTAME». Desde hace tres semanas, Thomas vive en una habitación sin ventanas, de un blanco resplandeciente y siempre iluminada. Sin reloj y sin contacto con nadie, más allá de las tres bandejas de comida que alguien le lleva a diario (aunque a horas distintas, como para desorientarle). Al vigésimo sexto día, la puerta se abre y un hombre le conduce a una sala llena de viejos amigos. —Muy bien, damas y caballeros. Estáis a p...</summary>
+    <link href="../8f6fb6ff%40book_0/1dbe676d%40book_184.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>
+

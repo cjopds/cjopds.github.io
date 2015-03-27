@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Yo, robot</title>
+  <id>urn:book:c87359aa-f6a4-4cdd-83bf-b0619e0f0441</id>
+  <updated>2015-03-27T01:53:51Z</updated>
+  <link href="./b34d9638%40book_244.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Yo, robot" />
+  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Biblioteca de Calibre de CJ" />
+  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Biblioteca de Calibre de CJ" />
+  <link href="../8f6fb6ff%40authorlist/e8e4356e%40authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../8f6fb6ff%40author_0/27a5ffbb%40author_94_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Asimov, Isaac" />
+  <link href="b34d9638@book_244_cover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../8f6fb6ff@book_0/b34d9638@book_244_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Isaac%20Asimov/Yo%2C%20robot%20%28244%29/Yo%2C%20robot%20-%20Isaac%20Asimov.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+  <author>
+    <name>Isaac Asimov</name>
+    <uri>../8f6fb6ff@author_0/27a5ffbb@author_94_Page_1.xml</uri>
+  </author>
+  <published>1949-12-31T11:00:00Z</published>
+  <dcterms:language>es</dcterms:language>
+  <dcterms:publisher>ePubLibre</dcterms:publisher>
+  <category term="Relato" />
+  <category term="Ciencia Ficción" />
+  <category term="Lang:es" />
+  <category term="Saga de la Fundación" />
+  <content type="text/html">
+    <p>
+      <strong>Series:</strong>
+      Libro 1 en la Saga de la Fundación serie
+    </p>
+    <p>
+      <strong>Rating:</strong>
+      Sin puntuación
+    </p>
+    <p>
+      <strong>Etiquetas:</strong>
+      Relato, Ciencia Ficción, Lang:es
+    </p>
+    <p>
+      <strong>Published:</strong>
+      31 de diciembre de 1949
+    </p>
+    <p>
+      <strong>Sumario:</strong>
+    </p>
+    <p xmlns="">Una investigación llevada a cabo por un periodista
+    acerca de la trayectoria de la robopsicóloga Susan Calvin
+    da pie a los nueve relatos que componen esta novela. Las tres
+    leyes de la robótica, a las que en obras posteriores
+    Asimov añadiría alguna más, constituyen las
+    normas que rigen el comportamiento en los diferentes conflictos
+    que se presentan entre humanos y robots. Si bien admiten una
+    lectura independiente, la modernidad y éxito de este libro
+    se explica por la audacia en la composición y por la
+    aplastante lógica en las reflexiones que aparecen acerca
+    de la robótica. Yo ,robot es uno de los pocos títulos
+    de ciencia ficción que han superado con amplitud el
+    círculo de lectores especialmente aficionados, entre los
+    que a menudo se considera una obra cumbre. Su influencia y la
+    de las tres leyes de la robótica en ella enunciadas es muy
+    notable en las novelas aparecidas posteriormente acerca de
+    robótica, y eso mismo es lo que explica que se haya tomado
+    como base para la película que se estrena a finales de
+    julio 2004 dirigida por Alex Proyas y protagonizada por Will
+    Smith. Isaac Asimov (1920-1992), conocido también como el
+    Buen Doctor, es junto Robert Heinlen y Arthur C. Clarke uno de
+    los res grandes maestros de la ciencia ficción y a lo
+    largo de la vida fue investido doctor honoris causa por veinte
+    universidades, además de obtener todos los premios
+    importantes del género (Locus, Nebula, Hugos, etc.).</p>
+  </content>
+  <link href="../8f6fb6ff%40series_0/42c7fb1f%40series_18_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Libro 1 en la Saga de la Fundación serie" />
+  <link href="../8f6fb6ff%40author_0/27a5ffbb%40author_94_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Libros de Isaac Asimov" />
+  <link href="http://www.goodreads.com/book/title/Yo%2C%20robot" type="text/html" rel="related" title="Este libro en Goodreads" />
+  <link href="http://es.wikipedia.org/wiki/Yo%2C%20robot" type="text/html" rel="related" title="Este libro en Wikipedia" />
+  <link href="http://www.librarything.com/title/Yo%2C%20robot%20Isaac%20Asimov" type="text/html" rel="related" title="Este libro en LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=Yo%2C%20robot&amp;field-author=Isaac%20Asimov" type="text/html" rel="related" title="Este libro en Amazon" />
+  <link href="http://www.goodreads.com/book/author/Isaac%20Asimov" type="text/html" rel="related" title="Isaac Asimov en Goodreads" />
+  <link href="http://es.wikipedia.org/wiki/Isaac%20Asimov" type="text/html" rel="related" title="Isaac Asimov en Wikipedia" />
+  <link href="http://www.librarything.com/author/AsimovIsaac" type="text/html" rel="related" title="Isaac Asimov en LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Isaac%20Asimov" type="text/html" rel="related" title="Isaac Asimov en Amazon" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Isaac%20Asimov" type="text/html" rel="related" title="Isaac Asimov en ISFDB" />
+</entry>
+

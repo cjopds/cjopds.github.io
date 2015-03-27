@@ -1,0 +1,493 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:opds="http://opds-spec.org/2010/catalog">
+  <title>Sin puntuación</title>
+  <id>Calibre2opds:rated:NOTRATED</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./c7072efb%40rated_NOTRATED_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Sin puntuación" />
+  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Biblioteca de Calibre de CJ" />
+  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Biblioteca de Calibre de CJ" />
+  <link href="./c7072efb%40rated.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Valoración" />
+  <link href="../8f6fb6ff@rated/c7072efb@rated_NOTRATED_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (2 de 3)" />
+  <entry>
+    <title>¿Puedo soñar contigo?</title>
+    <id>calibre:book:195</id>
+    <updated>2015-03-27T01:53:45Z</updated>
+    <link href="../8f6fb6ff@book_0/73a266ba@book_195_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Blue%20Jeans/_Puedo%20sonar%20contigo_%20%28195%29/_Puedo%20sonar%20contigo_%20-%20Blue%20Jeans.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Blue%20Jeans/_Puedo%20sonar%20contigo_%20%28195%29/_Puedo%20sonar%20contigo_%20-%20Blue%20Jeans.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Descargar este libro como PDF" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Blue%20Jeans/_Puedo%20sonar%20contigo_%20%28195%29/_Puedo%20sonar%20contigo_%20-%20Blue%20Jeans.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Descargar este libro como MOBI" />
+    <author>
+      <name>Blue Jeans</name>
+      <uri>../8f6fb6ff@author_0/a98baf5f@author_68_Page_1.xml</uri>
+    </author>
+    <published>2014-02-03T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Grupo Planeta</dcterms:publisher>
+    <category term="Lang:es" />
+    <category term="El Club de los Incomprendidos" />
+    <summary>El Club de los Incomprendidos [3]:</summary>
+    <link href="../8f6fb6ff%40book_0/73a266ba%40book_195.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>1984</title>
+    <id>calibre:book:239</id>
+    <updated>2015-03-27T01:53:51Z</updated>
+    <link href="../8f6fb6ff@book_0/82bd7c42@book_239_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/George%20Orwell/1984%20%28239%29/1984%20-%20George%20Orwell.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>George Orwell</name>
+      <uri>../8f6fb6ff@author_0/400fb247@author_89_Page_1.xml</uri>
+    </author>
+    <published>1948-12-31T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>ePubLibre</dcterms:publisher>
+    <category term="Novela" />
+    <category term="Ciencia Ficción" />
+    <category term="Lang:es" />
+    <summary>En una supuesta sociedad policial, el estado ha conseguido el control total sobre el individuo. No existe siquiera un resquicio para la intimidad personal: el sexo es un crimen, las emociones están prohibidas, la adoración al sistema es la condición para seguir vivo. La Policía del Pensamiento se encargará de torturar hasta la muerte a los conspiradores, aunque para ello sea necesario acusar a inocentes. Winston y Julia, a pesar de ser miembros del Partido y sabiendo que el Gran Hermano les vigi...</summary>
+    <link href="../8f6fb6ff%40book_0/82bd7c42%40book_239.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Análisis 1º</title>
+    <id>calibre:book:198</id>
+    <updated>2015-03-27T01:53:45Z</updated>
+    <link href="../8f6fb6ff@book_0/d131a07@book_198_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Katalin%20Szekely/Analisis%201o%20%28198%29/Analisis%201o%20-%20Katalin%20Szekely.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Descargar este libro como PDF" />
+    <author>
+      <name>Katalin Szekely</name>
+      <uri>../8f6fb6ff@author_0/be4b162c@author_70_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <category term="Lang:es" />
+    <link href="../8f6fb6ff%40book_0/d131a07%40book_198.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Bajo el cielo eterno</title>
+    <id>calibre:book:222</id>
+    <updated>2015-03-27T01:53:46Z</updated>
+    <link href="../8f6fb6ff@book_0/c74948b@book_222_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Veronica%20Rossi/Bajo%20el%20cielo%20eterno%20%28222%29/Bajo%20el%20cielo%20eterno%20-%20Veronica%20Rossi.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>Veronica Rossi</name>
+      <uri>../8f6fb6ff@author_0/a0da5b59@author_83_Page_1.xml</uri>
+    </author>
+    <published>2012-03-27T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>B de Books</dcterms:publisher>
+    <category term="Juvenile Fiction" />
+    <category term="Love &amp; Romance" />
+    <category term="Lang:es" />
+    <category term="Bajo el cielo eterno" />
+    <summary>Bajo el cielo eterno [1]: Distopía + Aventura + Romance + Ciencia ficción: la novela perfecta. ¡Vendida a más de 20 idiomas! Desde que estaba fuera había sobrevivido a una tormenta de éter, alguien la había amenazado con un cuchillo y había visto hombres asesinados. Pero esto es aun peor. Aria ha perdido su casa en la protegida ciudad de Ensoñación y sabe que sus probabilidades de sobrevivir en esta tierra agreste son mínimas. Si no son los caníbales, serán las violentas tormentas eléctricas de ...</summary>
+    <link href="../8f6fb6ff%40book_0/c74948b%40book_222.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Buenos dias, Princesa</title>
+    <id>calibre:book:191</id>
+    <updated>2015-03-27T01:53:44Z</updated>
+    <link href="../8f6fb6ff@book_0/74cfa2a3@book_191_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Blue%20Jeans/Buenos%20dias%2C%20Princesa%20%28191%29/Buenos%20dias%2C%20Princesa%20-%20Blue%20Jeans.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Blue%20Jeans/Buenos%20dias%2C%20Princesa%20%28191%29/Buenos%20dias%2C%20Princesa%20-%20Blue%20Jeans.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Descargar este libro como PDF" />
+    <author>
+      <name>Blue Jeans</name>
+      <uri>../8f6fb6ff@author_0/a98baf5f@author_68_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Grupo Planeta</dcterms:publisher>
+    <category term="Lang:es" />
+    <category term="El Club de los Incomprendidos" />
+    <summary>El Club de los Incomprendidos [1]: Hace dos años se conocieron cuando más se necesitaban y formaron el CLUB DE LOS INCOMPRENDIDOS. Sin embargo, algo ha cambiado y ahora ya no saben si pueden contar los unos con los otros. Valeria no sabe si al dejarse llevar por lo que siente puede traicionar a su mejor amiga; Bruno escribe cartas de amor que no dan resultado; María es el patito feo que busca su sitio; Elísabet no está acostumbrada a que le digan que no; Raúl no quiere equivocarse esta vez, y a ...</summary>
+    <link href="../8f6fb6ff%40book_0/74cfa2a3%40book_191.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Caín</title>
+    <id>calibre:book:143</id>
+    <updated>2015-03-27T01:53:42Z</updated>
+    <link href="../8f6fb6ff@book_0/2f6fbdc2@book_143_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Jose%20Saramago/Cain%20%28143%29/Cain%20-%20Jose%20Saramago.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>José Saramago</name>
+      <uri>../8f6fb6ff@author_0/a3fb6b8c@author_39_Page_1.xml</uri>
+    </author>
+    <published>2008-12-31T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <category term="Narrativa" />
+    <category term="Lang:es" />
+    <summary>Qué diablo de Dios es éste que, para enaltecer a Abel, desprecia a Caín. Si en El Evangelio según Jesucristo José Saramago nos dio su visión del Nuevo Testamento, en Caín regresa a los primeros libros de la Biblia. En un itinerario heterodoxo, recorre ciudades decadentes y establos, palacios de tiranos y campos de batalla de la mano de los principales protagonistas del Antiguo Testamento, imprimiéndole la música y el humor refinado que caracterizan su obra. Caín pone de manifiesto lo que hay de ...</summary>
+    <link href="../8f6fb6ff%40book_0/2f6fbdc2%40book_143.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Calibre Quick Start Guide</title>
+    <id>calibre:book:190</id>
+    <updated>2015-03-27T01:53:44Z</updated>
+    <link href="../8f6fb6ff@book_0/3c89235@book_190_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/John%20Schember/Calibre%20Quick%20Start%20Guide%20%28190%29/Calibre%20Quick%20Start%20Guide%20-%20John%20Schember.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>John Schember</name>
+      <uri>../8f6fb6ff@author_0/3934b2ce@author_67_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <category term="Lang:en" />
+    <link href="../8f6fb6ff%40book_0/3c89235%40book_190.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Comedias &amp; tragicomedias</title>
+    <id>calibre:book:257</id>
+    <updated>2015-03-27T01:53:52Z</updated>
+    <link href="../8f6fb6ff@book_0/335ff6c3@book_257_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/William%20Shakespeare/Comedias%20%26%20tragicomedias%20%28257%29/Comedias%20%26%20tragicomedias%20-%20William%20Shakespeare.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>William Shakespeare</name>
+      <uri>../8f6fb6ff@author_0/beacae01@author_97_Page_1.xml</uri>
+    </author>
+    <published>2011-12-31T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>ePubLibre</dcterms:publisher>
+    <category term="Teatro" />
+    <category term="Drama" />
+    <category term="Humor" />
+    <category term="Sátira" />
+    <category term="Lang:es" />
+    <summary>La presente edición reúne las dieciocho comedias y tragicomedias compuestas por William Shakespeare (1564-1616). En ella se recogen las traducciones de Ángel-Luis Pujante, reconocido especialista en Shakespeare, publicadas en la colección Austral, y se incluyen ocho traducciones inéditas: Los dos caballeros de Verona, Todo bien si acaba bien, Cimbelino (de Ángel-Luis Pujante), La fierecilla domada, Las alegres comadres de Windsor (de Salvador Oliva), Pericles (de Salvador Oliva y Ángel-Luis Puja...</summary>
+    <link href="../8f6fb6ff%40book_0/335ff6c3%40book_257.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Crónica de una muerte anunciada</title>
+    <id>calibre:book:212</id>
+    <updated>2015-03-27T01:53:46Z</updated>
+    <link href="../8f6fb6ff@book_0/2759c748@book_212_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Gabriel%20Garcia%20Marquez/Cronica%20de%20una%20muerte%20anunciada%20%28212%29/Cronica%20de%20una%20muerte%20anunciada%20-%20Gabriel%20Garcia%20Marquez.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>Gabriel García Márquez</name>
+      <uri>../8f6fb6ff@author_0/b0909e1e@author_78_Page_1.xml</uri>
+    </author>
+    <published>1980-12-31T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>ePubLibre</dcterms:publisher>
+    <category term="Novela" />
+    <category term="Drama" />
+    <category term="Lang:es" />
+    <summary>Esta novela se basa en un hecho histórico acontecido en la tierra natal del autor. Sin embargo, en García Márquez la dialéctica entre realidad y mito es tan fecunda que eleva el hecho a categoría de metáfora universal sobre la condición humana. Cuando empieza el relato, Santiago Nasar ya está muerto, pues sabe que los hermanos Vicario lo van a matar —de hecho ya lo han matado— para vengar el honor ultrajado de su hermana Ángela, pero la novela concluye en el momento en que Santiago Nasar muere… ...</summary>
+    <link href="../8f6fb6ff%40book_0/2759c748%40book_212.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Divergent</title>
+    <id>calibre:book:199</id>
+    <updated>2015-03-27T01:53:45Z</updated>
+    <link href="../8f6fb6ff@book_0/7a142a91@book_199_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Veronica%20Roth/Divergent%20%28199%29/Divergent%20-%20Veronica%20Roth.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>Veronica Roth</name>
+      <uri>../8f6fb6ff@author_0/27424796@author_73_Page_1.xml</uri>
+    </author>
+    <published>2011-05-02T02:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Harper Collins, Inc.</dcterms:publisher>
+    <category term="Lang:en" />
+    <link href="../8f6fb6ff%40book_0/7a142a91%40book_199.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>El amor en los tiempos del cólera</title>
+    <id>calibre:book:245</id>
+    <updated>2015-03-27T01:53:46Z</updated>
+    <link href="../8f6fb6ff@book_0/c44aa6ae@book_245_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Gabriel%20Garcia%20Marquez/El%20amor%20en%20los%20tiempos%20del%20colera%20%28245%29/El%20amor%20en%20los%20tiempos%20del%20colera%20-%20Gabriel%20Garcia%20Marquez.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>Gabriel García Márquez</name>
+      <uri>../8f6fb6ff@author_0/b0909e1e@author_78_Page_1.xml</uri>
+    </author>
+    <published>1984-12-31T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>ePubLibre</dcterms:publisher>
+    <category term="Novela" />
+    <category term="Romántico" />
+    <category term="Drama" />
+    <category term="Lang:es" />
+    <summary>En este relato infinitamente seductor, Gabriel García Márquez narra la obsesión del deseo con un arrebato que lo aparta de sus grandes novelas anteriores y a la vez lo acerca a ellas. A la circularidad del tiempo en Macondo, al enclaustramiento del tirano aislado en su poder demencial, sucede ahora la vigencia imbatible del deseo, ahincado en sí mismo. Un deseo que avanza hacia su origen en un movimiento que no cesa. Como el movimiento del barco Nueva Fidelidad, que seguirá yendo y viniendo "tod...</summary>
+    <link href="../8f6fb6ff%40book_0/c44aa6ae%40book_245.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>El árbol de la ciencia</title>
+    <id>calibre:book:209</id>
+    <updated>2015-03-27T01:53:46Z</updated>
+    <link href="../8f6fb6ff@book_0/a9902f81@book_209_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Pio%20Baroja/El%20arbol%20de%20la%20ciencia%20%28209%29/El%20arbol%20de%20la%20ciencia%20-%20Pio%20Baroja.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>Pío Baroja</name>
+      <uri>../8f6fb6ff@author_0/ce21e2a3@author_75_Page_1.xml</uri>
+    </author>
+    <published>1911-04-08T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>espaebook</dcterms:publisher>
+    <category term="Novela" />
+    <category term="Lang:es" />
+    <summary>Se considera que “El árbol de la ciencia” es una de las obras capitales de Baroja. La escribió en época de plenitud completa y apareció en la biblioteca "Renacimiento", en 1911. La vida de Andrés Hurtado, como estudiante de Medicina en el Madrid de finales del siglo XIX, es, en gran parte, la vida del novelista, que, en general, no conservaba muy buenos recuerdos de sus profesores. Los retratos que aparecen al principio de algunos de ellos, pueden compararse con los que, mucho después, trazó en ...</summary>
+    <link href="../8f6fb6ff%40book_0/a9902f81%40book_209.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>El Asedio</title>
+    <id>calibre:book:188</id>
+    <updated>2015-03-27T01:53:44Z</updated>
+    <link href="../8f6fb6ff@book_0/14082b46@book_188_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Arturo%20Perez-Reverte/El%20Asedio%20%28188%29/El%20Asedio%20-%20Arturo%20Perez-Reverte.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Descargar este libro como MOBI" />
+    <author>
+      <name>Arturo Pérez-Reverte</name>
+      <uri>../8f6fb6ff@author_0/4e338258@author_66_Page_1.xml</uri>
+    </author>
+    <published>2010-04-28T10:00:00Z</published>
+    <dcterms:publisher>Santillana USA Pub Co Inc</dcterms:publisher>
+    <category term="spanish" />
+    <category term="Novela Histórica" />
+    <summary>Cádiz, 1811. España lucha por su independencia mientras América lo hace por la suya. En las calles de la ciudad más liberal de Europa se libran batallas de otra índole. Mujeres jóvenes aparecen desolladas a latigazos. En cada lugar, antes del hallazgo del cadáver, ha caído una bomba francesa. Eso traza sobre la ciudad un mapa superpuesto y siniestro: un complejo tablero de ajedrez donde la mano de un jugador oculto -un asesino despiadado, el azar, las curvas de artillería, la dirección de los vi...</summary>
+    <link href="../8f6fb6ff%40book_0/14082b46%40book_188.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>El conde de montecristo</title>
+    <id>calibre:book:149</id>
+    <updated>2015-03-27T01:53:42Z</updated>
+    <link href="../8f6fb6ff@book_0/cfba54dc@book_149_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Alexandre%20Dumas/El%20conde%20de%20montecristo%20%28149%29/El%20conde%20de%20montecristo%20-%20Alexandre%20Dumas.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>Alexandre Dumas</name>
+      <uri>../8f6fb6ff@author_0/c6f1455@author_43_Page_1.xml</uri>
+    </author>
+    <published>1845-04-11T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Feedbooks</dcterms:publisher>
+    <category term="Ficción" />
+    <category term="Acción y Aventura" />
+    <category term="Lang:es" />
+    <summary>Novela de aventuras que tiene lugar en Francia, Italia y varias islas del Mediterráneo entre 1814 y 1838. La historia esta basada en las memorias de Jacques Peuchet, quien escribió sobre un zapatero llamado François Picaud.</summary>
+    <link href="../8f6fb6ff%40book_0/cfba54dc%40book_149.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>El corredor del laberinto</title>
+    <id>calibre:book:151</id>
+    <updated>2015-03-27T01:53:42Z</updated>
+    <link href="../8f6fb6ff@book_0/d87aedaf@book_151_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/James%20Dashner/El%20corredor%20del%20laberinto%20%28151%29/El%20corredor%20del%20laberinto%20-%20James%20Dashner.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>James Dashner</name>
+      <uri>../8f6fb6ff@author_0/e50cb160@author_45_Page_1.xml</uri>
+    </author>
+    <published>2010-11-01T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Nocturna Ediciones</dcterms:publisher>
+    <category term="Juvenile Nonfiction" />
+    <category term="Language Arts" />
+    <category term="Composition &amp; Creative Writing" />
+    <category term="Fantasía. Ciencia ficción" />
+    <category term="Lang:es" />
+    <category term="El corredor del laberinto" />
+    <summary>El corredor del laberinto [1]: «Bienvenido al bosque. Verás que una vez a la semana, siempre el mismo día y a la misma hora, nos llegan víveres. Una vez al mes, siempre el mismo día y a la misma hora, aparece un nuevo chico, como tú. Siempre un chico. Como ves, este lugar está cercado por muros de piedra? Has de saber que estos muros se abren por la mañana y se cierran por la noche, siempre a la hora exacta. Al otro lado se encuentra el laberinto. De noche, las puertas se cierran? y, si quieres ...</summary>
+    <link href="../8f6fb6ff%40book_0/d87aedaf%40book_151.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>El estudio de la orquestación</title>
+    <id>calibre:book:232</id>
+    <updated>2015-03-27T01:53:47Z</updated>
+    <link href="../8f6fb6ff@book_0/156fa5ca@book_232_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Samuel%20Adler/El%20estudio%20de%20la%20orquestacion%20%28232%29/El%20estudio%20de%20la%20orquestacion%20-%20Samuel%20Adler.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Descargar este libro como PDF" />
+    <author>
+      <name>Samuel Adler</name>
+      <uri>../8f6fb6ff@author_0/a7b79f40@author_87_Page_1.xml</uri>
+    </author>
+    <published>2006-12-14T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Idea Books, S.A.</dcterms:publisher>
+    <category term="Music" />
+    <category term="Instruction &amp; Study" />
+    <category term="Appreciation" />
+    <category term="Lang:es" />
+    <link href="../8f6fb6ff%40book_0/156fa5ca%40book_232.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>El evangelio según Jesucristo</title>
+    <id>calibre:book:144</id>
+    <updated>2015-03-27T01:53:42Z</updated>
+    <link href="../8f6fb6ff@book_0/b10b2861@book_144_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Jose%20Saramago/El%20evangelio%20segun%20Jesucristo%20%28144%29/El%20evangelio%20segun%20Jesucristo%20-%20Jose%20Saramago.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>José Saramago</name>
+      <uri>../8f6fb6ff@author_0/a3fb6b8c@author_39_Page_1.xml</uri>
+    </author>
+    <published>1990-12-31T04:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <category term="Lang:es" />
+    <summary>En palabras del propio autor, El Evangelio según Jesucristo "es como una relectura de los evangelios, es como un viaje al origen de una religión". Narrada en tercera persona y centrada de modo particular en las etapas y zonas de la vida de Jesucristo acerca de las que procuran menos información los textos evangélicos, la presente novela ha sido acogida del modo más favorable por la crítica en virtud de su vigor y pujanza literaria.</summary>
+    <link href="../8f6fb6ff%40book_0/b10b2861%40book_144.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>El ingenioso hidalgo Don Quijote de la Mancha</title>
+    <id>calibre:book:148</id>
+    <updated>2015-03-27T01:53:44Z</updated>
+    <link href="../8f6fb6ff@book_0/b8bd644a@book_148_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Miguel%20de%20Cervantes%20Saavedra/El%20ingenioso%20hidalgo%20Don%20Quijote%20de%20la%20Mancha%20%28148%29/El%20ingenioso%20hidalgo%20Don%20Quijote%20de%20la%20Man%20-%20Miguel%20de%20Cervantes%20Saavedra.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>Miguel de Cervantes Saavedra</name>
+      <uri>../8f6fb6ff@author_0/7b6824c3@author_42_Page_1.xml</uri>
+    </author>
+    <published>1605-04-11T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Feedbooks</dcterms:publisher>
+    <category term="Ficción" />
+    <category term="Novela" />
+    <category term="Lang:es" />
+    <summary>Don Quijote de la Mancha, escrito por Miguel de Cervantes Saavedra, editado en 1605, es una de las obras más destacadas de la literatura española y la literatura universal, y una de las más traducidas
+
+La novela consta de dos partes: la primera, El ingenioso hidalgo don Quijote de la Mancha, fue publicada en 1605; la segunda, El ingenioso caballero don Quijote de la Mancha, en 1615.
+
+
+http://es.wikipedia.org/wiki/Don_Quijote_de_la_Mancha</summary>
+    <link href="../8f6fb6ff%40book_0/b8bd644a%40book_148.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>El juego de Ender</title>
+    <id>calibre:book:241</id>
+    <updated>2015-03-27T01:53:51Z</updated>
+    <link href="../8f6fb6ff@book_0/c32762b7@book_241_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Orson%20Scott%20Card/El%20juego%20de%20Ender%20%28241%29/El%20juego%20de%20Ender%20-%20Orson%20Scott%20Card.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>Orson Scott Card</name>
+      <uri>../8f6fb6ff@author_0/57cf0b34@author_91_Page_1.xml</uri>
+    </author>
+    <published>1984-12-31T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>ePubLibre</dcterms:publisher>
+    <category term="Novela" />
+    <category term="Ciencia Ficción" />
+    <category term="Lang:es" />
+    <category term="Saga de Ender" />
+    <summary>Saga de Ender [1]: La Tierra se ve amenazada por los insectores, una raza extraterrestre completamente ajena a los humanos, a los que pretende destruir. Para vencer a los insectores es necesario un nuevo tipo de genio militar, y por ello se ha permitido el nacimiento de Ender, quien en cierta forma constituye una anomalía viviente: es el tercer hijo de una pareja en un mundo que ha limitado estrictamente a dos el número de descendientes. El niño Ender deberá aprender todo lo relativo a la guerra...</summary>
+    <link href="../8f6fb6ff%40book_0/c32762b7%40book_241.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>El ladrón del rayo</title>
+    <id>calibre:book:182</id>
+    <updated>2015-03-27T01:53:43Z</updated>
+    <link href="../8f6fb6ff@book_0/f4ddc258@book_182_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Rick%20Riordan/El%20ladron%20del%20rayo%20%28182%29/El%20ladron%20del%20rayo%20-%20Rick%20Riordan.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>Rick Riordan</name>
+      <uri>../8f6fb6ff@author_0/82a6fc9c@author_58_Page_1.xml</uri>
+    </author>
+    <published>2005-06-30T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Salamandra</dcterms:publisher>
+    <category term="Fantástico" />
+    <category term="Infantil y Juvenil" />
+    <category term="Lang:es" />
+    <category term="Percy Jackson y los dioses del Olimpo" />
+    <summary>Percy Jackson y los dioses del Olimpo [1]: ¿Qué pasaría si los dioses del Olimpo estan vivos en el siglo 21? ¿Y si aún se enamoraran de los mortales y que los niños-héroes podrían llegar a ser grandes, como Teseo, Jasón y Hércules?. ¿Qué pasa si tu fueras uno de esos niños?. Tal es el descubrimiento que a los doce años de edad, Percy Jackson, se lanza en la búsqueda más peligroso de su vida. Con la ayuda de un sátiro y una hija de Atenea, Percy viaja a través de los Estados Unidos para atrapar a...</summary>
+    <link href="../8f6fb6ff%40book_0/f4ddc258%40book_182.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>El libro rojo del cole</title>
+    <id>calibre:book:186</id>
+    <updated>2015-03-27T01:53:44Z</updated>
+    <link href="../8f6fb6ff@book_0/f3b00641@book_186_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Soren%20Hansen/El%20libro%20rojo%20del%20cole%20%28186%29/El%20libro%20rojo%20del%20cole%20-%20Soren%20Hansen.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Descargar este libro como PDF" />
+    <author>
+      <name>Søren Hansen</name>
+      <uri>../8f6fb6ff@author_0/3e5976d7@author_63_Page_1.xml</uri>
+    </author>
+    <author>
+      <name>Jesper Jensen</name>
+      <uri>../8f6fb6ff@author_0/a03de374@author_64_Page_1.xml</uri>
+    </author>
+    <published>1979-09-27T06:03:59Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Nuestra Cultura</dcterms:publisher>
+    <category term="Lang:es" />
+    <link href="../8f6fb6ff%40book_0/f3b00641%40book_186.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>El mercader de Venecia &amp; Como gustéis</title>
+    <id>calibre:book:258</id>
+    <updated>2015-03-27T01:53:52Z</updated>
+    <link href="../8f6fb6ff@book_0/a3e0eb52@book_258_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/William%20Shakespeare/El%20mercader%20de%20Venecia%20%26%20Como%20gusteis%20%28258%29/El%20mercader%20de%20Venecia%20%26%20Como%20gusteis%20-%20William%20Shakespeare.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>William Shakespeare</name>
+      <uri>../8f6fb6ff@author_0/beacae01@author_97_Page_1.xml</uri>
+    </author>
+    <published>1622-12-31T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>ePubLibre</dcterms:publisher>
+    <category term="Teatro" />
+    <category term="Humor" />
+    <category term="Romántico" />
+    <category term="Lang:es" />
+    <summary>El mercader de Venecia y Como gustéis pertenecen al grupo de las llamadas «comedias románticas» de William Shakespeare. En ellas, con el amor como motor principal de la acción, los protagonistas alcanzan la solución feliz en un mundo alternativo de fantasía —Belmont, en El mercader de Venecia y el bosque de Arden en Como gustéis—, no sin antes haber tenido que enfrentarse a obstáculos materiales y humanos, estos últimos personificados en seres anticómicos o malvados —Shylock y Jaime—. Pero la va...</summary>
+    <link href="../8f6fb6ff%40book_0/a3e0eb52%40book_258.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>El principito</title>
+    <id>calibre:book:246</id>
+    <updated>2015-03-27T01:53:51Z</updated>
+    <link href="../8f6fb6ff@book_0/5d43f714@book_246_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Antoine%20de%20Saint-Exupery/El%20principito%20%28246%29/El%20principito%20-%20Antoine%20de%20Saint-Exupery.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>Antoine de Saint-Exupéry</name>
+      <uri>../8f6fb6ff@author_0/50a2cf2d@author_95_Page_1.xml</uri>
+    </author>
+    <published>1943-04-05T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>ePubLibre</dcterms:publisher>
+    <category term="Relato" />
+    <category term="Didáctico" />
+    <category term="Infantil" />
+    <category term="Lang:es" />
+    <summary>El Principito (en francés: Le Petit Prince), publicado el 6 de abril de 1943, es el relato corto más conocido del escritor y aviador francés Antoine de Saint-Exupéry. Lo escribió mientras se hospedaba en un hotel en Nueva York y fue publicado por primera vez en los Estados Unidos. Ha sido traducido a ciento ochenta lenguas y dialectos, convirtiéndose en una de las obras más reconocidas de la literatura universal. El principito habita un pequeñísimo asteroide, que comparte con una flor caprichosa...</summary>
+    <link href="../8f6fb6ff%40book_0/5d43f714%40book_246.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>El resplandor</title>
+    <id>calibre:book:249</id>
+    <updated>2015-03-27T01:53:51Z</updated>
+    <link href="../8f6fb6ff@book_0/cdfcea85@book_249_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Stephen%20King/El%20resplandor%20%28249%29/El%20resplandor%20-%20Stephen%20King.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>Stephen King</name>
+      <uri>../8f6fb6ff@author_0/c9ab9e97@author_96_Page_1.xml</uri>
+    </author>
+    <published>1976-12-31T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>ePubLibre</dcterms:publisher>
+    <category term="Novela" />
+    <category term="Terror" />
+    <category term="Lang:es" />
+    <category term="El resplandor" />
+    <summary>El resplandor [1]: REDRUM. Esa es la palabra que Danny había visto en el espejo. Y aunque no sabía leer, entendió que era un mensaje de horror. Danny tenía cinco años. Y a esa edad pocos niños saben que los espejos invierten las imágenes y menos aún saben diferenciar entre realidad y fantasía. Pero Danny tenía pruebas de que sus fantasías relacionadas con el resplandor del espejo acabarían cumpliéndose: REDRUM&amp; MURDER, asesinato. Pero su padre necesitaba aquel trabajo en el hotel. Danny sabía qu...</summary>
+    <link href="../8f6fb6ff%40book_0/cdfcea85%40book_249.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>El rey Lear</title>
+    <id>calibre:book:250</id>
+    <updated>2015-03-27T01:53:51Z</updated>
+    <link href="../8f6fb6ff@book_0/ad3b6360@book_250_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/William%20Shakespeare/El%20rey%20Lear%20%28250%29/El%20rey%20Lear%20-%20William%20Shakespeare.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>William Shakespeare</name>
+      <uri>../8f6fb6ff@author_0/beacae01@author_97_Page_1.xml</uri>
+    </author>
+    <published>1607-12-31T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>ePubLibre</dcterms:publisher>
+    <category term="Teatro" />
+    <category term="Drama" />
+    <category term="Lang:es" />
+    <summary>El REY LEAR, de William Shakespeare, se basa en un cuento popular que aparece incorporado a la historia antigua de Inglaterra desde el siglo XII. Cuentan las crónicas que el viejo Lear quiso conocer el grado de afecto de sus tres hijas para designar sucesora a quien más le quisiera. Dos se deshicieron en halagos y la menor le contestó que le quería como padre y nada más. Le pareció poco al rey, que la castigó. El tiempo vendría a demostrar más tarde que era la única digna del trono que, por fin,...</summary>
+    <link href="../8f6fb6ff%40book_0/ad3b6360%40book_250.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <link href="../8f6fb6ff@rated/c7072efb@rated_NOTRATED_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="last" title="last page (3 of 3)" />
+</feed>
+

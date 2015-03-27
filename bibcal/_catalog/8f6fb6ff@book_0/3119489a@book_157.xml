@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Thomas's First Memory of the Flare</title>
+  <id>urn:book:7e2c4fef-3c38-4bbc-a636-63c22a5ef821</id>
+  <updated>2015-03-27T01:53:42Z</updated>
+  <link href="./3119489a%40book_157.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Thomas's First Memory of the Flare" />
+  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Biblioteca de Calibre de CJ" />
+  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Biblioteca de Calibre de CJ" />
+  <link href="../8f6fb6ff%40authorlist/e8e4356e%40authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../8f6fb6ff%40author_0/e50cb160%40author_45_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Dashner, James" />
+  <link href="3119489a@book_157_cover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../8f6fb6ff@book_0/3119489a@book_157_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/James%20Dashner/Thomas%27s%20First%20Memory%20of%20the%20Flare%20%28157%29/Thomas%27s%20First%20Memory%20of%20the%20Flare%20-%20James%20Dashner.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+  <author>
+    <name>James Dashner</name>
+    <uri>../8f6fb6ff@author_0/e50cb160@author_45_Page_1.xml</uri>
+  </author>
+  <published>0101-01-01T00:00:00Z</published>
+  <dcterms:language>en</dcterms:language>
+  <category term="Lang:en" />
+  <category term="The Maze Runner" />
+  <content type="text/html">
+    <p>
+      <strong>Series:</strong>
+      Libro 2,5 en la The Maze Runner serie
+    </p>
+    <p>
+      <strong>Rating:</strong>
+      Sin puntuación
+    </p>
+    <p>
+      <strong>Etiquetas:</strong>
+      Lang:en
+    </p>
+    <p>
+      <strong>Published:</strong>
+      1 de enero de 0101
+    </p>
+  </content>
+  <link href="../8f6fb6ff%40series_0/a63f7b8%40series_4_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Libro 2,5 en la The Maze Runner serie" />
+  <link href="../8f6fb6ff%40author_0/e50cb160%40author_45_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Libros de James Dashner" />
+  <link href="http://www.goodreads.com/book/title/Thomas%27s%20First%20Memory%20of%20the%20Flare" type="text/html" rel="related" title="Este libro en Goodreads" />
+  <link href="http://es.wikipedia.org/wiki/Thomas%27s%20First%20Memory%20of%20the%20Flare" type="text/html" rel="related" title="Este libro en Wikipedia" />
+  <link href="http://www.librarything.com/title/Thomas%27s%20First%20Memory%20of%20the%20Flare%20James%20Dashner" type="text/html" rel="related" title="Este libro en LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=Thomas%27s%20First%20Memory%20of%20the%20Flare&amp;field-author=James%20Dashner" type="text/html" rel="related" title="Este libro en Amazon" />
+  <link href="http://www.goodreads.com/book/author/James%20Dashner" type="text/html" rel="related" title="James Dashner en Goodreads" />
+  <link href="http://es.wikipedia.org/wiki/James%20Dashner" type="text/html" rel="related" title="James Dashner en Wikipedia" />
+  <link href="http://www.librarything.com/author/DashnerJames" type="text/html" rel="related" title="James Dashner en LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=James%20Dashner" type="text/html" rel="related" title="James Dashner en Amazon" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?James%20Dashner" type="text/html" rel="related" title="James Dashner en ISFDB" />
+</entry>
+

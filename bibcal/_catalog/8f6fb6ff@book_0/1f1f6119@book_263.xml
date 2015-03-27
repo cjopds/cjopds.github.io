@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Trabajos de amor perdidos</title>
+  <id>urn:book:64a2be0a-1bd2-4d09-9d58-f0e83028cb47</id>
+  <updated>2015-03-27T01:53:52Z</updated>
+  <link href="./1f1f6119%40book_263.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Trabajos de amor perdidos" />
+  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Biblioteca de Calibre de CJ" />
+  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Biblioteca de Calibre de CJ" />
+  <link href="../8f6fb6ff%40authorlist/e8e4356e%40authorlist_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="1f1f6119@book_263_cover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../8f6fb6ff@book_0/1f1f6119@book_263_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/William%20Shakespeare/Trabajos%20de%20amor%20perdidos%20%28263%29/Trabajos%20de%20amor%20perdidos%20-%20William%20Shakespeare.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+  <author>
+    <name>William Shakespeare</name>
+    <uri>../8f6fb6ff@author_0/beacae01@author_97_Page_1.xml</uri>
+  </author>
+  <published>1594-12-31T11:00:00Z</published>
+  <dcterms:language>es</dcterms:language>
+  <dcterms:publisher>ePubLibre</dcterms:publisher>
+  <category term="Teatro" />
+  <category term="Humor" />
+  <category term="Lang:es" />
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      Sin puntuación
+    </p>
+    <p>
+      <strong>Etiquetas:</strong>
+      Teatro, Humor, Lang:es
+    </p>
+    <p>
+      <strong>Published:</strong>
+      31 de diciembre de 1594
+    </p>
+    <p>
+      <strong>Sumario:</strong>
+    </p>
+    <p xmlns="">El rey de Navarra pacta con sus tres vasallos dedicarse al
+    estudio durante tres años, manteniendo una vida
+    ascética que excluye el contacto con las mujeres. Pero la
+    Princesa de Francia y su séquito llegan a la corte. Existe
+    una subtrama protagonizada por un personaje español, el
+    excéntrico Armado, cuyo paje se llama Moth. Se hacen
+    acompañar de Costard, un torpe villano. Armado ama a
+    Jaquineta. Otro grupo de personajes secundarios está
+    formado por Holofernes, pedante maestro de escuela, el cura
+    Nataniel y Dull, el alguacil. Como no podía ser de otra
+    manera, el rey y sus cuatro nobles rompen el pacto y se
+    enamoran respectivamente de la princesa y las tres damas de su
+    séquito.</p>
+  </content>
+  <link href="../8f6fb6ff%40author_0/beacae01%40author_97_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Libros de William Shakespeare" />
+  <link href="http://www.goodreads.com/book/title/Trabajos%20de%20amor%20perdidos" type="text/html" rel="related" title="Este libro en Goodreads" />
+  <link href="http://es.wikipedia.org/wiki/Trabajos%20de%20amor%20perdidos" type="text/html" rel="related" title="Este libro en Wikipedia" />
+  <link href="http://www.librarything.com/title/Trabajos%20de%20amor%20perdidos%20William%20Shakespeare" type="text/html" rel="related" title="Este libro en LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=Trabajos%20de%20amor%20perdidos&amp;field-author=William%20Shakespeare" type="text/html" rel="related" title="Este libro en Amazon" />
+  <link href="http://www.goodreads.com/book/author/William%20Shakespeare" type="text/html" rel="related" title="William Shakespeare en Goodreads" />
+  <link href="http://es.wikipedia.org/wiki/William%20Shakespeare" type="text/html" rel="related" title="William Shakespeare en Wikipedia" />
+  <link href="http://www.librarything.com/author/ShakespeareWilliam" type="text/html" rel="related" title="William Shakespeare en LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=William%20Shakespeare" type="text/html" rel="related" title="William Shakespeare en Amazon" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?William%20Shakespeare" type="text/html" rel="related" title="William Shakespeare en ISFDB" />
+</entry>
+

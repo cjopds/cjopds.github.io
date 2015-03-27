@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:opds="http://opds-spec.org/2010/catalog">
+  <title>Libros que empiezan por J</title>
+  <id>Calibre2opds:allbooks:J</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./c67a4b73%40allbooks_J_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Libros que empiezan por J" />
+  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Biblioteca de Calibre de CJ" />
+  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Biblioteca de Calibre de CJ" />
+  <link href="./c67a4b73%40allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Todos los libros" />
+  <entry>
+    <title>Julio César</title>
+    <id>calibre:book:259</id>
+    <updated>2015-03-27T01:53:52Z</updated>
+    <link href="../8f6fb6ff@book_0/d4e7dbc4@book_259_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/William%20Shakespeare/Julio%20Cesar%20%28259%29/Julio%20Cesar%20-%20William%20Shakespeare.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>William Shakespeare</name>
+      <uri>../8f6fb6ff@author_0/beacae01@author_97_Page_1.xml</uri>
+    </author>
+    <published>1598-12-31T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>ePubLibre</dcterms:publisher>
+    <category term="Teatro" />
+    <category term="Histórico" />
+    <category term="Lang:es" />
+    <summary>La obra se ambienta en el año 44 antes de nuestra era, y narra los acontecimientos que acompañaron la muerte del célebre militar y cónsul romano. La conspiración de varios personajes de alcurnia para asesinar a Julio César, el éxito del complot, y el posterior castigo de los culpables se abordan desde la perspectiva de Bruto. Éste personaje es también un militar destacado, que tiene una relación afectiva muy cercana con César (la amante del cónsul es la madre de Bruto), y se debate entre sus vín...</summary>
+    <link href="../8f6fb6ff%40book_0/d4e7dbc4%40book_259.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>El juego de Ender</title>
+    <id>calibre:book:241</id>
+    <updated>2015-03-27T01:53:51Z</updated>
+    <link href="../8f6fb6ff@book_0/c32762b7@book_241_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Orson%20Scott%20Card/El%20juego%20de%20Ender%20%28241%29/El%20juego%20de%20Ender%20-%20Orson%20Scott%20Card.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>Orson Scott Card</name>
+      <uri>../8f6fb6ff@author_0/57cf0b34@author_91_Page_1.xml</uri>
+    </author>
+    <published>1984-12-31T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>ePubLibre</dcterms:publisher>
+    <category term="Novela" />
+    <category term="Ciencia Ficción" />
+    <category term="Lang:es" />
+    <category term="Saga de Ender" />
+    <summary>Saga de Ender [1]: La Tierra se ve amenazada por los insectores, una raza extraterrestre completamente ajena a los humanos, a los que pretende destruir. Para vencer a los insectores es necesario un nuevo tipo de genio militar, y por ello se ha permitido el nacimiento de Ender, quien en cierta forma constituye una anomalía viviente: es el tercer hijo de una pareja en un mundo que ha limitado estrictamente a dos el número de descendientes. El niño Ender deberá aprender todo lo relativo a la guerra...</summary>
+    <link href="../8f6fb6ff%40book_0/c32762b7%40book_241.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Los juegos del hambre</title>
+    <id>calibre:book:169</id>
+    <updated>2015-03-27T01:53:43Z</updated>
+    <link href="../8f6fb6ff@book_0/fd8c365e@book_169_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Suzanne%20Collins/Los%20juegos%20del%20hambre%20%28169%29/Los%20juegos%20del%20hambre%20-%20Suzanne%20Collins.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>Suzanne Collins</name>
+      <uri>../8f6fb6ff@author_0/62731582@author_52_Page_1.xml</uri>
+    </author>
+    <author>
+      <name>Pilar Ramírez Tello</name>
+      <uri>../8f6fb6ff@author_0/8b10b0b7@author_54_Page_1.xml</uri>
+    </author>
+    <published>2012-03-20T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Molino</dcterms:publisher>
+    <category term="Fantasía; terror y ciencia ficción" />
+    <category term="Aventura" />
+    <category term="Ciencia Ficción" />
+    <category term="Infantil y Juvenil" />
+    <category term="Lang:es" />
+    <category term="Los Juegos del Hambre" />
+    <summary>Los Juegos del Hambre [1]: Reseña del editorGANAR SIGNIFICA FAMA Y RIQUEZA. PERDER SIGNIFICA UNA MUERTE SEGURA. En una oscura versión del futuro próximo, doce chicos y doce chicas se ven obligados a participar en un reality show llamado Los juegos del hambre. Solo hay una regla: matar o morir. Cuando Katniss Everdeen, una joven de dieciséis años se presenta voluntaria para ocupar el lugar de su hermana en los juegos, lo entiende como una condena a muerte. Sin embargo Katniss ya ha visto la muert...</summary>
+    <link href="../8f6fb6ff%40book_0/fd8c365e%40book_169.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>
+

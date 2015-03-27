@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>El árbol de la ciencia</title>
+  <id>urn:book:00914ae1-9b1f-48c6-afa5-22c235604dd2</id>
+  <updated>2015-03-27T01:53:46Z</updated>
+  <link href="./a9902f81%40book_209.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="El árbol de la ciencia" />
+  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Biblioteca de Calibre de CJ" />
+  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Biblioteca de Calibre de CJ" />
+  <link href="../8f6fb6ff%40authorlist/e8e4356e%40authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="a9902f81@book_209_cover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../8f6fb6ff@book_0/a9902f81@book_209_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Pio%20Baroja/El%20arbol%20de%20la%20ciencia%20%28209%29/El%20arbol%20de%20la%20ciencia%20-%20Pio%20Baroja.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+  <author>
+    <name>Pío Baroja</name>
+    <uri>../8f6fb6ff@author_0/ce21e2a3@author_75_Page_1.xml</uri>
+  </author>
+  <published>1911-04-08T11:00:00Z</published>
+  <dcterms:language>es</dcterms:language>
+  <dcterms:publisher>espaebook</dcterms:publisher>
+  <category term="Novela" />
+  <category term="Lang:es" />
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      Sin puntuación
+    </p>
+    <p>
+      <strong>Etiquetas:</strong>
+      Novela, Lang:es
+    </p>
+    <p>
+      <strong>Published:</strong>
+      8 de abril de 1911
+    </p>
+    <p>
+      <strong>Sumario:</strong>
+    </p>
+    <p xmlns="">Se considera que “El árbol de la ciencia”
+    es una de las obras capitales de Baroja. La escribió en
+    época de plenitud completa y apareció en la
+    biblioteca "Renacimiento", en 1911. La vida de Andrés
+    Hurtado, como estudiante de Medicina en el Madrid de finales
+    del siglo XIX, es, en gran parte, la vida del novelista, que,
+    en general, no conservaba muy buenos recuerdos de sus
+    profesores. Los retratos que aparecen al principio de algunos
+    de ellos, pueden compararse con los que, mucho después,
+    trazó en sus memorias. Las zozobras y dudas del
+    protagonista, los contrastes entre las realidades y las
+    pretensiones de las gentes de la época dan a la novela un
+    tono intelectual amargo. Andrés Hurtado, como el Baroja
+    joven, tiende a una especie de nihilismo metafísico. Por
+    otra parte, en la novela se reflejan aspectos más
+    íntimos de la vida del novelista. Las discusiones con el
+    padre, la preocupación por el hermano, los cambios de
+    morada, etc., pueden compararse con las discusiones de los
+    Baroja jóvenes, con el Baroja viejo (aunque éste
+    fuera hombre mucho más abierto que el padre de Hurtado);
+    la muerte del hermano mayor, Darío, se transforma
+    aquí en la preocupación por Luisito, el niño
+    enfermo... La experiencia médica relatada en la quinta
+    parte, trasladada a otro ámbito, es, en parte,
+    también la de Baroja en Cestona. Pero al lado del elemento
+    autobiográfico cognoscible y del intelectual se utilizan
+    en la novela otros ingredientes: acaso, también, contiene
+    parte de una autobiografía, oculta siempre, del escritor.
+    En efecto, todo lo que “El árbol de la
+    ciencia” tiene de novela erótica, en el más
+    puro sentido de la palabra, es decir, de novela en que se trata
+    del Amor, puede considerarse como fruto de una experiencia
+    vital, más o menos reajustada de modo novelesco. Desde que
+    apareció a hoy día, “El árbol de la
+    ciencia” ha tenido lectores fieles. Ha sido también
+    objeto de varios estudios y ensayos y traducida a distintos
+    idiomas (francés, inglés, ruso, alemán,
+    italiano, etc.); pero, en esencia, es la novela de la juventud
+    de una época de España y como tal es difícil de
+    entender fuera. Dentro puede producir grandes repulsas en
+    gentes de mentalidad ortodoxa (sea la que sea su ortodoxia):
+    pero puede preverse que muchos jóvenes seguirán,
+    durante generaciones, teniendo una posición ante la vida
+    que recuerde a la que tuvo el héroe barojiano.</p>
+  </content>
+  <link href="../8f6fb6ff%40author_0/ce21e2a3%40author_75_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Libros de Pío Baroja" />
+  <link href="http://www.goodreads.com/book/title/El%20%C3%A1rbol%20de%20la%20ciencia" type="text/html" rel="related" title="Este libro en Goodreads" />
+  <link href="http://es.wikipedia.org/wiki/El%20%C3%A1rbol%20de%20la%20ciencia" type="text/html" rel="related" title="Este libro en Wikipedia" />
+  <link href="http://www.librarything.com/title/El%20%C3%A1rbol%20de%20la%20ciencia%20P%C3%ADo%20Baroja" type="text/html" rel="related" title="Este libro en LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=El%20%C3%A1rbol%20de%20la%20ciencia&amp;field-author=P%C3%ADo%20Baroja" type="text/html" rel="related" title="Este libro en Amazon" />
+  <link href="http://www.goodreads.com/book/author/P%C3%ADo%20Baroja" type="text/html" rel="related" title="Pío Baroja en Goodreads" />
+  <link href="http://es.wikipedia.org/wiki/P%C3%ADo%20Baroja" type="text/html" rel="related" title="Pío Baroja en Wikipedia" />
+  <link href="http://www.librarything.com/author/BarojaP%C3%ADo" type="text/html" rel="related" title="Pío Baroja en LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=P%C3%ADo%20Baroja" type="text/html" rel="related" title="Pío Baroja en Amazon" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?P%C3%ADo%20Baroja" type="text/html" rel="related" title="Pío Baroja en ISFDB" />
+</entry>
+

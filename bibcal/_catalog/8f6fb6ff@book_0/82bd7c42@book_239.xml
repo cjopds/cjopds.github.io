@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>1984</title>
+  <id>urn:book:bc5aa8cb-1232-450c-85c6-c6953c356159</id>
+  <updated>2015-03-27T01:53:51Z</updated>
+  <link href="./82bd7c42%40book_239.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="1984" />
+  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Biblioteca de Calibre de CJ" />
+  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Biblioteca de Calibre de CJ" />
+  <link href="../8f6fb6ff%40authorlist/e8e4356e%40authorlist_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="82bd7c42@book_239_cover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../8f6fb6ff@book_0/82bd7c42@book_239_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/George%20Orwell/1984%20%28239%29/1984%20-%20George%20Orwell.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+  <author>
+    <name>George Orwell</name>
+    <uri>../8f6fb6ff@author_0/400fb247@author_89_Page_1.xml</uri>
+  </author>
+  <published>1948-12-31T11:00:00Z</published>
+  <dcterms:language>es</dcterms:language>
+  <dcterms:publisher>ePubLibre</dcterms:publisher>
+  <category term="Novela" />
+  <category term="Ciencia Ficción" />
+  <category term="Lang:es" />
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      Sin puntuación
+    </p>
+    <p>
+      <strong>Etiquetas:</strong>
+      Novela, Ciencia Ficción, Lang:es
+    </p>
+    <p>
+      <strong>Published:</strong>
+      31 de diciembre de 1948
+    </p>
+    <p>
+      <strong>Sumario:</strong>
+    </p>
+    <p xmlns="">En una supuesta sociedad policial, el estado ha conseguido
+    el control total sobre el individuo. No existe siquiera un
+    resquicio para la intimidad personal: el sexo es un crimen, las
+    emociones están prohibidas, la adoración al sistema
+    es la condición para seguir vivo. La Policía del
+    Pensamiento se encargará de torturar hasta la muerte a los
+    conspiradores, aunque para ello sea necesario acusar a
+    inocentes. Winston y Julia, a pesar de ser miembros del Partido
+    y sabiendo que el Gran Hermano les vigila, se rebelan contra
+    ese poder que se ha adueñado de las conciencias de sus
+    conciudadanos. El camino que seguirán se convertirá
+    en un peligroso laberinto hacia un final incierto.</p>
+  </content>
+  <link href="../8f6fb6ff%40author_0/400fb247%40author_89_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Libros de George Orwell" />
+  <link href="http://www.goodreads.com/book/title/1984" type="text/html" rel="related" title="Este libro en Goodreads" />
+  <link href="http://es.wikipedia.org/wiki/1984" type="text/html" rel="related" title="Este libro en Wikipedia" />
+  <link href="http://www.librarything.com/title/1984%20George%20Orwell" type="text/html" rel="related" title="Este libro en LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=1984&amp;field-author=George%20Orwell" type="text/html" rel="related" title="Este libro en Amazon" />
+  <link href="http://www.goodreads.com/book/author/George%20Orwell" type="text/html" rel="related" title="George Orwell en Goodreads" />
+  <link href="http://es.wikipedia.org/wiki/George%20Orwell" type="text/html" rel="related" title="George Orwell en Wikipedia" />
+  <link href="http://www.librarything.com/author/OrwellGeorge" type="text/html" rel="related" title="George Orwell en LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=George%20Orwell" type="text/html" rel="related" title="George Orwell en Amazon" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?George%20Orwell" type="text/html" rel="related" title="George Orwell en ISFDB" />
+</entry>
+

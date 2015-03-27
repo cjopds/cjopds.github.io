@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>La tragedia de Ricardo III</title>
+  <id>urn:book:65cecde1-7624-4215-8403-e24dd6670596</id>
+  <updated>2015-03-27T01:53:51Z</updated>
+  <link href="./da3c53f6%40book_251.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="La tragedia de Ricardo III" />
+  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Biblioteca de Calibre de CJ" />
+  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Biblioteca de Calibre de CJ" />
+  <link href="../8f6fb6ff%40authorlist/e8e4356e%40authorlist_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="da3c53f6@book_251_cover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../8f6fb6ff@book_0/da3c53f6@book_251_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/William%20Shakespeare/La%20tragedia%20de%20Ricardo%20III%20%28251%29/La%20tragedia%20de%20Ricardo%20III%20-%20William%20Shakespeare.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+  <author>
+    <name>William Shakespeare</name>
+    <uri>../8f6fb6ff@author_0/beacae01@author_97_Page_1.xml</uri>
+  </author>
+  <published>1592-12-31T11:00:00Z</published>
+  <dcterms:language>es</dcterms:language>
+  <dcterms:publisher>ePubLibre</dcterms:publisher>
+  <category term="Teatro" />
+  <category term="Histórico" />
+  <category term="Drama" />
+  <category term="Lang:es" />
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      Sin puntuación
+    </p>
+    <p>
+      <strong>Etiquetas:</strong>
+      Teatro, Histórico, Drama, Lang:es
+    </p>
+    <p>
+      <strong>Published:</strong>
+      31 de diciembre de 1592
+    </p>
+    <p>
+      <strong>Sumario:</strong>
+    </p>
+    <p xmlns="">Cierra la tetralogía que se completa con las tres
+    partes de Enrique VI, siendo la obra más acertada de las
+    cuatro. Narra la historia de la monarquía inglesa desde
+    1471 (muerte de Enrique VI) hasta 1485 (muerte de Ricardo III).
+    El protagonista es dibujado como un asesino vil, deforme,
+    ambicioso y corrupto. Gran parte de la trama se sitúa en
+    el Palacio de Westminster en Londres (cuyo aspecto actual con
+    la torre del reloj y albergando el parlamento es completamente
+    diferente), aunque importantes escenas se desarrollan en la
+    Torre de Londres, paradigmático lugar donde han sido
+    encarceladas y ejecutadas muchas personalidades de la Historia
+    de Inglaterra.</p>
+  </content>
+  <link href="../8f6fb6ff%40author_0/beacae01%40author_97_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Libros de William Shakespeare" />
+  <link href="http://www.goodreads.com/book/title/La%20tragedia%20de%20Ricardo%20III" type="text/html" rel="related" title="Este libro en Goodreads" />
+  <link href="http://es.wikipedia.org/wiki/La%20tragedia%20de%20Ricardo%20III" type="text/html" rel="related" title="Este libro en Wikipedia" />
+  <link href="http://www.librarything.com/title/La%20tragedia%20de%20Ricardo%20III%20William%20Shakespeare" type="text/html" rel="related" title="Este libro en LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=La%20tragedia%20de%20Ricardo%20III&amp;field-author=William%20Shakespeare" type="text/html" rel="related" title="Este libro en Amazon" />
+  <link href="http://www.goodreads.com/book/author/William%20Shakespeare" type="text/html" rel="related" title="William Shakespeare en Goodreads" />
+  <link href="http://es.wikipedia.org/wiki/William%20Shakespeare" type="text/html" rel="related" title="William Shakespeare en Wikipedia" />
+  <link href="http://www.librarything.com/author/ShakespeareWilliam" type="text/html" rel="related" title="William Shakespeare en LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=William%20Shakespeare" type="text/html" rel="related" title="William Shakespeare en Amazon" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?William%20Shakespeare" type="text/html" rel="related" title="William Shakespeare en ISFDB" />
+</entry>
+

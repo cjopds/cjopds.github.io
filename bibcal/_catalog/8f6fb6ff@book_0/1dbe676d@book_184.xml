@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>La cura mortal</title>
+  <id>urn:book:6244a41c-6264-451b-a23f-d5493665348d</id>
+  <updated>2015-03-27T01:53:42Z</updated>
+  <link href="./1dbe676d%40book_184.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="La cura mortal" />
+  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Biblioteca de Calibre de CJ" />
+  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Biblioteca de Calibre de CJ" />
+  <link href="../8f6fb6ff%40authorlist/e8e4356e%40authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../8f6fb6ff%40author_0/e50cb160%40author_45_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Dashner, James" />
+  <link href="1dbe676d@book_184_cover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../8f6fb6ff@book_0/1dbe676d@book_184_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/James%20Dashner/La%20cura%20mortal%20%28184%29/La%20cura%20mortal%20-%20James%20Dashner.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+  <author>
+    <name>James Dashner</name>
+    <uri>../8f6fb6ff@author_0/e50cb160@author_45_Page_1.xml</uri>
+  </author>
+  <published>2010-12-31T11:00:00Z</published>
+  <dcterms:language>es</dcterms:language>
+  <dcterms:publisher>ePubLibre</dcterms:publisher>
+  <category term="Novela" />
+  <category term="Fantástico" />
+  <category term="Lang:es" />
+  <category term="El corredor del laberinto" />
+  <content type="text/html">
+    <p>
+      <strong>Series:</strong>
+      Libro 3 en la El corredor del laberinto serie
+    </p>
+    <p>
+      <strong>Rating:</strong>
+      Sin puntuación
+    </p>
+    <p>
+      <strong>Etiquetas:</strong>
+      Novela, Fantástico, Lang:es
+    </p>
+    <p>
+      <strong>Published:</strong>
+      31 de diciembre de 2010
+    </p>
+    <p>
+      <strong>Sumario:</strong>
+    </p>
+    <p xmlns="">«MÁTAME. SI ALGUNA VEZ HAS SIDO MI AMIGO,
+    MÁTAME». Desde hace tres semanas, Thomas vive en una
+    habitación sin ventanas, de un blanco resplandeciente y
+    siempre iluminada. Sin reloj y sin contacto con nadie, más
+    allá de las tres bandejas de comida que alguien le lleva a
+    diario (aunque a horas distintas, como para desorientarle). Al
+    vigésimo sexto día, la puerta se abre y un hombre le
+    conduce a una sala llena de viejos amigos. —Muy bien,
+    damas y caballeros. Estáis a punto de recuperar todos
+    vuestros recuerdos. Hasta el último de ellos.</p>
+  </content>
+  <link href="../8f6fb6ff%40series_0/7a090337%40series_1_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Libro 3 en la El corredor del laberinto serie" />
+  <link href="../8f6fb6ff%40author_0/e50cb160%40author_45_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Libros de James Dashner" />
+  <link href="http://www.goodreads.com/book/title/La%20cura%20mortal" type="text/html" rel="related" title="Este libro en Goodreads" />
+  <link href="http://es.wikipedia.org/wiki/La%20cura%20mortal" type="text/html" rel="related" title="Este libro en Wikipedia" />
+  <link href="http://www.librarything.com/title/La%20cura%20mortal%20James%20Dashner" type="text/html" rel="related" title="Este libro en LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=La%20cura%20mortal&amp;field-author=James%20Dashner" type="text/html" rel="related" title="Este libro en Amazon" />
+  <link href="http://www.goodreads.com/book/author/James%20Dashner" type="text/html" rel="related" title="James Dashner en Goodreads" />
+  <link href="http://es.wikipedia.org/wiki/James%20Dashner" type="text/html" rel="related" title="James Dashner en Wikipedia" />
+  <link href="http://www.librarything.com/author/DashnerJames" type="text/html" rel="related" title="James Dashner en LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=James%20Dashner" type="text/html" rel="related" title="James Dashner en Amazon" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?James%20Dashner" type="text/html" rel="related" title="James Dashner en ISFDB" />
+</entry>
+

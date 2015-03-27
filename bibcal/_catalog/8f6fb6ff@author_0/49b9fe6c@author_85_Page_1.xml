@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:opds="http://opds-spec.org/2010/catalog">
+  <title>Cádiz, Universidad de</title>
+  <id>Calibre2opds:author:85</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./49b9fe6c%40author_85_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Cádiz, Universidad de" />
+  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Biblioteca de Calibre de CJ" />
+  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Biblioteca de Calibre de CJ" />
+  <link href="../8f6fb6ff%40authorlist/e8e4356e%40authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <entry>
+    <title>Textos de Historia de la Filosofía</title>
+    <id>calibre:book:231</id>
+    <updated>2015-03-27T01:53:46Z</updated>
+    <link href="../8f6fb6ff@book_0/8c66f470@book_231_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Universidad%20de%20Cadiz/Textos%20de%20Historia%20de%20la%20Filosofia%20%28231%29/Textos%20de%20Historia%20de%20la%20Filosofia%20-%20Universidad%20de%20Cadiz.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>Universidad de Cádiz</name>
+      <uri>../8f6fb6ff@author_0/49b9fe6c@author_85_Page_1.xml</uri>
+    </author>
+    <published>2012-03-15T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <category term="Lang:es" />
+    <link href="../8f6fb6ff%40book_0/8c66f470%40book_231.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>
+

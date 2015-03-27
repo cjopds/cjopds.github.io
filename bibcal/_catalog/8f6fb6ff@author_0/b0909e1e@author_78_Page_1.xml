@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:opds="http://opds-spec.org/2010/catalog">
+  <title>Márquez, Gabriel García</title>
+  <id>Calibre2opds:author:78</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./b0909e1e%40author_78_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Márquez, Gabriel García" />
+  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Biblioteca de Calibre de CJ" />
+  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Biblioteca de Calibre de CJ" />
+  <link href="../8f6fb6ff%40authorlist/e8e4356e%40authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <entry>
+    <title>Crónica de una muerte anunciada</title>
+    <id>calibre:book:212</id>
+    <updated>2015-03-27T01:53:46Z</updated>
+    <link href="../8f6fb6ff@book_0/2759c748@book_212_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Gabriel%20Garcia%20Marquez/Cronica%20de%20una%20muerte%20anunciada%20%28212%29/Cronica%20de%20una%20muerte%20anunciada%20-%20Gabriel%20Garcia%20Marquez.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>Gabriel García Márquez</name>
+      <uri>../8f6fb6ff@author_0/b0909e1e@author_78_Page_1.xml</uri>
+    </author>
+    <published>1980-12-31T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>ePubLibre</dcterms:publisher>
+    <category term="Novela" />
+    <category term="Drama" />
+    <category term="Lang:es" />
+    <summary>Esta novela se basa en un hecho histórico acontecido en la tierra natal del autor. Sin embargo, en García Márquez la dialéctica entre realidad y mito es tan fecunda que eleva el hecho a categoría de metáfora universal sobre la condición humana. Cuando empieza el relato, Santiago Nasar ya está muerto, pues sabe que los hermanos Vicario lo van a matar —de hecho ya lo han matado— para vengar el honor ultrajado de su hermana Ángela, pero la novela concluye en el momento en que Santiago Nasar muere… ...</summary>
+    <link href="../8f6fb6ff%40book_0/2759c748%40book_212.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>El amor en los tiempos del cólera</title>
+    <id>calibre:book:245</id>
+    <updated>2015-03-27T01:53:46Z</updated>
+    <link href="../8f6fb6ff@book_0/c44aa6ae@book_245_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Gabriel%20Garcia%20Marquez/El%20amor%20en%20los%20tiempos%20del%20colera%20%28245%29/El%20amor%20en%20los%20tiempos%20del%20colera%20-%20Gabriel%20Garcia%20Marquez.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>Gabriel García Márquez</name>
+      <uri>../8f6fb6ff@author_0/b0909e1e@author_78_Page_1.xml</uri>
+    </author>
+    <published>1984-12-31T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>ePubLibre</dcterms:publisher>
+    <category term="Novela" />
+    <category term="Romántico" />
+    <category term="Drama" />
+    <category term="Lang:es" />
+    <summary>En este relato infinitamente seductor, Gabriel García Márquez narra la obsesión del deseo con un arrebato que lo aparta de sus grandes novelas anteriores y a la vez lo acerca a ellas. A la circularidad del tiempo en Macondo, al enclaustramiento del tirano aislado en su poder demencial, sucede ahora la vigencia imbatible del deseo, ahincado en sí mismo. Un deseo que avanza hacia su origen en un movimiento que no cesa. Como el movimiento del barco Nueva Fidelidad, que seguirá yendo y viniendo "tod...</summary>
+    <link href="../8f6fb6ff%40book_0/c44aa6ae%40book_245.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>
+

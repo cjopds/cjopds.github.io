@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Extras</title>
+  <id>urn:book:984e5f2e-3fb3-4990-b8d7-44658e75d463</id>
+  <updated>2015-03-27T01:53:45Z</updated>
+  <link href="./f43a7a75%40book_165.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Extras" />
+  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Biblioteca de Calibre de CJ" />
+  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Biblioteca de Calibre de CJ" />
+  <link href="../8f6fb6ff%40authorlist/e8e4356e%40authorlist_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../8f6fb6ff%40author_0/b926d235%40author_74_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Westerfeld, Scott" />
+  <link href="f43a7a75@book_165_cover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../8f6fb6ff@book_0/f43a7a75@book_165_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Scott%20Westerfeld/Extras%20%28165%29/Extras%20-%20Scott%20Westerfeld.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+  <author>
+    <name>Scott Westerfeld</name>
+    <uri>../8f6fb6ff@author_0/b926d235@author_74_Page_1.xml</uri>
+  </author>
+  <published>0101-01-01T00:00:00Z</published>
+  <dcterms:language>es</dcterms:language>
+  <dcterms:publisher>Montena</dcterms:publisher>
+  <category term="Ciencia Ficción" />
+  <category term="Romántica" />
+  <category term="Lang:es" />
+  <category term="Uglies" />
+  <content type="text/html">
+    <p>
+      <strong>Series:</strong>
+      Libro 4 en la Uglies serie
+    </p>
+    <p>
+      <strong>Rating:</strong>
+      Sin puntuación
+    </p>
+    <p>
+      <strong>Etiquetas:</strong>
+      Ciencia Ficción, Romántica, Lang:es
+    </p>
+    <p>
+      <strong>Published:</strong>
+      1 de enero de 0101
+    </p>
+    <p>
+      <strong>Sumario:</strong>
+    </p>
+    <p xmlns="" class="description">
+      Tras el fin de la era de los perfectos,
+    la sociedad está sumida en un renacimiento completo... en
+    el que la popularidad manda. Ser famoso implica tener mejor
+    casa, mejor ropa e incluso mejores amigos. En cambio, no serlo
+    te convierte en invisible, en un perdedor, en un completo
+    desconocido. En definitiva, en un extra.
+      <br />
+      Aya Fuse lo es. Pero a sus quince años hay algo que
+    tiene ya muy claro: por nada del mundo piensa resignarse al
+    anonimato. Y está dispuesta a todo para hacer realidad sus
+    sueños...
+    </p>
+  </content>
+  <link href="../8f6fb6ff%40series_0/7d64c72e%40series_5_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Libro 4 en la Uglies serie" />
+  <link href="../8f6fb6ff%40author_0/b926d235%40author_74_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Libros de Scott Westerfeld" />
+  <link href="http://www.goodreads.com/book/title/Extras" type="text/html" rel="related" title="Este libro en Goodreads" />
+  <link href="http://es.wikipedia.org/wiki/Extras" type="text/html" rel="related" title="Este libro en Wikipedia" />
+  <link href="http://www.librarything.com/title/Extras%20Scott%20Westerfeld" type="text/html" rel="related" title="Este libro en LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=Extras&amp;field-author=Scott%20Westerfeld" type="text/html" rel="related" title="Este libro en Amazon" />
+  <link href="http://www.goodreads.com/book/author/Scott%20Westerfeld" type="text/html" rel="related" title="Scott Westerfeld en Goodreads" />
+  <link href="http://es.wikipedia.org/wiki/Scott%20Westerfeld" type="text/html" rel="related" title="Scott Westerfeld en Wikipedia" />
+  <link href="http://www.librarything.com/author/WesterfeldScott" type="text/html" rel="related" title="Scott Westerfeld en LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Scott%20Westerfeld" type="text/html" rel="related" title="Scott Westerfeld en Amazon" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Scott%20Westerfeld" type="text/html" rel="related" title="Scott Westerfeld en ISFDB" />
+</entry>
+

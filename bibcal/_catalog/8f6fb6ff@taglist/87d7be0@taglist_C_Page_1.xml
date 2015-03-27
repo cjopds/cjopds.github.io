@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:opds="http://opds-spec.org/2010/catalog">
+  <title>Etiquetas que empiezan por C</title>
+  <id>Calibre2opds:taglist:C</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./87d7be0%40taglist_C_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Etiquetas que empiezan por C" />
+  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Biblioteca de Calibre de CJ" />
+  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Biblioteca de Calibre de CJ" />
+  <link href="./87d7be0%40taglist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="etiquetas" />
+  <entry>
+    <title>Certification Guides</title>
+    <id>Calibre2opds:taglist:C:106</id>
+    <content type="text">Nueva antología del disparate</content>
+    <link href="../8f6fb6ff%40tag_1/cbca6fdd%40tag_106_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../tags.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Children's Literature</title>
+    <id>Calibre2opds:taglist:C:140</id>
+    <content type="text">3 libros</content>
+    <link href="../8f6fb6ff%40tag_1/46c50fec%40tag_140_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../tags.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Ciencia</title>
+    <id>Calibre2opds:taglist:C:156</id>
+    <content type="text">El sueño de Alicia</content>
+    <link href="../8f6fb6ff%40tag_1/b6bd9b98%40tag_156_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../tags.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Ciencia Ficción</title>
+    <id>Calibre2opds:taglist:C:122</id>
+    <content type="text">17 libros</content>
+    <link href="../8f6fb6ff%40tag_1/fe91c946%40tag_122_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../tags.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Ciencias sociales</title>
+    <id>Calibre2opds:taglist:C:131</id>
+    <content type="text">No estamos locos</content>
+    <link href="../8f6fb6ff%40tag_1/7e83a9bd%40tag_131_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../tags.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Ciencias; tecnología y medicina</title>
+    <id>Calibre2opds:taglist:C:155</id>
+    <content type="text">El sueño de Alicia</content>
+    <link href="../8f6fb6ff%40tag_1/2fb4ca22%40tag_155_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../tags.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Composition &amp; Creative Writing</title>
+    <id>Calibre2opds:taglist:C:110</id>
+    <content type="text">El corredor del laberinto</content>
+    <link href="../8f6fb6ff%40tag_1/3bb2fba9%40tag_110_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../tags.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Computers</title>
+    <id>Calibre2opds:taglist:C:102</id>
+    <content type="text">Nueva antología del disparate</content>
+    <link href="../8f6fb6ff%40tag_1/cca7abc4%40tag_102_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../tags.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Crónica</title>
+    <id>Calibre2opds:taglist:C:128</id>
+    <content type="text">1 libro</content>
+    <link href="../8f6fb6ff%40tag_1/1e442058%40tag_128_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../tags.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+</feed>
+

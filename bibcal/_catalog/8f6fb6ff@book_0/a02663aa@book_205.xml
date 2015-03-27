@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Divergente</title>
+  <id>urn:book:c73bad37-6ed4-46dc-8888-0a890728fcab</id>
+  <updated>2015-03-27T01:53:45Z</updated>
+  <link href="./a02663aa%40book_205.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Divergente" />
+  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Biblioteca de Calibre de CJ" />
+  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Biblioteca de Calibre de CJ" />
+  <link href="../8f6fb6ff%40authorlist/e8e4356e%40authorlist_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../8f6fb6ff%40author_0/8b10b0b7%40author_54_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Ramírez Tello, Pilar" />
+  <link href="a02663aa@book_205_cover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../8f6fb6ff@book_0/a02663aa@book_205_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Veronica%20Roth/Divergente%20%28205%29/Divergente%20-%20Veronica%20Roth.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+  <author>
+    <name>Veronica Roth</name>
+    <uri>../8f6fb6ff@author_0/27424796@author_73_Page_1.xml</uri>
+  </author>
+  <author>
+    <name>Pilar Ramírez Tello</name>
+    <uri>../8f6fb6ff@author_0/8b10b0b7@author_54_Page_1.xml</uri>
+  </author>
+  <published>2011-10-17T10:00:00Z</published>
+  <dcterms:language>es</dcterms:language>
+  <dcterms:publisher>Molino</dcterms:publisher>
+  <category term="Aventura" />
+  <category term="Fantasía; terror y ciencia ficción" />
+  <category term="Infantil y Juvenil" />
+  <category term="Romántico" />
+  <category term="Ciencia Ficción" />
+  <category term="Lang:es" />
+  <category term="Divergent" />
+  <content type="text/html">
+    <p>
+      <strong>Series:</strong>
+      Libro 1 en la Divergent serie
+    </p>
+    <p>
+      <strong>Rating:</strong>
+      ****
+    </p>
+    <p>
+      <strong>Etiquetas:</strong>
+      Aventura, Fantasía; terror y ciencia ficción, Infantil y Juvenil, Romántico, Ciencia Ficción, Lang:es
+    </p>
+    <p>
+      <strong>Published:</strong>
+      17 de octubre de 2011
+    </p>
+    <p>
+      <strong>Sumario:</strong>
+    </p>
+    <p xmlns="" class="description">En el Chicago distópico de Beatrice
+    Prior, la sociedad está dividida en cinco facciones, cada
+    una de ellas dedicada a cultivar una virtud concreta: Verdad
+    (los sinceros), Abnegación (los altruistas), Osadía
+    (los valientes), Cordialidad (los pacíficos) y
+    Erudición (los inteligentes). En una ceremonia anual,
+    todos los chicos de dieciséis años deben decidir a
+    qué facción dedicarán el resto de sus vidas.
+    Beatrice tiene que elegir entre quedarse con su familia... y
+    ser quien realmente es, no puede tener ambas cosas. Así
+    que toma una decisión que sorprenderá a todo el
+    mundo, incluida ella. Durante el competitivo proceso de
+    iniciación posterior, Beatrice decide pasar a llamarse
+    Tris e intenta averiguar quiénes son sus verdaderos
+    amigos, y dónde encaja en su vida enamorarse de un chico
+    que unas veces resulta fascinante y otras veces la exaspera.
+    Sin embargo, Tris también tiene un secreto, un secreto que
+    no ha contado a nadie para no poner su vida en peligro. Cuando
+    descubre un conflicto que amenaza con desbaratar la, en
+    apariencia, perfecta sociedad en la que vive, también
+    averigua que su secreto podría ser la clave para salvar a
+    los que ama o... para acabar muerta. WWW.SAGADIVERGENTE.COM</p>
+  </content>
+  <link href="../8f6fb6ff%40series_0/3b1b43bb%40series_11_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Libro 1 en la Divergent serie" />
+  <link href="../8f6fb6ff%40author_0/27424796%40author_73_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Libros de Veronica Roth" />
+  <link href="../8f6fb6ff%40author_0/8b10b0b7%40author_54_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Libros de Pilar Ramírez Tello" />
+  <link href="http://www.goodreads.com/book/title/Divergente" type="text/html" rel="related" title="Este libro en Goodreads" />
+  <link href="http://es.wikipedia.org/wiki/Divergente" type="text/html" rel="related" title="Este libro en Wikipedia" />
+  <link href="http://www.librarything.com/title/Divergente%20Veronica%20Roth" type="text/html" rel="related" title="Este libro en LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=Divergente&amp;field-author=Veronica%20Roth" type="text/html" rel="related" title="Este libro en Amazon" />
+  <link href="http://www.goodreads.com/book/author/Veronica%20Roth" type="text/html" rel="related" title="Veronica Roth en Goodreads" />
+  <link href="http://www.goodreads.com/book/author/Pilar%20Ram%C3%ADrez%20Tello" type="text/html" rel="related" title="Pilar Ramírez Tello en Goodreads" />
+  <link href="http://es.wikipedia.org/wiki/Veronica%20Roth" type="text/html" rel="related" title="Veronica Roth en Wikipedia" />
+  <link href="http://es.wikipedia.org/wiki/Pilar%20Ram%C3%ADrez%20Tello" type="text/html" rel="related" title="Pilar Ramírez Tello en Wikipedia" />
+  <link href="http://www.librarything.com/author/RothVeronica" type="text/html" rel="related" title="Veronica Roth en LibraryThing" />
+  <link href="http://www.librarything.com/author/Ram%C3%ADrezTelloPilar" type="text/html" rel="related" title="Pilar Ramírez Tello en LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Veronica%20Roth" type="text/html" rel="related" title="Veronica Roth en Amazon" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Pilar%20Ram%C3%ADrez%20Tello" type="text/html" rel="related" title="Pilar Ramírez Tello en Amazon" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Veronica%20Roth" type="text/html" rel="related" title="Veronica Roth en ISFDB" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Pilar%20Ram%C3%ADrez%20Tello" type="text/html" rel="related" title="Pilar Ramírez Tello en ISFDB" />
+</entry>
+

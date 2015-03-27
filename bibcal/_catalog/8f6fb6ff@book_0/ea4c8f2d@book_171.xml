@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>El dilema: 600 días de vértigo</title>
+  <id>urn:book:944a634a-3c45-41f3-b8b9-4f07383c6ae5</id>
+  <updated>2015-03-27T01:53:43Z</updated>
+  <link href="./ea4c8f2d%40book_171.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="El dilema: 600 días de vértigo" />
+  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Biblioteca de Calibre de CJ" />
+  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Biblioteca de Calibre de CJ" />
+  <link href="../8f6fb6ff%40authorlist/e8e4356e%40authorlist_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="ea4c8f2d@book_171_cover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../8f6fb6ff@book_0/ea4c8f2d@book_171_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Jose%20Luis%20Rodriguez%20Zapatero/El%20dilema_%20600%20dias%20de%20vertigo%20%28171%29/El%20dilema_%20600%20dias%20de%20vertigo%20-%20Jose%20Luis%20Rodriguez%20Zapatero.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+  <author>
+    <name>José Luis Rodríguez Zapatero</name>
+    <uri>../8f6fb6ff@author_0/fc178021@author_55_Page_1.xml</uri>
+  </author>
+  <published>2013-11-25T11:00:00Z</published>
+  <dcterms:language>es</dcterms:language>
+  <dcterms:publisher>Editorial Planeta</dcterms:publisher>
+  <category term="Biography &amp; Autobiography" />
+  <category term="Historical" />
+  <category term="Crónica" />
+  <category term="Memorias" />
+  <category term="Lang:es" />
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      ***
+    </p>
+    <p>
+      <strong>Etiquetas:</strong>
+      Biography &amp; Autobiography, Historical, Crónica, Memorias, Lang:es
+    </p>
+    <p>
+      <strong>Published:</strong>
+      25 de noviembre de 2013
+    </p>
+    <p>
+      <strong>Sumario:</strong>
+    </p>
+    <div xmlns="">
+      <h3>Descripción del producto</h3>
+      <p>Éste es el relato en primera persona de quien tuvo en
+      España la principal responsabilidad ante la crisis
+      en el periodo 2008-2011.Sobre las decisiones adoptadas por el
+      Gobierno en mayo de 2010, escribe el autor:
+      «Qué dilema tan acuciante. O recortabas, o
+      podías alimentar la espiral de la falta de solvencia,
+      del riesgo sobre el cumplimiento de nuestros compromisos
+      de deuda. No había un camino intermedio. Y en
+      apenas días, casi horas, debías actuar en una
+      intersección en la que tus ideas y compromisos
+      se bifurcaban probablemente de manera
+      irremediable».Del dilema de mayo de 2010 a seiscientos
+      días de vértigo. Porque cada día, desde
+      entonces hasta el último de su mandato, el
+      expresidente Zapatero lo vivió como una encrucijada
+      llena de incertidumbres.Este libro da a conocer hechos y
+      documentos inéditos, de gran trascendencia para
+      entender este periodo, así como las posiciones de
+      los líderes europeos y mundiales (Merkel, Sarkozy,
+      Trichet, Obama, entre otros). Contiene también una
+      valoración del autor sobre la responsabilidad
+      política en la génesis y la evolución de
+      la crisis. Y sobre los esfuerzos realizados para limitar
+      sus consecuencias sociales.</p>
+      <h3>Biografía del autor</h3>
+      <p>Es licenciado en Derecho por la Universidad de
+      León, donde ejerció como profesor de
+      Derecho Constitucional entre 1983 y 1986. Fue diputado
+      nacional por León en las legislaturas de 1986,
+      1989, 1993, 1996 y 2000, y posteriormente por
+      Madrid en 2004 y 2008. Elegido secretario general del
+      Partido Socialista Obrero Español en el año
+      2000, fue presidente del Gobierno de 2004 a 2011.
+      En la actualidad es miembro del Consejo de Estado.</p>
+    </div>
+  </content>
+  <link href="../8f6fb6ff%40author_0/fc178021%40author_55_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Libros de José Luis Rodríguez Zapatero" />
+  <link href="http://www.goodreads.com/book/title/El%20dilema%3A%20600%20d%C3%ADas%20de%20v%C3%A9rtigo" type="text/html" rel="related" title="Este libro en Goodreads" />
+  <link href="http://es.wikipedia.org/wiki/El%20dilema%3A%20600%20d%C3%ADas%20de%20v%C3%A9rtigo" type="text/html" rel="related" title="Este libro en Wikipedia" />
+  <link href="http://www.librarything.com/title/El%20dilema%3A%20600%20d%C3%ADas%20de%20v%C3%A9rtigo%20Jos%C3%A9%20Luis%20Rodr%C3%ADguez%20Zapatero" type="text/html" rel="related" title="Este libro en LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=El%20dilema%3A%20600%20d%C3%ADas%20de%20v%C3%A9rtigo&amp;field-author=Jos%C3%A9%20Luis%20Rodr%C3%ADguez%20Zapatero" type="text/html" rel="related" title="Este libro en Amazon" />
+  <link href="http://www.goodreads.com/book/author/Jos%C3%A9%20Luis%20Rodr%C3%ADguez%20Zapatero" type="text/html" rel="related" title="José Luis Rodríguez Zapatero en Goodreads" />
+  <link href="http://es.wikipedia.org/wiki/Jos%C3%A9%20Luis%20Rodr%C3%ADguez%20Zapatero" type="text/html" rel="related" title="José Luis Rodríguez Zapatero en Wikipedia" />
+  <link href="http://www.librarything.com/author/ZapateroJos%C3%A9LuisRodr%C3%ADguez" type="text/html" rel="related" title="José Luis Rodríguez Zapatero en LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Jos%C3%A9%20Luis%20Rodr%C3%ADguez%20Zapatero" type="text/html" rel="related" title="José Luis Rodríguez Zapatero en Amazon" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Jos%C3%A9%20Luis%20Rodr%C3%ADguez%20Zapatero" type="text/html" rel="related" title="José Luis Rodríguez Zapatero en ISFDB" />
+</entry>
+

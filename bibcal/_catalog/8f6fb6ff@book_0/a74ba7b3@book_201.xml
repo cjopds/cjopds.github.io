@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Crepusculo</title>
+  <id>urn:book:ce9cc8f3-4d9c-4340-a6c3-040e67667b6b</id>
+  <updated>2015-03-27T01:53:45Z</updated>
+  <link href="./a74ba7b3%40book_201.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Crepusculo" />
+  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Biblioteca de Calibre de CJ" />
+  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Biblioteca de Calibre de CJ" />
+  <link href="../8f6fb6ff%40authorlist/e8e4356e%40authorlist_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../8f6fb6ff%40author_0/50457700%40author_72_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Meyer, Stephenie" />
+  <link href="a74ba7b3@book_201_cover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../8f6fb6ff@book_0/a74ba7b3@book_201_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Stephenie%20Meyer/Crepusculo%20%28201%29/Crepusculo%20-%20Stephenie%20Meyer.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+  <author>
+    <name>Stephenie Meyer</name>
+    <uri>../8f6fb6ff@author_0/50457700@author_72_Page_1.xml</uri>
+  </author>
+  <published>2006-06-20T10:00:00Z</published>
+  <dcterms:language>es</dcterms:language>
+  <dcterms:publisher>Alfaguara</dcterms:publisher>
+  <category term="Juvenile Fiction" />
+  <category term="Love &amp; Romance" />
+  <category term="Infantil y Juvenil" />
+  <category term="Fantástico" />
+  <category term="Lang:es" />
+  <category term="Crepúsculo" />
+  <content type="text/html">
+    <p>
+      <strong>Series:</strong>
+      Libro 1 en la Crepúsculo serie
+    </p>
+    <p>
+      <strong>Rating:</strong>
+      ****
+    </p>
+    <p>
+      <strong>Etiquetas:</strong>
+      Juvenile Fiction, Love &amp; Romance, Infantil y Juvenil, Fantástico, Lang:es
+    </p>
+    <p>
+      <strong>Published:</strong>
+      20 de junio de 2006
+    </p>
+    <p>
+      <strong>Sumario:</strong>
+    </p>
+    <div xmlns="">
+      <h3>Críticas</h3>
+      <p>Llega a nuestro país el fenómeno de literatura
+      fantástica que ha conmocionado el panorama de la
+      literatura juvenil internacional y que seducirá a los
+      lectores ávidos de una historia de amor apasionante,
+      llena de sensualidad, aventura e intriga, con la que sentirse
+      identificados y a la vez transportados a un mundo diferente.
+      Cuando Isabella Swan se muda a Forks, una pequeña
+      localidad del estado de Washington en la que nunca deja de
+      llover, piensa que es lo más aburrido que le podía
+      haber ocurrido en la vida. Pero su vida da un giro excitante
+      y aterrador una vez que se encuentra con el misterioso y
+      seductor Edward Cullen. Hasta ese momento, Edward se las ha
+      arreglado para mantener en secreto su identidad
+      vampírica, pero ahora nadie se encuentra a salvo, y
+      sobre todo Isabella, la persona a quien más quiere
+      Edward...</p>
+      <h3>Reseña del editor</h3>
+      <p>«Hay tres cosas de las que estoy completamente
+      segura. Primera, Edward es un vampiro. Segunda, una parte de
+      él se muere por beber mi sangre. Y tercera, estoy total
+      y perdidamente enamorada de él». Cuando Isabella
+      Swan se muda a Forks, una pequeña localidad del estado
+      de Washington en la que no deja de llover, piensa que es lo
+      más aburrido que le podía haber ocurrido en la
+      vida. Pero su vida da un giro excitante y aterrador una vez
+      que se encuentra con el misterioso y seductor Edward Cullen.
+      Hasta ese momento, Edgard se las ha arreglado para mantener
+      en secreto su identidad vampírica, pero ahora nadie se
+      encuentra a salvo, y sobre todo Isabella, la persona a quien
+      más quiere Edward...</p>
+    </div>
+  </content>
+  <link href="../8f6fb6ff%40series_0/4c1c732d%40series_10_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Libro 1 en la Crepúsculo serie" />
+  <link href="../8f6fb6ff%40author_0/50457700%40author_72_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Libros de Stephenie Meyer" />
+  <link href="http://www.goodreads.com/book/title/Crepusculo" type="text/html" rel="related" title="Este libro en Goodreads" />
+  <link href="http://es.wikipedia.org/wiki/Crepusculo" type="text/html" rel="related" title="Este libro en Wikipedia" />
+  <link href="http://www.librarything.com/title/Crepusculo%20Stephenie%20Meyer" type="text/html" rel="related" title="Este libro en LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=Crepusculo&amp;field-author=Stephenie%20Meyer" type="text/html" rel="related" title="Este libro en Amazon" />
+  <link href="http://www.goodreads.com/book/author/Stephenie%20Meyer" type="text/html" rel="related" title="Stephenie Meyer en Goodreads" />
+  <link href="http://es.wikipedia.org/wiki/Stephenie%20Meyer" type="text/html" rel="related" title="Stephenie Meyer en Wikipedia" />
+  <link href="http://www.librarything.com/author/MeyerStephenie" type="text/html" rel="related" title="Stephenie Meyer en LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Stephenie%20Meyer" type="text/html" rel="related" title="Stephenie Meyer en Amazon" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Stephenie%20Meyer" type="text/html" rel="related" title="Stephenie Meyer en ISFDB" />
+</entry>
+

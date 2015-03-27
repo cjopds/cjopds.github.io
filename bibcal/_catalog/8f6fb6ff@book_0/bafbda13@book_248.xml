@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Misery</title>
+  <id>urn:book:a76287c0-4944-4c9c-8e8e-4eeb5ddd17b3</id>
+  <updated>2015-03-27T01:53:51Z</updated>
+  <link href="./bafbda13%40book_248.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Misery" />
+  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Biblioteca de Calibre de CJ" />
+  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Biblioteca de Calibre de CJ" />
+  <link href="../8f6fb6ff%40authorlist/e8e4356e%40authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../8f6fb6ff%40author_0/c9ab9e97%40author_96_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="King, Stephen" />
+  <link href="bafbda13@book_248_cover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../8f6fb6ff@book_0/bafbda13@book_248_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Stephen%20King/Misery%20%28248%29/Misery%20-%20Stephen%20King.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+  <author>
+    <name>Stephen King</name>
+    <uri>../8f6fb6ff@author_0/c9ab9e97@author_96_Page_1.xml</uri>
+  </author>
+  <published>1986-12-31T11:00:00Z</published>
+  <dcterms:language>es</dcterms:language>
+  <dcterms:publisher>ePubLibre</dcterms:publisher>
+  <category term="Novela" />
+  <category term="Terror" />
+  <category term="Lang:es" />
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      Sin puntuación
+    </p>
+    <p>
+      <strong>Etiquetas:</strong>
+      Novela, Terror, Lang:es
+    </p>
+    <p>
+      <strong>Published:</strong>
+      31 de diciembre de 1986
+    </p>
+    <p>
+      <strong>Sumario:</strong>
+    </p>
+    <p xmlns="">Paul Sheldon es un escritor que sufre un grave accidente y
+    recobra el conocimiento en una apartada casa en la que vive una
+    misteriosa mujer, corpulenta y de extraño carácter.
+    Se trata de una antigua enfermera, involucrada en varias
+    muertes misteriosas ocurridas en diversos hospitales.
+    Fanática de un personaje de una serie de libros que
+    él ha decidido deja de escribir, está dispuesto a
+    hacer todo lo necesario para "convencerlo" de que retome la
+    escritura. Esta mujer es capaz de los mayores horrores, y Paul,
+    con las piernas rotas y entre terribles dolores, tendrá
+    que luchar por su vida. Un relato obsesivo y aterrador, que
+    sólo Stephen King podía ofrecernos.</p>
+  </content>
+  <link href="../8f6fb6ff%40author_0/c9ab9e97%40author_96_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Libros de Stephen King" />
+  <link href="http://www.goodreads.com/book/title/Misery" type="text/html" rel="related" title="Este libro en Goodreads" />
+  <link href="http://es.wikipedia.org/wiki/Misery" type="text/html" rel="related" title="Este libro en Wikipedia" />
+  <link href="http://www.librarything.com/title/Misery%20Stephen%20King" type="text/html" rel="related" title="Este libro en LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=Misery&amp;field-author=Stephen%20King" type="text/html" rel="related" title="Este libro en Amazon" />
+  <link href="http://www.goodreads.com/book/author/Stephen%20King" type="text/html" rel="related" title="Stephen King en Goodreads" />
+  <link href="http://es.wikipedia.org/wiki/Stephen%20King" type="text/html" rel="related" title="Stephen King en Wikipedia" />
+  <link href="http://www.librarything.com/author/KingStephen" type="text/html" rel="related" title="Stephen King en LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Stephen%20King" type="text/html" rel="related" title="Stephen King en Amazon" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Stephen%20King" type="text/html" rel="related" title="Stephen King en ISFDB" />
+</entry>
+

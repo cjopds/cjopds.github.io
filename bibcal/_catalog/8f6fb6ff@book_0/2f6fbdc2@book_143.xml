@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Caín</title>
+  <id>urn:book:ab218898-ffa1-4f9a-982e-a00a5bf17af1</id>
+  <updated>2015-03-27T01:53:42Z</updated>
+  <link href="./2f6fbdc2%40book_143.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Caín" />
+  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Biblioteca de Calibre de CJ" />
+  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Biblioteca de Calibre de CJ" />
+  <link href="../8f6fb6ff%40authorlist/e8e4356e%40authorlist_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="2f6fbdc2@book_143_cover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../8f6fb6ff@book_0/2f6fbdc2@book_143_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Jose%20Saramago/Cain%20%28143%29/Cain%20-%20Jose%20Saramago.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+  <author>
+    <name>José Saramago</name>
+    <uri>../8f6fb6ff@author_0/a3fb6b8c@author_39_Page_1.xml</uri>
+  </author>
+  <published>2008-12-31T11:00:00Z</published>
+  <dcterms:language>es</dcterms:language>
+  <category term="Narrativa" />
+  <category term="Lang:es" />
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      Sin puntuación
+    </p>
+    <p>
+      <strong>Etiquetas:</strong>
+      Narrativa, Lang:es
+    </p>
+    <p>
+      <strong>Published:</strong>
+      31 de diciembre de 2008
+    </p>
+    <p>
+      <strong>Sumario:</strong>
+    </p>
+    <p xmlns="">Qué diablo de Dios es éste que, para enaltecer a
+    Abel, desprecia a Caín. Si en El Evangelio según
+    Jesucristo José Saramago nos dio su visión del Nuevo
+    Testamento, en Caín regresa a los primeros libros de la
+    Biblia. En un itinerario heterodoxo, recorre ciudades
+    decadentes y establos, palacios de tiranos y campos de batalla
+    de la mano de los principales protagonistas del Antiguo
+    Testamento, imprimiéndole la música y el humor
+    refinado que caracterizan su obra. Caín pone de manifiesto
+    lo que hay de moderno y sorprendente en la prosa de Saramago:
+    la capacidad de hacer nueva una historia que se conoce de
+    principio a fin. Un irónico y mordaz recorrido en el que
+    el lector asiste a una guerra secular, y en cierto modo,
+    involuntaria, entre el creador y su criatura.</p>
+  </content>
+  <link href="../8f6fb6ff%40author_0/a3fb6b8c%40author_39_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Libros de José Saramago" />
+  <link href="http://www.goodreads.com/book/title/Ca%C3%ADn" type="text/html" rel="related" title="Este libro en Goodreads" />
+  <link href="http://es.wikipedia.org/wiki/Ca%C3%ADn" type="text/html" rel="related" title="Este libro en Wikipedia" />
+  <link href="http://www.librarything.com/title/Ca%C3%ADn%20Jos%C3%A9%20Saramago" type="text/html" rel="related" title="Este libro en LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=Ca%C3%ADn&amp;field-author=Jos%C3%A9%20Saramago" type="text/html" rel="related" title="Este libro en Amazon" />
+  <link href="http://www.goodreads.com/book/author/Jos%C3%A9%20Saramago" type="text/html" rel="related" title="José Saramago en Goodreads" />
+  <link href="http://es.wikipedia.org/wiki/Jos%C3%A9%20Saramago" type="text/html" rel="related" title="José Saramago en Wikipedia" />
+  <link href="http://www.librarything.com/author/SaramagoJos%C3%A9" type="text/html" rel="related" title="José Saramago en LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Jos%C3%A9%20Saramago" type="text/html" rel="related" title="José Saramago en Amazon" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Jos%C3%A9%20Saramago" type="text/html" rel="related" title="José Saramago en ISFDB" />
+</entry>
+

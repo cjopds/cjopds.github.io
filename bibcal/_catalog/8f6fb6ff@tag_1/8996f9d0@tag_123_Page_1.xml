@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:opds="http://opds-spec.org/2010/catalog">
+  <title>Romántica</title>
+  <id>Calibre2opds:taglist:R:123</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./8996f9d0%40tag_123_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Romántica" />
+  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Biblioteca de Calibre de CJ" />
+  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Biblioteca de Calibre de CJ" />
+  <link href="../8f6fb6ff%40taglist/87d7be0%40taglist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="etiquetas" />
+  <link href="../8f6fb6ff%40taglist/87d7be0%40taglist_R_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Etiquetas que empiezan por R" />
+  <entry>
+    <title>¿Sabes que te quiero?</title>
+    <id>calibre:book:196</id>
+    <updated>2015-03-27T01:53:45Z</updated>
+    <link href="../8f6fb6ff@book_0/eaab3700@book_196_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Blue%20Jeans/_Sabes%20que%20te%20quiero_%20%28196%29/_Sabes%20que%20te%20quiero_%20-%20Blue%20Jeans.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>Blue Jeans</name>
+      <uri>../8f6fb6ff@author_0/a98baf5f@author_68_Page_1.xml</uri>
+    </author>
+    <published>2010-09-01T10:14:45Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Everest</dcterms:publisher>
+    <category term="Romantico" />
+    <category term="Infantil y Juvenil" />
+    <category term="Literatura y ficción" />
+    <category term="Ficción contemporánea" />
+    <category term="Romántica" />
+    <category term="Literatura y narrativa" />
+    <category term="Infantil-Juvenil" />
+    <category term="Lang:es" />
+    <category term="Canciones para Paula" />
+    <summary>Canciones para Paula [2]: Reseña del editorLos problemas que Paula intentó olvidar cuando se fue a París, siguen esperándole a su regreso y no le será nada fácil dejarlos pasar. Surgirán nuevos líos amorosos y desengaños, a los que se sumará un error imperdonable que pudo cometer la protagonista en la “ciudad del amor”. Pero no todo girará en torno a Paula, si no que el resto de “las Sugus” también adquirirán un mayor protagonismo en la novela, que se verá salpicada de mentiras, traiciones y pro...</summary>
+    <link href="../8f6fb6ff%40book_0/eaab3700%40book_196.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Especiales</title>
+    <id>calibre:book:164</id>
+    <updated>2015-03-27T01:53:45Z</updated>
+    <link href="../8f6fb6ff@book_0/833d4ae3@book_164_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Scott%20Westerfeld/Especiales%20%28164%29/Especiales%20-%20Scott%20Westerfeld.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>Scott Westerfeld</name>
+      <uri>../8f6fb6ff@author_0/b926d235@author_74_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Montena</dcterms:publisher>
+    <category term="Ciencia Ficción" />
+    <category term="Romántica" />
+    <category term="Lang:es" />
+    <category term="Uglies" />
+    <summary>Uglies [3]: Tally se ha unido a Circunstancias Especiales y ahora está programada para vencer a la resistencia... Ya hace mucho tiempo que Tally dejó de ser una una imperfecta rebelde e indisciplinada. Por aquel entonces, ella aún creía que los especiales eran solo un rumor siniestro y aterrador: de ellos se decía que eran veloces, atractivos y crueles como nadie. Irónicamente, el destino ha llevado a Tally a convertirse en especial y, tras someterse a la más sofisticada de las operaciones quirú...</summary>
+    <link href="../8f6fb6ff%40book_0/833d4ae3%40book_164.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Extras</title>
+    <id>calibre:book:165</id>
+    <updated>2015-03-27T01:53:45Z</updated>
+    <link href="../8f6fb6ff@book_0/f43a7a75@book_165_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Scott%20Westerfeld/Extras%20%28165%29/Extras%20-%20Scott%20Westerfeld.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>Scott Westerfeld</name>
+      <uri>../8f6fb6ff@author_0/b926d235@author_74_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Montena</dcterms:publisher>
+    <category term="Ciencia Ficción" />
+    <category term="Romántica" />
+    <category term="Lang:es" />
+    <category term="Uglies" />
+    <summary>Uglies [4]: Tras el fin de la era de los perfectos, la sociedad está sumida en un renacimiento completo... en el que la popularidad manda. Ser famoso implica tener mejor casa, mejor ropa e incluso mejores amigos. En cambio, no serlo te convierte en invisible, en un perdedor, en un completo desconocido. En definitiva, en un extra.Aya Fuse lo es. Pero a sus quince años hay algo que tiene ya muy claro: por nada del mundo piensa resignarse al anonimato. Y está dispuesta a todo para hacer realidad su...</summary>
+    <link href="../8f6fb6ff%40book_0/f43a7a75%40book_165.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Perfección</title>
+    <id>calibre:book:167</id>
+    <updated>2015-03-27T01:53:46Z</updated>
+    <link href="../8f6fb6ff@book_0/1a341b59@book_167_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Scott%20Westerfeld/Perfeccion%20%28167%29/Perfeccion%20-%20Scott%20Westerfeld.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>Scott Westerfeld</name>
+      <uri>../8f6fb6ff@author_0/b926d235@author_74_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Montena</dcterms:publisher>
+    <category term="Ciencia Ficción" />
+    <category term="Romántica" />
+    <category term="Lang:es" />
+    <category term="Uglies" />
+    <summary>Uglies [2]: Tally se ha sometido a "la operación" para infiltrarse en la casta de los perfectos y ahora debe cumplir una difícil misión... Tally tenía un sueño: ser perfecta. Ahora ya lo ha hecho realidad y ha perdido, como consecuencia, todos los recuerdos de su pasado. Su única preocupación es ser admitida en la mejor pandilla de la ciudad, la de los Crim, y para lograrlo solo tiene que ganarse la aprobación de Zane -el chico más popular y deseado- durante una peculiar fiesta de disfraces que ...</summary>
+    <link href="../8f6fb6ff%40book_0/1a341b59%40book_167.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Traición</title>
+    <id>calibre:book:166</id>
+    <updated>2015-03-27T01:53:46Z</updated>
+    <link href="../8f6fb6ff@book_0/6d332bcf@book_166_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Scott%20Westerfeld/Traicion%20%28166%29/Traicion%20-%20Scott%20Westerfeld.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>Scott Westerfeld</name>
+      <uri>../8f6fb6ff@author_0/b926d235@author_74_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Montena</dcterms:publisher>
+    <category term="Ciencia Ficción" />
+    <category term="Romántica" />
+    <category term="Lang:es" />
+    <category term="Uglies" />
+    <summary>Uglies [1]: Como todos los chicos y las chicas de su edad, Tally espera con impaciencia cumplir los 16 años, porque a esa edad se someterá a una intervención quirúrgica que la convertirá en perfecta. Su transformación, sin embargo, se ve amenazada cuando su amiga Shay huye para unirse a la resistencia, un grupo de disidentes que no quieren someterse a la operación y que viven en El Humo, una ciudad clandestina. Tras la huida de Shay, las autoridades le ofrecen a Tally una disyuntiva. Tally no es...</summary>
+    <link href="../8f6fb6ff%40book_0/6d332bcf%40book_166.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>
+

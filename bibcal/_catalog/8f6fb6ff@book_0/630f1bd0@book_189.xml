@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Un yanki en la corte del Rey Arturo</title>
+  <id>urn:book:e08d4087-574c-4e07-b678-ad2a61de3372</id>
+  <updated>2015-03-27T01:53:43Z</updated>
+  <link href="./630f1bd0%40book_189.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Un yanki en la corte del Rey Arturo" />
+  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Biblioteca de Calibre de CJ" />
+  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Biblioteca de Calibre de CJ" />
+  <link href="../8f6fb6ff%40authorlist/e8e4356e%40authorlist_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="630f1bd0@book_189_cover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../8f6fb6ff@book_0/630f1bd0@book_189_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Mark%20Twain/Un%20yanki%20en%20la%20corte%20del%20Rey%20Arturo%20%28189%29/Un%20yanki%20en%20la%20corte%20del%20Rey%20Arturo%20-%20Mark%20Twain.prc" type="application/x-mobipocket" rel="http://opds-spec.org/acquisition" title="Descargar este libro como PRC" />
+  <author>
+    <name>Mark Twain</name>
+    <uri>../8f6fb6ff@author_0/9bbdcddd@author_48_Page_1.xml</uri>
+  </author>
+  <published>2013-10-31T11:00:00Z</published>
+  <dcterms:language>es</dcterms:language>
+  <dcterms:publisher>Eliber Ediciones</dcterms:publisher>
+  <category term="Lang:es" />
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      Sin puntuación
+    </p>
+    <p>
+      <strong>Etiquetas:</strong>
+      Lang:es
+    </p>
+    <p>
+      <strong>Published:</strong>
+      31 de octubre de 2013
+    </p>
+    <p>
+      <strong>Sumario:</strong>
+    </p>
+    <p xmlns="" class="description">
+      Escrita
+      <br />
+      en 1889, “Un yanqui en la corte del Rey
+    Arturo” es una ficción
+      <br />
+      caballeresca satírica en la que Mark Twain enmarca
+    ideas
+      <br />
+      político-religiosas y conocimientos
+    tecnológicos de su época.
+      <br />
+      Empieza burlándose del pasado medieval y acaba
+    cuestionando la
+      <br />
+      superioridad del presente moderno e industrializado. Su
+    protagonista,
+      <br />
+      un norteamericano del siglo XIX, viaja a través del
+    tiempo para ir a
+      <br />
+      parar al siglo VI inglés que se describe en los
+    libros de leyendas
+      <br />
+      artúricas.
+    </p>
+  </content>
+  <link href="../8f6fb6ff%40author_0/9bbdcddd%40author_48_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Libros de Mark Twain" />
+  <link href="http://www.goodreads.com/book/title/Un%20yanki%20en%20la%20corte%20del%20Rey%20Arturo" type="text/html" rel="related" title="Este libro en Goodreads" />
+  <link href="http://es.wikipedia.org/wiki/Un%20yanki%20en%20la%20corte%20del%20Rey%20Arturo" type="text/html" rel="related" title="Este libro en Wikipedia" />
+  <link href="http://www.librarything.com/title/Un%20yanki%20en%20la%20corte%20del%20Rey%20Arturo%20Mark%20Twain" type="text/html" rel="related" title="Este libro en LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=Un%20yanki%20en%20la%20corte%20del%20Rey%20Arturo&amp;field-author=Mark%20Twain" type="text/html" rel="related" title="Este libro en Amazon" />
+  <link href="http://www.goodreads.com/book/author/Mark%20Twain" type="text/html" rel="related" title="Mark Twain en Goodreads" />
+  <link href="http://es.wikipedia.org/wiki/Mark%20Twain" type="text/html" rel="related" title="Mark Twain en Wikipedia" />
+  <link href="http://www.librarything.com/author/TwainMark" type="text/html" rel="related" title="Mark Twain en LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Mark%20Twain" type="text/html" rel="related" title="Mark Twain en Amazon" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Mark%20Twain" type="text/html" rel="related" title="Mark Twain en ISFDB" />
+</entry>
+

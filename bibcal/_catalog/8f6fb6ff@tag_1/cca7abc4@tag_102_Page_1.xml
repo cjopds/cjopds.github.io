@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:opds="http://opds-spec.org/2010/catalog">
+  <title>Computers</title>
+  <id>Calibre2opds:taglist:C:102</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./cca7abc4%40tag_102_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Computers" />
+  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Biblioteca de Calibre de CJ" />
+  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Biblioteca de Calibre de CJ" />
+  <link href="../8f6fb6ff%40taglist/87d7be0%40taglist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="etiquetas" />
+  <link href="../8f6fb6ff%40taglist/87d7be0%40taglist_C_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Etiquetas que empiezan por C" />
+  <entry>
+    <title>Nueva antología del disparate</title>
+    <id>calibre:book:150</id>
+    <updated>2015-03-27T01:53:42Z</updated>
+    <link href="../8f6fb6ff@book_0/af7ddd39@book_150_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Luis%20Diez%20Jimenez/Nueva%20antologia%20del%20disparate%20%28150%29/Nueva%20antologia%20del%20disparate%20-%20Luis%20Diez%20Jimenez.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>Luis Díez Jiménez</name>
+      <uri>../8f6fb6ff@author_0/920b81f6@author_44_Page_1.xml</uri>
+    </author>
+    <published>1981-12-31T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Planeta</dcterms:publisher>
+    <category term="General" />
+    <category term="Education" />
+    <category term="Examinations" />
+    <category term="Computers" />
+    <category term="Wit and humor in education" />
+    <category term="Humor in children" />
+    <category term="Spanish wit and humor" />
+    <category term="Certification Guides" />
+    <category term="Lang:es" />
+    <summary>El libro recoge los disparates más sonados que han dicho los alumnos en las aulas españolas.</summary>
+    <link href="../8f6fb6ff%40book_0/af7ddd39%40book_150.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>
+

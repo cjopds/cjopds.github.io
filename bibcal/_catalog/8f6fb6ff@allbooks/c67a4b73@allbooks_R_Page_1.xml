@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:opds="http://opds-spec.org/2010/catalog">
+  <title>Libros que empiezan por R</title>
+  <id>Calibre2opds:allbooks:R</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./c67a4b73%40allbooks_R_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Libros que empiezan por R" />
+  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Biblioteca de Calibre de CJ" />
+  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Biblioteca de Calibre de CJ" />
+  <link href="./c67a4b73%40allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Todos los libros" />
+  <entry>
+    <title>Rise</title>
+    <id>calibre:book:162</id>
+    <updated>2015-03-27T01:53:43Z</updated>
+    <link href="../8f6fb6ff@book_0/6a5eefd6@book_162_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Anna%20Carey/Rise%20%28162%29/Rise%20-%20Anna%20Carey.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>Anna Carey</name>
+      <uri>../8f6fb6ff@author_0/ecbafd4b@author_49_Page_1.xml</uri>
+    </author>
+    <published>2013-04-01T10:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>HarperCollins</dcterms:publisher>
+    <category term="Juvenile Fiction" />
+    <category term="Fantasy &amp; Magic" />
+    <category term="Love &amp; Romance" />
+    <category term="Social Issues" />
+    <category term="Adolescence" />
+    <category term="Lang:en" />
+    <category term="Eve" />
+    <summary>Eve [3]: In the stunning conclusion to Anna Carey's epic tale of romance and sacrifice, Eve must choose who to leave behind, who to save, and who to fight in her final stand against the New America.When Eve lost her soul mate, Caleb, she felt like her world ended. Now, trapped in the palace, as a reluctant bride and unhappy princess, Eve's entire life is a lie. The only thing that keeps her going is Caleb's memory—and the revolution he started. Eve plots to destroy the New America, beginning wit...</summary>
+    <link href="../8f6fb6ff%40book_0/6a5eefd6%40book_162.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Romeo y Julieta</title>
+    <id>calibre:book:260</id>
+    <updated>2015-03-27T01:53:52Z</updated>
+    <link href="../8f6fb6ff@book_0/861630a3@book_260_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/William%20Shakespeare/Romeo%20y%20Julieta%20%28260%29/Romeo%20y%20Julieta%20-%20William%20Shakespeare.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>William Shakespeare</name>
+      <uri>../8f6fb6ff@author_0/beacae01@author_97_Page_1.xml</uri>
+    </author>
+    <published>1596-12-31T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>ePubLibre</dcterms:publisher>
+    <category term="Teatro" />
+    <category term="Drama" />
+    <category term="Lang:es" />
+    <summary>La historia de Romeo y Julieta tiene antecedentes en la mitología y literatura griegas y en algunas leyendas medievales. Durante los siglos XV y XVI fue objeto de múltiples versiones, pero fue Shakespeare quien le infundió una pasión y un dramatismo inéditos hasta entonces y que han contribuido a mantener la leyenda en la memoria colectiva. En Verona, dos jóvenes enamorados, de dos familias enemigas, son víctimas de una situación de odio y violencia que ni desean ni pueden remediar. Romeo, recié...</summary>
+    <link href="../8f6fb6ff%40book_0/861630a3%40book_260.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>El resplandor</title>
+    <id>calibre:book:249</id>
+    <updated>2015-03-27T01:53:51Z</updated>
+    <link href="../8f6fb6ff@book_0/cdfcea85@book_249_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Stephen%20King/El%20resplandor%20%28249%29/El%20resplandor%20-%20Stephen%20King.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>Stephen King</name>
+      <uri>../8f6fb6ff@author_0/c9ab9e97@author_96_Page_1.xml</uri>
+    </author>
+    <published>1976-12-31T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>ePubLibre</dcterms:publisher>
+    <category term="Novela" />
+    <category term="Terror" />
+    <category term="Lang:es" />
+    <category term="El resplandor" />
+    <summary>El resplandor [1]: REDRUM. Esa es la palabra que Danny había visto en el espejo. Y aunque no sabía leer, entendió que era un mensaje de horror. Danny tenía cinco años. Y a esa edad pocos niños saben que los espejos invierten las imágenes y menos aún saben diferenciar entre realidad y fantasía. Pero Danny tenía pruebas de que sus fantasías relacionadas con el resplandor del espejo acabarían cumpliéndose: REDRUM&amp; MURDER, asesinato. Pero su padre necesitaba aquel trabajo en el hotel. Danny sabía qu...</summary>
+    <link href="../8f6fb6ff%40book_0/cdfcea85%40book_249.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>El rey Lear</title>
+    <id>calibre:book:250</id>
+    <updated>2015-03-27T01:53:51Z</updated>
+    <link href="../8f6fb6ff@book_0/ad3b6360@book_250_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/William%20Shakespeare/El%20rey%20Lear%20%28250%29/El%20rey%20Lear%20-%20William%20Shakespeare.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>William Shakespeare</name>
+      <uri>../8f6fb6ff@author_0/beacae01@author_97_Page_1.xml</uri>
+    </author>
+    <published>1607-12-31T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>ePubLibre</dcterms:publisher>
+    <category term="Teatro" />
+    <category term="Drama" />
+    <category term="Lang:es" />
+    <summary>El REY LEAR, de William Shakespeare, se basa en un cuento popular que aparece incorporado a la historia antigua de Inglaterra desde el siglo XII. Cuentan las crónicas que el viejo Lear quiso conocer el grado de afecto de sus tres hijas para designar sucesora a quien más le quisiera. Dos se deshicieron en halagos y la menor le contestó que le quería como padre y nada más. Le pareció poco al rey, que la castigó. El tiempo vendría a demostrar más tarde que era la única digna del trono que, por fin,...</summary>
+    <link href="../8f6fb6ff%40book_0/ad3b6360%40book_250.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>
+

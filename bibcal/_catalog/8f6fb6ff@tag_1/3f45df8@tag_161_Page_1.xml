@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:opds="http://opds-spec.org/2010/catalog">
+  <title>Romance</title>
+  <id>Calibre2opds:taglist:R:161</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./3f45df8%40tag_161_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Romance" />
+  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Biblioteca de Calibre de CJ" />
+  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Biblioteca de Calibre de CJ" />
+  <link href="../8f6fb6ff%40taglist/87d7be0%40taglist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="etiquetas" />
+  <link href="../8f6fb6ff%40taglist/87d7be0%40taglist_R_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Etiquetas que empiezan por R" />
+  <entry>
+    <title>Allegiant</title>
+    <id>calibre:book:204</id>
+    <updated>2015-03-27T01:53:45Z</updated>
+    <link href="../8f6fb6ff@book_0/d721533c@book_204_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Veronica%20Roth/Allegiant%20%28204%29/Allegiant%20-%20Veronica%20Roth.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>Veronica Roth</name>
+      <uri>../8f6fb6ff@author_0/27424796@author_73_Page_1.xml</uri>
+    </author>
+    <published>2013-10-21T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <category term="Juvenile Fiction" />
+    <category term="Dystopian" />
+    <category term="Love &amp; Romance" />
+    <category term="Social Issues" />
+    <category term="Values &amp; Virtues" />
+    <category term="YA" />
+    <category term="Distopía" />
+    <category term="Ciencia Ficción" />
+    <category term="Romance" />
+    <category term="Aventura" />
+    <category term="Lang:es" />
+    <category term="Divergent" />
+    <summary>Divergent [3]: What if your whole world was a lie?What if a single revelation—like a single choice—changed everything?What if love and loyalty made you do things you never expected?The explosive conclusion to Veronica Roth's #1 New York Times bestselling Divergent trilogy reveals the secrets of the dystopian world that has captivated millions of readers in Divergent and Insurgent.</summary>
+    <link href="../8f6fb6ff%40book_0/d721533c%40book_204.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Under the Never Sky</title>
+    <id>calibre:book:224</id>
+    <updated>2015-03-27T01:53:46Z</updated>
+    <link href="../8f6fb6ff@book_0/e51731be@book_224_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Veronica%20Rossi/Under%20the%20Never%20Sky%20%28224%29/Under%20the%20Never%20Sky%20-%20Veronica%20Rossi.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>Veronica Rossi</name>
+      <uri>../8f6fb6ff@author_0/a0da5b59@author_83_Page_1.xml</uri>
+    </author>
+    <published>2012-01-02T11:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>HarperCollins</dcterms:publisher>
+    <category term="Juvenile Fiction" />
+    <category term="General" />
+    <category term="Love &amp; Romance" />
+    <category term="Dystopian" />
+    <category term="Adventure" />
+    <category term="Fantasy" />
+    <category term="Science Fiction" />
+    <category term="Young Adult" />
+    <category term="Romance" />
+    <category term="Paranormal" />
+    <category term="Dystopia" />
+    <category term="Apocalyptic" />
+    <category term="Lang:en" />
+    <category term="Under The Never Sky" />
+    <summary>Under The Never Sky [1]: Fighting to survive in a ravaged world, a Dweller and a Savage form an unlikely alliance in New York Times bestselling author Veronica Rossi's "unforgettable dystopian masterpiece" (Examiner.com).Exiled from her home, the enclosed city of Reverie, Aria knows her chances of surviving in the outer wasteland—known as The Death Shop—are slim. Then Aria meets an Outsider named Perry. He's wild—a savage—and her only hope of staying alive. A hunter for his tribe in a merciless ...</summary>
+    <link href="../8f6fb6ff%40book_0/e51731be%40book_224.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>
+

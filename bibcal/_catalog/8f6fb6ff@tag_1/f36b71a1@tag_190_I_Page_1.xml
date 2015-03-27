@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:opds="http://opds-spec.org/2010/catalog">
+  <title>Libros que empiezan por I</title>
+  <id>Calibre2opds:taglist:L:190:I</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./f36b71a1%40tag_190_I_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Libros que empiezan por I" />
+  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Biblioteca de Calibre de CJ" />
+  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Biblioteca de Calibre de CJ" />
+  <link href="../8f6fb6ff%40taglist/87d7be0%40taglist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="etiquetas" />
+  <link href="../8f6fb6ff%40taglist/87d7be0%40taglist_L_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Etiquetas que empiezan por L" />
+  <link href="./f36b71a1%40tag_190_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Lang:es" />
+  <entry>
+    <title>Insurgente</title>
+    <id>calibre:book:207</id>
+    <updated>2015-03-27T01:53:45Z</updated>
+    <link href="../8f6fb6ff@book_0/4e280286@book_207_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Veronica%20Roth/Insurgente%20%28207%29/Insurgente%20-%20Veronica%20Roth.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>Veronica Roth</name>
+      <uri>../8f6fb6ff@author_0/27424796@author_73_Page_1.xml</uri>
+    </author>
+    <author>
+      <name>Pilar Ramírez Tello</name>
+      <uri>../8f6fb6ff@author_0/8b10b0b7@author_54_Page_1.xml</uri>
+    </author>
+    <published>2012-09-05T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Molino</dcterms:publisher>
+    <category term="Literary Criticism" />
+    <category term="Children's Literature" />
+    <category term="Ciencia Ficción" />
+    <category term="Infantil y Juvenil" />
+    <category term="Romántico" />
+    <category term="Lang:es" />
+    <category term="Divergent" />
+    <summary>Divergent [2]: Reseña del editorUna sola opción puede transformarte, o te puede destruir, pero siempre tiene consecuencias. Con la oleada de disturbios en las distintas facciones, Tris deberá asegurarse de proteger a los que ama, mientras se enfrenta a inquietantes preguntas sobre la culpabilidad, el perdón, la identidad, la lealtad, la política y el amor. El día de la iniciación de Tris debería haber sido una celebración de la facción elegida, en cambio, el día terminó con un gran problema. El ...</summary>
+    <link href="../8f6fb6ff%40book_0/4e280286%40book_207.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>El ingenioso hidalgo Don Quijote de la Mancha</title>
+    <id>calibre:book:148</id>
+    <updated>2015-03-27T01:53:44Z</updated>
+    <link href="../8f6fb6ff@book_0/b8bd644a@book_148_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Miguel%20de%20Cervantes%20Saavedra/El%20ingenioso%20hidalgo%20Don%20Quijote%20de%20la%20Mancha%20%28148%29/El%20ingenioso%20hidalgo%20Don%20Quijote%20de%20la%20Man%20-%20Miguel%20de%20Cervantes%20Saavedra.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>Miguel de Cervantes Saavedra</name>
+      <uri>../8f6fb6ff@author_0/7b6824c3@author_42_Page_1.xml</uri>
+    </author>
+    <published>1605-04-11T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Feedbooks</dcterms:publisher>
+    <category term="Ficción" />
+    <category term="Novela" />
+    <category term="Lang:es" />
+    <summary>Don Quijote de la Mancha, escrito por Miguel de Cervantes Saavedra, editado en 1605, es una de las obras más destacadas de la literatura española y la literatura universal, y una de las más traducidas
+
+La novela consta de dos partes: la primera, El ingenioso hidalgo don Quijote de la Mancha, fue publicada en 1605; la segunda, El ingenioso caballero don Quijote de la Mancha, en 1615.
+
+
+http://es.wikipedia.org/wiki/Don_Quijote_de_la_Mancha</summary>
+    <link href="../8f6fb6ff%40book_0/b8bd644a%40book_148.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>
+

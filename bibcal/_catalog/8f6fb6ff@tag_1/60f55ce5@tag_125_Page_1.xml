@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:opds="http://opds-spec.org/2010/catalog">
+  <title>Aventura</title>
+  <id>Calibre2opds:taglist:A:125</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./60f55ce5%40tag_125_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Aventura" />
+  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Biblioteca de Calibre de CJ" />
+  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Biblioteca de Calibre de CJ" />
+  <link href="../8f6fb6ff%40taglist/87d7be0%40taglist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="etiquetas" />
+  <link href="../8f6fb6ff%40taglist/87d7be0%40taglist_A_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Etiquetas que empiezan por A" />
+  <entry>
+    <title>Allegiant</title>
+    <id>calibre:book:204</id>
+    <updated>2015-03-27T01:53:45Z</updated>
+    <link href="../8f6fb6ff@book_0/d721533c@book_204_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Veronica%20Roth/Allegiant%20%28204%29/Allegiant%20-%20Veronica%20Roth.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>Veronica Roth</name>
+      <uri>../8f6fb6ff@author_0/27424796@author_73_Page_1.xml</uri>
+    </author>
+    <published>2013-10-21T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <category term="Juvenile Fiction" />
+    <category term="Dystopian" />
+    <category term="Love &amp; Romance" />
+    <category term="Social Issues" />
+    <category term="Values &amp; Virtues" />
+    <category term="YA" />
+    <category term="Distopía" />
+    <category term="Ciencia Ficción" />
+    <category term="Romance" />
+    <category term="Aventura" />
+    <category term="Lang:es" />
+    <category term="Divergent" />
+    <summary>Divergent [3]: What if your whole world was a lie?What if a single revelation—like a single choice—changed everything?What if love and loyalty made you do things you never expected?The explosive conclusion to Veronica Roth's #1 New York Times bestselling Divergent trilogy reveals the secrets of the dystopian world that has captivated millions of readers in Divergent and Insurgent.</summary>
+    <link href="../8f6fb6ff%40book_0/d721533c%40book_204.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Divergente</title>
+    <id>calibre:book:205</id>
+    <updated>2015-03-27T01:53:45Z</updated>
+    <link href="../8f6fb6ff@book_0/a02663aa@book_205_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Veronica%20Roth/Divergente%20%28205%29/Divergente%20-%20Veronica%20Roth.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>Veronica Roth</name>
+      <uri>../8f6fb6ff@author_0/27424796@author_73_Page_1.xml</uri>
+    </author>
+    <author>
+      <name>Pilar Ramírez Tello</name>
+      <uri>../8f6fb6ff@author_0/8b10b0b7@author_54_Page_1.xml</uri>
+    </author>
+    <published>2011-10-17T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Molino</dcterms:publisher>
+    <category term="Aventura" />
+    <category term="Fantasía; terror y ciencia ficción" />
+    <category term="Infantil y Juvenil" />
+    <category term="Romántico" />
+    <category term="Ciencia Ficción" />
+    <category term="Lang:es" />
+    <category term="Divergent" />
+    <summary>Divergent [1]: En el Chicago distópico de Beatrice Prior, la sociedad está dividida en cinco facciones, cada una de ellas dedicada a cultivar una virtud concreta: Verdad (los sinceros), Abnegación (los altruistas), Osadía (los valientes), Cordialidad (los pacíficos) y Erudición (los inteligentes). En una ceremonia anual, todos los chicos de dieciséis años deben decidir a qué facción dedicarán el resto de sus vidas. Beatrice tiene que elegir entre quedarse con su familia... y ser quien realmente ...</summary>
+    <link href="../8f6fb6ff%40book_0/a02663aa%40book_205.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>El último héroe del Olimpo</title>
+    <id>calibre:book:178</id>
+    <updated>2015-03-27T01:53:43Z</updated>
+    <link href="../8f6fb6ff@book_0/93903789@book_178_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Rick%20Riordan/El%20ultimo%20heroe%20del%20Olimpo%20%28178%29/El%20ultimo%20heroe%20del%20Olimpo%20-%20Rick%20Riordan.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>Rick Riordan</name>
+      <uri>../8f6fb6ff@author_0/82a6fc9c@author_58_Page_1.xml</uri>
+    </author>
+    <published>2009-05-04T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Salamandra</dcterms:publisher>
+    <category term="Fantasía; terror y ciencia ficción" />
+    <category term="Infantil y Juvenil" />
+    <category term="Aventura" />
+    <category term="Fantástico" />
+    <category term="Lang:es" />
+    <category term="Percy Jackson y los dioses del Olimpo" />
+    <summary>Percy Jackson y los dioses del Olimpo [5]: Reseña del editorLos mestizos han dedicado mucho tiempo a prepararse para la batalla decisiva contra los titanes, aunque saben que sus posibilidades de obtener la victoria son mínimas. El ejército de Cronos es ahora más formidable que nunca y, con cada dios y cada mestizo que logra reclutar, aumentan los poderes del maligno titán. Tras fracasar en un primer intento de detener en alta mar las arrolladoras huestes de Cronos, Percy Jackson y los olímpicos ...</summary>
+    <link href="../8f6fb6ff%40book_0/93903789%40book_178.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>En llamas</title>
+    <id>calibre:book:170</id>
+    <updated>2015-03-27T01:53:43Z</updated>
+    <link href="../8f6fb6ff@book_0/9d4bbfbb@book_170_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Suzanne%20Collins/En%20llamas%20%28170%29/En%20llamas%20-%20Suzanne%20Collins.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>Suzanne Collins</name>
+      <uri>../8f6fb6ff@author_0/62731582@author_52_Page_1.xml</uri>
+    </author>
+    <author>
+      <name>Pilar Ramírez Tello</name>
+      <uri>../8f6fb6ff@author_0/8b10b0b7@author_54_Page_1.xml</uri>
+    </author>
+    <published>2012-03-20T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Molino</dcterms:publisher>
+    <category term="Fantasía; terror y ciencia ficción" />
+    <category term="Aventura" />
+    <category term="Ciencia Ficción" />
+    <category term="Infantil y Juvenil" />
+    <category term="Lang:es" />
+    <category term="Los Juegos del Hambre" />
+    <summary>Los Juegos del Hambre [2]: Reseña del editorKatniss Everdeen ha sobrevivido a Los juegos del hambre. Pero el Capitolio quiere venganza. Contra todo pronóstico, Katniss Everdeen y Peeta Mellark siguen vivos. Aunque Katniss debería sentirse aliviada, se rumorea que existe una rebelión contra el Capitolio, una rebelión que puede que Katniss y Peeta hayan ayudado a inspirar. La nación les observa y hay mucho en juego. Un movimiento en falso y las consecuencias serán inimaginables. Biografía del auto...</summary>
+    <link href="../8f6fb6ff%40book_0/9d4bbfbb%40book_170.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>La batalla del laberinto</title>
+    <id>calibre:book:179</id>
+    <updated>2015-03-27T01:53:43Z</updated>
+    <link href="../8f6fb6ff@book_0/e497071f@book_179_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Rick%20Riordan/La%20batalla%20del%20laberinto%20%28179%29/La%20batalla%20del%20laberinto%20-%20Rick%20Riordan.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>Rick Riordan</name>
+      <uri>../8f6fb6ff@author_0/82a6fc9c@author_58_Page_1.xml</uri>
+    </author>
+    <published>2008-05-05T10:32:05Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Salamandra</dcterms:publisher>
+    <category term="Fantasía; terror y ciencia ficción" />
+    <category term="Infantil y Juvenil" />
+    <category term="Aventura" />
+    <category term="Fantástico" />
+    <category term="Lang:es" />
+    <category term="Percy Jackson y los dioses del Olimpo" />
+    <summary>Percy Jackson y los dioses del Olimpo [4]: Percy Jackson no espera que la orientación de primer año sera nada divertido, pero cuando un conocido mortal misterioso aparece, perseguido por porristas demonios, las cosas rápidamente van de mal en peor. El tiempo se agota para Percy. La guerra entre los dioses y los titanes se acerca. Ni siquiera el Campamento para semidioses es seguro, cuando el ejército de Kronos se prepara para invadir sus fronteras, una vez es impenetrable. Para detenerlos, Percy...</summary>
+    <link href="../8f6fb6ff%40book_0/e497071f%40book_179.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Los juegos del hambre</title>
+    <id>calibre:book:169</id>
+    <updated>2015-03-27T01:53:43Z</updated>
+    <link href="../8f6fb6ff@book_0/fd8c365e@book_169_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Suzanne%20Collins/Los%20juegos%20del%20hambre%20%28169%29/Los%20juegos%20del%20hambre%20-%20Suzanne%20Collins.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>Suzanne Collins</name>
+      <uri>../8f6fb6ff@author_0/62731582@author_52_Page_1.xml</uri>
+    </author>
+    <author>
+      <name>Pilar Ramírez Tello</name>
+      <uri>../8f6fb6ff@author_0/8b10b0b7@author_54_Page_1.xml</uri>
+    </author>
+    <published>2012-03-20T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Molino</dcterms:publisher>
+    <category term="Fantasía; terror y ciencia ficción" />
+    <category term="Aventura" />
+    <category term="Ciencia Ficción" />
+    <category term="Infantil y Juvenil" />
+    <category term="Lang:es" />
+    <category term="Los Juegos del Hambre" />
+    <summary>Los Juegos del Hambre [1]: Reseña del editorGANAR SIGNIFICA FAMA Y RIQUEZA. PERDER SIGNIFICA UNA MUERTE SEGURA. En una oscura versión del futuro próximo, doce chicos y doce chicas se ven obligados a participar en un reality show llamado Los juegos del hambre. Solo hay una regla: matar o morir. Cuando Katniss Everdeen, una joven de dieciséis años se presenta voluntaria para ocupar el lugar de su hermana en los juegos, lo entiende como una condena a muerte. Sin embargo Katniss ya ha visto la muert...</summary>
+    <link href="../8f6fb6ff%40book_0/fd8c365e%40book_169.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Sinsajo</title>
+    <id>calibre:book:168</id>
+    <updated>2015-03-27T01:53:43Z</updated>
+    <link href="../8f6fb6ff@book_0/8a8b06c8@book_168_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Suzanne%20Collins/Sinsajo%20%28168%29/Sinsajo%20-%20Suzanne%20Collins.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>Suzanne Collins</name>
+      <uri>../8f6fb6ff@author_0/62731582@author_52_Page_1.xml</uri>
+    </author>
+    <author>
+      <name>Pilar Ramírez Tello</name>
+      <uri>../8f6fb6ff@author_0/8b10b0b7@author_54_Page_1.xml</uri>
+    </author>
+    <published>2012-03-20T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Molino</dcterms:publisher>
+    <category term="Fantasía; terror y ciencia ficción" />
+    <category term="Aventura" />
+    <category term="Ciencia Ficción" />
+    <category term="Infantil y Juvenil" />
+    <category term="Lang:es" />
+    <category term="Los Juegos del Hambre" />
+    <summary>Los Juegos del Hambre [3]: Reseña del editorKatnis Everdeen ha sobrevivido dos veces a Los juegos del hambre, pero no está a salvo. La revolución se extiende y, al parecer, todos han tenido algo que ver en el meticuloso plan, todos excepto Katniss. Aun así su papel en la batalla final es el más importante de todos. Katniss debe convertirse en el Sinsajo, en el símbolo de la rebelión... a cualquier precio. ¡Que empiecen los septuagésimo sextos juegos del hambre! Biografía del autorSuzanne Collins...</summary>
+    <link href="../8f6fb6ff%40book_0/8a8b06c8%40book_168.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>
+

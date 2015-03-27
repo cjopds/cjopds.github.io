@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Gente Tóxica</title>
+  <id>urn:book:071b63b6-6ef1-4b2f-9215-b0d9c21bc949</id>
+  <updated>2015-03-27T01:53:43Z</updated>
+  <link href="./83daf2ce%40book_183.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Gente Tóxica" />
+  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Biblioteca de Calibre de CJ" />
+  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Biblioteca de Calibre de CJ" />
+  <link href="../8f6fb6ff%40authorlist/e8e4356e%40authorlist_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="83daf2ce@book_183_cover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../8f6fb6ff@book_0/83daf2ce@book_183_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Bernardo%20Stamateas/Gente%20Toxica%20%28183%29/Gente%20Toxica%20-%20Bernardo%20Stamateas.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+  <author>
+    <name>Bernardo Stamateas</name>
+    <uri>../8f6fb6ff@author_0/f5a1cc0a@author_59_Page_1.xml</uri>
+  </author>
+  <published>2008-01-05T11:00:00Z</published>
+  <dcterms:language>es</dcterms:language>
+  <category term="Divulgación" />
+  <category term="Autoayuda" />
+  <category term="Lang:es" />
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      Sin puntuación
+    </p>
+    <p>
+      <strong>Etiquetas:</strong>
+      Divulgación, Autoayuda, Lang:es
+    </p>
+    <p>
+      <strong>Published:</strong>
+      5 de enero de 2008
+    </p>
+    <p>
+      <strong>Sumario:</strong>
+    </p>
+    <p xmlns="">Gente tóxica. Descalificador o chismoso, agresivo o
+    falso, cualquiera de estos tipos se enmarcan en una raza mayor
+    denominada “gente tóxica” y que el
+    psicólogo Bernardo Stamateas describe con maestría en
+    un libro que muchos deberían consultar.En nuestra vida
+    cotidiana no podemos evitar encontrarnos con personas
+    problemáticas. Jefes autoritarios y descalificadores,
+    vecinos quejosos, compañeros de trabajo o estudio
+    envidiosos, parientes que siempre nos echan la culpa de todo,
+    hombres y mujeres arrogantes, irascibles o mentirosos…
+    Todas estas personas «tóxicas» nos producen
+    malestar, pero algunas pueden arruinarnos la vida, destruir
+    nuestros sueños o alejarnos de nuestras metas.
+    ¿Cómo reconocer a la gente «tóxica»?
+    ¿Cómo protegernos y ponerles límites? Bernardo
+    Stamateas responde a estas preguntas con claridad y
+    convicción. Sus consejos nos ayudarán a hacer
+    nuestras relaciones personales más saludables y positivas.
+    En definitiva, nos ayudarán a ser mucho más
+    felices.</p>
+  </content>
+  <link href="../8f6fb6ff%40author_0/f5a1cc0a%40author_59_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Libros de Bernardo Stamateas" />
+  <link href="http://www.goodreads.com/book/title/Gente%20T%C3%B3xica" type="text/html" rel="related" title="Este libro en Goodreads" />
+  <link href="http://es.wikipedia.org/wiki/Gente%20T%C3%B3xica" type="text/html" rel="related" title="Este libro en Wikipedia" />
+  <link href="http://www.librarything.com/title/Gente%20T%C3%B3xica%20Bernardo%20Stamateas" type="text/html" rel="related" title="Este libro en LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=Gente%20T%C3%B3xica&amp;field-author=Bernardo%20Stamateas" type="text/html" rel="related" title="Este libro en Amazon" />
+  <link href="http://www.goodreads.com/book/author/Bernardo%20Stamateas" type="text/html" rel="related" title="Bernardo Stamateas en Goodreads" />
+  <link href="http://es.wikipedia.org/wiki/Bernardo%20Stamateas" type="text/html" rel="related" title="Bernardo Stamateas en Wikipedia" />
+  <link href="http://www.librarything.com/author/StamateasBernardo" type="text/html" rel="related" title="Bernardo Stamateas en LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Bernardo%20Stamateas" type="text/html" rel="related" title="Bernardo Stamateas en Amazon" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Bernardo%20Stamateas" type="text/html" rel="related" title="Bernardo Stamateas en ISFDB" />
+</entry>
+

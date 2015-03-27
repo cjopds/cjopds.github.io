@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:opds="http://opds-spec.org/2010/catalog">
+  <title>Libros que empiezan por S</title>
+  <id>Calibre2opds:allbooks:S</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./c67a4b73%40allbooks_S_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Libros que empiezan por S" />
+  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Biblioteca de Calibre de CJ" />
+  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Biblioteca de Calibre de CJ" />
+  <link href="./c67a4b73%40allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Todos los libros" />
+  <entry>
+    <title>¿Sabes que te quiero?</title>
+    <id>calibre:book:196</id>
+    <updated>2015-03-27T01:53:45Z</updated>
+    <link href="../8f6fb6ff@book_0/eaab3700@book_196_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Blue%20Jeans/_Sabes%20que%20te%20quiero_%20%28196%29/_Sabes%20que%20te%20quiero_%20-%20Blue%20Jeans.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>Blue Jeans</name>
+      <uri>../8f6fb6ff@author_0/a98baf5f@author_68_Page_1.xml</uri>
+    </author>
+    <published>2010-09-01T10:14:45Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Everest</dcterms:publisher>
+    <category term="Romantico" />
+    <category term="Infantil y Juvenil" />
+    <category term="Literatura y ficción" />
+    <category term="Ficción contemporánea" />
+    <category term="Romántica" />
+    <category term="Literatura y narrativa" />
+    <category term="Infantil-Juvenil" />
+    <category term="Lang:es" />
+    <category term="Canciones para Paula" />
+    <summary>Canciones para Paula [2]: Reseña del editorLos problemas que Paula intentó olvidar cuando se fue a París, siguen esperándole a su regreso y no le será nada fácil dejarlos pasar. Surgirán nuevos líos amorosos y desengaños, a los que se sumará un error imperdonable que pudo cometer la protagonista en la “ciudad del amor”. Pero no todo girará en torno a Paula, si no que el resto de “las Sugus” también adquirirán un mayor protagonismo en la novela, que se verá salpicada de mentiras, traiciones y pro...</summary>
+    <link href="../8f6fb6ff%40book_0/eaab3700%40book_196.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Scorch Trials</title>
+    <id>calibre:book:155</id>
+    <updated>2015-03-27T01:53:42Z</updated>
+    <link href="../8f6fb6ff@book_0/df1729b6@book_155_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/James%20Dashner/The%20Scorch%20Trials%20%28155%29/The%20Scorch%20Trials%20-%20James%20Dashner.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>James Dashner</name>
+      <uri>../8f6fb6ff@author_0/e50cb160@author_45_Page_1.xml</uri>
+    </author>
+    <published>2010-10-12T03:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Random House Children's Books</dcterms:publisher>
+    <category term="Lang:en" />
+    <category term="The Maze Runner" />
+    <summary>The Maze Runner [2]:</summary>
+    <link href="../8f6fb6ff%40book_0/df1729b6%40book_155.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Sinsajo</title>
+    <id>calibre:book:168</id>
+    <updated>2015-03-27T01:53:43Z</updated>
+    <link href="../8f6fb6ff@book_0/8a8b06c8@book_168_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Suzanne%20Collins/Sinsajo%20%28168%29/Sinsajo%20-%20Suzanne%20Collins.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>Suzanne Collins</name>
+      <uri>../8f6fb6ff@author_0/62731582@author_52_Page_1.xml</uri>
+    </author>
+    <author>
+      <name>Pilar Ramírez Tello</name>
+      <uri>../8f6fb6ff@author_0/8b10b0b7@author_54_Page_1.xml</uri>
+    </author>
+    <published>2012-03-20T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Molino</dcterms:publisher>
+    <category term="Fantasía; terror y ciencia ficción" />
+    <category term="Aventura" />
+    <category term="Ciencia Ficción" />
+    <category term="Infantil y Juvenil" />
+    <category term="Lang:es" />
+    <category term="Los Juegos del Hambre" />
+    <summary>Los Juegos del Hambre [3]: Reseña del editorKatnis Everdeen ha sobrevivido dos veces a Los juegos del hambre, pero no está a salvo. La revolución se extiende y, al parecer, todos han tenido algo que ver en el meticuloso plan, todos excepto Katniss. Aun así su papel en la batalla final es el más importante de todos. Katniss debe convertirse en el Sinsajo, en el símbolo de la rebelión... a cualquier precio. ¡Que empiecen los septuagésimo sextos juegos del hambre! Biografía del autorSuzanne Collins...</summary>
+    <link href="../8f6fb6ff%40book_0/8a8b06c8%40book_168.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Sobre la libertad</title>
+    <id>calibre:book:242</id>
+    <updated>2015-03-27T01:53:51Z</updated>
+    <link href="../8f6fb6ff@book_0/5a2e330d@book_242_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/John%20Stuart%20Mill/Sobre%20la%20libertad%20%28242%29/Sobre%20la%20libertad%20-%20John%20Stuart%20Mill.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>John Stuart Mill</name>
+      <uri>../8f6fb6ff@author_0/cec65a8e@author_92_Page_1.xml</uri>
+    </author>
+    <published>1858-12-31T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>ePubLibre</dcterms:publisher>
+    <category term="Ensayo" />
+    <category term="Filosofía" />
+    <category term="Lang:es" />
+    <summary>El ensayo «Sobre la libertad» figura por derecho propio en la breve galería de obras de combate político que, tras modificar de manera decisiva las ideas de su época, continúan determinando, siglos después, los comportamientos de los hombres a través de las instituciones o formas generalizadas de pensar creadas bajo su influencia. El ensayo de John Stuart Mill (1806-1873) es una vibrante defensa de la libertad de pensamiento y expresión, una apasionada apología de la tolerancia y del respeto deb...</summary>
+    <link href="../8f6fb6ff%40book_0/5a2e330d%40book_242.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>La sombra del viento</title>
+    <id>calibre:book:240</id>
+    <updated>2015-03-27T01:53:51Z</updated>
+    <link href="../8f6fb6ff@book_0/b4205221@book_240_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Carlos%20Ruiz%20Zafon/La%20sombra%20del%20viento%20%28240%29/La%20sombra%20del%20viento%20-%20Carlos%20Ruiz%20Zafon.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>Carlos Ruiz Zafón</name>
+      <uri>../8f6fb6ff@author_0/20c83ba2@author_90_Page_1.xml</uri>
+    </author>
+    <published>2000-12-31T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>ePubLibre</dcterms:publisher>
+    <category term="Novela" />
+    <category term="Intriga" />
+    <category term="Lang:es" />
+    <category term="El cementerio de los libros olvidados" />
+    <summary>El cementerio de los libros olvidados [1]: Un amanecer de 1945 un muchacho es conducido por su padre a un misterioso lugar oculto en el corazón de la ciudad vieja: El Cementerio de los Libros Olvidados. Allí, Daniel Sempere encuentra un libro maldito que cambiará el rumbo de su vida y le arrastrará a un laberinto de intrigas y secretos enterrados en el alma oscura de la ciudad. La Sombra del Viento es un misterio literario ambientado en la Barcelona de la primera mitad del siglo XX, desde los úl...</summary>
+    <link href="../8f6fb6ff%40book_0/b4205221%40book_240.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>El sueño de Alicia</title>
+    <id>calibre:book:197</id>
+    <updated>2015-03-27T01:53:45Z</updated>
+    <link href="../8f6fb6ff@book_0/9dac0796@book_197_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Eduard%20Punset/El%20sueno%20de%20Alicia%20%28197%29/El%20sueno%20de%20Alicia%20-%20Eduard%20Punset.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>Eduard Punset</name>
+      <uri>../8f6fb6ff@author_0/de8c9fc9@author_69_Page_1.xml</uri>
+    </author>
+    <published>2013-09-16T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Ediciones Destino</dcterms:publisher>
+    <category term="Ciencias; tecnología y medicina" />
+    <category term="Ciencia" />
+    <category term="Lang:es" />
+    <summary>Descripción del productoAlicia –«verdad», en griego– es el personaje inseparable de Eduardo Punset en esta historia apasionante sobre la vida y la ciencia que reúne el legado científico y humanístico de personas sabias con la osadía de romper barreras y desvelar conocimientos que creíamos imposibles. Conocimientos que logran sumergirnos en la arqueología de las emociones e iluminar habitaciones secretas de nuestra mente. Ésta es una obra llena de respuestas y de preguntas abiertas. Es también un...</summary>
+    <link href="../8f6fb6ff%40book_0/9dac0796%40book_197.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>El sueño de una noche de verano</title>
+    <id>calibre:book:252</id>
+    <updated>2015-03-27T01:53:52Z</updated>
+    <link href="../8f6fb6ff@book_0/4335024c@book_252_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/William%20Shakespeare/El%20sueno%20de%20una%20noche%20de%20verano%20%28252%29/El%20sueno%20de%20una%20noche%20de%20verano%20-%20William%20Shakespeare.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>William Shakespeare</name>
+      <uri>../8f6fb6ff@author_0/beacae01@author_97_Page_1.xml</uri>
+    </author>
+    <published>1594-12-31T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>ePubLibre</dcterms:publisher>
+    <category term="Teatro" />
+    <category term="Humor" />
+    <category term="Lang:es" />
+    <summary>Esta comedia en cinco actos en verso y prosa de William Shakespeare fue escrita alrededor de 1595 y representada hacia la misma época. Los principales temas de esta obra son los sueños y la realidad, el amor y la magia. Esta comedia relata la historia de cinco parejas de enamorados que sufren y disfrutan por causa de su amor y de las argucias de sus enamorados. El trasfondo común se encuentra en las celebraciones de la boda entre el Duque Teseo y la reina de las amazonas Hipólita, anteriormente ...</summary>
+    <link href="../8f6fb6ff%40book_0/4335024c%40book_252.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>
+

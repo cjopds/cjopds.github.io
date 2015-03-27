@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Crónica de una muerte anunciada</title>
+  <id>urn:book:7fdd5a77-753f-4aef-9e38-499fafe554aa</id>
+  <updated>2015-03-27T01:53:46Z</updated>
+  <link href="./2759c748%40book_212.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Crónica de una muerte anunciada" />
+  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Biblioteca de Calibre de CJ" />
+  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Biblioteca de Calibre de CJ" />
+  <link href="../8f6fb6ff%40authorlist/e8e4356e%40authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="2759c748@book_212_cover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../8f6fb6ff@book_0/2759c748@book_212_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Gabriel%20Garcia%20Marquez/Cronica%20de%20una%20muerte%20anunciada%20%28212%29/Cronica%20de%20una%20muerte%20anunciada%20-%20Gabriel%20Garcia%20Marquez.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+  <author>
+    <name>Gabriel García Márquez</name>
+    <uri>../8f6fb6ff@author_0/b0909e1e@author_78_Page_1.xml</uri>
+  </author>
+  <published>1980-12-31T11:00:00Z</published>
+  <dcterms:language>es</dcterms:language>
+  <dcterms:publisher>ePubLibre</dcterms:publisher>
+  <category term="Novela" />
+  <category term="Drama" />
+  <category term="Lang:es" />
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      Sin puntuación
+    </p>
+    <p>
+      <strong>Etiquetas:</strong>
+      Novela, Drama, Lang:es
+    </p>
+    <p>
+      <strong>Published:</strong>
+      31 de diciembre de 1980
+    </p>
+    <p>
+      <strong>Sumario:</strong>
+    </p>
+    <p xmlns="">Esta novela se basa en un hecho histórico acontecido en
+    la tierra natal del autor. Sin embargo, en García
+    Márquez la dialéctica entre realidad y mito es tan
+    fecunda que eleva el hecho a categoría de metáfora
+    universal sobre la condición humana. Cuando empieza el
+    relato, Santiago Nasar ya está muerto, pues sabe que los
+    hermanos Vicario lo van a matar —de hecho ya lo han
+    matado— para vengar el honor ultrajado de su hermana
+    Ángela, pero la novela concluye en el momento en que
+    Santiago Nasar muere… Fascinante análisis de la
+    fatalidad y el tiempo cíclico, en esta obra la realidad se
+    metamorfosea en rito, el amor desemboca en tragedia, y los
+    hombres y mujeres se sitúan en las fronteras de la
+    leyenda.</p>
+  </content>
+  <link href="../8f6fb6ff%40author_0/b0909e1e%40author_78_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Libros de Gabriel García Márquez" />
+  <link href="http://www.goodreads.com/book/title/Cr%C3%B3nica%20de%20una%20muerte%20anunciada" type="text/html" rel="related" title="Este libro en Goodreads" />
+  <link href="http://es.wikipedia.org/wiki/Cr%C3%B3nica%20de%20una%20muerte%20anunciada" type="text/html" rel="related" title="Este libro en Wikipedia" />
+  <link href="http://www.librarything.com/title/Cr%C3%B3nica%20de%20una%20muerte%20anunciada%20Gabriel%20Garc%C3%ADa%20M%C3%A1rquez" type="text/html" rel="related" title="Este libro en LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=Cr%C3%B3nica%20de%20una%20muerte%20anunciada&amp;field-author=Gabriel%20Garc%C3%ADa%20M%C3%A1rquez" type="text/html" rel="related" title="Este libro en Amazon" />
+  <link href="http://www.goodreads.com/book/author/Gabriel%20Garc%C3%ADa%20M%C3%A1rquez" type="text/html" rel="related" title="Gabriel García Márquez en Goodreads" />
+  <link href="http://es.wikipedia.org/wiki/Gabriel%20Garc%C3%ADa%20M%C3%A1rquez" type="text/html" rel="related" title="Gabriel García Márquez en Wikipedia" />
+  <link href="http://www.librarything.com/author/M%C3%A1rquezGabrielGarc%C3%ADa" type="text/html" rel="related" title="Gabriel García Márquez en LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Gabriel%20Garc%C3%ADa%20M%C3%A1rquez" type="text/html" rel="related" title="Gabriel García Márquez en Amazon" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Gabriel%20Garc%C3%ADa%20M%C3%A1rquez" type="text/html" rel="related" title="Gabriel García Márquez en ISFDB" />
+</entry>
+

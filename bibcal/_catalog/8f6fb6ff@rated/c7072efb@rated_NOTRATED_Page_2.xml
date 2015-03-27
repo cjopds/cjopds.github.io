@@ -1,0 +1,495 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:opds="http://opds-spec.org/2010/catalog">
+  <title>Sin puntuación</title>
+  <id>Calibre2opds:rated:NOTRATED</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./c7072efb%40rated_NOTRATED_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Sin puntuación" />
+  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Biblioteca de Calibre de CJ" />
+  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Biblioteca de Calibre de CJ" />
+  <link href="./c7072efb%40rated.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Valoración" />
+  <link href="../8f6fb6ff@rated/c7072efb@rated_NOTRATED_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (3 de 3)" />
+  <entry>
+    <title>El sueño de una noche de verano</title>
+    <id>calibre:book:252</id>
+    <updated>2015-03-27T01:53:52Z</updated>
+    <link href="../8f6fb6ff@book_0/4335024c@book_252_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/William%20Shakespeare/El%20sueno%20de%20una%20noche%20de%20verano%20%28252%29/El%20sueno%20de%20una%20noche%20de%20verano%20-%20William%20Shakespeare.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>William Shakespeare</name>
+      <uri>../8f6fb6ff@author_0/beacae01@author_97_Page_1.xml</uri>
+    </author>
+    <published>1594-12-31T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>ePubLibre</dcterms:publisher>
+    <category term="Teatro" />
+    <category term="Humor" />
+    <category term="Lang:es" />
+    <summary>Esta comedia en cinco actos en verso y prosa de William Shakespeare fue escrita alrededor de 1595 y representada hacia la misma época. Los principales temas de esta obra son los sueños y la realidad, el amor y la magia. Esta comedia relata la historia de cinco parejas de enamorados que sufren y disfrutan por causa de su amor y de las argucias de sus enamorados. El trasfondo común se encuentra en las celebraciones de la boda entre el Duque Teseo y la reina de las amazonas Hipólita, anteriormente ...</summary>
+    <link href="../8f6fb6ff%40book_0/4335024c%40book_252.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Enrique IV Partes I y II</title>
+    <id>calibre:book:261</id>
+    <updated>2015-03-27T01:53:52Z</updated>
+    <link href="../8f6fb6ff@book_0/f1110035@book_261_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/William%20Shakespeare/Enrique%20IV%20Partes%20I%20y%20II%20%28261%29/Enrique%20IV%20Partes%20I%20y%20II%20-%20William%20Shakespeare.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>William Shakespeare</name>
+      <uri>../8f6fb6ff@author_0/beacae01@author_97_Page_1.xml</uri>
+    </author>
+    <published>1596-12-31T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>ePubLibre</dcterms:publisher>
+    <category term="Teatro" />
+    <category term="Histórico" />
+    <category term="Lang:es" />
+    <summary>Las dos partes de Enrique IV pertenecen a la segunda tetralogía de dramas históricos ingleses de Shakespeare (que comienza con Ricardo II y concluye con Enrique V). Si al escribir Ricardo II Shakespeare fue más allá de los avatares del juego político e indagó en la condición humana del rey y en el comportamiento de los hombres, en ENRIQUE IV no sólo avanzó más aún por esta senda, sino que incorporó por primera vez un decisivo ingrediente de comedia al drama histórico En pocas ocasiones planteó S...</summary>
+    <link href="../8f6fb6ff%40book_0/f1110035%40book_261.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Ensayo sobre la ceguera</title>
+    <id>calibre:book:247</id>
+    <updated>2015-03-27T01:53:42Z</updated>
+    <link href="../8f6fb6ff@book_0/2a44c782@book_247_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Jose%20Saramago/Ensayo%20sobre%20la%20ceguera%20%28247%29/Ensayo%20sobre%20la%20ceguera%20-%20Jose%20Saramago.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>José Saramago</name>
+      <uri>../8f6fb6ff@author_0/a3fb6b8c@author_39_Page_1.xml</uri>
+    </author>
+    <published>1994-12-31T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>ePubLibre</dcterms:publisher>
+    <category term="Novela" />
+    <category term="Drama" />
+    <category term="Lang:es" />
+    <summary>Un hombre parado ante un semáforo en rojo se queda ciego súbitamente. Es el primer caso de una «ceguera blanca» que se expande de manera fulminante. Internados en cuarentena o perdidos en la ciudad, los ciegos tendrán que enfrentarse con lo que existe de más primitivo en la naturaleza humana: la voluntad de sobrevivir a cualquier precio. Ensayo sobre la ceguera es la ficción de un autor que nos alerta sobre «la responsabilidad de tener ojos cuando otros los perdieron». José Saramago traza en est...</summary>
+    <link href="../8f6fb6ff%40book_0/2a44c782%40book_247.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Especiales</title>
+    <id>calibre:book:164</id>
+    <updated>2015-03-27T01:53:45Z</updated>
+    <link href="../8f6fb6ff@book_0/833d4ae3@book_164_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Scott%20Westerfeld/Especiales%20%28164%29/Especiales%20-%20Scott%20Westerfeld.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>Scott Westerfeld</name>
+      <uri>../8f6fb6ff@author_0/b926d235@author_74_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Montena</dcterms:publisher>
+    <category term="Ciencia Ficción" />
+    <category term="Romántica" />
+    <category term="Lang:es" />
+    <category term="Uglies" />
+    <summary>Uglies [3]: Tally se ha unido a Circunstancias Especiales y ahora está programada para vencer a la resistencia... Ya hace mucho tiempo que Tally dejó de ser una una imperfecta rebelde e indisciplinada. Por aquel entonces, ella aún creía que los especiales eran solo un rumor siniestro y aterrador: de ellos se decía que eran veloces, atractivos y crueles como nadie. Irónicamente, el destino ha llevado a Tally a convertirse en especial y, tras someterse a la más sofisticada de las operaciones quirú...</summary>
+    <link href="../8f6fb6ff%40book_0/833d4ae3%40book_164.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Estética de la música</title>
+    <id>calibre:book:215</id>
+    <updated>2015-03-27T01:53:46Z</updated>
+    <link href="../8f6fb6ff@book_0/b93d52eb@book_215_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Enrico%20Fubini/Estetica%20de%20la%20musica%20%28215%29/Estetica%20de%20la%20musica%20-%20Enrico%20Fubini.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Enrico%20Fubini/Estetica%20de%20la%20musica%20%28215%29/Estetica%20de%20la%20musica%20-%20Enrico%20Fubini.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Descargar este libro como PDF" />
+    <author>
+      <name>Enrico Fubini</name>
+      <uri>../8f6fb6ff@author_0/4ed43a75@author_81_Page_1.xml</uri>
+    </author>
+    <published>2008-06-30T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Antonio Machado Libros</dcterms:publisher>
+    <category term="Lang:es" />
+    <link href="../8f6fb6ff%40book_0/b93d52eb%40book_215.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Esto tiene arreglo</title>
+    <id>calibre:book:145</id>
+    <updated>2015-03-27T01:53:42Z</updated>
+    <link href="../8f6fb6ff@book_0/c60c18f7@book_145_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Alberto%20Garzon%20Espinosa/Esto%20tiene%20arreglo%20%28145%29/Esto%20tiene%20arreglo%20-%20Alberto%20Garzon%20Espinosa.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>Alberto Garzón Espinosa</name>
+      <uri>../8f6fb6ff@author_0/956645ef@author_40_Page_1.xml</uri>
+    </author>
+    <published>2012-03-15T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>LIBRANDA PLANETA</dcterms:publisher>
+    <category term="Lang:es" />
+    <link href="../8f6fb6ff%40book_0/c60c18f7%40book_145.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Eve</title>
+    <id>calibre:book:153</id>
+    <updated>2015-03-27T01:53:43Z</updated>
+    <link href="../8f6fb6ff@book_0/36748c83@book_153_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Anna%20Carey/Eve%20%28153%29/Eve%20-%20Anna%20Carey.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>Anna Carey</name>
+      <uri>../8f6fb6ff@author_0/ecbafd4b@author_49_Page_1.xml</uri>
+    </author>
+    <published>2012-04-01T10:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>HarperCollins US</dcterms:publisher>
+    <category term="Lang:en" />
+    <category term="Eve" />
+    <summary>Eve [1]: Where do you go when nowhere is safe?Sixteen years after a deadly virus wiped out most of Earth's population, the world is a perilous place. Eighteen-year-old Eve has never been beyond the heavily guarded perimeter of her school, where she and two hundred other orphaned girls have been promised a future as the teachers and artists of the New America. But the night before graduation, Eve learns the shocking truth about her school's real purpose&amp;#8212;and the horrifying fate that awaits h...</summary>
+    <link href="../8f6fb6ff%40book_0/36748c83%40book_153.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Extras</title>
+    <id>calibre:book:165</id>
+    <updated>2015-03-27T01:53:45Z</updated>
+    <link href="../8f6fb6ff@book_0/f43a7a75@book_165_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Scott%20Westerfeld/Extras%20%28165%29/Extras%20-%20Scott%20Westerfeld.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>Scott Westerfeld</name>
+      <uri>../8f6fb6ff@author_0/b926d235@author_74_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Montena</dcterms:publisher>
+    <category term="Ciencia Ficción" />
+    <category term="Romántica" />
+    <category term="Lang:es" />
+    <category term="Uglies" />
+    <summary>Uglies [4]: Tras el fin de la era de los perfectos, la sociedad está sumida en un renacimiento completo... en el que la popularidad manda. Ser famoso implica tener mejor casa, mejor ropa e incluso mejores amigos. En cambio, no serlo te convierte en invisible, en un perdedor, en un completo desconocido. En definitiva, en un extra.Aya Fuse lo es. Pero a sus quince años hay algo que tiene ya muy claro: por nada del mundo piensa resignarse al anonimato. Y está dispuesta a todo para hacer realidad su...</summary>
+    <link href="../8f6fb6ff%40book_0/f43a7a75%40book_165.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Fahrenheit 451</title>
+    <id>calibre:book:243</id>
+    <updated>2015-03-27T01:53:51Z</updated>
+    <link href="../8f6fb6ff@book_0/2d29039b@book_243_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Ray%20Bradbury/Fahrenheit%20451%20%28243%29/Fahrenheit%20451%20-%20Ray%20Bradbury.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>Ray Bradbury</name>
+      <uri>../8f6fb6ff@author_0/b9c16a18@author_93_Page_1.xml</uri>
+    </author>
+    <published>1952-12-31T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>ePubLibre</dcterms:publisher>
+    <category term="Relato" />
+    <category term="Ciencia Ficción" />
+    <category term="Lang:es" />
+    <summary>Fahrenheit 451: la temperatura a la que el papel se enciende y arde. Guy Montag es un bombero y el trabajo de un bombero es quemar libros, que están prohibidos porque son causa de discordia y sufrimiento. El Sabueso Mecánico del Departamento de Incendios, armado con una letal inyección hipodérmica, escoltado por helicópteros, está preparado para rastrear a los disidentes que aún conservan y leen libros. Como 1984, de George Orwell, como Un mundo feliz, de Aldous Huxley, Fahrenheit 451 describe u...</summary>
+    <link href="../8f6fb6ff%40book_0/2d29039b%40book_243.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Free Four - Tobias Tells the Divergent Knife-Throwing Scene</title>
+    <id>calibre:book:206</id>
+    <updated>2015-03-27T01:53:45Z</updated>
+    <link href="../8f6fb6ff@book_0/392f3210@book_206_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Veronica%20Roth/Free%20Four%20-%20Tobias%20Tells%20the%20Divergent%20Knife-Throwing%20Scene%20%28206%29/Free%20Four%20-%20Tobias%20Tells%20the%20Divergent%20Kni%20-%20Veronica%20Roth.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>Veronica Roth</name>
+      <uri>../8f6fb6ff@author_0/27424796@author_73_Page_1.xml</uri>
+    </author>
+    <published>2013-09-25T10:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>HarperCollins UK</dcterms:publisher>
+    <category term="Juvenile Fiction" />
+    <category term="General" />
+    <category term="Fantasy &amp; Magic" />
+    <category term="Love &amp; Romance" />
+    <category term="Lang:en" />
+    <category term="Four: A Divergent Story Collection" />
+    <summary>Four: A Divergent Story Collection [3]: Fans of the Divergent series by No. 1 New York Times bestselling author Veronica Roth will be thrilled by the knife-throwing scene from Divergent, now told from Four’s perspective. This brief story explores the world of the Divergent series through the eyes of the mysterious but charismatic Tobias Eaton, revealing previously unknown facets of his personality, backstory and relationships.</summary>
+    <link href="../8f6fb6ff%40book_0/392f3210%40book_206.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Gente Tóxica</title>
+    <id>calibre:book:183</id>
+    <updated>2015-03-27T01:53:43Z</updated>
+    <link href="../8f6fb6ff@book_0/83daf2ce@book_183_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Bernardo%20Stamateas/Gente%20Toxica%20%28183%29/Gente%20Toxica%20-%20Bernardo%20Stamateas.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>Bernardo Stamateas</name>
+      <uri>../8f6fb6ff@author_0/f5a1cc0a@author_59_Page_1.xml</uri>
+    </author>
+    <published>2008-01-05T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <category term="Divulgación" />
+    <category term="Autoayuda" />
+    <category term="Lang:es" />
+    <summary>Gente tóxica. Descalificador o chismoso, agresivo o falso, cualquiera de estos tipos se enmarcan en una raza mayor denominada “gente tóxica” y que el psicólogo Bernardo Stamateas describe con maestría en un libro que muchos deberían consultar.En nuestra vida cotidiana no podemos evitar encontrarnos con personas problemáticas. Jefes autoritarios y descalificadores, vecinos quejosos, compañeros de trabajo o estudio envidiosos, parientes que siempre nos echan la culpa de todo, hombres y mujeres arr...</summary>
+    <link href="../8f6fb6ff%40book_0/83daf2ce%40book_183.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Hamlet</title>
+    <id>calibre:book:253</id>
+    <updated>2015-03-27T01:53:52Z</updated>
+    <link href="../8f6fb6ff@book_0/343232da@book_253_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/William%20Shakespeare/Hamlet%20%28253%29/Hamlet%20-%20William%20Shakespeare.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>William Shakespeare</name>
+      <uri>../8f6fb6ff@author_0/beacae01@author_97_Page_1.xml</uri>
+    </author>
+    <published>1602-12-31T11:00:00Z</published>
+    <dcterms:language>eu</dcterms:language>
+    <dcterms:publisher>ePubLibre</dcterms:publisher>
+    <category term="Teatro" />
+    <category term="Drama" />
+    <category term="Lang:eu" />
+    <summary>Shakespearen tragedia honetan, Danimarkako erregea Klaudio bere anaiak hil du, eta ondoren tronua usurpatu eta hildakoaren alargunarekin, Gertrudis, ezkontzen da, ohiturak errespetatu gabe. Aitaren mamua Hamlet-eri agertzen zaio Elsinore-ko gazteluko harresian, delituaren inguruabarrak kontatzen dizkio eta mendekua eskatzen dio. Hamlet-ek obeditzea hitzematen du, baina bere natura malenkoniatsuak zalantzati egiten du eta akzioa atzeratzera behartzen du; bitartean erorena egiten du erregearen biz...</summary>
+    <link href="../8f6fb6ff%40book_0/343232da%40book_253.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Hamlet, Príncipe de Dinamarca</title>
+    <id>calibre:book:254</id>
+    <updated>2015-03-27T01:53:52Z</updated>
+    <link href="../8f6fb6ff@book_0/aa56a779@book_254_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/William%20Shakespeare/Hamlet%2C%20Principe%20de%20Dinamarca%20%28254%29/Hamlet%2C%20Principe%20de%20Dinamarca%20-%20William%20Shakespeare.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>William Shakespeare</name>
+      <uri>../8f6fb6ff@author_0/beacae01@author_97_Page_1.xml</uri>
+    </author>
+    <published>1602-12-31T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>ePubLibre</dcterms:publisher>
+    <category term="Teatro" />
+    <category term="Drama" />
+    <category term="Lang:es" />
+    <summary>Obra en la que el genio de William Shakespeare brilla con especial fuerza. La tragedia de Hamlet traza el admirable retrato de un legendario príncipe de Dinamarca soñador y contemplativo, sumido en dudas e irresoluciones, que, obligado a esclarecer los motivos que llevaron a la muerte de su padre, sucumbe ante la fatalidad de las circunstancias. Poblada por una abundante y compleja galería de personajes secundarios, la obra ha gozado de una constante vigencia a lo largo del tiempo, que ha hecho ...</summary>
+    <link href="../8f6fb6ff%40book_0/aa56a779%40book_254.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Inés y la alegría</title>
+    <id>calibre:book:187</id>
+    <updated>2015-03-27T01:53:44Z</updated>
+    <link href="../8f6fb6ff@book_0/84b736d7@book_187_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Almudena%20Grandes/Ines%20y%20la%20alegria%20%28187%29/Ines%20y%20la%20alegria%20-%20Almudena%20Grandes.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Descargar este libro como MOBI" />
+    <author>
+      <name>Almudena Grandes</name>
+      <uri>../8f6fb6ff@author_0/d73ad3e2@author_65_Page_1.xml</uri>
+    </author>
+    <published>2010-12-24T11:00:00Z</published>
+    <dcterms:publisher>Spanish Pubs Llc</dcterms:publisher>
+    <category term="Historical" />
+    <category term="Fiction" />
+    <summary>Toulouse, verano de 1939. Carmen de Pedro, responsable en Francia de los diezmados comunistas españoles, se cruza con Jesús Monzón, un cargo menor del partido que, sin ella intuirlo, alberga un ambicioso plan. Unos años después, en 1944, Monzón, convertido en su pareja, ha organizado el grupo más disciplinado de la Resistencia contra la ocupación alemana, prepara la plataforma de la Unión Nacional Española y cuenta con un ejército de hombres dispuestos a invadir España. Entre ellos está Galán, q...</summary>
+    <link href="../8f6fb6ff%40book_0/84b736d7%40book_187.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Julio César</title>
+    <id>calibre:book:259</id>
+    <updated>2015-03-27T01:53:52Z</updated>
+    <link href="../8f6fb6ff@book_0/d4e7dbc4@book_259_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/William%20Shakespeare/Julio%20Cesar%20%28259%29/Julio%20Cesar%20-%20William%20Shakespeare.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>William Shakespeare</name>
+      <uri>../8f6fb6ff@author_0/beacae01@author_97_Page_1.xml</uri>
+    </author>
+    <published>1598-12-31T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>ePubLibre</dcterms:publisher>
+    <category term="Teatro" />
+    <category term="Histórico" />
+    <category term="Lang:es" />
+    <summary>La obra se ambienta en el año 44 antes de nuestra era, y narra los acontecimientos que acompañaron la muerte del célebre militar y cónsul romano. La conspiración de varios personajes de alcurnia para asesinar a Julio César, el éxito del complot, y el posterior castigo de los culpables se abordan desde la perspectiva de Bruto. Éste personaje es también un militar destacado, que tiene una relación afectiva muy cercana con César (la amante del cónsul es la madre de Bruto), y se debate entre sus vín...</summary>
+    <link href="../8f6fb6ff%40book_0/d4e7dbc4%40book_259.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>La cura mortal</title>
+    <id>calibre:book:184</id>
+    <updated>2015-03-27T01:53:42Z</updated>
+    <link href="../8f6fb6ff@book_0/1dbe676d@book_184_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/James%20Dashner/La%20cura%20mortal%20%28184%29/La%20cura%20mortal%20-%20James%20Dashner.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>James Dashner</name>
+      <uri>../8f6fb6ff@author_0/e50cb160@author_45_Page_1.xml</uri>
+    </author>
+    <published>2010-12-31T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>ePubLibre</dcterms:publisher>
+    <category term="Novela" />
+    <category term="Fantástico" />
+    <category term="Lang:es" />
+    <category term="El corredor del laberinto" />
+    <summary>El corredor del laberinto [3]: «MÁTAME. SI ALGUNA VEZ HAS SIDO MI AMIGO, MÁTAME». Desde hace tres semanas, Thomas vive en una habitación sin ventanas, de un blanco resplandeciente y siempre iluminada. Sin reloj y sin contacto con nadie, más allá de las tres bandejas de comida que alguien le lleva a diario (aunque a horas distintas, como para desorientarle). Al vigésimo sexto día, la puerta se abre y un hombre le conduce a una sala llena de viejos amigos. —Muy bien, damas y caballeros. Estáis a p...</summary>
+    <link href="../8f6fb6ff%40book_0/1dbe676d%40book_184.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>La fierecilla domada</title>
+    <id>calibre:book:264</id>
+    <updated>2015-03-27T01:53:52Z</updated>
+    <link href="../8f6fb6ff@book_0/817bf4ba@book_264_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/William%20Shakespeare/La%20fierecilla%20domada%20%28264%29/La%20fierecilla%20domada%20-%20William%20Shakespeare.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>William Shakespeare</name>
+      <uri>../8f6fb6ff@author_0/beacae01@author_97_Page_1.xml</uri>
+    </author>
+    <published>2015-01-25T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>ePubLibre</dcterms:publisher>
+    <category term="Teatro" />
+    <category term="Humor" />
+    <category term="Lang:es" />
+    <summary>La obra se basa, en principio, en el carácter díscolo y malhumorado de Catalina Minola, mujer que ahuyenta, no pocas veces, a golpes a cuantos pretendientes se interesan por ella ante su padre. El asunto no tendría mayor transcendencia si no fuese porque, según la costumbre, el padre de Catalina, el rico mercader Bautista Minola, se niega a entregar en matrimonio a su hija menor, Blanca, hasta que no haya casado a la mayor; para desconsuelo de los ambiciosos aspirantes a su mano, Hortensio, Grem...</summary>
+    <link href="../8f6fb6ff%40book_0/817bf4ba%40book_264.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>La naranja mecánica</title>
+    <id>calibre:book:238</id>
+    <updated>2015-03-27T01:53:51Z</updated>
+    <link href="../8f6fb6ff@book_0/f5ba4cd4@book_238_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Anthony%20Burgess/La%20naranja%20mecanica%20%28238%29/La%20naranja%20mecanica%20-%20Anthony%20Burgess.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>Anthony Burgess</name>
+      <uri>../8f6fb6ff@author_0/370882d1@author_88_Page_1.xml</uri>
+    </author>
+    <published>1961-12-31T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>ePubLibre</dcterms:publisher>
+    <category term="Novela" />
+    <category term="Ciencia Ficción" />
+    <category term="Lang:es" />
+    <summary>Anthony Burgess fue un famoso escritor y compositor británico cuya obra más famosa fue la novela La naranja mecánica publicada en 1962. La historia está inspirada por un incidente vivido por el autor durante la Segunda Guerra Mundial, cuando él y su mujer fueron asaltados en 1944, siendo la esposa del propio Burgess víctima de robo y violación por parte de cuatro soldados estadounidenses en las calles londinenses. Dado que se encontraba embarazada, la paliza le provocó un aborto. El libro trata ...</summary>
+    <link href="../8f6fb6ff%40book_0/f5ba4cd4%40book_238.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Las alegres comadres de Windsor</title>
+    <id>calibre:book:256</id>
+    <updated>2015-03-27T01:53:52Z</updated>
+    <link href="../8f6fb6ff@book_0/4458c655@book_256_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/William%20Shakespeare/Las%20alegres%20comadres%20de%20Windsor%20%28256%29/Las%20alegres%20comadres%20de%20Windsor%20-%20William%20Shakespeare.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>William Shakespeare</name>
+      <uri>../8f6fb6ff@author_0/beacae01@author_97_Page_1.xml</uri>
+    </author>
+    <published>1599-12-31T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>ePubLibre</dcterms:publisher>
+    <category term="Teatro" />
+    <category term="Humor" />
+    <category term="Drama" />
+    <category term="Lang:es" />
+    <summary>Falstaff llega a Windsor escaso de fondos. Para mejorar su situación financiera, decide cortejar a dos señoras bien casadas, mistress Ford y mistress Page. Escribe cartas de amor idénticas a ambas señoras, y pide a sus respectivos criados, Pistol y Nym, que las entreguen. Ellos se niegan, por lo que Falstaff les sacude. Como venganza, los criados informan a los maridos de las intenciones de Falstaff. El señor Page hace caso omiso, pero el celoso señor Ford decide averiguar por sí mismo los plane...</summary>
+    <link href="../8f6fb6ff%40book_0/4458c655%40book_256.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Las aventuras de Sherlock Holmes</title>
+    <id>calibre:book:147</id>
+    <updated>2015-03-27T01:53:42Z</updated>
+    <link href="../8f6fb6ff@book_0/280279db@book_147_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Arthur%20Conan%20Doyle/Las%20aventuras%20de%20Sherlock%20Holmes%20%28147%29/Las%20aventuras%20de%20Sherlock%20Holmes%20-%20Arthur%20Conan%20Doyle.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>Arthur Conan Doyle</name>
+      <uri>../8f6fb6ff@author_0/e2617579@author_41_Page_1.xml</uri>
+    </author>
+    <published>1892-04-11T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Feedbooks</dcterms:publisher>
+    <category term="Ficción" />
+    <category term="Policiacas y de misterio" />
+    <category term="Historias cortas" />
+    <category term="Lang:es" />
+    <summary>Las Aventuras de Sherlock Holmes es un libro que recopila cuentos policíacos escritos por Sir Arthur Conan Doyle en donde el protagonista es su celebre detective privado "Sherlock Holmes". El libro original fue ilustrado por Sidney Paget. Aquí se cuentan las primeras aventuras de Sherlock Holmes.</summary>
+    <link href="../8f6fb6ff%40book_0/280279db%40book_147.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>La sombra del viento</title>
+    <id>calibre:book:240</id>
+    <updated>2015-03-27T01:53:51Z</updated>
+    <link href="../8f6fb6ff@book_0/b4205221@book_240_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Carlos%20Ruiz%20Zafon/La%20sombra%20del%20viento%20%28240%29/La%20sombra%20del%20viento%20-%20Carlos%20Ruiz%20Zafon.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>Carlos Ruiz Zafón</name>
+      <uri>../8f6fb6ff@author_0/20c83ba2@author_90_Page_1.xml</uri>
+    </author>
+    <published>2000-12-31T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>ePubLibre</dcterms:publisher>
+    <category term="Novela" />
+    <category term="Intriga" />
+    <category term="Lang:es" />
+    <category term="El cementerio de los libros olvidados" />
+    <summary>El cementerio de los libros olvidados [1]: Un amanecer de 1945 un muchacho es conducido por su padre a un misterioso lugar oculto en el corazón de la ciudad vieja: El Cementerio de los Libros Olvidados. Allí, Daniel Sempere encuentra un libro maldito que cambiará el rumbo de su vida y le arrastrará a un laberinto de intrigas y secretos enterrados en el alma oscura de la ciudad. La Sombra del Viento es un misterio literario ambientado en la Barcelona de la primera mitad del siglo XX, desde los úl...</summary>
+    <link href="../8f6fb6ff%40book_0/b4205221%40book_240.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Las pruebas</title>
+    <id>calibre:book:163</id>
+    <updated>2015-03-27T01:53:42Z</updated>
+    <link href="../8f6fb6ff@book_0/1d59df40@book_163_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/James%20Dashner/Las%20pruebas%20%28163%29/Las%20pruebas%20-%20James%20Dashner.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>James Dashner</name>
+      <uri>../8f6fb6ff@author_0/e50cb160@author_45_Page_1.xml</uri>
+    </author>
+    <published>2011-08-01T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Nocturna Ediciones, S. L.</dcterms:publisher>
+    <category term="Fantasía" />
+    <category term="Ciencia Ficción" />
+    <category term="Lang:es" />
+    <category term="El corredor del laberinto" />
+    <summary>El corredor del laberinto [2]: Resolver el laberinto se suponía que era el final. No más pruebas, no más huidas. Thomas creía que salir significaba que todos recobrarían sus vidas, pero ninguno sabía a qué clase de vida estaban volviendo. Árida y carbonizada, gran parte de la tierra es un territorio inservible. El sol abrasa, los gobiernos han caído y una misteriosa enfermedad se ha ido apoderando poco a poco de la gente. Sus causas son desconocidas; su resultado, la locura. En un lugar infestad...</summary>
+    <link href="../8f6fb6ff%40book_0/1d59df40%40book_163.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>La tempestad</title>
+    <id>calibre:book:265</id>
+    <updated>2015-03-27T01:53:52Z</updated>
+    <link href="../8f6fb6ff@book_0/f67cc42c@book_265_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/William%20Shakespeare/La%20tempestad%20%28265%29/La%20tempestad%20-%20William%20Shakespeare.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>William Shakespeare</name>
+      <uri>../8f6fb6ff@author_0/beacae01@author_97_Page_1.xml</uri>
+    </author>
+    <published>1611-10-31T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>ePubLibre</dcterms:publisher>
+    <category term="Teatro" />
+    <category term="Fantástico" />
+    <category term="Lang:es" />
+    <summary>Última obra teatral escrita en solitario por William Shakespeare; La tempestad pertenece a la serie de piezas de este autor que funden el ámbito de lo real con lo mágico y lo maravilloso. Próspero, duque legítimo de Milán, ha sido expulsado de su posición por su hermano y se encuentra en una isla desierta tras naufragar su buque. La obra comienza con una fuerte tormenta, desatada por Ariel (a mandato de Próspero), cuando adivina que su hermano Antonio viaja en un buque cerca de la isla en la que...</summary>
+    <link href="../8f6fb6ff%40book_0/f67cc42c%40book_265.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>La tragedia de Ricardo III</title>
+    <id>calibre:book:251</id>
+    <updated>2015-03-27T01:53:51Z</updated>
+    <link href="../8f6fb6ff@book_0/da3c53f6@book_251_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/William%20Shakespeare/La%20tragedia%20de%20Ricardo%20III%20%28251%29/La%20tragedia%20de%20Ricardo%20III%20-%20William%20Shakespeare.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>William Shakespeare</name>
+      <uri>../8f6fb6ff@author_0/beacae01@author_97_Page_1.xml</uri>
+    </author>
+    <published>1592-12-31T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>ePubLibre</dcterms:publisher>
+    <category term="Teatro" />
+    <category term="Histórico" />
+    <category term="Drama" />
+    <category term="Lang:es" />
+    <summary>Cierra la tetralogía que se completa con las tres partes de Enrique VI, siendo la obra más acertada de las cuatro. Narra la historia de la monarquía inglesa desde 1471 (muerte de Enrique VI) hasta 1485 (muerte de Ricardo III). El protagonista es dibujado como un asesino vil, deforme, ambicioso y corrupto. Gran parte de la trama se sitúa en el Palacio de Westminster en Londres (cuyo aspecto actual con la torre del reloj y albergando el parlamento es completamente diferente), aunque importantes es...</summary>
+    <link href="../8f6fb6ff%40book_0/da3c53f6%40book_251.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Los girasoles ciegos</title>
+    <id>calibre:book:211</id>
+    <updated>2015-03-27T01:53:46Z</updated>
+    <link href="../8f6fb6ff@book_0/be5096f2@book_211_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Alberto%20Mendez/Los%20girasoles%20ciegos%20%28211%29/Los%20girasoles%20ciegos%20-%20Alberto%20Mendez.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>Alberto Méndez</name>
+      <uri>../8f6fb6ff@author_0/202f838f@author_77_Page_1.xml</uri>
+    </author>
+    <published>2003-12-31T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>ePubLibre</dcterms:publisher>
+    <category term="Novela" />
+    <category term="Drama" />
+    <category term="Lang:es" />
+    <summary>La guerra civil española se convierte en la pluma de Alberto Méndez en una colección de susurros, de historias contadas por fin con la boca abierta, sin eufemismos, y que desnudan fundamentalmente una inquietante verdad: después de toda aquella devastadora carnicería no hubo rastro de victoria alguna, no existió presunto héroe que no hubiese sido fatalmente derrotado. Los rumores broncos y las sílabas miedosas de aquel período forman en Los girasoles ciegos un pentagrama frágil, cuajado de notas...</summary>
+    <link href="../8f6fb6ff%40book_0/be5096f2%40book_211.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <link href="../8f6fb6ff@rated/c7072efb@rated_NOTRATED_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="prev" title="previous page (1 of 3)" />
+</feed>
+

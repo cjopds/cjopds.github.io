@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:opds="http://opds-spec.org/2010/catalog">
+  <title>Libros que empiezan por N</title>
+  <id>Calibre2opds:allbooks:N</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./c67a4b73%40allbooks_N_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Libros que empiezan por N" />
+  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Biblioteca de Calibre de CJ" />
+  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Biblioteca de Calibre de CJ" />
+  <link href="./c67a4b73%40allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Todos los libros" />
+  <entry>
+    <title>Nadie es más que nadie</title>
+    <id>calibre:book:142</id>
+    <updated>2015-03-27T01:53:42Z</updated>
+    <link href="../8f6fb6ff@book_0/58688d54@book_142_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Miguel%20Angel%20Revilla/Nadie%20es%20mas%20que%20nadie%20%28142%29/Nadie%20es%20mas%20que%20nadie%20-%20Miguel%20Angel%20Revilla.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>Miguel Ángel Revilla</name>
+      <uri>../8f6fb6ff@author_0/d4fc5b1a@author_38_Page_1.xml</uri>
+    </author>
+    <published>2012-04-02T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <category term="Biografía" />
+    <category term="Política" />
+    <category term="Lang:es" />
+    <summary>El muchacho listucu que en los años cincuenta pastoreaba ovejas en las laderas de Peña Labra se convertiría en 2003 en presidente de Cantabria. Esta es su historia. Y nos la cuenta con ese estilo único que lo ha hecho popular y querido, con sentido del humor y naturalidad. Miguel Ángel Revilla nos dibuja una España de penuria y esfuerzo que ya no existe. Y relata con viveza cómo, con tesón, animado por el amor a la tierra que lo vio nacer, consiguió alcanzar las más altas responsabilidades. La s...</summary>
+    <link href="../8f6fb6ff%40book_0/58688d54%40book_142.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>No estamos locos</title>
+    <id>calibre:book:172</id>
+    <updated>2015-03-27T01:53:43Z</updated>
+    <link href="../8f6fb6ff@book_0/7345de97@book_172_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/El%20Gran%20Wyoming/No%20estamos%20locos%20%28172%29/No%20estamos%20locos%20-%20El%20Gran%20Wyoming.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>El Gran Wyoming</name>
+      <uri>../8f6fb6ff@author_0/651ed19b@author_56_Page_1.xml</uri>
+    </author>
+    <published>2013-11-18T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Editorial Planeta</dcterms:publisher>
+    <category term="Ensayo" />
+    <category term="Ciencias sociales" />
+    <category term="Lang:es" />
+    <summary>Descripción del productoEste libro es el golpe que estremecerá a todos los mangantes y enemigos del progreso en general. Un fantasma recorre La Moncloa, La Zarzuela, Bruselas, el Vaticano y el Bundesbank: la amenaza de un médico que sabe diagnosticar, un maestro de la comunicación que sabe explicar sus diagnósticos. La obra demoledora de un genio que no utiliza más armas que la palabra, ahora que todavía le acompaña la memoria, y cierta ayuda de la Wikipedia.- Un relato lleno de humor, ironía y ...</summary>
+    <link href="../8f6fb6ff%40book_0/7345de97%40book_172.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>No sonrías que me enamoro</title>
+    <id>calibre:book:194</id>
+    <updated>2015-03-27T01:53:45Z</updated>
+    <link href="../8f6fb6ff@book_0/4a5562c@book_194_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Blue%20Jeans/No%20sonrias%20que%20me%20enamoro%20%28194%29/No%20sonrias%20que%20me%20enamoro%20-%20Blue%20Jeans.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Descargar este libro como PDF" />
+    <author>
+      <name>Blue Jeans</name>
+      <uri>../8f6fb6ff@author_0/a98baf5f@author_68_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Grupo Planeta</dcterms:publisher>
+    <category term="Lang:es" />
+    <category term="El Club de los Incomprendidos" />
+    <summary>El Club de los Incomprendidos [2]:</summary>
+    <link href="../8f6fb6ff%40book_0/4a5562c%40book_194.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Nueva antología del disparate</title>
+    <id>calibre:book:150</id>
+    <updated>2015-03-27T01:53:42Z</updated>
+    <link href="../8f6fb6ff@book_0/af7ddd39@book_150_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Luis%20Diez%20Jimenez/Nueva%20antologia%20del%20disparate%20%28150%29/Nueva%20antologia%20del%20disparate%20-%20Luis%20Diez%20Jimenez.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>Luis Díez Jiménez</name>
+      <uri>../8f6fb6ff@author_0/920b81f6@author_44_Page_1.xml</uri>
+    </author>
+    <published>1981-12-31T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Planeta</dcterms:publisher>
+    <category term="General" />
+    <category term="Education" />
+    <category term="Examinations" />
+    <category term="Computers" />
+    <category term="Wit and humor in education" />
+    <category term="Humor in children" />
+    <category term="Spanish wit and humor" />
+    <category term="Certification Guides" />
+    <category term="Lang:es" />
+    <summary>El libro recoge los disparates más sonados que han dicho los alumnos en las aulas españolas.</summary>
+    <link href="../8f6fb6ff%40book_0/af7ddd39%40book_150.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>La naranja mecánica</title>
+    <id>calibre:book:238</id>
+    <updated>2015-03-27T01:53:51Z</updated>
+    <link href="../8f6fb6ff@book_0/f5ba4cd4@book_238_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Anthony%20Burgess/La%20naranja%20mecanica%20%28238%29/La%20naranja%20mecanica%20-%20Anthony%20Burgess.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>Anthony Burgess</name>
+      <uri>../8f6fb6ff@author_0/370882d1@author_88_Page_1.xml</uri>
+    </author>
+    <published>1961-12-31T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>ePubLibre</dcterms:publisher>
+    <category term="Novela" />
+    <category term="Ciencia Ficción" />
+    <category term="Lang:es" />
+    <summary>Anthony Burgess fue un famoso escritor y compositor británico cuya obra más famosa fue la novela La naranja mecánica publicada en 1962. La historia está inspirada por un incidente vivido por el autor durante la Segunda Guerra Mundial, cuando él y su mujer fueron asaltados en 1944, siendo la esposa del propio Burgess víctima de robo y violación por parte de cuatro soldados estadounidenses en las calles londinenses. Dado que se encontraba embarazada, la paliza le provocó un aborto. El libro trata ...</summary>
+    <link href="../8f6fb6ff%40book_0/f5ba4cd4%40book_238.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>
+

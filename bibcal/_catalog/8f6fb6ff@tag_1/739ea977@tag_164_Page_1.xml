@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:opds="http://opds-spec.org/2010/catalog">
+  <title>Otros</title>
+  <id>Calibre2opds:taglist:O:164</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./739ea977%40tag_164_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Otros" />
+  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Biblioteca de Calibre de CJ" />
+  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Biblioteca de Calibre de CJ" />
+  <link href="../8f6fb6ff%40taglist/87d7be0%40taglist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="etiquetas" />
+  <link href="../8f6fb6ff%40taglist/87d7be0%40taglist_O_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Etiquetas que empiezan por O" />
+  <entry>
+    <title>Luces de bohemia</title>
+    <id>calibre:book:210</id>
+    <updated>2015-03-27T01:53:46Z</updated>
+    <link href="../8f6fb6ff@book_0/c957a664@book_210_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Ramon%20Maria%20del%20Valle-Inclan/Luces%20de%20bohemia%20%28210%29/Luces%20de%20bohemia%20-%20Ramon%20Maria%20del%20Valle-Inclan.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>Ramón María del Valle-Inclán</name>
+      <uri>../8f6fb6ff@author_0/5728b319@author_76_Page_1.xml</uri>
+    </author>
+    <published>1924-04-22T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>ePubLibre</dcterms:publisher>
+    <category term="Teatro" />
+    <category term="Otros" />
+    <category term="Lang:es" />
+    <summary>Esperpento trágico de la vida literaria de la época. Al degradarse la realidad aparece la farsa y, en un segundo nivel, el esperpento; Los héroes clásicos reflejados en los espejos cóncavos dan el Esperpento, aclara Valle-Inclán. Aquí el espejo cóncavo es una conciencia dolorida, una conciencia moral que escandaliza o aterra. Resulta patético que quien vea la verdad sea un ciego, Max Estrella, soñador perdido en un Madrid absurdo y hambriento.</summary>
+    <link href="../8f6fb6ff%40book_0/c957a664%40book_210.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>
+

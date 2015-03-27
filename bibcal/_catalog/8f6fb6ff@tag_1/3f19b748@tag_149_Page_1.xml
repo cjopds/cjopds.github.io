@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:opds="http://opds-spec.org/2010/catalog">
+  <title>Relato</title>
+  <id>Calibre2opds:taglist:R:149</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./3f19b748%40tag_149_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Relato" />
+  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Biblioteca de Calibre de CJ" />
+  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Biblioteca de Calibre de CJ" />
+  <link href="../8f6fb6ff%40taglist/87d7be0%40taglist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="etiquetas" />
+  <link href="../8f6fb6ff%40taglist/87d7be0%40taglist_R_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Etiquetas que empiezan por R" />
+  <entry>
+    <title>Cállame con un beso</title>
+    <id>calibre:book:192</id>
+    <updated>2015-03-27T01:53:44Z</updated>
+    <link href="../8f6fb6ff@book_0/edc6f319@book_192_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Blue%20Jeans/Callame%20con%20un%20beso%20%28192%29/Callame%20con%20un%20beso%20-%20Blue%20Jeans.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>Blue Jeans</name>
+      <uri>../8f6fb6ff@author_0/a98baf5f@author_68_Page_1.xml</uri>
+    </author>
+    <published>2011-12-15T10:15:17Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Everest</dcterms:publisher>
+    <category term="Romántico" />
+    <category term="Relato" />
+    <category term="Children's Literature" />
+    <category term="General" />
+    <category term="Literary Criticism" />
+    <category term="Fiction" />
+    <category term="Lang:es" />
+    <category term="Canciones para Paula" />
+    <summary>Canciones para Paula [3]: ¡El libro que ya ha enamorado a más de 100.000 lectores regresa en navidades con su última entrega que nos hará reír y llorar más que nunca! "Cállame con un beso" resolverá todas nuestras dudas y promete ser el mejor de los tres libros. Será la culminación a todo un fenómeno social CPP protagonizado por todos vosotros. El tiempo pasa en la vida de Paula. Nuevas experiencias, nuevos amigos, nuevas dificultades... la distancia es mal rival para el amor. Tendrá que tomar d...</summary>
+    <link href="../8f6fb6ff%40book_0/edc6f319%40book_192.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>El principito</title>
+    <id>calibre:book:246</id>
+    <updated>2015-03-27T01:53:51Z</updated>
+    <link href="../8f6fb6ff@book_0/5d43f714@book_246_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Antoine%20de%20Saint-Exupery/El%20principito%20%28246%29/El%20principito%20-%20Antoine%20de%20Saint-Exupery.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>Antoine de Saint-Exupéry</name>
+      <uri>../8f6fb6ff@author_0/50a2cf2d@author_95_Page_1.xml</uri>
+    </author>
+    <published>1943-04-05T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>ePubLibre</dcterms:publisher>
+    <category term="Relato" />
+    <category term="Didáctico" />
+    <category term="Infantil" />
+    <category term="Lang:es" />
+    <summary>El Principito (en francés: Le Petit Prince), publicado el 6 de abril de 1943, es el relato corto más conocido del escritor y aviador francés Antoine de Saint-Exupéry. Lo escribió mientras se hospedaba en un hotel en Nueva York y fue publicado por primera vez en los Estados Unidos. Ha sido traducido a ciento ochenta lenguas y dialectos, convirtiéndose en una de las obras más reconocidas de la literatura universal. El principito habita un pequeñísimo asteroide, que comparte con una flor caprichosa...</summary>
+    <link href="../8f6fb6ff%40book_0/5d43f714%40book_246.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Fahrenheit 451</title>
+    <id>calibre:book:243</id>
+    <updated>2015-03-27T01:53:51Z</updated>
+    <link href="../8f6fb6ff@book_0/2d29039b@book_243_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Ray%20Bradbury/Fahrenheit%20451%20%28243%29/Fahrenheit%20451%20-%20Ray%20Bradbury.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>Ray Bradbury</name>
+      <uri>../8f6fb6ff@author_0/b9c16a18@author_93_Page_1.xml</uri>
+    </author>
+    <published>1952-12-31T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>ePubLibre</dcterms:publisher>
+    <category term="Relato" />
+    <category term="Ciencia Ficción" />
+    <category term="Lang:es" />
+    <summary>Fahrenheit 451: la temperatura a la que el papel se enciende y arde. Guy Montag es un bombero y el trabajo de un bombero es quemar libros, que están prohibidos porque son causa de discordia y sufrimiento. El Sabueso Mecánico del Departamento de Incendios, armado con una letal inyección hipodérmica, escoltado por helicópteros, está preparado para rastrear a los disidentes que aún conservan y leen libros. Como 1984, de George Orwell, como Un mundo feliz, de Aldous Huxley, Fahrenheit 451 describe u...</summary>
+    <link href="../8f6fb6ff%40book_0/2d29039b%40book_243.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Yo, robot</title>
+    <id>calibre:book:244</id>
+    <updated>2015-03-27T01:53:51Z</updated>
+    <link href="../8f6fb6ff@book_0/b34d9638@book_244_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Isaac%20Asimov/Yo%2C%20robot%20%28244%29/Yo%2C%20robot%20-%20Isaac%20Asimov.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>Isaac Asimov</name>
+      <uri>../8f6fb6ff@author_0/27a5ffbb@author_94_Page_1.xml</uri>
+    </author>
+    <published>1949-12-31T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>ePubLibre</dcterms:publisher>
+    <category term="Relato" />
+    <category term="Ciencia Ficción" />
+    <category term="Lang:es" />
+    <category term="Saga de la Fundación" />
+    <summary>Saga de la Fundación [1]: Una investigación llevada a cabo por un periodista acerca de la trayectoria de la robopsicóloga Susan Calvin da pie a los nueve relatos que componen esta novela. Las tres leyes de la robótica, a las que en obras posteriores Asimov añadiría alguna más, constituyen las normas que rigen el comportamiento en los diferentes conflictos que se presentan entre humanos y robots. Si bien admiten una lectura independiente, la modernidad y éxito de este libro se explica por la auda...</summary>
+    <link href="../8f6fb6ff%40book_0/b34d9638%40book_244.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>
+

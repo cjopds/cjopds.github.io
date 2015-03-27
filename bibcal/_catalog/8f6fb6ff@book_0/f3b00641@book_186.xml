@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>El libro rojo del cole</title>
+  <id>urn:book:b40e3d4f-af88-4894-8179-dc01b724c945</id>
+  <updated>2015-03-27T01:53:44Z</updated>
+  <link href="./f3b00641%40book_186.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="El libro rojo del cole" />
+  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Biblioteca de Calibre de CJ" />
+  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Biblioteca de Calibre de CJ" />
+  <link href="../8f6fb6ff%40authorlist/e8e4356e%40authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="f3b00641@book_186_cover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../8f6fb6ff@book_0/f3b00641@book_186_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Soren%20Hansen/El%20libro%20rojo%20del%20cole%20%28186%29/El%20libro%20rojo%20del%20cole%20-%20Soren%20Hansen.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Descargar este libro como PDF" />
+  <author>
+    <name>Søren Hansen</name>
+    <uri>../8f6fb6ff@author_0/3e5976d7@author_63_Page_1.xml</uri>
+  </author>
+  <author>
+    <name>Jesper Jensen</name>
+    <uri>../8f6fb6ff@author_0/a03de374@author_64_Page_1.xml</uri>
+  </author>
+  <published>1979-09-27T06:03:59Z</published>
+  <dcterms:language>es</dcterms:language>
+  <dcterms:publisher>Nuestra Cultura</dcterms:publisher>
+  <category term="Lang:es" />
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      Sin puntuación
+    </p>
+    <p>
+      <strong>Etiquetas:</strong>
+      Lang:es
+    </p>
+    <p>
+      <strong>Published:</strong>
+      27 de septiembre de 1979
+    </p>
+  </content>
+  <link href="../8f6fb6ff%40author_0/3e5976d7%40author_63_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Libros de Søren Hansen" />
+  <link href="../8f6fb6ff%40author_0/a03de374%40author_64_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Libros de Jesper Jensen" />
+  <link href="http://www.goodreads.com/book/title/El%20libro%20rojo%20del%20cole" type="text/html" rel="related" title="Este libro en Goodreads" />
+  <link href="http://es.wikipedia.org/wiki/El%20libro%20rojo%20del%20cole" type="text/html" rel="related" title="Este libro en Wikipedia" />
+  <link href="http://www.librarything.com/title/El%20libro%20rojo%20del%20cole%20S%C3%B8ren%20Hansen" type="text/html" rel="related" title="Este libro en LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=El%20libro%20rojo%20del%20cole&amp;field-author=S%C3%B8ren%20Hansen" type="text/html" rel="related" title="Este libro en Amazon" />
+  <link href="http://www.goodreads.com/book/author/S%C3%B8ren%20Hansen" type="text/html" rel="related" title="Søren Hansen en Goodreads" />
+  <link href="http://www.goodreads.com/book/author/Jesper%20Jensen" type="text/html" rel="related" title="Jesper Jensen en Goodreads" />
+  <link href="http://es.wikipedia.org/wiki/S%C3%B8ren%20Hansen" type="text/html" rel="related" title="Søren Hansen en Wikipedia" />
+  <link href="http://es.wikipedia.org/wiki/Jesper%20Jensen" type="text/html" rel="related" title="Jesper Jensen en Wikipedia" />
+  <link href="http://www.librarything.com/author/HansenS%C3%B8ren" type="text/html" rel="related" title="Søren Hansen en LibraryThing" />
+  <link href="http://www.librarything.com/author/JensenJesper" type="text/html" rel="related" title="Jesper Jensen en LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=S%C3%B8ren%20Hansen" type="text/html" rel="related" title="Søren Hansen en Amazon" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Jesper%20Jensen" type="text/html" rel="related" title="Jesper Jensen en Amazon" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?S%C3%B8ren%20Hansen" type="text/html" rel="related" title="Søren Hansen en ISFDB" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Jesper%20Jensen" type="text/html" rel="related" title="Jesper Jensen en ISFDB" />
+</entry>
+

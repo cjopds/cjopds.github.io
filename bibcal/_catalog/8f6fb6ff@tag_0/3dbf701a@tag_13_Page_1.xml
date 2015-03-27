@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:opds="http://opds-spec.org/2010/catalog">
+  <title>General</title>
+  <id>Calibre2opds:taglist:G:13</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./3dbf701a%40tag_13_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="General" />
+  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Biblioteca de Calibre de CJ" />
+  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Biblioteca de Calibre de CJ" />
+  <link href="../8f6fb6ff%40taglist/87d7be0%40taglist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="etiquetas" />
+  <link href="../8f6fb6ff%40taglist/87d7be0%40taglist_G_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Etiquetas que empiezan por G" />
+  <entry>
+    <title>An Abundance of Katherines</title>
+    <id>calibre:book:173</id>
+    <updated>2015-03-27T01:53:42Z</updated>
+    <link href="../8f6fb6ff@book_0/442ee01@book_173_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/John%20Green/An%20Abundance%20of%20Katherines%20%28173%29/An%20Abundance%20of%20Katherines%20-%20John%20Green.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>John Green</name>
+      <uri>../8f6fb6ff@author_0/7c05e0da@author_46_Page_1.xml</uri>
+    </author>
+    <published>2006-09-01T10:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Dutton E P</dcterms:publisher>
+    <category term="Infantil y Juvenil" />
+    <category term="Literatura y narrativa" />
+    <category term="Juvenile Fiction" />
+    <category term="General" />
+    <category term="Lang:en" />
+    <summary>From the #1 bestselling author of The Fault in Our Stars   Michael L. Printz Honor Book Los Angeles Times Book Prize Finalist   Katherine V thought boys were gross Katherine X just wanted to be friends Katherine XVIII dumped him in an e-mail K-19 broke his heart  When it comes to relationships, Colin Singleton's type happens to be girls named Katherine. And when it comes to girls named Katherine, Colin is always getting dumped. Nineteen times, to be exact.  On a road trip miles from home, this a...</summary>
+    <link href="../8f6fb6ff%40book_0/442ee01%40book_173.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Cállame con un beso</title>
+    <id>calibre:book:192</id>
+    <updated>2015-03-27T01:53:44Z</updated>
+    <link href="../8f6fb6ff@book_0/edc6f319@book_192_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Blue%20Jeans/Callame%20con%20un%20beso%20%28192%29/Callame%20con%20un%20beso%20-%20Blue%20Jeans.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>Blue Jeans</name>
+      <uri>../8f6fb6ff@author_0/a98baf5f@author_68_Page_1.xml</uri>
+    </author>
+    <published>2011-12-15T10:15:17Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Everest</dcterms:publisher>
+    <category term="Romántico" />
+    <category term="Relato" />
+    <category term="Children's Literature" />
+    <category term="General" />
+    <category term="Literary Criticism" />
+    <category term="Fiction" />
+    <category term="Lang:es" />
+    <category term="Canciones para Paula" />
+    <summary>Canciones para Paula [3]: ¡El libro que ya ha enamorado a más de 100.000 lectores regresa en navidades con su última entrega que nos hará reír y llorar más que nunca! "Cállame con un beso" resolverá todas nuestras dudas y promete ser el mejor de los tres libros. Será la culminación a todo un fenómeno social CPP protagonizado por todos vosotros. El tiempo pasa en la vida de Paula. Nuevas experiencias, nuevos amigos, nuevas dificultades... la distancia es mal rival para el amor. Tendrá que tomar d...</summary>
+    <link href="../8f6fb6ff%40book_0/edc6f319%40book_192.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Free Four - Tobias Tells the Divergent Knife-Throwing Scene</title>
+    <id>calibre:book:206</id>
+    <updated>2015-03-27T01:53:45Z</updated>
+    <link href="../8f6fb6ff@book_0/392f3210@book_206_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Veronica%20Roth/Free%20Four%20-%20Tobias%20Tells%20the%20Divergent%20Knife-Throwing%20Scene%20%28206%29/Free%20Four%20-%20Tobias%20Tells%20the%20Divergent%20Kni%20-%20Veronica%20Roth.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>Veronica Roth</name>
+      <uri>../8f6fb6ff@author_0/27424796@author_73_Page_1.xml</uri>
+    </author>
+    <published>2013-09-25T10:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>HarperCollins UK</dcterms:publisher>
+    <category term="Juvenile Fiction" />
+    <category term="General" />
+    <category term="Fantasy &amp; Magic" />
+    <category term="Love &amp; Romance" />
+    <category term="Lang:en" />
+    <category term="Four: A Divergent Story Collection" />
+    <summary>Four: A Divergent Story Collection [3]: Fans of the Divergent series by No. 1 New York Times bestselling author Veronica Roth will be thrilled by the knife-throwing scene from Divergent, now told from Four’s perspective. This brief story explores the world of the Divergent series through the eyes of the mysterious but charismatic Tobias Eaton, revealing previously unknown facets of his personality, backstory and relationships.</summary>
+    <link href="../8f6fb6ff%40book_0/392f3210%40book_206.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Looking for Alaska</title>
+    <id>calibre:book:174</id>
+    <updated>2015-03-27T01:53:42Z</updated>
+    <link href="../8f6fb6ff@book_0/9a267ba2@book_174_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/John%20Green/Looking%20for%20Alaska%20%28174%29/Looking%20for%20Alaska%20-%20John%20Green.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>John Green</name>
+      <uri>../8f6fb6ff@author_0/7c05e0da@author_46_Page_1.xml</uri>
+    </author>
+    <published>2006-12-27T11:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Speak</dcterms:publisher>
+    <category term="Juvenile Fiction" />
+    <category term="School &amp; Education" />
+    <category term="Social Issues" />
+    <category term="General" />
+    <category term="Death &amp; Dying" />
+    <category term="Friendship" />
+    <category term="Lang:en" />
+    <summary>The award-winning, genre-defining debut from #1 bestselling author of The Fault in Our Stars  Winner of the Michael L. Printz AwardLos Angeles Times Book Prize FinalistNew York Times bestseller  Before. Miles “Pudge” Halter is done with his safe life at home. His whole life has been one big non-event, and his obsession with famous last words has only made him crave “the Great Perhaps” even more (Francois Rabelais, poet). He heads off to the sometimes crazy and anything-but-boring world of Culver...</summary>
+    <link href="../8f6fb6ff%40book_0/9a267ba2%40book_174.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Nueva antología del disparate</title>
+    <id>calibre:book:150</id>
+    <updated>2015-03-27T01:53:42Z</updated>
+    <link href="../8f6fb6ff@book_0/af7ddd39@book_150_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Luis%20Diez%20Jimenez/Nueva%20antologia%20del%20disparate%20%28150%29/Nueva%20antologia%20del%20disparate%20-%20Luis%20Diez%20Jimenez.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>Luis Díez Jiménez</name>
+      <uri>../8f6fb6ff@author_0/920b81f6@author_44_Page_1.xml</uri>
+    </author>
+    <published>1981-12-31T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Planeta</dcterms:publisher>
+    <category term="General" />
+    <category term="Education" />
+    <category term="Examinations" />
+    <category term="Computers" />
+    <category term="Wit and humor in education" />
+    <category term="Humor in children" />
+    <category term="Spanish wit and humor" />
+    <category term="Certification Guides" />
+    <category term="Lang:es" />
+    <summary>El libro recoge los disparates más sonados que han dicho los alumnos en las aulas españolas.</summary>
+    <link href="../8f6fb6ff%40book_0/af7ddd39%40book_150.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Once</title>
+    <id>calibre:book:161</id>
+    <updated>2015-03-27T01:53:43Z</updated>
+    <link href="../8f6fb6ff@book_0/f357be6c@book_161_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Anna%20Carey/Once%20%28161%29/Once%20-%20Anna%20Carey.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>Anna Carey</name>
+      <uri>../8f6fb6ff@author_0/ecbafd4b@author_49_Page_1.xml</uri>
+    </author>
+    <published>2012-07-02T04:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>HarperCollins</dcterms:publisher>
+    <category term="Fiction" />
+    <category term="Fantasy" />
+    <category term="epic" />
+    <category term="General" />
+    <category term="Juvenile Fiction" />
+    <category term="Social Issues" />
+    <category term="Love &amp; Romance" />
+    <category term="Fantasy &amp; Magic" />
+    <category term="Adolescence" />
+    <category term="Lang:en" />
+    <category term="Eve" />
+    <summary>Eve [2]: When you're being hunted, who can you trust?  For the first time since she escaped from her school many months ago, Eve can sleep soundly. She's living in Califia, a haven for women, protected from the terrifying fate that awaits orphaned girls in The New America.  But her safety came at a price: She was forced to abandon Caleb, the boy she loves, wounded and alone at the city gates. When Eve gets word that Caleb is in trouble, she sets out into the wild again to rescue him, only to be ...</summary>
+    <link href="../8f6fb6ff%40book_0/f357be6c%40book_161.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Paper Towns</title>
+    <id>calibre:book:176</id>
+    <updated>2015-03-27T01:53:43Z</updated>
+    <link href="../8f6fb6ff@book_0/74281a8e@book_176_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/John%20Green/Paper%20Towns%20%28176%29/Paper%20Towns%20-%20John%20Green.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>John Green</name>
+      <uri>../8f6fb6ff@author_0/7c05e0da@author_46_Page_1.xml</uri>
+    </author>
+    <published>2010-05-02T10:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Bloomsbury Childrens</dcterms:publisher>
+    <category term="Juvenile Fiction" />
+    <category term="General" />
+    <category term="Readers" />
+    <category term="Intermediate" />
+    <category term="Lang:en" />
+    <summary>Descripción del productoWho is the real Margo? Quentin Jacobsen has spent a lifetime loving the magnificently adventurous Margo Roth Spiegelman from afar. So when she cracks open a window and climbs into his life - dressed like a ninja and summoning him for an ingenious campaign of revenge - he follows. After their all-nighter ends and a new day breaks, Q arrives at school to discover that Margo, always an enigma, has now become a mystery. She has disappeared. Q soon learns that there are clues ...</summary>
+    <link href="../8f6fb6ff%40book_0/74281a8e%40book_176.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Transfer: A Divergent Story</title>
+    <id>calibre:book:208</id>
+    <updated>2015-03-27T01:53:45Z</updated>
+    <link href="../8f6fb6ff@book_0/de971f17@book_208_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Veronica%20Roth/The%20Transfer_%20A%20Divergent%20Story%20%28208%29/The%20Transfer_%20A%20Divergent%20Story%20-%20Veronica%20Roth.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>Veronica Roth</name>
+      <uri>../8f6fb6ff@author_0/27424796@author_73_Page_1.xml</uri>
+    </author>
+    <published>2013-09-02T10:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>HarperCollins UK</dcterms:publisher>
+    <category term="Juvenile Fiction" />
+    <category term="General" />
+    <category term="Action &amp; Adventure" />
+    <category term="Fantasy &amp; Magic" />
+    <category term="Love &amp; Romance" />
+    <category term="Lang:en" />
+    <category term="Four: A Divergent Story Collection" />
+    <summary>Four: A Divergent Story Collection [2]: More Four!Fans of the Divergent series by No. 1 New York Times bestselling author Veronica Roth will be thrilled by ‘The Transfer’, the first of four new short stories told from Four’s perspective. DIVERGENT – a major motion picture in 2014. This short story explores the world of the Divergent series through the eyes of the mysterious but charismatic Tobias Eaton, revealing previously unknown secrets of his personality and intriguing backstory. See how it ...</summary>
+    <link href="../8f6fb6ff%40book_0/de971f17%40book_208.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Through the Ever Night</title>
+    <id>calibre:book:225</id>
+    <updated>2015-03-27T01:53:46Z</updated>
+    <link href="../8f6fb6ff@book_0/92100128@book_225_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Veronica%20Rossi/Through%20the%20Ever%20Night%20%28225%29/Through%20the%20Ever%20Night%20-%20Veronica%20Rossi.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>Veronica Rossi</name>
+      <uri>../8f6fb6ff@author_0/a0da5b59@author_83_Page_1.xml</uri>
+    </author>
+    <published>2013-01-07T11:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>HarperCollins</dcterms:publisher>
+    <category term="Juvenile Fiction" />
+    <category term="General" />
+    <category term="Lang:en" />
+    <category term="Under The Never Sky" />
+    <summary>Under The Never Sky [2]: A world-defying love is put to the ultimate test in the New York Times and USA Today bestselling sequel to Veronica Rossi's "masterpiece," Under the Never Sky (Examiner.com ). In this second book in her spellbinding Under the Never Sky trilogy, bestselling author Veronica Rossi combines fantasy and dystopian elements to create a love story as perilous as it is unforgettable.It's been months since Aria last saw Perry. Months since Perry was named Blood Lord of the Tides, ...</summary>
+    <link href="../8f6fb6ff%40book_0/92100128%40book_225.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Under the Never Sky</title>
+    <id>calibre:book:224</id>
+    <updated>2015-03-27T01:53:46Z</updated>
+    <link href="../8f6fb6ff@book_0/e51731be@book_224_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Veronica%20Rossi/Under%20the%20Never%20Sky%20%28224%29/Under%20the%20Never%20Sky%20-%20Veronica%20Rossi.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>Veronica Rossi</name>
+      <uri>../8f6fb6ff@author_0/a0da5b59@author_83_Page_1.xml</uri>
+    </author>
+    <published>2012-01-02T11:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>HarperCollins</dcterms:publisher>
+    <category term="Juvenile Fiction" />
+    <category term="General" />
+    <category term="Love &amp; Romance" />
+    <category term="Dystopian" />
+    <category term="Adventure" />
+    <category term="Fantasy" />
+    <category term="Science Fiction" />
+    <category term="Young Adult" />
+    <category term="Romance" />
+    <category term="Paranormal" />
+    <category term="Dystopia" />
+    <category term="Apocalyptic" />
+    <category term="Lang:en" />
+    <category term="Under The Never Sky" />
+    <summary>Under The Never Sky [1]: Fighting to survive in a ravaged world, a Dweller and a Savage form an unlikely alliance in New York Times bestselling author Veronica Rossi's "unforgettable dystopian masterpiece" (Examiner.com).Exiled from her home, the enclosed city of Reverie, Aria knows her chances of surviving in the outer wasteland—known as The Death Shop—are slim. Then Aria meets an Outsider named Perry. He's wild—a savage—and her only hope of staying alive. A hunter for his tribe in a merciless ...</summary>
+    <link href="../8f6fb6ff%40book_0/e51731be%40book_224.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>
+

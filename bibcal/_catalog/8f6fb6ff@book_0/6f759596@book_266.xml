@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Macbeth</title>
+  <id>urn:book:20c862ce-6164-4639-aa48-a1afbacde569</id>
+  <updated>2015-03-27T01:53:52Z</updated>
+  <link href="./6f759596%40book_266.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Macbeth" />
+  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Biblioteca de Calibre de CJ" />
+  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Biblioteca de Calibre de CJ" />
+  <link href="../8f6fb6ff%40authorlist/e8e4356e%40authorlist_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="6f759596@book_266_cover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../8f6fb6ff@book_0/6f759596@book_266_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/William%20Shakespeare/Macbeth%20%28266%29/Macbeth%20-%20William%20Shakespeare.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+  <author>
+    <name>William Shakespeare</name>
+    <uri>../8f6fb6ff@author_0/beacae01@author_97_Page_1.xml</uri>
+  </author>
+  <published>1605-12-31T11:00:00Z</published>
+  <dcterms:language>es</dcterms:language>
+  <dcterms:publisher>ePubLibre</dcterms:publisher>
+  <category term="Teatro" />
+  <category term="Drama" />
+  <category term="Lang:es" />
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      Sin puntuación
+    </p>
+    <p>
+      <strong>Etiquetas:</strong>
+      Teatro, Drama, Lang:es
+    </p>
+    <p>
+      <strong>Published:</strong>
+      31 de diciembre de 1605
+    </p>
+    <p>
+      <strong>Sumario:</strong>
+    </p>
+    <p xmlns="">Una de las tragedias más conocidas de William
+    Shakespeare. Macbeth es una obra tenebrosa e inquietante a la
+    vez que vigorosa y fascinante, debido a su tratamiento
+    dramático del mal, del mal que nace del ansia de poder.
+    Macbeth cuenta la historia de un crimen y castigo, entreverada
+    de brujería y elementos sobrenaturales, cuya acción
+    vertiginosa mantiene el interés hasta el final. Pero una
+    obra tan activa, es también profundamente introspectiva.
+    En ella van paralelas la acción física con el
+    torbellino de conciencias en las que se apoya. De esta forma la
+    obra indaga en lo prohibido, explora la trasgresión
+    mediante un lenguaje metafórico y sensorial único, el
+    más denso lenguaje figurado de Shakespeare, con
+    imágenes asociadas a las tinieblas, la muerte, la
+    naturaleza quebrantada, la crueldad, la esterilidad (el alma
+    llena de escorpiones, el recién nacido cabalgando a lomos
+    de un caballo en la noche, la criatura sonriente arrancada del
+    pecho de su madre). Un torbellino de imágenes que van
+    impresionándose en la pupila del espectador, operando a
+    través de símbolos que van conformando una lectura
+    coherente. La altura poética e intelectual de Macbeth no
+    oculta ni suaviza el mundo político concreto de sangre y
+    violencia, ambición y deslealtad en que la acción se
+    desenvuelve.</p>
+  </content>
+  <link href="../8f6fb6ff%40author_0/beacae01%40author_97_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Libros de William Shakespeare" />
+  <link href="http://www.goodreads.com/book/title/Macbeth" type="text/html" rel="related" title="Este libro en Goodreads" />
+  <link href="http://es.wikipedia.org/wiki/Macbeth" type="text/html" rel="related" title="Este libro en Wikipedia" />
+  <link href="http://www.librarything.com/title/Macbeth%20William%20Shakespeare" type="text/html" rel="related" title="Este libro en LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=Macbeth&amp;field-author=William%20Shakespeare" type="text/html" rel="related" title="Este libro en Amazon" />
+  <link href="http://www.goodreads.com/book/author/William%20Shakespeare" type="text/html" rel="related" title="William Shakespeare en Goodreads" />
+  <link href="http://es.wikipedia.org/wiki/William%20Shakespeare" type="text/html" rel="related" title="William Shakespeare en Wikipedia" />
+  <link href="http://www.librarything.com/author/ShakespeareWilliam" type="text/html" rel="related" title="William Shakespeare en LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=William%20Shakespeare" type="text/html" rel="related" title="William Shakespeare en Amazon" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?William%20Shakespeare" type="text/html" rel="related" title="William Shakespeare en ISFDB" />
+</entry>
+

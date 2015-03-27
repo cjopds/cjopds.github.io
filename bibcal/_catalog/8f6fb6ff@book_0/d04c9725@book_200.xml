@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Amanecer</title>
+  <id>urn:book:08c44caa-f2c2-4f42-ba6a-6873fd65e5ea</id>
+  <updated>2015-03-27T01:53:45Z</updated>
+  <link href="./d04c9725%40book_200.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Amanecer" />
+  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Biblioteca de Calibre de CJ" />
+  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Biblioteca de Calibre de CJ" />
+  <link href="../8f6fb6ff%40authorlist/e8e4356e%40authorlist_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../8f6fb6ff%40author_0/50457700%40author_72_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Meyer, Stephenie" />
+  <link href="d04c9725@book_200_cover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../8f6fb6ff@book_0/d04c9725@book_200_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Stephenie%20Meyer/Amanecer%20%28200%29/Amanecer%20-%20Stephenie%20Meyer.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+  <author>
+    <name>Stephenie Meyer</name>
+    <uri>../8f6fb6ff@author_0/50457700@author_72_Page_1.xml</uri>
+  </author>
+  <published>2008-10-01T10:00:00Z</published>
+  <dcterms:language>es</dcterms:language>
+  <dcterms:publisher>Alfaguara</dcterms:publisher>
+  <category term="Fantasía; terror y ciencia ficción" />
+  <category term="Fantástico" />
+  <category term="Infantil y Juvenil" />
+  <category term="Lang:es" />
+  <category term="Crepúsculo" />
+  <content type="text/html">
+    <p>
+      <strong>Series:</strong>
+      Libro 4 en la Crepúsculo serie
+    </p>
+    <p>
+      <strong>Rating:</strong>
+      ****
+    </p>
+    <p>
+      <strong>Etiquetas:</strong>
+      Fantasía; terror y ciencia ficción, Fantástico, Infantil y Juvenil, Lang:es
+    </p>
+    <p>
+      <strong>Published:</strong>
+      1 de octubre de 2008
+    </p>
+    <p>
+      <strong>Sumario:</strong>
+    </p>
+    <div xmlns="">
+      <h3>Críticas</h3>
+      <p>
+        "Crepúsculo tentó a la imaginación. Luna
+      nueva dejó a los lectores sedientos de más. Eclipse
+      convirtió la saga en un fenómeno. Y ahora,
+      Amanecer, te dejará sin aliento." Little, Brown for
+      Young readers
+        <em>--Este texto se refiere a la edición Tapa blanda
+      .</em>
+      </p>
+      <h3>Reseña del editor</h3>
+      <p>
+        Te quedas sin opciones cuando amas a tu potencial asesino.
+      ¿Acaso es posible huir o luchar si eso causa un grave
+      perjuicio a quien quieres? Si la vida es cuanto puedes darle
+      y de verdad le amas por encima de todo, ¿por qué no
+      entregarla? Ahora que Bella ha tomado una decisión, una
+      inesperada cadena de acontecimientos está a punto de
+      desatarse, con consecuencias inimaginables y potencialmente
+      devastadoras.
+        <em>--Este texto se refiere a la edición Tapa blanda
+      .</em>
+      </p>
+    </div>
+  </content>
+  <link href="../8f6fb6ff%40series_0/4c1c732d%40series_10_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Libro 4 en la Crepúsculo serie" />
+  <link href="../8f6fb6ff%40author_0/50457700%40author_72_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Libros de Stephenie Meyer" />
+  <link href="http://www.goodreads.com/book/title/Amanecer" type="text/html" rel="related" title="Este libro en Goodreads" />
+  <link href="http://es.wikipedia.org/wiki/Amanecer" type="text/html" rel="related" title="Este libro en Wikipedia" />
+  <link href="http://www.librarything.com/title/Amanecer%20Stephenie%20Meyer" type="text/html" rel="related" title="Este libro en LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=Amanecer&amp;field-author=Stephenie%20Meyer" type="text/html" rel="related" title="Este libro en Amazon" />
+  <link href="http://www.goodreads.com/book/author/Stephenie%20Meyer" type="text/html" rel="related" title="Stephenie Meyer en Goodreads" />
+  <link href="http://es.wikipedia.org/wiki/Stephenie%20Meyer" type="text/html" rel="related" title="Stephenie Meyer en Wikipedia" />
+  <link href="http://www.librarything.com/author/MeyerStephenie" type="text/html" rel="related" title="Stephenie Meyer en LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Stephenie%20Meyer" type="text/html" rel="related" title="Stephenie Meyer en Amazon" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Stephenie%20Meyer" type="text/html" rel="related" title="Stephenie Meyer en ISFDB" />
+</entry>
+

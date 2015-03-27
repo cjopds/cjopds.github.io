@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Comedias &amp; tragicomedias</title>
+  <id>urn:book:50d608e5-8866-45bb-8c72-41d72633122a</id>
+  <updated>2015-03-27T01:53:52Z</updated>
+  <link href="./335ff6c3%40book_257.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Comedias &amp; tragicomedias" />
+  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Biblioteca de Calibre de CJ" />
+  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Biblioteca de Calibre de CJ" />
+  <link href="../8f6fb6ff%40authorlist/e8e4356e%40authorlist_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="335ff6c3@book_257_cover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../8f6fb6ff@book_0/335ff6c3@book_257_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/William%20Shakespeare/Comedias%20%26%20tragicomedias%20%28257%29/Comedias%20%26%20tragicomedias%20-%20William%20Shakespeare.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+  <author>
+    <name>William Shakespeare</name>
+    <uri>../8f6fb6ff@author_0/beacae01@author_97_Page_1.xml</uri>
+  </author>
+  <published>2011-12-31T11:00:00Z</published>
+  <dcterms:language>es</dcterms:language>
+  <dcterms:publisher>ePubLibre</dcterms:publisher>
+  <category term="Teatro" />
+  <category term="Drama" />
+  <category term="Humor" />
+  <category term="Sátira" />
+  <category term="Lang:es" />
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      Sin puntuación
+    </p>
+    <p>
+      <strong>Etiquetas:</strong>
+      Teatro, Drama, Humor, Sátira, Lang:es
+    </p>
+    <p>
+      <strong>Published:</strong>
+      31 de diciembre de 2011
+    </p>
+    <p>
+      <strong>Sumario:</strong>
+    </p>
+    <p xmlns="">La presente edición reúne las dieciocho comedias y
+    tragicomedias compuestas por William Shakespeare (1564-1616).
+    En ella se recogen las traducciones de Ángel-Luis Pujante,
+    reconocido especialista en Shakespeare, publicadas en la
+    colección Austral, y se incluyen ocho traducciones
+    inéditas: Los dos caballeros de Verona, Todo bien si acaba
+    bien, Cimbelino (de Ángel-Luis Pujante), La fierecilla
+    domada, Las alegres comadres de Windsor (de Salvador Oliva),
+    Pericles (de Salvador Oliva y Ángel-Luis Pujante), La
+    comedia de los enredos y Afanes de amor en vano (de Alfredo
+    Michel Modenessi), junto con las traducciones de Mucho ruido
+    por nada (de Ángel-Luis Pujante) y Los dos nobles
+    parientes (de Salvador Oliva y Ángel-Luis Pujante), que
+    aparecieron por primera vez en la edición del Teatro
+    selecto de William Shakespeare publicada en 2008. El presente
+    volumen es el segundo de los tres que reunirán el Teatro
+    completo de Shakespeare, tras la aparición del volumen de
+    Tragedias, y que se cerrará con el de Dramas
+    históricos.</p>
+  </content>
+  <link href="../8f6fb6ff%40author_0/beacae01%40author_97_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Libros de William Shakespeare" />
+  <link href="http://www.goodreads.com/book/title/Comedias%20%26%20tragicomedias" type="text/html" rel="related" title="Este libro en Goodreads" />
+  <link href="http://es.wikipedia.org/wiki/Comedias%20%26%20tragicomedias" type="text/html" rel="related" title="Este libro en Wikipedia" />
+  <link href="http://www.librarything.com/title/Comedias%20%26%20tragicomedias%20William%20Shakespeare" type="text/html" rel="related" title="Este libro en LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=Comedias%20%26%20tragicomedias&amp;field-author=William%20Shakespeare" type="text/html" rel="related" title="Este libro en Amazon" />
+  <link href="http://www.goodreads.com/book/author/William%20Shakespeare" type="text/html" rel="related" title="William Shakespeare en Goodreads" />
+  <link href="http://es.wikipedia.org/wiki/William%20Shakespeare" type="text/html" rel="related" title="William Shakespeare en Wikipedia" />
+  <link href="http://www.librarything.com/author/ShakespeareWilliam" type="text/html" rel="related" title="William Shakespeare en LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=William%20Shakespeare" type="text/html" rel="related" title="William Shakespeare en Amazon" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?William%20Shakespeare" type="text/html" rel="related" title="William Shakespeare en ISFDB" />
+</entry>
+

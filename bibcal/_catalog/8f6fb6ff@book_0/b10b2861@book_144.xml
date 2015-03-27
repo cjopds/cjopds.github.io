@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>El evangelio según Jesucristo</title>
+  <id>urn:book:abff29cb-32a1-4d5e-a886-ceb1d861a18d</id>
+  <updated>2015-03-27T01:53:42Z</updated>
+  <link href="./b10b2861%40book_144.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="El evangelio según Jesucristo" />
+  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Biblioteca de Calibre de CJ" />
+  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Biblioteca de Calibre de CJ" />
+  <link href="../8f6fb6ff%40authorlist/e8e4356e%40authorlist_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="b10b2861@book_144_cover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../8f6fb6ff@book_0/b10b2861@book_144_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Jose%20Saramago/El%20evangelio%20segun%20Jesucristo%20%28144%29/El%20evangelio%20segun%20Jesucristo%20-%20Jose%20Saramago.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+  <author>
+    <name>José Saramago</name>
+    <uri>../8f6fb6ff@author_0/a3fb6b8c@author_39_Page_1.xml</uri>
+  </author>
+  <published>1990-12-31T04:00:00Z</published>
+  <dcterms:language>es</dcterms:language>
+  <category term="Lang:es" />
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      Sin puntuación
+    </p>
+    <p>
+      <strong>Etiquetas:</strong>
+      Lang:es
+    </p>
+    <p>
+      <strong>Published:</strong>
+      31 de diciembre de 1990
+    </p>
+    <p>
+      <strong>Sumario:</strong>
+    </p>
+    <p xmlns="" class="description">En palabras del propio autor, El
+    Evangelio según Jesucristo "es como una relectura de los
+    evangelios, es como un viaje al origen de una religión".
+    Narrada en tercera persona y centrada de modo particular en las
+    etapas y zonas de la vida de Jesucristo acerca de las que
+    procuran menos información los textos evangélicos, la
+    presente novela ha sido acogida del modo más favorable por
+    la crítica en virtud de su vigor y pujanza literaria.</p>
+  </content>
+  <link href="../8f6fb6ff%40author_0/a3fb6b8c%40author_39_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Libros de José Saramago" />
+  <link href="http://www.goodreads.com/book/title/El%20evangelio%20seg%C3%BAn%20Jesucristo" type="text/html" rel="related" title="Este libro en Goodreads" />
+  <link href="http://es.wikipedia.org/wiki/El%20evangelio%20seg%C3%BAn%20Jesucristo" type="text/html" rel="related" title="Este libro en Wikipedia" />
+  <link href="http://www.librarything.com/title/El%20evangelio%20seg%C3%BAn%20Jesucristo%20Jos%C3%A9%20Saramago" type="text/html" rel="related" title="Este libro en LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=El%20evangelio%20seg%C3%BAn%20Jesucristo&amp;field-author=Jos%C3%A9%20Saramago" type="text/html" rel="related" title="Este libro en Amazon" />
+  <link href="http://www.goodreads.com/book/author/Jos%C3%A9%20Saramago" type="text/html" rel="related" title="José Saramago en Goodreads" />
+  <link href="http://es.wikipedia.org/wiki/Jos%C3%A9%20Saramago" type="text/html" rel="related" title="José Saramago en Wikipedia" />
+  <link href="http://www.librarything.com/author/SaramagoJos%C3%A9" type="text/html" rel="related" title="José Saramago en LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Jos%C3%A9%20Saramago" type="text/html" rel="related" title="José Saramago en Amazon" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Jos%C3%A9%20Saramago" type="text/html" rel="related" title="José Saramago en ISFDB" />
+</entry>
+

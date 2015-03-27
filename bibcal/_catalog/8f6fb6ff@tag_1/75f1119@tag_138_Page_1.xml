@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:opds="http://opds-spec.org/2010/catalog">
+  <title>Fantástico</title>
+  <id>Calibre2opds:taglist:F:138</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./75f1119%40tag_138_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Fantástico" />
+  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Biblioteca de Calibre de CJ" />
+  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Biblioteca de Calibre de CJ" />
+  <link href="../8f6fb6ff%40taglist/87d7be0%40taglist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="etiquetas" />
+  <link href="../8f6fb6ff%40taglist/87d7be0%40taglist_F_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Etiquetas que empiezan por F" />
+  <entry>
+    <title>Amanecer</title>
+    <id>calibre:book:200</id>
+    <updated>2015-03-27T01:53:45Z</updated>
+    <link href="../8f6fb6ff@book_0/d04c9725@book_200_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Stephenie%20Meyer/Amanecer%20%28200%29/Amanecer%20-%20Stephenie%20Meyer.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>Stephenie Meyer</name>
+      <uri>../8f6fb6ff@author_0/50457700@author_72_Page_1.xml</uri>
+    </author>
+    <published>2008-10-01T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Alfaguara</dcterms:publisher>
+    <category term="Fantasía; terror y ciencia ficción" />
+    <category term="Fantástico" />
+    <category term="Infantil y Juvenil" />
+    <category term="Lang:es" />
+    <category term="Crepúsculo" />
+    <summary>Crepúsculo [4]: Críticas"Crepúsculo tentó a la imaginación. Luna nueva dejó a los lectores sedientos de más. Eclipse convirtió la saga en un fenómeno. Y ahora, Amanecer, te dejará sin aliento." Little, Brown for Young readers --Este texto se refiere a la edición Tapa blanda .Reseña del editorTe quedas sin opciones cuando amas a tu potencial asesino. ¿Acaso es posible huir o luchar si eso causa un grave perjuicio a quien quieres? Si la vida es cuanto puedes darle y de verdad le amas por encima de...</summary>
+    <link href="../8f6fb6ff%40book_0/d04c9725%40book_200.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Crepusculo</title>
+    <id>calibre:book:201</id>
+    <updated>2015-03-27T01:53:45Z</updated>
+    <link href="../8f6fb6ff@book_0/a74ba7b3@book_201_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Stephenie%20Meyer/Crepusculo%20%28201%29/Crepusculo%20-%20Stephenie%20Meyer.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>Stephenie Meyer</name>
+      <uri>../8f6fb6ff@author_0/50457700@author_72_Page_1.xml</uri>
+    </author>
+    <published>2006-06-20T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Alfaguara</dcterms:publisher>
+    <category term="Juvenile Fiction" />
+    <category term="Love &amp; Romance" />
+    <category term="Infantil y Juvenil" />
+    <category term="Fantástico" />
+    <category term="Lang:es" />
+    <category term="Crepúsculo" />
+    <summary>Crepúsculo [1]: CríticasLlega a nuestro país el fenómeno de literatura fantástica que ha conmocionado el panorama de la literatura juvenil internacional y que seducirá a los lectores ávidos de una historia de amor apasionante, llena de sensualidad, aventura e intriga, con la que sentirse identificados y a la vez transportados a un mundo diferente. Cuando Isabella Swan se muda a Forks, una pequeña localidad del estado de Washington en la que nunca deja de llover, piensa que es lo más aburrido que...</summary>
+    <link href="../8f6fb6ff%40book_0/a74ba7b3%40book_201.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>El ladrón del rayo</title>
+    <id>calibre:book:182</id>
+    <updated>2015-03-27T01:53:43Z</updated>
+    <link href="../8f6fb6ff@book_0/f4ddc258@book_182_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Rick%20Riordan/El%20ladron%20del%20rayo%20%28182%29/El%20ladron%20del%20rayo%20-%20Rick%20Riordan.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>Rick Riordan</name>
+      <uri>../8f6fb6ff@author_0/82a6fc9c@author_58_Page_1.xml</uri>
+    </author>
+    <published>2005-06-30T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Salamandra</dcterms:publisher>
+    <category term="Fantástico" />
+    <category term="Infantil y Juvenil" />
+    <category term="Lang:es" />
+    <category term="Percy Jackson y los dioses del Olimpo" />
+    <summary>Percy Jackson y los dioses del Olimpo [1]: ¿Qué pasaría si los dioses del Olimpo estan vivos en el siglo 21? ¿Y si aún se enamoraran de los mortales y que los niños-héroes podrían llegar a ser grandes, como Teseo, Jasón y Hércules?. ¿Qué pasa si tu fueras uno de esos niños?. Tal es el descubrimiento que a los doce años de edad, Percy Jackson, se lanza en la búsqueda más peligroso de su vida. Con la ayuda de un sátiro y una hija de Atenea, Percy viaja a través de los Estados Unidos para atrapar a...</summary>
+    <link href="../8f6fb6ff%40book_0/f4ddc258%40book_182.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>El mar de los monstruos</title>
+    <id>calibre:book:180</id>
+    <updated>2015-03-27T01:53:43Z</updated>
+    <link href="../8f6fb6ff@book_0/1ad3a374@book_180_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Rick%20Riordan/El%20mar%20de%20los%20monstruos%20%28180%29/El%20mar%20de%20los%20monstruos%20-%20Rick%20Riordan.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>Rick Riordan</name>
+      <uri>../8f6fb6ff@author_0/82a6fc9c@author_58_Page_1.xml</uri>
+    </author>
+    <published>2006-05-02T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Salamandra</dcterms:publisher>
+    <category term="Infantil y Juvenil" />
+    <category term="Literary Criticism" />
+    <category term="Fantástico" />
+    <category term="Children's Literature" />
+    <category term="Lang:es" />
+    <category term="Percy Jackson y los dioses del Olimpo" />
+    <summary>Percy Jackson y los dioses del Olimpo [2]: Desde que sabe que es hijo de un dios y una mortal, Percy Jackson espera que el destino le depare continuas aventuras. Y su expectativa se cumplirá con creses. Aunque el nuevo curso en la Escuela Meriwether transcurre con inusual normalidad, un simple partido de balón prisionero acaba en batalla compal contra una banda de feroces gigantes. A partir de ahí las cosas se precipitan: el perímentro mágico que protege el Campamento Mestizo es destruido por un...</summary>
+    <link href="../8f6fb6ff%40book_0/1ad3a374%40book_180.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>El último héroe del Olimpo</title>
+    <id>calibre:book:178</id>
+    <updated>2015-03-27T01:53:43Z</updated>
+    <link href="../8f6fb6ff@book_0/93903789@book_178_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Rick%20Riordan/El%20ultimo%20heroe%20del%20Olimpo%20%28178%29/El%20ultimo%20heroe%20del%20Olimpo%20-%20Rick%20Riordan.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>Rick Riordan</name>
+      <uri>../8f6fb6ff@author_0/82a6fc9c@author_58_Page_1.xml</uri>
+    </author>
+    <published>2009-05-04T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Salamandra</dcterms:publisher>
+    <category term="Fantasía; terror y ciencia ficción" />
+    <category term="Infantil y Juvenil" />
+    <category term="Aventura" />
+    <category term="Fantástico" />
+    <category term="Lang:es" />
+    <category term="Percy Jackson y los dioses del Olimpo" />
+    <summary>Percy Jackson y los dioses del Olimpo [5]: Reseña del editorLos mestizos han dedicado mucho tiempo a prepararse para la batalla decisiva contra los titanes, aunque saben que sus posibilidades de obtener la victoria son mínimas. El ejército de Cronos es ahora más formidable que nunca y, con cada dios y cada mestizo que logra reclutar, aumentan los poderes del maligno titán. Tras fracasar en un primer intento de detener en alta mar las arrolladoras huestes de Cronos, Percy Jackson y los olímpicos ...</summary>
+    <link href="../8f6fb6ff%40book_0/93903789%40book_178.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>La batalla del laberinto</title>
+    <id>calibre:book:179</id>
+    <updated>2015-03-27T01:53:43Z</updated>
+    <link href="../8f6fb6ff@book_0/e497071f@book_179_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Rick%20Riordan/La%20batalla%20del%20laberinto%20%28179%29/La%20batalla%20del%20laberinto%20-%20Rick%20Riordan.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>Rick Riordan</name>
+      <uri>../8f6fb6ff@author_0/82a6fc9c@author_58_Page_1.xml</uri>
+    </author>
+    <published>2008-05-05T10:32:05Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Salamandra</dcterms:publisher>
+    <category term="Fantasía; terror y ciencia ficción" />
+    <category term="Infantil y Juvenil" />
+    <category term="Aventura" />
+    <category term="Fantástico" />
+    <category term="Lang:es" />
+    <category term="Percy Jackson y los dioses del Olimpo" />
+    <summary>Percy Jackson y los dioses del Olimpo [4]: Percy Jackson no espera que la orientación de primer año sera nada divertido, pero cuando un conocido mortal misterioso aparece, perseguido por porristas demonios, las cosas rápidamente van de mal en peor. El tiempo se agota para Percy. La guerra entre los dioses y los titanes se acerca. Ni siquiera el Campamento para semidioses es seguro, cuando el ejército de Kronos se prepara para invadir sus fronteras, una vez es impenetrable. Para detenerlos, Percy...</summary>
+    <link href="../8f6fb6ff%40book_0/e497071f%40book_179.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>La cura mortal</title>
+    <id>calibre:book:184</id>
+    <updated>2015-03-27T01:53:42Z</updated>
+    <link href="../8f6fb6ff@book_0/1dbe676d@book_184_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/James%20Dashner/La%20cura%20mortal%20%28184%29/La%20cura%20mortal%20-%20James%20Dashner.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>James Dashner</name>
+      <uri>../8f6fb6ff@author_0/e50cb160@author_45_Page_1.xml</uri>
+    </author>
+    <published>2010-12-31T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>ePubLibre</dcterms:publisher>
+    <category term="Novela" />
+    <category term="Fantástico" />
+    <category term="Lang:es" />
+    <category term="El corredor del laberinto" />
+    <summary>El corredor del laberinto [3]: «MÁTAME. SI ALGUNA VEZ HAS SIDO MI AMIGO, MÁTAME». Desde hace tres semanas, Thomas vive en una habitación sin ventanas, de un blanco resplandeciente y siempre iluminada. Sin reloj y sin contacto con nadie, más allá de las tres bandejas de comida que alguien le lleva a diario (aunque a horas distintas, como para desorientarle). Al vigésimo sexto día, la puerta se abre y un hombre le conduce a una sala llena de viejos amigos. —Muy bien, damas y caballeros. Estáis a p...</summary>
+    <link href="../8f6fb6ff%40book_0/1dbe676d%40book_184.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>La maldición del titán</title>
+    <id>calibre:book:181</id>
+    <updated>2015-03-27T01:53:43Z</updated>
+    <link href="../8f6fb6ff@book_0/6dd493e2@book_181_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Rick%20Riordan/La%20maldicion%20del%20titan%20%28181%29/La%20maldicion%20del%20titan%20-%20Rick%20Riordan.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>Rick Riordan</name>
+      <uri>../8f6fb6ff@author_0/82a6fc9c@author_58_Page_1.xml</uri>
+    </author>
+    <published>2007-05-10T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Salamandra</dcterms:publisher>
+    <category term="Literatura y narrativa" />
+    <category term="Infantil y Juvenil" />
+    <category term="Fantástico" />
+    <category term="Lang:es" />
+    <category term="Percy Jackson y los dioses del Olimpo" />
+    <summary>Percy Jackson y los dioses del Olimpo [3]: Cuando Percy Jackson recibe una llamada urgente de auxilio de su amigo Grover, de inmediato se prepara para la batalla. Sabe que tendrá sus poderosos aliados semidióses a su lado, su fiel espada de bronce "Riptide", y... un viaje de su mamá. Los semidioses corren al rescate para encontrar que Grover ha hecho un descubrimiento importante: dos mestizos poderosos cuya filiación se desconoce. Pero eso no es todo lo que les espera. El señor titán Kronos ha e...</summary>
+    <link href="../8f6fb6ff%40book_0/6dd493e2%40book_181.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>La tempestad</title>
+    <id>calibre:book:265</id>
+    <updated>2015-03-27T01:53:52Z</updated>
+    <link href="../8f6fb6ff@book_0/f67cc42c@book_265_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/William%20Shakespeare/La%20tempestad%20%28265%29/La%20tempestad%20-%20William%20Shakespeare.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>William Shakespeare</name>
+      <uri>../8f6fb6ff@author_0/beacae01@author_97_Page_1.xml</uri>
+    </author>
+    <published>1611-10-31T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>ePubLibre</dcterms:publisher>
+    <category term="Teatro" />
+    <category term="Fantástico" />
+    <category term="Lang:es" />
+    <summary>Última obra teatral escrita en solitario por William Shakespeare; La tempestad pertenece a la serie de piezas de este autor que funden el ámbito de lo real con lo mágico y lo maravilloso. Próspero, duque legítimo de Milán, ha sido expulsado de su posición por su hermano y se encuentra en una isla desierta tras naufragar su buque. La obra comienza con una fuerte tormenta, desatada por Ariel (a mandato de Próspero), cuando adivina que su hermano Antonio viaja en un buque cerca de la isla en la que...</summary>
+    <link href="../8f6fb6ff%40book_0/f67cc42c%40book_265.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>
+

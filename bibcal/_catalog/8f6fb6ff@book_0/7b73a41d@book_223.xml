@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Through The Ever Night</title>
+  <id>urn:book:48ee51a0-d3c2-4c59-9a6b-d4a5b1563ada</id>
+  <updated>2015-03-27T01:53:46Z</updated>
+  <link href="./7b73a41d%40book_223.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Through The Ever Night" />
+  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Biblioteca de Calibre de CJ" />
+  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Biblioteca de Calibre de CJ" />
+  <link href="../8f6fb6ff%40authorlist/e8e4356e%40authorlist_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../8f6fb6ff%40author_0/a0da5b59%40author_83_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Rossi, Veronica" />
+  <link href="7b73a41d@book_223_cover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../8f6fb6ff@book_0/7b73a41d@book_223_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Veronica%20Rossi/Through%20The%20Ever%20Night%20%28223%29/Through%20The%20Ever%20Night%20-%20Veronica%20Rossi.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+  <author>
+    <name>Veronica Rossi</name>
+    <uri>../8f6fb6ff@author_0/a0da5b59@author_83_Page_1.xml</uri>
+  </author>
+  <published>2013-01-08T06:00:00Z</published>
+  <dcterms:language>es</dcterms:language>
+  <dcterms:publisher>HarperCollins</dcterms:publisher>
+  <category term="Ficción Juvenil" />
+  <category term="Ciencia Ficción" />
+  <category term="Amor &amp; Romance" />
+  <category term="Lang:es" />
+  <category term="Bajo el cielo eterno" />
+  <content type="text/html">
+    <p>
+      <strong>Series:</strong>
+      Libro 2 en la Bajo el cielo eterno serie
+    </p>
+    <p>
+      <strong>Rating:</strong>
+      ****
+    </p>
+    <p>
+      <strong>Etiquetas:</strong>
+      Ficción Juvenil, Ciencia Ficción, Amor &amp; Romance, Lang:es
+    </p>
+    <p>
+      <strong>Published:</strong>
+      8 de enero de 2013
+    </p>
+  </content>
+  <link href="../8f6fb6ff%40series_0/4b71b734%40series_14_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Libro 2 en la Bajo el cielo eterno serie" />
+  <link href="../8f6fb6ff%40author_0/a0da5b59%40author_83_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Libros de Veronica Rossi" />
+  <link href="http://www.goodreads.com/book/title/Through%20The%20Ever%20Night" type="text/html" rel="related" title="Este libro en Goodreads" />
+  <link href="http://es.wikipedia.org/wiki/Through%20The%20Ever%20Night" type="text/html" rel="related" title="Este libro en Wikipedia" />
+  <link href="http://www.librarything.com/title/Through%20The%20Ever%20Night%20Veronica%20Rossi" type="text/html" rel="related" title="Este libro en LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=Through%20The%20Ever%20Night&amp;field-author=Veronica%20Rossi" type="text/html" rel="related" title="Este libro en Amazon" />
+  <link href="http://www.goodreads.com/book/author/Veronica%20Rossi" type="text/html" rel="related" title="Veronica Rossi en Goodreads" />
+  <link href="http://es.wikipedia.org/wiki/Veronica%20Rossi" type="text/html" rel="related" title="Veronica Rossi en Wikipedia" />
+  <link href="http://www.librarything.com/author/RossiVeronica" type="text/html" rel="related" title="Veronica Rossi en LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Veronica%20Rossi" type="text/html" rel="related" title="Veronica Rossi en Amazon" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Veronica%20Rossi" type="text/html" rel="related" title="Veronica Rossi en ISFDB" />
+</entry>
+

@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:opds="http://opds-spec.org/2010/catalog">
+  <title>Libros que empiezan por T</title>
+  <id>Calibre2opds:allbooks:T</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./c67a4b73%40allbooks_T_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Libros que empiezan por T" />
+  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Biblioteca de Calibre de CJ" />
+  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Biblioteca de Calibre de CJ" />
+  <link href="./c67a4b73%40allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Todos los libros" />
+  <entry>
+    <title>Textos de Historia de la Filosofía</title>
+    <id>calibre:book:231</id>
+    <updated>2015-03-27T01:53:46Z</updated>
+    <link href="../8f6fb6ff@book_0/8c66f470@book_231_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Universidad%20de%20Cadiz/Textos%20de%20Historia%20de%20la%20Filosofia%20%28231%29/Textos%20de%20Historia%20de%20la%20Filosofia%20-%20Universidad%20de%20Cadiz.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>Universidad de Cádiz</name>
+      <uri>../8f6fb6ff@author_0/49b9fe6c@author_85_Page_1.xml</uri>
+    </author>
+    <published>2012-03-15T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <category term="Lang:es" />
+    <link href="../8f6fb6ff%40book_0/8c66f470%40book_231.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Thomas's First Memory of the Flare</title>
+    <id>calibre:book:157</id>
+    <updated>2015-03-27T01:53:42Z</updated>
+    <link href="../8f6fb6ff@book_0/3119489a@book_157_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/James%20Dashner/Thomas%27s%20First%20Memory%20of%20the%20Flare%20%28157%29/Thomas%27s%20First%20Memory%20of%20the%20Flare%20-%20James%20Dashner.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>James Dashner</name>
+      <uri>../8f6fb6ff@author_0/e50cb160@author_45_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <category term="Lang:en" />
+    <category term="The Maze Runner" />
+    <summary>The Maze Runner [2,50]:</summary>
+    <link href="../8f6fb6ff%40book_0/3119489a%40book_157.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Through The Ever Night</title>
+    <id>calibre:book:223</id>
+    <updated>2015-03-27T01:53:46Z</updated>
+    <link href="../8f6fb6ff@book_0/7b73a41d@book_223_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Veronica%20Rossi/Through%20The%20Ever%20Night%20%28223%29/Through%20The%20Ever%20Night%20-%20Veronica%20Rossi.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>Veronica Rossi</name>
+      <uri>../8f6fb6ff@author_0/a0da5b59@author_83_Page_1.xml</uri>
+    </author>
+    <published>2013-01-08T06:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>HarperCollins</dcterms:publisher>
+    <category term="Ficción Juvenil" />
+    <category term="Ciencia Ficción" />
+    <category term="Amor &amp; Romance" />
+    <category term="Lang:es" />
+    <category term="Bajo el cielo eterno" />
+    <summary>Bajo el cielo eterno [2]:</summary>
+    <link href="../8f6fb6ff%40book_0/7b73a41d%40book_223.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Through the Ever Night</title>
+    <id>calibre:book:225</id>
+    <updated>2015-03-27T01:53:46Z</updated>
+    <link href="../8f6fb6ff@book_0/92100128@book_225_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Veronica%20Rossi/Through%20the%20Ever%20Night%20%28225%29/Through%20the%20Ever%20Night%20-%20Veronica%20Rossi.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>Veronica Rossi</name>
+      <uri>../8f6fb6ff@author_0/a0da5b59@author_83_Page_1.xml</uri>
+    </author>
+    <published>2013-01-07T11:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>HarperCollins</dcterms:publisher>
+    <category term="Juvenile Fiction" />
+    <category term="General" />
+    <category term="Lang:en" />
+    <category term="Under The Never Sky" />
+    <summary>Under The Never Sky [2]: A world-defying love is put to the ultimate test in the New York Times and USA Today bestselling sequel to Veronica Rossi's "masterpiece," Under the Never Sky (Examiner.com ). In this second book in her spellbinding Under the Never Sky trilogy, bestselling author Veronica Rossi combines fantasy and dystopian elements to create a love story as perilous as it is unforgettable.It's been months since Aria last saw Perry. Months since Perry was named Blood Lord of the Tides, ...</summary>
+    <link href="../8f6fb6ff%40book_0/92100128%40book_225.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Trabajos de amor perdidos</title>
+    <id>calibre:book:263</id>
+    <updated>2015-03-27T01:53:52Z</updated>
+    <link href="../8f6fb6ff@book_0/1f1f6119@book_263_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/William%20Shakespeare/Trabajos%20de%20amor%20perdidos%20%28263%29/Trabajos%20de%20amor%20perdidos%20-%20William%20Shakespeare.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>William Shakespeare</name>
+      <uri>../8f6fb6ff@author_0/beacae01@author_97_Page_1.xml</uri>
+    </author>
+    <published>1594-12-31T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>ePubLibre</dcterms:publisher>
+    <category term="Teatro" />
+    <category term="Humor" />
+    <category term="Lang:es" />
+    <summary>El rey de Navarra pacta con sus tres vasallos dedicarse al estudio durante tres años, manteniendo una vida ascética que excluye el contacto con las mujeres. Pero la Princesa de Francia y su séquito llegan a la corte. Existe una subtrama protagonizada por un personaje español, el excéntrico Armado, cuyo paje se llama Moth. Se hacen acompañar de Costard, un torpe villano. Armado ama a Jaquineta. Otro grupo de personajes secundarios está formado por Holofernes, pedante maestro de escuela, el cura N...</summary>
+    <link href="../8f6fb6ff%40book_0/1f1f6119%40book_263.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Traición</title>
+    <id>calibre:book:166</id>
+    <updated>2015-03-27T01:53:46Z</updated>
+    <link href="../8f6fb6ff@book_0/6d332bcf@book_166_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Scott%20Westerfeld/Traicion%20%28166%29/Traicion%20-%20Scott%20Westerfeld.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>Scott Westerfeld</name>
+      <uri>../8f6fb6ff@author_0/b926d235@author_74_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Montena</dcterms:publisher>
+    <category term="Ciencia Ficción" />
+    <category term="Romántica" />
+    <category term="Lang:es" />
+    <category term="Uglies" />
+    <summary>Uglies [1]: Como todos los chicos y las chicas de su edad, Tally espera con impaciencia cumplir los 16 años, porque a esa edad se someterá a una intervención quirúrgica que la convertirá en perfecta. Su transformación, sin embargo, se ve amenazada cuando su amiga Shay huye para unirse a la resistencia, un grupo de disidentes que no quieren someterse a la operación y que viven en El Humo, una ciudad clandestina. Tras la huida de Shay, las autoridades le ofrecen a Tally una disyuntiva. Tally no es...</summary>
+    <link href="../8f6fb6ff%40book_0/6d332bcf%40book_166.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Transfer: A Divergent Story</title>
+    <id>calibre:book:208</id>
+    <updated>2015-03-27T01:53:45Z</updated>
+    <link href="../8f6fb6ff@book_0/de971f17@book_208_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Veronica%20Roth/The%20Transfer_%20A%20Divergent%20Story%20%28208%29/The%20Transfer_%20A%20Divergent%20Story%20-%20Veronica%20Roth.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>Veronica Roth</name>
+      <uri>../8f6fb6ff@author_0/27424796@author_73_Page_1.xml</uri>
+    </author>
+    <published>2013-09-02T10:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>HarperCollins UK</dcterms:publisher>
+    <category term="Juvenile Fiction" />
+    <category term="General" />
+    <category term="Action &amp; Adventure" />
+    <category term="Fantasy &amp; Magic" />
+    <category term="Love &amp; Romance" />
+    <category term="Lang:en" />
+    <category term="Four: A Divergent Story Collection" />
+    <summary>Four: A Divergent Story Collection [2]: More Four!Fans of the Divergent series by No. 1 New York Times bestselling author Veronica Roth will be thrilled by ‘The Transfer’, the first of four new short stories told from Four’s perspective. DIVERGENT – a major motion picture in 2014. This short story explores the world of the Divergent series through the eyes of the mysterious but charismatic Tobias Eaton, revealing previously unknown secrets of his personality and intriguing backstory. See how it ...</summary>
+    <link href="../8f6fb6ff%40book_0/de971f17%40book_208.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>La tempestad</title>
+    <id>calibre:book:265</id>
+    <updated>2015-03-27T01:53:52Z</updated>
+    <link href="../8f6fb6ff@book_0/f67cc42c@book_265_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/William%20Shakespeare/La%20tempestad%20%28265%29/La%20tempestad%20-%20William%20Shakespeare.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>William Shakespeare</name>
+      <uri>../8f6fb6ff@author_0/beacae01@author_97_Page_1.xml</uri>
+    </author>
+    <published>1611-10-31T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>ePubLibre</dcterms:publisher>
+    <category term="Teatro" />
+    <category term="Fantástico" />
+    <category term="Lang:es" />
+    <summary>Última obra teatral escrita en solitario por William Shakespeare; La tempestad pertenece a la serie de piezas de este autor que funden el ámbito de lo real con lo mágico y lo maravilloso. Próspero, duque legítimo de Milán, ha sido expulsado de su posición por su hermano y se encuentra en una isla desierta tras naufragar su buque. La obra comienza con una fuerte tormenta, desatada por Ariel (a mandato de Próspero), cuando adivina que su hermano Antonio viaja en un buque cerca de la isla en la que...</summary>
+    <link href="../8f6fb6ff%40book_0/f67cc42c%40book_265.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>La tragedia de Ricardo III</title>
+    <id>calibre:book:251</id>
+    <updated>2015-03-27T01:53:51Z</updated>
+    <link href="../8f6fb6ff@book_0/da3c53f6@book_251_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/William%20Shakespeare/La%20tragedia%20de%20Ricardo%20III%20%28251%29/La%20tragedia%20de%20Ricardo%20III%20-%20William%20Shakespeare.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>William Shakespeare</name>
+      <uri>../8f6fb6ff@author_0/beacae01@author_97_Page_1.xml</uri>
+    </author>
+    <published>1592-12-31T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>ePubLibre</dcterms:publisher>
+    <category term="Teatro" />
+    <category term="Histórico" />
+    <category term="Drama" />
+    <category term="Lang:es" />
+    <summary>Cierra la tetralogía que se completa con las tres partes de Enrique VI, siendo la obra más acertada de las cuatro. Narra la historia de la monarquía inglesa desde 1471 (muerte de Enrique VI) hasta 1485 (muerte de Ricardo III). El protagonista es dibujado como un asesino vil, deforme, ambicioso y corrupto. Gran parte de la trama se sitúa en el Palacio de Westminster en Londres (cuyo aspecto actual con la torre del reloj y albergando el parlamento es completamente diferente), aunque importantes es...</summary>
+    <link href="../8f6fb6ff%40book_0/da3c53f6%40book_251.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>
+

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:opds="http://opds-spec.org/2010/catalog">
+  <title>Ciencia</title>
+  <id>Calibre2opds:taglist:C:156</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./b6bd9b98%40tag_156_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Ciencia" />
+  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Biblioteca de Calibre de CJ" />
+  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Biblioteca de Calibre de CJ" />
+  <link href="../8f6fb6ff%40taglist/87d7be0%40taglist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="etiquetas" />
+  <link href="../8f6fb6ff%40taglist/87d7be0%40taglist_C_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Etiquetas que empiezan por C" />
+  <entry>
+    <title>El sueño de Alicia</title>
+    <id>calibre:book:197</id>
+    <updated>2015-03-27T01:53:45Z</updated>
+    <link href="../8f6fb6ff@book_0/9dac0796@book_197_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Eduard%20Punset/El%20sueno%20de%20Alicia%20%28197%29/El%20sueno%20de%20Alicia%20-%20Eduard%20Punset.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>Eduard Punset</name>
+      <uri>../8f6fb6ff@author_0/de8c9fc9@author_69_Page_1.xml</uri>
+    </author>
+    <published>2013-09-16T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Ediciones Destino</dcterms:publisher>
+    <category term="Ciencias; tecnología y medicina" />
+    <category term="Ciencia" />
+    <category term="Lang:es" />
+    <summary>Descripción del productoAlicia –«verdad», en griego– es el personaje inseparable de Eduardo Punset en esta historia apasionante sobre la vida y la ciencia que reúne el legado científico y humanístico de personas sabias con la osadía de romper barreras y desvelar conocimientos que creíamos imposibles. Conocimientos que logran sumergirnos en la arqueología de las emociones e iluminar habitaciones secretas de nuestra mente. Ésta es una obra llena de respuestas y de preguntas abiertas. Es también un...</summary>
+    <link href="../8f6fb6ff%40book_0/9dac0796%40book_197.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>
+

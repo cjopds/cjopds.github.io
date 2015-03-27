@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>La sombra del viento</title>
+  <id>urn:book:2228daaf-1cd7-4f77-af4d-a2f03f9c9c08</id>
+  <updated>2015-03-27T01:53:51Z</updated>
+  <link href="./b4205221%40book_240.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="La sombra del viento" />
+  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Biblioteca de Calibre de CJ" />
+  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Biblioteca de Calibre de CJ" />
+  <link href="../8f6fb6ff%40authorlist/e8e4356e%40authorlist_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../8f6fb6ff%40author_0/20c83ba2%40author_90_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Zafón, Carlos Ruiz" />
+  <link href="b4205221@book_240_cover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../8f6fb6ff@book_0/b4205221@book_240_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Carlos%20Ruiz%20Zafon/La%20sombra%20del%20viento%20%28240%29/La%20sombra%20del%20viento%20-%20Carlos%20Ruiz%20Zafon.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+  <author>
+    <name>Carlos Ruiz Zafón</name>
+    <uri>../8f6fb6ff@author_0/20c83ba2@author_90_Page_1.xml</uri>
+  </author>
+  <published>2000-12-31T11:00:00Z</published>
+  <dcterms:language>es</dcterms:language>
+  <dcterms:publisher>ePubLibre</dcterms:publisher>
+  <category term="Novela" />
+  <category term="Intriga" />
+  <category term="Lang:es" />
+  <category term="El cementerio de los libros olvidados" />
+  <content type="text/html">
+    <p>
+      <strong>Series:</strong>
+      Libro 1 en la El cementerio de los libros olvidados serie
+    </p>
+    <p>
+      <strong>Rating:</strong>
+      Sin puntuación
+    </p>
+    <p>
+      <strong>Etiquetas:</strong>
+      Novela, Intriga, Lang:es
+    </p>
+    <p>
+      <strong>Published:</strong>
+      31 de diciembre de 2000
+    </p>
+    <p>
+      <strong>Sumario:</strong>
+    </p>
+    <p xmlns="">Un amanecer de 1945 un muchacho es conducido por su padre a
+    un misterioso lugar oculto en el corazón de la ciudad
+    vieja: El Cementerio de los Libros Olvidados. Allí, Daniel
+    Sempere encuentra un libro maldito que cambiará el rumbo
+    de su vida y le arrastrará a un laberinto de intrigas y
+    secretos enterrados en el alma oscura de la ciudad. La Sombra
+    del Viento es un misterio literario ambientado en la Barcelona
+    de la primera mitad del siglo XX, desde los últimos
+    esplendores del Modernismo a las tinieblas de la posguerra. La
+    Sombra del Viento mezcla técnicas de relato de intriga, de
+    novela histórica y de comedia de costumbres pero es, sobre
+    todo, una tragedia histórica de amor cuyo eco se proyecta
+    a través del tiempo. Con gran fuerza narrativa, el autor
+    entrelaza tramas y enigmas a modo de muñecas rusas en un
+    inolvidable relato sobre los secretos del corazón y el
+    embrujo de los libros, manteniendo la intriga hasta la
+    última página.</p>
+  </content>
+  <link href="../8f6fb6ff%40series_0/a57fd618%40series_16_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Libro 1 en la El cementerio de los libros olvidados serie" />
+  <link href="../8f6fb6ff%40author_0/20c83ba2%40author_90_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Libros de Carlos Ruiz Zafón" />
+  <link href="http://www.goodreads.com/book/title/La%20sombra%20del%20viento" type="text/html" rel="related" title="Este libro en Goodreads" />
+  <link href="http://es.wikipedia.org/wiki/La%20sombra%20del%20viento" type="text/html" rel="related" title="Este libro en Wikipedia" />
+  <link href="http://www.librarything.com/title/La%20sombra%20del%20viento%20Carlos%20Ruiz%20Zaf%C3%B3n" type="text/html" rel="related" title="Este libro en LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=La%20sombra%20del%20viento&amp;field-author=Carlos%20Ruiz%20Zaf%C3%B3n" type="text/html" rel="related" title="Este libro en Amazon" />
+  <link href="http://www.goodreads.com/book/author/Carlos%20Ruiz%20Zaf%C3%B3n" type="text/html" rel="related" title="Carlos Ruiz Zafón en Goodreads" />
+  <link href="http://es.wikipedia.org/wiki/Carlos%20Ruiz%20Zaf%C3%B3n" type="text/html" rel="related" title="Carlos Ruiz Zafón en Wikipedia" />
+  <link href="http://www.librarything.com/author/Zaf%C3%B3nCarlosRuiz" type="text/html" rel="related" title="Carlos Ruiz Zafón en LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Carlos%20Ruiz%20Zaf%C3%B3n" type="text/html" rel="related" title="Carlos Ruiz Zafón en Amazon" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Carlos%20Ruiz%20Zaf%C3%B3n" type="text/html" rel="related" title="Carlos Ruiz Zafón en ISFDB" />
+</entry>
+

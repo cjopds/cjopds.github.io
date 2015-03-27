@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:opds="http://opds-spec.org/2010/catalog">
+  <title>Etiquetas que empiezan por F</title>
+  <id>Calibre2opds:taglist:F</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./87d7be0%40taglist_F_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Etiquetas que empiezan por F" />
+  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Biblioteca de Calibre de CJ" />
+  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Biblioteca de Calibre de CJ" />
+  <link href="./87d7be0%40taglist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="etiquetas" />
+  <entry>
+    <title>Fantasy</title>
+    <id>Calibre2opds:taglist:F:114</id>
+    <content type="text">Once, Under the Never Sky</content>
+    <link href="../8f6fb6ff%40tag_1/3cdf3fb0%40tag_114_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../tags.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Fantasy &amp; Magic</title>
+    <id>Calibre2opds:taglist:F:119</id>
+    <content type="text">4 libros</content>
+    <link href="../8f6fb6ff%40tag_1/426e430d%40tag_119_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../tags.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Fantasía</title>
+    <id>Calibre2opds:taglist:F:121</id>
+    <content type="text">Las pruebas</content>
+    <link href="../8f6fb6ff%40tag_1/679898fc%40tag_121_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../tags.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Fantasía. Ciencia ficción</title>
+    <id>Calibre2opds:taglist:F:107</id>
+    <content type="text">El corredor del laberinto</content>
+    <link href="../8f6fb6ff%40tag_1/bccd5f4b%40tag_107_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../tags.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Fantasía; terror y ciencia ficción</title>
+    <id>Calibre2opds:taglist:F:124</id>
+    <content type="text">8 libros</content>
+    <link href="../8f6fb6ff%40tag_1/17f26c73%40tag_124_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../tags.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Fantástico</title>
+    <id>Calibre2opds:taglist:F:138</id>
+    <content type="text">9 libros</content>
+    <link href="../8f6fb6ff%40tag_1/75f1119%40tag_138_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../tags.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Ficción</title>
+    <id>Calibre2opds:taglist:F:96</id>
+    <content type="text">3 libros</content>
+    <link href="../8f6fb6ff%40tag_0/850c0e9d%40tag_96_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../tags.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Ficción Juvenil</title>
+    <id>Calibre2opds:taglist:F:172</id>
+    <content type="text">Through The Ever Night</content>
+    <link href="../8f6fb6ff%40tag_1/83e63d03%40tag_172_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../tags.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Ficción contemporánea</title>
+    <id>Calibre2opds:taglist:F:151</id>
+    <content type="text">2 libros</content>
+    <link href="../8f6fb6ff%40tag_1/28d90e3b%40tag_151_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../tags.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Fiction</title>
+    <id>Calibre2opds:taglist:F:113</id>
+    <content type="text">3 libros</content>
+    <link href="../8f6fb6ff%40tag_1/a2bbaa13%40tag_113_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../tags.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Filosofía</title>
+    <id>Calibre2opds:taglist:F:184</id>
+    <content type="text">Sobre la libertad</content>
+    <link href="../8f6fb6ff%40tag_1/ed1d84f9%40tag_184_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../tags.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Friendship</title>
+    <id>Calibre2opds:taglist:F:135</id>
+    <content type="text">Looking for Alaska</content>
+    <link href="../8f6fb6ff%40tag_1/79ee6da4%40tag_135_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../tags.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+</feed>
+

@@ -1,0 +1,364 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:opds="http://opds-spec.org/2010/catalog">
+  <title>Teatro</title>
+  <id>Calibre2opds:taglist:T:163</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./edfa3cd4%40tag_163_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Teatro" />
+  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Biblioteca de Calibre de CJ" />
+  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Biblioteca de Calibre de CJ" />
+  <link href="../8f6fb6ff%40taglist/87d7be0%40taglist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="etiquetas" />
+  <link href="../8f6fb6ff%40taglist/87d7be0%40taglist_T_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Etiquetas que empiezan por T" />
+  <entry>
+    <title>Comedias &amp; tragicomedias</title>
+    <id>calibre:book:257</id>
+    <updated>2015-03-27T01:53:52Z</updated>
+    <link href="../8f6fb6ff@book_0/335ff6c3@book_257_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/William%20Shakespeare/Comedias%20%26%20tragicomedias%20%28257%29/Comedias%20%26%20tragicomedias%20-%20William%20Shakespeare.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>William Shakespeare</name>
+      <uri>../8f6fb6ff@author_0/beacae01@author_97_Page_1.xml</uri>
+    </author>
+    <published>2011-12-31T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>ePubLibre</dcterms:publisher>
+    <category term="Teatro" />
+    <category term="Drama" />
+    <category term="Humor" />
+    <category term="Sátira" />
+    <category term="Lang:es" />
+    <summary>La presente edición reúne las dieciocho comedias y tragicomedias compuestas por William Shakespeare (1564-1616). En ella se recogen las traducciones de Ángel-Luis Pujante, reconocido especialista en Shakespeare, publicadas en la colección Austral, y se incluyen ocho traducciones inéditas: Los dos caballeros de Verona, Todo bien si acaba bien, Cimbelino (de Ángel-Luis Pujante), La fierecilla domada, Las alegres comadres de Windsor (de Salvador Oliva), Pericles (de Salvador Oliva y Ángel-Luis Puja...</summary>
+    <link href="../8f6fb6ff%40book_0/335ff6c3%40book_257.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>El mercader de Venecia &amp; Como gustéis</title>
+    <id>calibre:book:258</id>
+    <updated>2015-03-27T01:53:52Z</updated>
+    <link href="../8f6fb6ff@book_0/a3e0eb52@book_258_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/William%20Shakespeare/El%20mercader%20de%20Venecia%20%26%20Como%20gusteis%20%28258%29/El%20mercader%20de%20Venecia%20%26%20Como%20gusteis%20-%20William%20Shakespeare.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>William Shakespeare</name>
+      <uri>../8f6fb6ff@author_0/beacae01@author_97_Page_1.xml</uri>
+    </author>
+    <published>1622-12-31T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>ePubLibre</dcterms:publisher>
+    <category term="Teatro" />
+    <category term="Humor" />
+    <category term="Romántico" />
+    <category term="Lang:es" />
+    <summary>El mercader de Venecia y Como gustéis pertenecen al grupo de las llamadas «comedias románticas» de William Shakespeare. En ellas, con el amor como motor principal de la acción, los protagonistas alcanzan la solución feliz en un mundo alternativo de fantasía —Belmont, en El mercader de Venecia y el bosque de Arden en Como gustéis—, no sin antes haber tenido que enfrentarse a obstáculos materiales y humanos, estos últimos personificados en seres anticómicos o malvados —Shylock y Jaime—. Pero la va...</summary>
+    <link href="../8f6fb6ff%40book_0/a3e0eb52%40book_258.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>El rey Lear</title>
+    <id>calibre:book:250</id>
+    <updated>2015-03-27T01:53:51Z</updated>
+    <link href="../8f6fb6ff@book_0/ad3b6360@book_250_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/William%20Shakespeare/El%20rey%20Lear%20%28250%29/El%20rey%20Lear%20-%20William%20Shakespeare.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>William Shakespeare</name>
+      <uri>../8f6fb6ff@author_0/beacae01@author_97_Page_1.xml</uri>
+    </author>
+    <published>1607-12-31T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>ePubLibre</dcterms:publisher>
+    <category term="Teatro" />
+    <category term="Drama" />
+    <category term="Lang:es" />
+    <summary>El REY LEAR, de William Shakespeare, se basa en un cuento popular que aparece incorporado a la historia antigua de Inglaterra desde el siglo XII. Cuentan las crónicas que el viejo Lear quiso conocer el grado de afecto de sus tres hijas para designar sucesora a quien más le quisiera. Dos se deshicieron en halagos y la menor le contestó que le quería como padre y nada más. Le pareció poco al rey, que la castigó. El tiempo vendría a demostrar más tarde que era la única digna del trono que, por fin,...</summary>
+    <link href="../8f6fb6ff%40book_0/ad3b6360%40book_250.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>El sueño de una noche de verano</title>
+    <id>calibre:book:252</id>
+    <updated>2015-03-27T01:53:52Z</updated>
+    <link href="../8f6fb6ff@book_0/4335024c@book_252_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/William%20Shakespeare/El%20sueno%20de%20una%20noche%20de%20verano%20%28252%29/El%20sueno%20de%20una%20noche%20de%20verano%20-%20William%20Shakespeare.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>William Shakespeare</name>
+      <uri>../8f6fb6ff@author_0/beacae01@author_97_Page_1.xml</uri>
+    </author>
+    <published>1594-12-31T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>ePubLibre</dcterms:publisher>
+    <category term="Teatro" />
+    <category term="Humor" />
+    <category term="Lang:es" />
+    <summary>Esta comedia en cinco actos en verso y prosa de William Shakespeare fue escrita alrededor de 1595 y representada hacia la misma época. Los principales temas de esta obra son los sueños y la realidad, el amor y la magia. Esta comedia relata la historia de cinco parejas de enamorados que sufren y disfrutan por causa de su amor y de las argucias de sus enamorados. El trasfondo común se encuentra en las celebraciones de la boda entre el Duque Teseo y la reina de las amazonas Hipólita, anteriormente ...</summary>
+    <link href="../8f6fb6ff%40book_0/4335024c%40book_252.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Enrique IV Partes I y II</title>
+    <id>calibre:book:261</id>
+    <updated>2015-03-27T01:53:52Z</updated>
+    <link href="../8f6fb6ff@book_0/f1110035@book_261_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/William%20Shakespeare/Enrique%20IV%20Partes%20I%20y%20II%20%28261%29/Enrique%20IV%20Partes%20I%20y%20II%20-%20William%20Shakespeare.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>William Shakespeare</name>
+      <uri>../8f6fb6ff@author_0/beacae01@author_97_Page_1.xml</uri>
+    </author>
+    <published>1596-12-31T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>ePubLibre</dcterms:publisher>
+    <category term="Teatro" />
+    <category term="Histórico" />
+    <category term="Lang:es" />
+    <summary>Las dos partes de Enrique IV pertenecen a la segunda tetralogía de dramas históricos ingleses de Shakespeare (que comienza con Ricardo II y concluye con Enrique V). Si al escribir Ricardo II Shakespeare fue más allá de los avatares del juego político e indagó en la condición humana del rey y en el comportamiento de los hombres, en ENRIQUE IV no sólo avanzó más aún por esta senda, sino que incorporó por primera vez un decisivo ingrediente de comedia al drama histórico En pocas ocasiones planteó S...</summary>
+    <link href="../8f6fb6ff%40book_0/f1110035%40book_261.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Hamlet</title>
+    <id>calibre:book:253</id>
+    <updated>2015-03-27T01:53:52Z</updated>
+    <link href="../8f6fb6ff@book_0/343232da@book_253_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/William%20Shakespeare/Hamlet%20%28253%29/Hamlet%20-%20William%20Shakespeare.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>William Shakespeare</name>
+      <uri>../8f6fb6ff@author_0/beacae01@author_97_Page_1.xml</uri>
+    </author>
+    <published>1602-12-31T11:00:00Z</published>
+    <dcterms:language>eu</dcterms:language>
+    <dcterms:publisher>ePubLibre</dcterms:publisher>
+    <category term="Teatro" />
+    <category term="Drama" />
+    <category term="Lang:eu" />
+    <summary>Shakespearen tragedia honetan, Danimarkako erregea Klaudio bere anaiak hil du, eta ondoren tronua usurpatu eta hildakoaren alargunarekin, Gertrudis, ezkontzen da, ohiturak errespetatu gabe. Aitaren mamua Hamlet-eri agertzen zaio Elsinore-ko gazteluko harresian, delituaren inguruabarrak kontatzen dizkio eta mendekua eskatzen dio. Hamlet-ek obeditzea hitzematen du, baina bere natura malenkoniatsuak zalantzati egiten du eta akzioa atzeratzera behartzen du; bitartean erorena egiten du erregearen biz...</summary>
+    <link href="../8f6fb6ff%40book_0/343232da%40book_253.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Hamlet, Príncipe de Dinamarca</title>
+    <id>calibre:book:254</id>
+    <updated>2015-03-27T01:53:52Z</updated>
+    <link href="../8f6fb6ff@book_0/aa56a779@book_254_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/William%20Shakespeare/Hamlet%2C%20Principe%20de%20Dinamarca%20%28254%29/Hamlet%2C%20Principe%20de%20Dinamarca%20-%20William%20Shakespeare.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>William Shakespeare</name>
+      <uri>../8f6fb6ff@author_0/beacae01@author_97_Page_1.xml</uri>
+    </author>
+    <published>1602-12-31T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>ePubLibre</dcterms:publisher>
+    <category term="Teatro" />
+    <category term="Drama" />
+    <category term="Lang:es" />
+    <summary>Obra en la que el genio de William Shakespeare brilla con especial fuerza. La tragedia de Hamlet traza el admirable retrato de un legendario príncipe de Dinamarca soñador y contemplativo, sumido en dudas e irresoluciones, que, obligado a esclarecer los motivos que llevaron a la muerte de su padre, sucumbe ante la fatalidad de las circunstancias. Poblada por una abundante y compleja galería de personajes secundarios, la obra ha gozado de una constante vigencia a lo largo del tiempo, que ha hecho ...</summary>
+    <link href="../8f6fb6ff%40book_0/aa56a779%40book_254.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Julio César</title>
+    <id>calibre:book:259</id>
+    <updated>2015-03-27T01:53:52Z</updated>
+    <link href="../8f6fb6ff@book_0/d4e7dbc4@book_259_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/William%20Shakespeare/Julio%20Cesar%20%28259%29/Julio%20Cesar%20-%20William%20Shakespeare.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>William Shakespeare</name>
+      <uri>../8f6fb6ff@author_0/beacae01@author_97_Page_1.xml</uri>
+    </author>
+    <published>1598-12-31T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>ePubLibre</dcterms:publisher>
+    <category term="Teatro" />
+    <category term="Histórico" />
+    <category term="Lang:es" />
+    <summary>La obra se ambienta en el año 44 antes de nuestra era, y narra los acontecimientos que acompañaron la muerte del célebre militar y cónsul romano. La conspiración de varios personajes de alcurnia para asesinar a Julio César, el éxito del complot, y el posterior castigo de los culpables se abordan desde la perspectiva de Bruto. Éste personaje es también un militar destacado, que tiene una relación afectiva muy cercana con César (la amante del cónsul es la madre de Bruto), y se debate entre sus vín...</summary>
+    <link href="../8f6fb6ff%40book_0/d4e7dbc4%40book_259.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>La fierecilla domada</title>
+    <id>calibre:book:264</id>
+    <updated>2015-03-27T01:53:52Z</updated>
+    <link href="../8f6fb6ff@book_0/817bf4ba@book_264_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/William%20Shakespeare/La%20fierecilla%20domada%20%28264%29/La%20fierecilla%20domada%20-%20William%20Shakespeare.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>William Shakespeare</name>
+      <uri>../8f6fb6ff@author_0/beacae01@author_97_Page_1.xml</uri>
+    </author>
+    <published>2015-01-25T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>ePubLibre</dcterms:publisher>
+    <category term="Teatro" />
+    <category term="Humor" />
+    <category term="Lang:es" />
+    <summary>La obra se basa, en principio, en el carácter díscolo y malhumorado de Catalina Minola, mujer que ahuyenta, no pocas veces, a golpes a cuantos pretendientes se interesan por ella ante su padre. El asunto no tendría mayor transcendencia si no fuese porque, según la costumbre, el padre de Catalina, el rico mercader Bautista Minola, se niega a entregar en matrimonio a su hija menor, Blanca, hasta que no haya casado a la mayor; para desconsuelo de los ambiciosos aspirantes a su mano, Hortensio, Grem...</summary>
+    <link href="../8f6fb6ff%40book_0/817bf4ba%40book_264.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Las alegres comadres de Windsor</title>
+    <id>calibre:book:256</id>
+    <updated>2015-03-27T01:53:52Z</updated>
+    <link href="../8f6fb6ff@book_0/4458c655@book_256_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/William%20Shakespeare/Las%20alegres%20comadres%20de%20Windsor%20%28256%29/Las%20alegres%20comadres%20de%20Windsor%20-%20William%20Shakespeare.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>William Shakespeare</name>
+      <uri>../8f6fb6ff@author_0/beacae01@author_97_Page_1.xml</uri>
+    </author>
+    <published>1599-12-31T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>ePubLibre</dcterms:publisher>
+    <category term="Teatro" />
+    <category term="Humor" />
+    <category term="Drama" />
+    <category term="Lang:es" />
+    <summary>Falstaff llega a Windsor escaso de fondos. Para mejorar su situación financiera, decide cortejar a dos señoras bien casadas, mistress Ford y mistress Page. Escribe cartas de amor idénticas a ambas señoras, y pide a sus respectivos criados, Pistol y Nym, que las entreguen. Ellos se niegan, por lo que Falstaff les sacude. Como venganza, los criados informan a los maridos de las intenciones de Falstaff. El señor Page hace caso omiso, pero el celoso señor Ford decide averiguar por sí mismo los plane...</summary>
+    <link href="../8f6fb6ff%40book_0/4458c655%40book_256.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>La tempestad</title>
+    <id>calibre:book:265</id>
+    <updated>2015-03-27T01:53:52Z</updated>
+    <link href="../8f6fb6ff@book_0/f67cc42c@book_265_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/William%20Shakespeare/La%20tempestad%20%28265%29/La%20tempestad%20-%20William%20Shakespeare.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>William Shakespeare</name>
+      <uri>../8f6fb6ff@author_0/beacae01@author_97_Page_1.xml</uri>
+    </author>
+    <published>1611-10-31T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>ePubLibre</dcterms:publisher>
+    <category term="Teatro" />
+    <category term="Fantástico" />
+    <category term="Lang:es" />
+    <summary>Última obra teatral escrita en solitario por William Shakespeare; La tempestad pertenece a la serie de piezas de este autor que funden el ámbito de lo real con lo mágico y lo maravilloso. Próspero, duque legítimo de Milán, ha sido expulsado de su posición por su hermano y se encuentra en una isla desierta tras naufragar su buque. La obra comienza con una fuerte tormenta, desatada por Ariel (a mandato de Próspero), cuando adivina que su hermano Antonio viaja en un buque cerca de la isla en la que...</summary>
+    <link href="../8f6fb6ff%40book_0/f67cc42c%40book_265.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>La tragedia de Ricardo III</title>
+    <id>calibre:book:251</id>
+    <updated>2015-03-27T01:53:51Z</updated>
+    <link href="../8f6fb6ff@book_0/da3c53f6@book_251_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/William%20Shakespeare/La%20tragedia%20de%20Ricardo%20III%20%28251%29/La%20tragedia%20de%20Ricardo%20III%20-%20William%20Shakespeare.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>William Shakespeare</name>
+      <uri>../8f6fb6ff@author_0/beacae01@author_97_Page_1.xml</uri>
+    </author>
+    <published>1592-12-31T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>ePubLibre</dcterms:publisher>
+    <category term="Teatro" />
+    <category term="Histórico" />
+    <category term="Drama" />
+    <category term="Lang:es" />
+    <summary>Cierra la tetralogía que se completa con las tres partes de Enrique VI, siendo la obra más acertada de las cuatro. Narra la historia de la monarquía inglesa desde 1471 (muerte de Enrique VI) hasta 1485 (muerte de Ricardo III). El protagonista es dibujado como un asesino vil, deforme, ambicioso y corrupto. Gran parte de la trama se sitúa en el Palacio de Westminster en Londres (cuyo aspecto actual con la torre del reloj y albergando el parlamento es completamente diferente), aunque importantes es...</summary>
+    <link href="../8f6fb6ff%40book_0/da3c53f6%40book_251.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Luces de bohemia</title>
+    <id>calibre:book:210</id>
+    <updated>2015-03-27T01:53:46Z</updated>
+    <link href="../8f6fb6ff@book_0/c957a664@book_210_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Ramon%20Maria%20del%20Valle-Inclan/Luces%20de%20bohemia%20%28210%29/Luces%20de%20bohemia%20-%20Ramon%20Maria%20del%20Valle-Inclan.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>Ramón María del Valle-Inclán</name>
+      <uri>../8f6fb6ff@author_0/5728b319@author_76_Page_1.xml</uri>
+    </author>
+    <published>1924-04-22T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>ePubLibre</dcterms:publisher>
+    <category term="Teatro" />
+    <category term="Otros" />
+    <category term="Lang:es" />
+    <summary>Esperpento trágico de la vida literaria de la época. Al degradarse la realidad aparece la farsa y, en un segundo nivel, el esperpento; Los héroes clásicos reflejados en los espejos cóncavos dan el Esperpento, aclara Valle-Inclán. Aquí el espejo cóncavo es una conciencia dolorida, una conciencia moral que escandaliza o aterra. Resulta patético que quien vea la verdad sea un ciego, Max Estrella, soñador perdido en un Madrid absurdo y hambriento.</summary>
+    <link href="../8f6fb6ff%40book_0/c957a664%40book_210.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Macbeth</title>
+    <id>calibre:book:266</id>
+    <updated>2015-03-27T01:53:52Z</updated>
+    <link href="../8f6fb6ff@book_0/6f759596@book_266_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/William%20Shakespeare/Macbeth%20%28266%29/Macbeth%20-%20William%20Shakespeare.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>William Shakespeare</name>
+      <uri>../8f6fb6ff@author_0/beacae01@author_97_Page_1.xml</uri>
+    </author>
+    <published>1605-12-31T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>ePubLibre</dcterms:publisher>
+    <category term="Teatro" />
+    <category term="Drama" />
+    <category term="Lang:es" />
+    <summary>Una de las tragedias más conocidas de William Shakespeare. Macbeth es una obra tenebrosa e inquietante a la vez que vigorosa y fascinante, debido a su tratamiento dramático del mal, del mal que nace del ansia de poder. Macbeth cuenta la historia de un crimen y castigo, entreverada de brujería y elementos sobrenaturales, cuya acción vertiginosa mantiene el interés hasta el final. Pero una obra tan activa, es también profundamente introspectiva. En ella van paralelas la acción física con el torbel...</summary>
+    <link href="../8f6fb6ff%40book_0/6f759596%40book_266.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Mucho ruido y pocas nueces</title>
+    <id>calibre:book:262</id>
+    <updated>2015-03-27T01:53:52Z</updated>
+    <link href="../8f6fb6ff@book_0/6818518f@book_262_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/William%20Shakespeare/Mucho%20ruido%20y%20pocas%20nueces%20%28262%29/Mucho%20ruido%20y%20pocas%20nueces%20-%20William%20Shakespeare.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>William Shakespeare</name>
+      <uri>../8f6fb6ff@author_0/beacae01@author_97_Page_1.xml</uri>
+    </author>
+    <published>1597-12-31T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>ePubLibre</dcterms:publisher>
+    <category term="Teatro" />
+    <category term="Humor" />
+    <category term="Lang:es" />
+    <summary>Situada en su mayor parte en un amable marco de jardines, aposentos y fiestas cortesanas, la obra gira principalmente en torno a dos fuertes personajes enfrentados, Benedicto de Padua y Beatriz, adversarios irreconciliables y ambos tan ingeniosos, mordaces y sarcásticos como desdeñosos del amor. A lomos de una trama animada por los equívocos, las traiciones y los imprevistos, los enemigos jurados acaban sin embargo, para su propia sorpresa, en aquel lugar a donde se prometieron nunca ir a parar ...</summary>
+    <link href="../8f6fb6ff%40book_0/6818518f%40book_262.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Otelo</title>
+    <id>calibre:book:255</id>
+    <updated>2015-03-27T01:53:52Z</updated>
+    <link href="../8f6fb6ff@book_0/dd5197ef@book_255_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/William%20Shakespeare/Otelo%20%28255%29/Otelo%20-%20William%20Shakespeare.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>William Shakespeare</name>
+      <uri>../8f6fb6ff@author_0/beacae01@author_97_Page_1.xml</uri>
+    </author>
+    <published>1602-12-31T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>ePubLibre</dcterms:publisher>
+    <category term="Teatro" />
+    <category term="Drama" />
+    <category term="Lang:es" />
+    <summary>La historia original del moro de Venecia, de Gianbattista Cinthio (1565), sirvió a William Shakespeare para crear Otelo, la única de sus «grandes tragedias» basada en una obra de ficción. Contraviniendo la imagen isabelina del «moro», Shakespeare invierte los papeles de los protagonistas y otorga a Otelo el carácter de hombre noble y aristocrático, mientras que reserva para el italiano Yago la perversidad y la hipocresía, desarrollando en él uno de los estudios más profundos del mal. Otelo se re...</summary>
+    <link href="../8f6fb6ff%40book_0/dd5197ef%40book_255.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Romeo y Julieta</title>
+    <id>calibre:book:260</id>
+    <updated>2015-03-27T01:53:52Z</updated>
+    <link href="../8f6fb6ff@book_0/861630a3@book_260_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/William%20Shakespeare/Romeo%20y%20Julieta%20%28260%29/Romeo%20y%20Julieta%20-%20William%20Shakespeare.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>William Shakespeare</name>
+      <uri>../8f6fb6ff@author_0/beacae01@author_97_Page_1.xml</uri>
+    </author>
+    <published>1596-12-31T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>ePubLibre</dcterms:publisher>
+    <category term="Teatro" />
+    <category term="Drama" />
+    <category term="Lang:es" />
+    <summary>La historia de Romeo y Julieta tiene antecedentes en la mitología y literatura griegas y en algunas leyendas medievales. Durante los siglos XV y XVI fue objeto de múltiples versiones, pero fue Shakespeare quien le infundió una pasión y un dramatismo inéditos hasta entonces y que han contribuido a mantener la leyenda en la memoria colectiva. En Verona, dos jóvenes enamorados, de dos familias enemigas, son víctimas de una situación de odio y violencia que ni desean ni pueden remediar. Romeo, recié...</summary>
+    <link href="../8f6fb6ff%40book_0/861630a3%40book_260.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Trabajos de amor perdidos</title>
+    <id>calibre:book:263</id>
+    <updated>2015-03-27T01:53:52Z</updated>
+    <link href="../8f6fb6ff@book_0/1f1f6119@book_263_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/William%20Shakespeare/Trabajos%20de%20amor%20perdidos%20%28263%29/Trabajos%20de%20amor%20perdidos%20-%20William%20Shakespeare.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>William Shakespeare</name>
+      <uri>../8f6fb6ff@author_0/beacae01@author_97_Page_1.xml</uri>
+    </author>
+    <published>1594-12-31T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>ePubLibre</dcterms:publisher>
+    <category term="Teatro" />
+    <category term="Humor" />
+    <category term="Lang:es" />
+    <summary>El rey de Navarra pacta con sus tres vasallos dedicarse al estudio durante tres años, manteniendo una vida ascética que excluye el contacto con las mujeres. Pero la Princesa de Francia y su séquito llegan a la corte. Existe una subtrama protagonizada por un personaje español, el excéntrico Armado, cuyo paje se llama Moth. Se hacen acompañar de Costard, un torpe villano. Armado ama a Jaquineta. Otro grupo de personajes secundarios está formado por Holofernes, pedante maestro de escuela, el cura N...</summary>
+    <link href="../8f6fb6ff%40book_0/1f1f6119%40book_263.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>
+

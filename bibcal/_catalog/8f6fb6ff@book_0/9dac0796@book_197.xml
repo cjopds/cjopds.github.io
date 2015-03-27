@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>El sueño de Alicia</title>
+  <id>urn:book:40776b6a-44f4-47e3-925a-1aa852af9971</id>
+  <updated>2015-03-27T01:53:45Z</updated>
+  <link href="./9dac0796%40book_197.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="El sueño de Alicia" />
+  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Biblioteca de Calibre de CJ" />
+  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Biblioteca de Calibre de CJ" />
+  <link href="../8f6fb6ff%40authorlist/e8e4356e%40authorlist_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="9dac0796@book_197_cover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../8f6fb6ff@book_0/9dac0796@book_197_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Eduard%20Punset/El%20sueno%20de%20Alicia%20%28197%29/El%20sueno%20de%20Alicia%20-%20Eduard%20Punset.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+  <author>
+    <name>Eduard Punset</name>
+    <uri>../8f6fb6ff@author_0/de8c9fc9@author_69_Page_1.xml</uri>
+  </author>
+  <published>2013-09-16T10:00:00Z</published>
+  <dcterms:language>es</dcterms:language>
+  <dcterms:publisher>Ediciones Destino</dcterms:publisher>
+  <category term="Ciencias; tecnología y medicina" />
+  <category term="Ciencia" />
+  <category term="Lang:es" />
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      *****
+    </p>
+    <p>
+      <strong>Etiquetas:</strong>
+      Ciencias; tecnología y medicina, Ciencia, Lang:es
+    </p>
+    <p>
+      <strong>Published:</strong>
+      16 de septiembre de 2013
+    </p>
+    <p>
+      <strong>Sumario:</strong>
+    </p>
+    <div xmlns="">
+      <h3>Descripción del producto</h3>
+      <p>Alicia –«verdad», en griego– es el
+      personaje inseparable de Eduardo Punset en esta historia
+      apasionante sobre la vida y la ciencia que reúne el
+      legado científico y humanístico de personas sabias
+      con la osadía de romper barreras y desvelar
+      conocimientos que creíamos imposibles. Conocimientos que
+      logran sumergirnos en la arqueología de las emociones e
+      iluminar habitaciones secretas de nuestra mente. Ésta es
+      una obra llena de respuestas y de preguntas abiertas. Es
+      también una apuesta de esperanza y de futuro, avalada
+      por los últimos descubrimientos científicos, que
+      Eduardo Punset nos hace llegar a través de un
+      «sueño» donde a menudo ficción y realidad
+      se dan la mano.</p>
+      <h3>Biografía del autor</h3>
+      <p>(Barcelona, 1936) es el autor de divulgación
+      científica con más lectores en España.
+      Licenciado en Derecho por la Universidad de Madrid y
+      máster en Ciencias Económicas por la Universidad de
+      Londres, se estrenó como redactor en la BBC.
+      Ejerció como director económico para América
+      Latina de The Economist y colaboró con el FMI en Estados
+      Unidos y en Haití. Tuvo un destacado papel durante la
+      Transición, como alto cargo del primer Gobierno de la
+      democracia, ministro para las Comunidades Europeas con Adolfo
+      Suárez y consejero de Finanzas de la Generalitat con
+      Josep Tarradellas. Presidió la delegación del
+      Parlamento Europeo para Polonia, tras lo que ejerció
+      diversos cargos en la empresa pública y privada, entre
+      ellos presidente de la eléctrica Enher y subdirector
+      general de Estudios Económicos y Financieros del Banco
+      Hispanoamericano. Autor de numerosos libros, con más de
+      un millón de lectores, dirige y presenta desde hace
+      dieciséis años en TVE el programa Redes, un
+      referente de la comprensión pública de la ciencia.
+      Ha recibido, entre otros, el Premio Rey Jaime I de Periodismo
+      2006.</p>
+    </div>
+  </content>
+  <link href="../8f6fb6ff%40author_0/de8c9fc9%40author_69_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Libros de Eduard Punset" />
+  <link href="http://www.goodreads.com/book/title/El%20sue%C3%B1o%20de%20Alicia" type="text/html" rel="related" title="Este libro en Goodreads" />
+  <link href="http://es.wikipedia.org/wiki/El%20sue%C3%B1o%20de%20Alicia" type="text/html" rel="related" title="Este libro en Wikipedia" />
+  <link href="http://www.librarything.com/title/El%20sue%C3%B1o%20de%20Alicia%20Eduard%20Punset" type="text/html" rel="related" title="Este libro en LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=El%20sue%C3%B1o%20de%20Alicia&amp;field-author=Eduard%20Punset" type="text/html" rel="related" title="Este libro en Amazon" />
+  <link href="http://www.goodreads.com/book/author/Eduard%20Punset" type="text/html" rel="related" title="Eduard Punset en Goodreads" />
+  <link href="http://es.wikipedia.org/wiki/Eduard%20Punset" type="text/html" rel="related" title="Eduard Punset en Wikipedia" />
+  <link href="http://www.librarything.com/author/PunsetEduard" type="text/html" rel="related" title="Eduard Punset en LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Eduard%20Punset" type="text/html" rel="related" title="Eduard Punset en Amazon" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Eduard%20Punset" type="text/html" rel="related" title="Eduard Punset en ISFDB" />
+</entry>
+

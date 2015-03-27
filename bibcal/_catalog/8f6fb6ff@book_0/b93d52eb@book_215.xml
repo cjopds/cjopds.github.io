@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Estética de la música</title>
+  <id>urn:book:e5bd9d30-048c-4c3f-b923-2cd6a28bd949</id>
+  <updated>2015-03-27T01:53:46Z</updated>
+  <link href="./b93d52eb%40book_215.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Estética de la música" />
+  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Biblioteca de Calibre de CJ" />
+  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Biblioteca de Calibre de CJ" />
+  <link href="../8f6fb6ff%40authorlist/e8e4356e%40authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="b93d52eb@book_215_cover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../8f6fb6ff@book_0/b93d52eb@book_215_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Enrico%20Fubini/Estetica%20de%20la%20musica%20%28215%29/Estetica%20de%20la%20musica%20-%20Enrico%20Fubini.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+  <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Enrico%20Fubini/Estetica%20de%20la%20musica%20%28215%29/Estetica%20de%20la%20musica%20-%20Enrico%20Fubini.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Descargar este libro como PDF" />
+  <author>
+    <name>Enrico Fubini</name>
+    <uri>../8f6fb6ff@author_0/4ed43a75@author_81_Page_1.xml</uri>
+  </author>
+  <published>2008-06-30T10:00:00Z</published>
+  <dcterms:language>es</dcterms:language>
+  <dcterms:publisher>Antonio Machado Libros</dcterms:publisher>
+  <category term="Lang:es" />
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      Sin puntuación
+    </p>
+    <p>
+      <strong>Etiquetas:</strong>
+      Lang:es
+    </p>
+    <p>
+      <strong>Published:</strong>
+      30 de junio de 2008
+    </p>
+  </content>
+  <link href="../8f6fb6ff%40author_0/4ed43a75%40author_81_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Libros de Enrico Fubini" />
+  <link href="http://www.goodreads.com/book/title/Est%C3%A9tica%20de%20la%20m%C3%BAsica" type="text/html" rel="related" title="Este libro en Goodreads" />
+  <link href="http://es.wikipedia.org/wiki/Est%C3%A9tica%20de%20la%20m%C3%BAsica" type="text/html" rel="related" title="Este libro en Wikipedia" />
+  <link href="http://www.librarything.com/title/Est%C3%A9tica%20de%20la%20m%C3%BAsica%20Enrico%20Fubini" type="text/html" rel="related" title="Este libro en LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=Est%C3%A9tica%20de%20la%20m%C3%BAsica&amp;field-author=Enrico%20Fubini" type="text/html" rel="related" title="Este libro en Amazon" />
+  <link href="http://www.goodreads.com/book/author/Enrico%20Fubini" type="text/html" rel="related" title="Enrico Fubini en Goodreads" />
+  <link href="http://es.wikipedia.org/wiki/Enrico%20Fubini" type="text/html" rel="related" title="Enrico Fubini en Wikipedia" />
+  <link href="http://www.librarything.com/author/FubiniEnrico" type="text/html" rel="related" title="Enrico Fubini en LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Enrico%20Fubini" type="text/html" rel="related" title="Enrico Fubini en Amazon" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Enrico%20Fubini" type="text/html" rel="related" title="Enrico Fubini en ISFDB" />
+</entry>
+

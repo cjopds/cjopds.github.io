@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Sinsajo</title>
+  <id>urn:book:a44b2c27-46cc-471f-b6ec-5d10923e23e7</id>
+  <updated>2015-03-27T01:53:43Z</updated>
+  <link href="./8a8b06c8%40book_168.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Sinsajo" />
+  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Biblioteca de Calibre de CJ" />
+  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Biblioteca de Calibre de CJ" />
+  <link href="../8f6fb6ff%40authorlist/e8e4356e%40authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../8f6fb6ff%40author_0/62731582%40author_52_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Collins, Suzanne" />
+  <link href="8a8b06c8@book_168_cover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../8f6fb6ff@book_0/8a8b06c8@book_168_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Suzanne%20Collins/Sinsajo%20%28168%29/Sinsajo%20-%20Suzanne%20Collins.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+  <author>
+    <name>Suzanne Collins</name>
+    <uri>../8f6fb6ff@author_0/62731582@author_52_Page_1.xml</uri>
+  </author>
+  <author>
+    <name>Pilar Ramírez Tello</name>
+    <uri>../8f6fb6ff@author_0/8b10b0b7@author_54_Page_1.xml</uri>
+  </author>
+  <published>2012-03-20T11:00:00Z</published>
+  <dcterms:language>es</dcterms:language>
+  <dcterms:publisher>Molino</dcterms:publisher>
+  <category term="Fantasía; terror y ciencia ficción" />
+  <category term="Aventura" />
+  <category term="Ciencia Ficción" />
+  <category term="Infantil y Juvenil" />
+  <category term="Lang:es" />
+  <category term="Los Juegos del Hambre" />
+  <content type="text/html">
+    <p>
+      <strong>Series:</strong>
+      Libro 3 en la Los Juegos del Hambre serie
+    </p>
+    <p>
+      <strong>Rating:</strong>
+      ****
+    </p>
+    <p>
+      <strong>Etiquetas:</strong>
+      Fantasía; terror y ciencia ficción, Aventura, Ciencia Ficción, Infantil y Juvenil, Lang:es
+    </p>
+    <p>
+      <strong>Published:</strong>
+      20 de marzo de 2012
+    </p>
+    <p>
+      <strong>Sumario:</strong>
+    </p>
+    <div xmlns="">
+      <h3>Reseña del editor</h3>
+      <p>Katnis Everdeen ha sobrevivido dos veces a Los juegos del
+      hambre, pero no está a salvo. La revolución se
+      extiende y, al parecer, todos han tenido algo que ver en el
+      meticuloso plan, todos excepto Katniss. Aun así su papel
+      en la batalla final es el más importante de todos.
+      Katniss debe convertirse en el Sinsajo, en el símbolo de
+      la rebelión... a cualquier precio. ¡Que empiecen
+      los septuagésimo sextos juegos del hambre!</p>
+      <h3>Biografía del autor</h3>
+      <p>Suzanne Collins ha cosechado un rotundo éxito con la
+      trilogía Los juegos del hambre (Los juegos del hambre,
+      En llamas, Sinsajo) y ha alcanzado las primeras posiciones en
+      la lista de los más vendidos en Estados Unidos y en todo
+      el mundo. Ha recibido innumerables críticas positivas
+      así como multitud de elogios y galardones. La serie ha
+      sido traducida a más de 40 idiomas, el primer libro ya
+      se ha adaptado a la gran pantalla y se prepara el estreno
+      mundial de la segunda película. También es la
+      autora de la saga de fantasía Gregor (Gregor. Las
+      Tierras Bajas, Gregor. La Segunda Profecía, Gregor. La
+      Gran Plaga, Gregor. El Oscuro Secreto y Gregor. La
+      Profecía Final) y de Un año en la selva, un
+      álbum ilustrado autobiográfico basado en su propia
+      infancia, publicados también por RBA Molino.</p>
+    </div>
+  </content>
+  <link href="../8f6fb6ff%40series_0/e46d9694%40series_6_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Libro 3 en la Los Juegos del Hambre serie" />
+  <link href="../8f6fb6ff%40author_0/62731582%40author_52_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Libros de Suzanne Collins" />
+  <link href="../8f6fb6ff%40author_0/8b10b0b7%40author_54_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Libros de Pilar Ramírez Tello" />
+  <link href="http://www.goodreads.com/book/title/Sinsajo" type="text/html" rel="related" title="Este libro en Goodreads" />
+  <link href="http://es.wikipedia.org/wiki/Sinsajo" type="text/html" rel="related" title="Este libro en Wikipedia" />
+  <link href="http://www.librarything.com/title/Sinsajo%20Suzanne%20Collins" type="text/html" rel="related" title="Este libro en LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=Sinsajo&amp;field-author=Suzanne%20Collins" type="text/html" rel="related" title="Este libro en Amazon" />
+  <link href="http://www.goodreads.com/book/author/Suzanne%20Collins" type="text/html" rel="related" title="Suzanne Collins en Goodreads" />
+  <link href="http://www.goodreads.com/book/author/Pilar%20Ram%C3%ADrez%20Tello" type="text/html" rel="related" title="Pilar Ramírez Tello en Goodreads" />
+  <link href="http://es.wikipedia.org/wiki/Suzanne%20Collins" type="text/html" rel="related" title="Suzanne Collins en Wikipedia" />
+  <link href="http://es.wikipedia.org/wiki/Pilar%20Ram%C3%ADrez%20Tello" type="text/html" rel="related" title="Pilar Ramírez Tello en Wikipedia" />
+  <link href="http://www.librarything.com/author/CollinsSuzanne" type="text/html" rel="related" title="Suzanne Collins en LibraryThing" />
+  <link href="http://www.librarything.com/author/Ram%C3%ADrezTelloPilar" type="text/html" rel="related" title="Pilar Ramírez Tello en LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Suzanne%20Collins" type="text/html" rel="related" title="Suzanne Collins en Amazon" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Pilar%20Ram%C3%ADrez%20Tello" type="text/html" rel="related" title="Pilar Ramírez Tello en Amazon" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Suzanne%20Collins" type="text/html" rel="related" title="Suzanne Collins en ISFDB" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Pilar%20Ram%C3%ADrez%20Tello" type="text/html" rel="related" title="Pilar Ramírez Tello en ISFDB" />
+</entry>
+

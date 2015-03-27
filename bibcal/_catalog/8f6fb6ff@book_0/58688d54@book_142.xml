@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Nadie es más que nadie</title>
+  <id>urn:book:ede9a7a0-29f5-4913-a6b2-d4e5d1db3f59</id>
+  <updated>2015-03-27T01:53:42Z</updated>
+  <link href="./58688d54%40book_142.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Nadie es más que nadie" />
+  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Biblioteca de Calibre de CJ" />
+  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Biblioteca de Calibre de CJ" />
+  <link href="../8f6fb6ff%40authorlist/e8e4356e%40authorlist_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="58688d54@book_142_cover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../8f6fb6ff@book_0/58688d54@book_142_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Miguel%20Angel%20Revilla/Nadie%20es%20mas%20que%20nadie%20%28142%29/Nadie%20es%20mas%20que%20nadie%20-%20Miguel%20Angel%20Revilla.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+  <author>
+    <name>Miguel Ángel Revilla</name>
+    <uri>../8f6fb6ff@author_0/d4fc5b1a@author_38_Page_1.xml</uri>
+  </author>
+  <published>2012-04-02T10:00:00Z</published>
+  <dcterms:language>es</dcterms:language>
+  <category term="Biografía" />
+  <category term="Política" />
+  <category term="Lang:es" />
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      Sin puntuación
+    </p>
+    <p>
+      <strong>Etiquetas:</strong>
+      Biografía, Política, Lang:es
+    </p>
+    <p>
+      <strong>Published:</strong>
+      2 de abril de 2012
+    </p>
+    <p>
+      <strong>Sumario:</strong>
+    </p>
+    <p xmlns="">El muchacho listucu que en los años cincuenta
+    pastoreaba ovejas en las laderas de Peña Labra se
+    convertiría en 2003 en presidente de Cantabria. Esta es su
+    historia. Y nos la cuenta con ese estilo único que lo ha
+    hecho popular y querido, con sentido del humor y naturalidad.
+    Miguel Ángel Revilla nos dibuja una España de penuria
+    y esfuerzo que ya no existe. Y relata con viveza cómo, con
+    tesón, animado por el amor a la tierra que lo vio nacer,
+    consiguió alcanzar las más altas responsabilidades.
+    La semblanza que traza en estas páginas de personalidades
+    como el rey Juan Carlos, José María Aznar, José
+    Luis Rodríguez Zapatero o Emilio Botín huye de lo
+    convencional y nos descubre la cara más humana y terrenal
+    del poder. Pero Revilla describe también, de forma
+    hilarante a veces, sus relaciones con los taxistas, sus
+    «meteduras de pata» en la boda del Príncipe
+    Felipe, su colaboración con Andreu Buenafuente…
+    Cuando aborda los temas que más preocupan, no se muerde la
+    lengua: fustiga con dureza a los «listos» que han
+    provocado la crisis económica y denuncia con crudeza y sin
+    reservas a quienes han enfangado una actividad tan noble y
+    vocacional como la política. Pocos dirigentes, y menos
+    aún en activo, se han atrevido a un ejercicio de
+    sinceridad como el que recorre estas páginas. Pocos son
+    los que tienen la chispa y la habilidad narradora de Miguel
+    Ángel Revilla.</p>
+  </content>
+  <link href="../8f6fb6ff%40author_0/d4fc5b1a%40author_38_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Libros de Miguel Ángel Revilla" />
+  <link href="http://www.goodreads.com/book/title/Nadie%20es%20m%C3%A1s%20que%20nadie" type="text/html" rel="related" title="Este libro en Goodreads" />
+  <link href="http://es.wikipedia.org/wiki/Nadie%20es%20m%C3%A1s%20que%20nadie" type="text/html" rel="related" title="Este libro en Wikipedia" />
+  <link href="http://www.librarything.com/title/Nadie%20es%20m%C3%A1s%20que%20nadie%20Miguel%20%C3%81ngel%20Revilla" type="text/html" rel="related" title="Este libro en LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=Nadie%20es%20m%C3%A1s%20que%20nadie&amp;field-author=Miguel%20%C3%81ngel%20Revilla" type="text/html" rel="related" title="Este libro en Amazon" />
+  <link href="http://www.goodreads.com/book/author/Miguel%20%C3%81ngel%20Revilla" type="text/html" rel="related" title="Miguel Ángel Revilla en Goodreads" />
+  <link href="http://es.wikipedia.org/wiki/Miguel%20%C3%81ngel%20Revilla" type="text/html" rel="related" title="Miguel Ángel Revilla en Wikipedia" />
+  <link href="http://www.librarything.com/author/RevillaMiguel%C3%81ngel" type="text/html" rel="related" title="Miguel Ángel Revilla en LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Miguel%20%C3%81ngel%20Revilla" type="text/html" rel="related" title="Miguel Ángel Revilla en Amazon" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Miguel%20%C3%81ngel%20Revilla" type="text/html" rel="related" title="Miguel Ángel Revilla en ISFDB" />
+</entry>
+

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>El amor en los tiempos del cólera</title>
+  <id>urn:book:115fa74e-2ef3-4536-aa27-8458207b986a</id>
+  <updated>2015-03-27T01:53:46Z</updated>
+  <link href="./c44aa6ae%40book_245.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="El amor en los tiempos del cólera" />
+  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Biblioteca de Calibre de CJ" />
+  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Biblioteca de Calibre de CJ" />
+  <link href="../8f6fb6ff%40authorlist/e8e4356e%40authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="c44aa6ae@book_245_cover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../8f6fb6ff@book_0/c44aa6ae@book_245_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Gabriel%20Garcia%20Marquez/El%20amor%20en%20los%20tiempos%20del%20colera%20%28245%29/El%20amor%20en%20los%20tiempos%20del%20colera%20-%20Gabriel%20Garcia%20Marquez.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+  <author>
+    <name>Gabriel García Márquez</name>
+    <uri>../8f6fb6ff@author_0/b0909e1e@author_78_Page_1.xml</uri>
+  </author>
+  <published>1984-12-31T11:00:00Z</published>
+  <dcterms:language>es</dcterms:language>
+  <dcterms:publisher>ePubLibre</dcterms:publisher>
+  <category term="Novela" />
+  <category term="Romántico" />
+  <category term="Drama" />
+  <category term="Lang:es" />
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      Sin puntuación
+    </p>
+    <p>
+      <strong>Etiquetas:</strong>
+      Novela, Romántico, Drama, Lang:es
+    </p>
+    <p>
+      <strong>Published:</strong>
+      31 de diciembre de 1984
+    </p>
+    <p>
+      <strong>Sumario:</strong>
+    </p>
+    <p xmlns="">
+      En este relato infinitamente seductor, Gabriel García
+    Márquez narra la obsesión del deseo con un arrebato
+    que lo aparta de sus grandes novelas anteriores y a la vez lo
+    acerca a ellas. A la circularidad del tiempo en Macondo, al
+    enclaustramiento del tirano aislado en su poder demencial,
+    sucede ahora la vigencia imbatible del deseo, ahincado en
+    sí mismo. Un deseo que avanza hacia su origen en un
+    movimiento que no cesa. Como el movimiento del barco
+      <i>Nueva Fidelidad</i>
+      , que seguirá yendo y viniendo "toda
+    la vida". Son las palabras que cierran, reanudándola, esta
+    historia de amor.
+    </p>
+  </content>
+  <link href="../8f6fb6ff%40author_0/b0909e1e%40author_78_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Libros de Gabriel García Márquez" />
+  <link href="http://www.goodreads.com/book/title/El%20amor%20en%20los%20tiempos%20del%20c%C3%B3lera" type="text/html" rel="related" title="Este libro en Goodreads" />
+  <link href="http://es.wikipedia.org/wiki/El%20amor%20en%20los%20tiempos%20del%20c%C3%B3lera" type="text/html" rel="related" title="Este libro en Wikipedia" />
+  <link href="http://www.librarything.com/title/El%20amor%20en%20los%20tiempos%20del%20c%C3%B3lera%20Gabriel%20Garc%C3%ADa%20M%C3%A1rquez" type="text/html" rel="related" title="Este libro en LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=El%20amor%20en%20los%20tiempos%20del%20c%C3%B3lera&amp;field-author=Gabriel%20Garc%C3%ADa%20M%C3%A1rquez" type="text/html" rel="related" title="Este libro en Amazon" />
+  <link href="http://www.goodreads.com/book/author/Gabriel%20Garc%C3%ADa%20M%C3%A1rquez" type="text/html" rel="related" title="Gabriel García Márquez en Goodreads" />
+  <link href="http://es.wikipedia.org/wiki/Gabriel%20Garc%C3%ADa%20M%C3%A1rquez" type="text/html" rel="related" title="Gabriel García Márquez en Wikipedia" />
+  <link href="http://www.librarything.com/author/M%C3%A1rquezGabrielGarc%C3%ADa" type="text/html" rel="related" title="Gabriel García Márquez en LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Gabriel%20Garc%C3%ADa%20M%C3%A1rquez" type="text/html" rel="related" title="Gabriel García Márquez en Amazon" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Gabriel%20Garc%C3%ADa%20M%C3%A1rquez" type="text/html" rel="related" title="Gabriel García Márquez en ISFDB" />
+</entry>
+

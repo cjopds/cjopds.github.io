@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>El ingenioso hidalgo Don Quijote de la Mancha</title>
+  <id>urn:book:ff3cc0cf-7c89-42cc-9348-01ffe2c76463</id>
+  <updated>2015-03-27T01:53:44Z</updated>
+  <link href="./b8bd644a%40book_148.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="El ingenioso hidalgo Don Quijote de la Mancha" />
+  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Biblioteca de Calibre de CJ" />
+  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Biblioteca de Calibre de CJ" />
+  <link href="../8f6fb6ff%40authorlist/e8e4356e%40authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="b8bd644a@book_148_cover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../8f6fb6ff@book_0/b8bd644a@book_148_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Miguel%20de%20Cervantes%20Saavedra/El%20ingenioso%20hidalgo%20Don%20Quijote%20de%20la%20Mancha%20%28148%29/El%20ingenioso%20hidalgo%20Don%20Quijote%20de%20la%20Man%20-%20Miguel%20de%20Cervantes%20Saavedra.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+  <author>
+    <name>Miguel de Cervantes Saavedra</name>
+    <uri>../8f6fb6ff@author_0/7b6824c3@author_42_Page_1.xml</uri>
+  </author>
+  <published>1605-04-11T11:00:00Z</published>
+  <dcterms:language>es</dcterms:language>
+  <dcterms:publisher>Feedbooks</dcterms:publisher>
+  <category term="Ficción" />
+  <category term="Novela" />
+  <category term="Lang:es" />
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      Sin puntuación
+    </p>
+    <p>
+      <strong>Etiquetas:</strong>
+      Ficción, Novela, Lang:es
+    </p>
+    <p>
+      <strong>Published:</strong>
+      11 de abril de 1605
+    </p>
+    <p>
+      <strong>Sumario:</strong>
+    </p>
+    <p xmlns="">Don Quijote de la Mancha, escrito por Miguel de Cervantes
+    Saavedra, editado en 1605, es una de las obras más
+    destacadas de la literatura española y la literatura
+    universal, y una de las más traducidas</p>
+    <br xmlns="" />
+    <br xmlns="" />
+    <p xmlns="">La novela consta de dos partes: la primera, El ingenioso
+    hidalgo don Quijote de la Mancha, fue publicada en 1605; la
+    segunda, El ingenioso caballero don Quijote de la Mancha, en
+    1615.</p>
+    <br xmlns="" />
+    <br xmlns="" />
+    <br xmlns="" />
+    <br xmlns="" />
+    <p xmlns="">http://es.wikipedia.org/wiki/Don_Quijote_de_la_Mancha</p>
+  </content>
+  <link href="../8f6fb6ff%40author_0/7b6824c3%40author_42_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Libros de Miguel de Cervantes Saavedra" />
+  <link href="http://www.goodreads.com/book/title/El%20ingenioso%20hidalgo%20Don%20Quijote%20de%20la%20Mancha" type="text/html" rel="related" title="Este libro en Goodreads" />
+  <link href="http://es.wikipedia.org/wiki/El%20ingenioso%20hidalgo%20Don%20Quijote%20de%20la%20Mancha" type="text/html" rel="related" title="Este libro en Wikipedia" />
+  <link href="http://www.librarything.com/title/El%20ingenioso%20hidalgo%20Don%20Quijote%20de%20la%20Mancha%20Miguel%20de%20Cervantes%20Saavedra" type="text/html" rel="related" title="Este libro en LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=El%20ingenioso%20hidalgo%20Don%20Quijote%20de%20la%20Mancha&amp;field-author=Miguel%20de%20Cervantes%20Saavedra" type="text/html" rel="related" title="Este libro en Amazon" />
+  <link href="http://www.goodreads.com/book/author/Miguel%20de%20Cervantes%20Saavedra" type="text/html" rel="related" title="Miguel de Cervantes Saavedra en Goodreads" />
+  <link href="http://es.wikipedia.org/wiki/Miguel%20de%20Cervantes%20Saavedra" type="text/html" rel="related" title="Miguel de Cervantes Saavedra en Wikipedia" />
+  <link href="http://www.librarything.com/author/CervantesSaavedraMiguel" type="text/html" rel="related" title="Miguel de Cervantes Saavedra en LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Miguel%20de%20Cervantes%20Saavedra" type="text/html" rel="related" title="Miguel de Cervantes Saavedra en Amazon" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Miguel%20de%20Cervantes%20Saavedra" type="text/html" rel="related" title="Miguel de Cervantes Saavedra en ISFDB" />
+</entry>
+

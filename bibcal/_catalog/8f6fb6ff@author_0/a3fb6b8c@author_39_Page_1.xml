@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:opds="http://opds-spec.org/2010/catalog">
+  <title>Saramago, José</title>
+  <id>Calibre2opds:author:39</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./a3fb6b8c%40author_39_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Saramago, José" />
+  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Biblioteca de Calibre de CJ" />
+  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Biblioteca de Calibre de CJ" />
+  <link href="../8f6fb6ff%40authorlist/e8e4356e%40authorlist_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <entry>
+    <title>Caín</title>
+    <id>calibre:book:143</id>
+    <updated>2015-03-27T01:53:42Z</updated>
+    <link href="../8f6fb6ff@book_0/2f6fbdc2@book_143_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Jose%20Saramago/Cain%20%28143%29/Cain%20-%20Jose%20Saramago.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>José Saramago</name>
+      <uri>../8f6fb6ff@author_0/a3fb6b8c@author_39_Page_1.xml</uri>
+    </author>
+    <published>2008-12-31T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <category term="Narrativa" />
+    <category term="Lang:es" />
+    <summary>Qué diablo de Dios es éste que, para enaltecer a Abel, desprecia a Caín. Si en El Evangelio según Jesucristo José Saramago nos dio su visión del Nuevo Testamento, en Caín regresa a los primeros libros de la Biblia. En un itinerario heterodoxo, recorre ciudades decadentes y establos, palacios de tiranos y campos de batalla de la mano de los principales protagonistas del Antiguo Testamento, imprimiéndole la música y el humor refinado que caracterizan su obra. Caín pone de manifiesto lo que hay de ...</summary>
+    <link href="../8f6fb6ff%40book_0/2f6fbdc2%40book_143.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>El evangelio según Jesucristo</title>
+    <id>calibre:book:144</id>
+    <updated>2015-03-27T01:53:42Z</updated>
+    <link href="../8f6fb6ff@book_0/b10b2861@book_144_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Jose%20Saramago/El%20evangelio%20segun%20Jesucristo%20%28144%29/El%20evangelio%20segun%20Jesucristo%20-%20Jose%20Saramago.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>José Saramago</name>
+      <uri>../8f6fb6ff@author_0/a3fb6b8c@author_39_Page_1.xml</uri>
+    </author>
+    <published>1990-12-31T04:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <category term="Lang:es" />
+    <summary>En palabras del propio autor, El Evangelio según Jesucristo "es como una relectura de los evangelios, es como un viaje al origen de una religión". Narrada en tercera persona y centrada de modo particular en las etapas y zonas de la vida de Jesucristo acerca de las que procuran menos información los textos evangélicos, la presente novela ha sido acogida del modo más favorable por la crítica en virtud de su vigor y pujanza literaria.</summary>
+    <link href="../8f6fb6ff%40book_0/b10b2861%40book_144.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Ensayo sobre la ceguera</title>
+    <id>calibre:book:247</id>
+    <updated>2015-03-27T01:53:42Z</updated>
+    <link href="../8f6fb6ff@book_0/2a44c782@book_247_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Jose%20Saramago/Ensayo%20sobre%20la%20ceguera%20%28247%29/Ensayo%20sobre%20la%20ceguera%20-%20Jose%20Saramago.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>José Saramago</name>
+      <uri>../8f6fb6ff@author_0/a3fb6b8c@author_39_Page_1.xml</uri>
+    </author>
+    <published>1994-12-31T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>ePubLibre</dcterms:publisher>
+    <category term="Novela" />
+    <category term="Drama" />
+    <category term="Lang:es" />
+    <summary>Un hombre parado ante un semáforo en rojo se queda ciego súbitamente. Es el primer caso de una «ceguera blanca» que se expande de manera fulminante. Internados en cuarentena o perdidos en la ciudad, los ciegos tendrán que enfrentarse con lo que existe de más primitivo en la naturaleza humana: la voluntad de sobrevivir a cualquier precio. Ensayo sobre la ceguera es la ficción de un autor que nos alerta sobre «la responsabilidad de tener ojos cuando otros los perdieron». José Saramago traza en est...</summary>
+    <link href="../8f6fb6ff%40book_0/2a44c782%40book_247.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>
+

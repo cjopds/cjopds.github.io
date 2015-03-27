@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:opds="http://opds-spec.org/2010/catalog">
+  <title>Ficción</title>
+  <id>Calibre2opds:taglist:F:96</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./850c0e9d%40tag_96_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Ficción" />
+  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Biblioteca de Calibre de CJ" />
+  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Biblioteca de Calibre de CJ" />
+  <link href="../8f6fb6ff%40taglist/87d7be0%40taglist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="etiquetas" />
+  <link href="../8f6fb6ff%40taglist/87d7be0%40taglist_F_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Etiquetas que empiezan por F" />
+  <entry>
+    <title>El conde de montecristo</title>
+    <id>calibre:book:149</id>
+    <updated>2015-03-27T01:53:42Z</updated>
+    <link href="../8f6fb6ff@book_0/cfba54dc@book_149_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Alexandre%20Dumas/El%20conde%20de%20montecristo%20%28149%29/El%20conde%20de%20montecristo%20-%20Alexandre%20Dumas.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>Alexandre Dumas</name>
+      <uri>../8f6fb6ff@author_0/c6f1455@author_43_Page_1.xml</uri>
+    </author>
+    <published>1845-04-11T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Feedbooks</dcterms:publisher>
+    <category term="Ficción" />
+    <category term="Acción y Aventura" />
+    <category term="Lang:es" />
+    <summary>Novela de aventuras que tiene lugar en Francia, Italia y varias islas del Mediterráneo entre 1814 y 1838. La historia esta basada en las memorias de Jacques Peuchet, quien escribió sobre un zapatero llamado François Picaud.</summary>
+    <link href="../8f6fb6ff%40book_0/cfba54dc%40book_149.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>El ingenioso hidalgo Don Quijote de la Mancha</title>
+    <id>calibre:book:148</id>
+    <updated>2015-03-27T01:53:44Z</updated>
+    <link href="../8f6fb6ff@book_0/b8bd644a@book_148_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Miguel%20de%20Cervantes%20Saavedra/El%20ingenioso%20hidalgo%20Don%20Quijote%20de%20la%20Mancha%20%28148%29/El%20ingenioso%20hidalgo%20Don%20Quijote%20de%20la%20Man%20-%20Miguel%20de%20Cervantes%20Saavedra.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>Miguel de Cervantes Saavedra</name>
+      <uri>../8f6fb6ff@author_0/7b6824c3@author_42_Page_1.xml</uri>
+    </author>
+    <published>1605-04-11T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Feedbooks</dcterms:publisher>
+    <category term="Ficción" />
+    <category term="Novela" />
+    <category term="Lang:es" />
+    <summary>Don Quijote de la Mancha, escrito por Miguel de Cervantes Saavedra, editado en 1605, es una de las obras más destacadas de la literatura española y la literatura universal, y una de las más traducidas
+
+La novela consta de dos partes: la primera, El ingenioso hidalgo don Quijote de la Mancha, fue publicada en 1605; la segunda, El ingenioso caballero don Quijote de la Mancha, en 1615.
+
+
+http://es.wikipedia.org/wiki/Don_Quijote_de_la_Mancha</summary>
+    <link href="../8f6fb6ff%40book_0/b8bd644a%40book_148.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Las aventuras de Sherlock Holmes</title>
+    <id>calibre:book:147</id>
+    <updated>2015-03-27T01:53:42Z</updated>
+    <link href="../8f6fb6ff@book_0/280279db@book_147_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Arthur%20Conan%20Doyle/Las%20aventuras%20de%20Sherlock%20Holmes%20%28147%29/Las%20aventuras%20de%20Sherlock%20Holmes%20-%20Arthur%20Conan%20Doyle.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>Arthur Conan Doyle</name>
+      <uri>../8f6fb6ff@author_0/e2617579@author_41_Page_1.xml</uri>
+    </author>
+    <published>1892-04-11T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Feedbooks</dcterms:publisher>
+    <category term="Ficción" />
+    <category term="Policiacas y de misterio" />
+    <category term="Historias cortas" />
+    <category term="Lang:es" />
+    <summary>Las Aventuras de Sherlock Holmes es un libro que recopila cuentos policíacos escritos por Sir Arthur Conan Doyle en donde el protagonista es su celebre detective privado "Sherlock Holmes". El libro original fue ilustrado por Sidney Paget. Aquí se cuentan las primeras aventuras de Sherlock Holmes.</summary>
+    <link href="../8f6fb6ff%40book_0/280279db%40book_147.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>
+

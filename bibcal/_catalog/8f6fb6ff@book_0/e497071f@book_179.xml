@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>La batalla del laberinto</title>
+  <id>urn:book:464721f6-a7bd-44ca-ad1b-a2a5e21646c0</id>
+  <updated>2015-03-27T01:53:43Z</updated>
+  <link href="./e497071f%40book_179.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="La batalla del laberinto" />
+  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Biblioteca de Calibre de CJ" />
+  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Biblioteca de Calibre de CJ" />
+  <link href="../8f6fb6ff%40authorlist/e8e4356e%40authorlist_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../8f6fb6ff%40author_0/82a6fc9c%40author_58_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Riordan, Rick" />
+  <link href="e497071f@book_179_cover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../8f6fb6ff@book_0/e497071f@book_179_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Rick%20Riordan/La%20batalla%20del%20laberinto%20%28179%29/La%20batalla%20del%20laberinto%20-%20Rick%20Riordan.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+  <author>
+    <name>Rick Riordan</name>
+    <uri>../8f6fb6ff@author_0/82a6fc9c@author_58_Page_1.xml</uri>
+  </author>
+  <published>2008-05-05T10:32:05Z</published>
+  <dcterms:language>es</dcterms:language>
+  <dcterms:publisher>Salamandra</dcterms:publisher>
+  <category term="Fantasía; terror y ciencia ficción" />
+  <category term="Infantil y Juvenil" />
+  <category term="Aventura" />
+  <category term="Fantástico" />
+  <category term="Lang:es" />
+  <category term="Percy Jackson y los dioses del Olimpo" />
+  <content type="text/html">
+    <p>
+      <strong>Series:</strong>
+      Libro 4 en la Percy Jackson y los dioses del Olimpo serie
+    </p>
+    <p>
+      <strong>Rating:</strong>
+      *****
+    </p>
+    <p>
+      <strong>Etiquetas:</strong>
+      Fantasía; terror y ciencia ficción, Infantil y Juvenil, Aventura, Fantástico, Lang:es
+    </p>
+    <p>
+      <strong>Published:</strong>
+      5 de mayo de 2008
+    </p>
+    <p>
+      <strong>Sumario:</strong>
+    </p>
+    <p xmlns="" class="description">Percy Jackson no espera que la
+    orientación de primer año sera nada divertido, pero
+    cuando un conocido mortal misterioso aparece, perseguido por
+    porristas demonios, las cosas rápidamente van de mal en
+    peor. El tiempo se agota para Percy. La guerra entre los dioses
+    y los titanes se acerca. Ni siquiera el Campamento para
+    semidioses es seguro, cuando el ejército de Kronos se
+    prepara para invadir sus fronteras, una vez es impenetrable.
+    Para detenerlos, Percy y sus amigos deberán figurar en una
+    búsqueda a través del laberinto - un mundo inmenso en
+    un laberinto subterráneo lleno de sorpresas y peligros a
+    cada paso. En el camino se enfrentará a poderosos
+    enemigos, descubrirá la verdad sobre la pérdida del
+    dios Pan, y el señor Titan descubrira un secreto terrible
+    de Kronos. La guerra final comienza... con la batalla del
+    laberinto.</p>
+  </content>
+  <link href="../8f6fb6ff%40series_0/936aa602%40series_7_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Libro 4 en la Percy Jackson y los dioses del Olimpo serie" />
+  <link href="../8f6fb6ff%40author_0/82a6fc9c%40author_58_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Libros de Rick Riordan" />
+  <link href="http://www.goodreads.com/book/title/La%20batalla%20del%20laberinto" type="text/html" rel="related" title="Este libro en Goodreads" />
+  <link href="http://es.wikipedia.org/wiki/La%20batalla%20del%20laberinto" type="text/html" rel="related" title="Este libro en Wikipedia" />
+  <link href="http://www.librarything.com/title/La%20batalla%20del%20laberinto%20Rick%20Riordan" type="text/html" rel="related" title="Este libro en LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=La%20batalla%20del%20laberinto&amp;field-author=Rick%20Riordan" type="text/html" rel="related" title="Este libro en Amazon" />
+  <link href="http://www.goodreads.com/book/author/Rick%20Riordan" type="text/html" rel="related" title="Rick Riordan en Goodreads" />
+  <link href="http://es.wikipedia.org/wiki/Rick%20Riordan" type="text/html" rel="related" title="Rick Riordan en Wikipedia" />
+  <link href="http://www.librarything.com/author/RiordanRick" type="text/html" rel="related" title="Rick Riordan en LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Rick%20Riordan" type="text/html" rel="related" title="Rick Riordan en Amazon" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Rick%20Riordan" type="text/html" rel="related" title="Rick Riordan en ISFDB" />
+</entry>
+

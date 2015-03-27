@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Especiales</title>
+  <id>urn:book:629380d2-04cb-43de-a82b-3c1e500b9e98</id>
+  <updated>2015-03-27T01:53:45Z</updated>
+  <link href="./833d4ae3%40book_164.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Especiales" />
+  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Biblioteca de Calibre de CJ" />
+  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Biblioteca de Calibre de CJ" />
+  <link href="../8f6fb6ff%40authorlist/e8e4356e%40authorlist_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../8f6fb6ff%40author_0/b926d235%40author_74_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Westerfeld, Scott" />
+  <link href="833d4ae3@book_164_cover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../8f6fb6ff@book_0/833d4ae3@book_164_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Scott%20Westerfeld/Especiales%20%28164%29/Especiales%20-%20Scott%20Westerfeld.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+  <author>
+    <name>Scott Westerfeld</name>
+    <uri>../8f6fb6ff@author_0/b926d235@author_74_Page_1.xml</uri>
+  </author>
+  <published>0101-01-01T00:00:00Z</published>
+  <dcterms:language>es</dcterms:language>
+  <dcterms:publisher>Montena</dcterms:publisher>
+  <category term="Ciencia Ficción" />
+  <category term="Romántica" />
+  <category term="Lang:es" />
+  <category term="Uglies" />
+  <content type="text/html">
+    <p>
+      <strong>Series:</strong>
+      Libro 3 en la Uglies serie
+    </p>
+    <p>
+      <strong>Rating:</strong>
+      Sin puntuación
+    </p>
+    <p>
+      <strong>Etiquetas:</strong>
+      Ciencia Ficción, Romántica, Lang:es
+    </p>
+    <p>
+      <strong>Published:</strong>
+      1 de enero de 0101
+    </p>
+    <p>
+      <strong>Sumario:</strong>
+    </p>
+    <font xmlns="" class="Apple-style-span" face="'MS Shell Dlg 2', sans-serif">
+      <span class="Apple-style-span" style="font-size: 12px;">Tally
+      se ha unido a Circunstancias Especiales y ahora está
+      programada para vencer a la resistencia... Ya hace mucho
+      tiempo que Tally dejó de ser una una imperfecta rebelde
+      e indisciplinada. Por aquel entonces, ella aún
+      creía que los especiales eran solo un rumor siniestro y
+      aterrador: de ellos se decía que eran veloces,
+      atractivos y crueles como nadie. Irónicamente, el
+      destino ha llevado a Tally a convertirse en especial y, tras
+      someterse a la más sofisticada de las operaciones
+      quirúrgicas, ha perdido muchos de los recuerdos de su
+      pasado. Sin embargo, cuando la doctora Cable le asigna la
+      misión de acabar con la resistencia, Tally se ve
+      obligada a escuchar una voz que le habla desde lo más
+      hondo de su corazón, donde todavía laten memorias
+      imborrables.</span>
+    </font>
+  </content>
+  <link href="../8f6fb6ff%40series_0/7d64c72e%40series_5_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Libro 3 en la Uglies serie" />
+  <link href="../8f6fb6ff%40author_0/b926d235%40author_74_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Libros de Scott Westerfeld" />
+  <link href="http://www.goodreads.com/book/title/Especiales" type="text/html" rel="related" title="Este libro en Goodreads" />
+  <link href="http://es.wikipedia.org/wiki/Especiales" type="text/html" rel="related" title="Este libro en Wikipedia" />
+  <link href="http://www.librarything.com/title/Especiales%20Scott%20Westerfeld" type="text/html" rel="related" title="Este libro en LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=Especiales&amp;field-author=Scott%20Westerfeld" type="text/html" rel="related" title="Este libro en Amazon" />
+  <link href="http://www.goodreads.com/book/author/Scott%20Westerfeld" type="text/html" rel="related" title="Scott Westerfeld en Goodreads" />
+  <link href="http://es.wikipedia.org/wiki/Scott%20Westerfeld" type="text/html" rel="related" title="Scott Westerfeld en Wikipedia" />
+  <link href="http://www.librarything.com/author/WesterfeldScott" type="text/html" rel="related" title="Scott Westerfeld en LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Scott%20Westerfeld" type="text/html" rel="related" title="Scott Westerfeld en Amazon" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Scott%20Westerfeld" type="text/html" rel="related" title="Scott Westerfeld en ISFDB" />
+</entry>
+

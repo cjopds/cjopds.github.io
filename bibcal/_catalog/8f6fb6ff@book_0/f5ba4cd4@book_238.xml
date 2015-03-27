@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>La naranja mecánica</title>
+  <id>urn:book:a444280b-7d80-4626-a913-4f81ed059bab</id>
+  <updated>2015-03-27T01:53:51Z</updated>
+  <link href="./f5ba4cd4%40book_238.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="La naranja mecánica" />
+  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Biblioteca de Calibre de CJ" />
+  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Biblioteca de Calibre de CJ" />
+  <link href="../8f6fb6ff%40authorlist/e8e4356e%40authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="f5ba4cd4@book_238_cover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../8f6fb6ff@book_0/f5ba4cd4@book_238_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Anthony%20Burgess/La%20naranja%20mecanica%20%28238%29/La%20naranja%20mecanica%20-%20Anthony%20Burgess.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+  <author>
+    <name>Anthony Burgess</name>
+    <uri>../8f6fb6ff@author_0/370882d1@author_88_Page_1.xml</uri>
+  </author>
+  <published>1961-12-31T11:00:00Z</published>
+  <dcterms:language>es</dcterms:language>
+  <dcterms:publisher>ePubLibre</dcterms:publisher>
+  <category term="Novela" />
+  <category term="Ciencia Ficción" />
+  <category term="Lang:es" />
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      Sin puntuación
+    </p>
+    <p>
+      <strong>Etiquetas:</strong>
+      Novela, Ciencia Ficción, Lang:es
+    </p>
+    <p>
+      <strong>Published:</strong>
+      31 de diciembre de 1961
+    </p>
+    <p>
+      <strong>Sumario:</strong>
+    </p>
+    <p xmlns="">Anthony Burgess fue un famoso escritor y compositor
+    británico cuya obra más famosa fue la novela La
+    naranja mecánica publicada en 1962. La historia está
+    inspirada por un incidente vivido por el autor durante la
+    Segunda Guerra Mundial, cuando él y su mujer fueron
+    asaltados en 1944, siendo la esposa del propio Burgess
+    víctima de robo y violación por parte de cuatro
+    soldados estadounidenses en las calles londinenses. Dado que se
+    encontraba embarazada, la paliza le provocó un aborto. El
+    libro trata sobre la libre voluntad y la moral, y la
+    manipulación de los individuos por fuerzas como los
+    sistemas políticos, la represión, y como estas
+    conllevan a la corrupción del ser humano. La naranja
+    mecánica cuenta la historia del nadsat-adolescente Alex y
+    sus tres drugosamigos en un mundo de crueldad y
+    destrucción. Alex tiene los principales atributos humanos:
+    amor a la agresión, amor al lenguaje, amor a la belleza.
+    Pero es joven y no ha entendido aún la verdadera
+    importancia de la libertad, la que disfruta de un modo
+    violento. En cierto sentido vive en el edén, y sólo
+    cuando cae, como en verdad le ocurre, desde una ventana, parece
+    capaz de llegar a transformarse en un verdadero ser humano.
+    Esta novela fue llevada al cine en 1971, de la mano del
+    director Stanley Kubrick, en un polémico film
+    protagonizado por Malcolm McDowell, que le dió vida al
+    carismático y psicopático delincuente Alex De
+    Large.</p>
+  </content>
+  <link href="../8f6fb6ff%40author_0/370882d1%40author_88_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Libros de Anthony Burgess" />
+  <link href="http://www.goodreads.com/book/title/La%20naranja%20mec%C3%A1nica" type="text/html" rel="related" title="Este libro en Goodreads" />
+  <link href="http://es.wikipedia.org/wiki/La%20naranja%20mec%C3%A1nica" type="text/html" rel="related" title="Este libro en Wikipedia" />
+  <link href="http://www.librarything.com/title/La%20naranja%20mec%C3%A1nica%20Anthony%20Burgess" type="text/html" rel="related" title="Este libro en LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=La%20naranja%20mec%C3%A1nica&amp;field-author=Anthony%20Burgess" type="text/html" rel="related" title="Este libro en Amazon" />
+  <link href="http://www.goodreads.com/book/author/Anthony%20Burgess" type="text/html" rel="related" title="Anthony Burgess en Goodreads" />
+  <link href="http://es.wikipedia.org/wiki/Anthony%20Burgess" type="text/html" rel="related" title="Anthony Burgess en Wikipedia" />
+  <link href="http://www.librarything.com/author/BurgessAnthony" type="text/html" rel="related" title="Anthony Burgess en LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Anthony%20Burgess" type="text/html" rel="related" title="Anthony Burgess en Amazon" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Anthony%20Burgess" type="text/html" rel="related" title="Anthony Burgess en ISFDB" />
+</entry>
+

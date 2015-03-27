@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:opds="http://opds-spec.org/2010/catalog">
+  <title>Libros que empiezan por G</title>
+  <id>Calibre2opds:allbooks:G</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./c67a4b73%40allbooks_G_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Libros que empiezan por G" />
+  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Biblioteca de Calibre de CJ" />
+  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Biblioteca de Calibre de CJ" />
+  <link href="./c67a4b73%40allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Todos los libros" />
+  <entry>
+    <title>Gente Tóxica</title>
+    <id>calibre:book:183</id>
+    <updated>2015-03-27T01:53:43Z</updated>
+    <link href="../8f6fb6ff@book_0/83daf2ce@book_183_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Bernardo%20Stamateas/Gente%20Toxica%20%28183%29/Gente%20Toxica%20-%20Bernardo%20Stamateas.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>Bernardo Stamateas</name>
+      <uri>../8f6fb6ff@author_0/f5a1cc0a@author_59_Page_1.xml</uri>
+    </author>
+    <published>2008-01-05T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <category term="Divulgación" />
+    <category term="Autoayuda" />
+    <category term="Lang:es" />
+    <summary>Gente tóxica. Descalificador o chismoso, agresivo o falso, cualquiera de estos tipos se enmarcan en una raza mayor denominada “gente tóxica” y que el psicólogo Bernardo Stamateas describe con maestría en un libro que muchos deberían consultar.En nuestra vida cotidiana no podemos evitar encontrarnos con personas problemáticas. Jefes autoritarios y descalificadores, vecinos quejosos, compañeros de trabajo o estudio envidiosos, parientes que siempre nos echan la culpa de todo, hombres y mujeres arr...</summary>
+    <link href="../8f6fb6ff%40book_0/83daf2ce%40book_183.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Los girasoles ciegos</title>
+    <id>calibre:book:211</id>
+    <updated>2015-03-27T01:53:46Z</updated>
+    <link href="../8f6fb6ff@book_0/be5096f2@book_211_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Alberto%20Mendez/Los%20girasoles%20ciegos%20%28211%29/Los%20girasoles%20ciegos%20-%20Alberto%20Mendez.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>Alberto Méndez</name>
+      <uri>../8f6fb6ff@author_0/202f838f@author_77_Page_1.xml</uri>
+    </author>
+    <published>2003-12-31T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>ePubLibre</dcterms:publisher>
+    <category term="Novela" />
+    <category term="Drama" />
+    <category term="Lang:es" />
+    <summary>La guerra civil española se convierte en la pluma de Alberto Méndez en una colección de susurros, de historias contadas por fin con la boca abierta, sin eufemismos, y que desnudan fundamentalmente una inquietante verdad: después de toda aquella devastadora carnicería no hubo rastro de victoria alguna, no existió presunto héroe que no hubiese sido fatalmente derrotado. Los rumores broncos y las sílabas miedosas de aquel período forman en Los girasoles ciegos un pentagrama frágil, cuajado de notas...</summary>
+    <link href="../8f6fb6ff%40book_0/be5096f2%40book_211.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>
+

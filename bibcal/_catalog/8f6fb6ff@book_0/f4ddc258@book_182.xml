@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>El ladrón del rayo</title>
+  <id>urn:book:b240591a-2068-4873-998e-3a409e1d57ca</id>
+  <updated>2015-03-27T01:53:43Z</updated>
+  <link href="./f4ddc258%40book_182.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="El ladrón del rayo" />
+  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Biblioteca de Calibre de CJ" />
+  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Biblioteca de Calibre de CJ" />
+  <link href="../8f6fb6ff%40authorlist/e8e4356e%40authorlist_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../8f6fb6ff%40author_0/82a6fc9c%40author_58_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Riordan, Rick" />
+  <link href="f4ddc258@book_182_cover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../8f6fb6ff@book_0/f4ddc258@book_182_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Rick%20Riordan/El%20ladron%20del%20rayo%20%28182%29/El%20ladron%20del%20rayo%20-%20Rick%20Riordan.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+  <author>
+    <name>Rick Riordan</name>
+    <uri>../8f6fb6ff@author_0/82a6fc9c@author_58_Page_1.xml</uri>
+  </author>
+  <published>2005-06-30T10:00:00Z</published>
+  <dcterms:language>es</dcterms:language>
+  <dcterms:publisher>Salamandra</dcterms:publisher>
+  <category term="Fantástico" />
+  <category term="Infantil y Juvenil" />
+  <category term="Lang:es" />
+  <category term="Percy Jackson y los dioses del Olimpo" />
+  <content type="text/html">
+    <p>
+      <strong>Series:</strong>
+      Libro 1 en la Percy Jackson y los dioses del Olimpo serie
+    </p>
+    <p>
+      <strong>Rating:</strong>
+      Sin puntuación
+    </p>
+    <p>
+      <strong>Etiquetas:</strong>
+      Fantástico, Infantil y Juvenil, Lang:es
+    </p>
+    <p>
+      <strong>Published:</strong>
+      30 de junio de 2005
+    </p>
+    <p>
+      <strong>Sumario:</strong>
+    </p>
+    <p xmlns="" class="description">¿Qué pasaría si los
+    dioses del Olimpo estan vivos en el siglo 21? ¿Y si
+    aún se enamoraran de los mortales y que los
+    niños-héroes podrían llegar a ser grandes, como
+    Teseo, Jasón y Hércules?. ¿Qué pasa si tu
+    fueras uno de esos niños?. Tal es el descubrimiento que a
+    los doce años de edad, Percy Jackson, se lanza en la
+    búsqueda más peligroso de su vida. Con la ayuda de un
+    sátiro y una hija de Atenea, Percy viaja a través de
+    los Estados Unidos para atrapar a un ladrón que ha robado
+    el arma original de destrucción masiva - el rayo- del
+    maestro de Zeus. En el camino, debe enfrentar una gran cantidad
+    de enemigos mitológicos decididos a detenerlo. Por encima
+    de todo, debe llegar a un acuerdo con un padre que nunca
+    conoció, y una Oraculo que le ha advertido de la
+    traición de un amigo.</p>
+  </content>
+  <link href="../8f6fb6ff%40series_0/936aa602%40series_7_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Libro 1 en la Percy Jackson y los dioses del Olimpo serie" />
+  <link href="../8f6fb6ff%40author_0/82a6fc9c%40author_58_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Libros de Rick Riordan" />
+  <link href="http://www.goodreads.com/book/title/El%20ladr%C3%B3n%20del%20rayo" type="text/html" rel="related" title="Este libro en Goodreads" />
+  <link href="http://es.wikipedia.org/wiki/El%20ladr%C3%B3n%20del%20rayo" type="text/html" rel="related" title="Este libro en Wikipedia" />
+  <link href="http://www.librarything.com/title/El%20ladr%C3%B3n%20del%20rayo%20Rick%20Riordan" type="text/html" rel="related" title="Este libro en LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=El%20ladr%C3%B3n%20del%20rayo&amp;field-author=Rick%20Riordan" type="text/html" rel="related" title="Este libro en Amazon" />
+  <link href="http://www.goodreads.com/book/author/Rick%20Riordan" type="text/html" rel="related" title="Rick Riordan en Goodreads" />
+  <link href="http://es.wikipedia.org/wiki/Rick%20Riordan" type="text/html" rel="related" title="Rick Riordan en Wikipedia" />
+  <link href="http://www.librarything.com/author/RiordanRick" type="text/html" rel="related" title="Rick Riordan en LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Rick%20Riordan" type="text/html" rel="related" title="Rick Riordan en Amazon" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Rick%20Riordan" type="text/html" rel="related" title="Rick Riordan en ISFDB" />
+</entry>
+

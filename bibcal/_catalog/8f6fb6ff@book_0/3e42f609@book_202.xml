@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Eclipse</title>
+  <id>urn:book:2d619b94-07a9-49d5-a965-2c4b045c2128</id>
+  <updated>2015-03-27T01:53:45Z</updated>
+  <link href="./3e42f609%40book_202.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Eclipse" />
+  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Biblioteca de Calibre de CJ" />
+  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Biblioteca de Calibre de CJ" />
+  <link href="../8f6fb6ff%40authorlist/e8e4356e%40authorlist_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../8f6fb6ff%40author_0/50457700%40author_72_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Meyer, Stephenie" />
+  <link href="3e42f609@book_202_cover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../8f6fb6ff@book_0/3e42f609@book_202_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Stephenie%20Meyer/Eclipse%20%28202%29/Eclipse%20-%20Stephenie%20Meyer.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+  <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Stephenie%20Meyer/Eclipse%20%28202%29/Eclipse%20-%20Stephenie%20Meyer.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Descargar este libro como PDF" />
+  <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Stephenie%20Meyer/Eclipse%20%28202%29/Eclipse%20-%20Stephenie%20Meyer.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Descargar este libro como MOBI" />
+  <author>
+    <name>Stephenie Meyer</name>
+    <uri>../8f6fb6ff@author_0/50457700@author_72_Page_1.xml</uri>
+  </author>
+  <published>2008-11-19T11:00:00Z</published>
+  <dcterms:language>es</dcterms:language>
+  <dcterms:publisher>Alfaguara</dcterms:publisher>
+  <category term="Infantil y Juvenil" />
+  <category term="Literatura y narrativa" />
+  <category term="Lang:es" />
+  <category term="Crepúsculo" />
+  <content type="text/html">
+    <p>
+      <strong>Series:</strong>
+      Libro 3 en la Crepúsculo serie
+    </p>
+    <p>
+      <strong>Rating:</strong>
+      *****
+    </p>
+    <p>
+      <strong>Etiquetas:</strong>
+      Infantil y Juvenil, Literatura y narrativa, Lang:es
+    </p>
+    <p>
+      <strong>Published:</strong>
+      19 de noviembre de 2008
+    </p>
+    <p>
+      <strong>Sumario:</strong>
+    </p>
+    <div xmlns="">
+      <h3>Reseña del editor</h3>
+      <p>«De pronto, saltó una chispa de intuición
+      en aquel silencio sepulcral y encajaron todos los detalles.
+      Algo que Edward no quería que supiera. Algo que Jacob no
+      me hubiera ocultado. Algo que había hecho que los Cullen
+      y los licántropos anduvieran juntos por los bosques en
+      una peligrosa proximidad.»</p>
+      <h3>Biografía del autor</h3>
+      <p>Stephenie Meyer nació en Connecticut en 1973. Su
+      familia se trasladó a Phoenix (Arizona) cuando ella
+      tenía cuatro años. Su particular nombre (Stephenie
+      en vez de Stephanie) viene del nombre de su padre, que se
+      llamaba Stephen y decidió añadirle las letras
+      «ie» para convertirlo en nombre de chica. Fue al
+      instituto de Scottsdale, Arizona, donde fue galardonada con
+      el Premio Nacional al Mérito Escolar, que usó para
+      pagar su ingreso en la Universidad Brigham Young, en Utah,
+      donde se graduó en Literatura Inglesa. Su saga de
+      vampiros Crepúsculo, Luna nueva, Eclipse y Amanecer ha
+      arrasado en todo el mundo, vendiendo millones de ejemplares y
+      atrayendo a lectores de todas las edades. Muchos
+      periódicos la han proclamado ya como la sucesora de J.
+      K. Rowling.</p>
+    </div>
+  </content>
+  <link href="../8f6fb6ff%40series_0/4c1c732d%40series_10_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Libro 3 en la Crepúsculo serie" />
+  <link href="../8f6fb6ff%40author_0/50457700%40author_72_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Libros de Stephenie Meyer" />
+  <link href="http://www.goodreads.com/book/title/Eclipse" type="text/html" rel="related" title="Este libro en Goodreads" />
+  <link href="http://es.wikipedia.org/wiki/Eclipse" type="text/html" rel="related" title="Este libro en Wikipedia" />
+  <link href="http://www.librarything.com/title/Eclipse%20Stephenie%20Meyer" type="text/html" rel="related" title="Este libro en LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=Eclipse&amp;field-author=Stephenie%20Meyer" type="text/html" rel="related" title="Este libro en Amazon" />
+  <link href="http://www.goodreads.com/book/author/Stephenie%20Meyer" type="text/html" rel="related" title="Stephenie Meyer en Goodreads" />
+  <link href="http://es.wikipedia.org/wiki/Stephenie%20Meyer" type="text/html" rel="related" title="Stephenie Meyer en Wikipedia" />
+  <link href="http://www.librarything.com/author/MeyerStephenie" type="text/html" rel="related" title="Stephenie Meyer en LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Stephenie%20Meyer" type="text/html" rel="related" title="Stephenie Meyer en Amazon" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Stephenie%20Meyer" type="text/html" rel="related" title="Stephenie Meyer en ISFDB" />
+</entry>
+

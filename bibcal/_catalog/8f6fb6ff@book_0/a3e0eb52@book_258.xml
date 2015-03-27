@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>El mercader de Venecia &amp; Como gustéis</title>
+  <id>urn:book:aaf06294-1e78-48b4-9657-f69d71a4e4e8</id>
+  <updated>2015-03-27T01:53:52Z</updated>
+  <link href="./a3e0eb52%40book_258.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="El mercader de Venecia &amp; Como gustéis" />
+  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Biblioteca de Calibre de CJ" />
+  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Biblioteca de Calibre de CJ" />
+  <link href="../8f6fb6ff%40authorlist/e8e4356e%40authorlist_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="a3e0eb52@book_258_cover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../8f6fb6ff@book_0/a3e0eb52@book_258_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/William%20Shakespeare/El%20mercader%20de%20Venecia%20%26%20Como%20gusteis%20%28258%29/El%20mercader%20de%20Venecia%20%26%20Como%20gusteis%20-%20William%20Shakespeare.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+  <author>
+    <name>William Shakespeare</name>
+    <uri>../8f6fb6ff@author_0/beacae01@author_97_Page_1.xml</uri>
+  </author>
+  <published>1622-12-31T11:00:00Z</published>
+  <dcterms:language>es</dcterms:language>
+  <dcterms:publisher>ePubLibre</dcterms:publisher>
+  <category term="Teatro" />
+  <category term="Humor" />
+  <category term="Romántico" />
+  <category term="Lang:es" />
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      Sin puntuación
+    </p>
+    <p>
+      <strong>Etiquetas:</strong>
+      Teatro, Humor, Romántico, Lang:es
+    </p>
+    <p>
+      <strong>Published:</strong>
+      31 de diciembre de 1622
+    </p>
+    <p>
+      <strong>Sumario:</strong>
+    </p>
+    <p xmlns="">El mercader de Venecia y Como gustéis pertenecen al
+    grupo de las llamadas «comedias románticas» de
+    William Shakespeare. En ellas, con el amor como motor principal
+    de la acción, los protagonistas alcanzan la solución
+    feliz en un mundo alternativo de fantasía —Belmont,
+    en El mercader de Venecia y el bosque de Arden en Como
+    gustéis—, no sin antes haber tenido que enfrentarse
+    a obstáculos materiales y humanos, estos últimos
+    personificados en seres anticómicos o malvados
+    —Shylock y Jaime—. Pero la variedad de tonos de
+    estas comedias no permite encerrarlas en una sola fórmula
+    dramática. El traductor y preparador de esta edición,
+    Ángel-Luis Pujante, nos previene en su Introducción
+    contra cualquier lectura simplista de estas obras, desvelando
+    las ironías, ambigüedades y sutilezas de El mercader
+    de Venecia, así como el carácter anticonvencional de
+    Como gustéis, en la que, a través de un excelente
+    ejercicio literario, Shakespeare expresa con gran
+    sabiduría la teatralidad de la vida.</p>
+  </content>
+  <link href="../8f6fb6ff%40author_0/beacae01%40author_97_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Libros de William Shakespeare" />
+  <link href="http://www.goodreads.com/book/title/El%20mercader%20de%20Venecia%20%26%20Como%20gust%C3%A9is" type="text/html" rel="related" title="Este libro en Goodreads" />
+  <link href="http://es.wikipedia.org/wiki/El%20mercader%20de%20Venecia%20%26%20Como%20gust%C3%A9is" type="text/html" rel="related" title="Este libro en Wikipedia" />
+  <link href="http://www.librarything.com/title/El%20mercader%20de%20Venecia%20%26%20Como%20gust%C3%A9is%20William%20Shakespeare" type="text/html" rel="related" title="Este libro en LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=El%20mercader%20de%20Venecia%20%26%20Como%20gust%C3%A9is&amp;field-author=William%20Shakespeare" type="text/html" rel="related" title="Este libro en Amazon" />
+  <link href="http://www.goodreads.com/book/author/William%20Shakespeare" type="text/html" rel="related" title="William Shakespeare en Goodreads" />
+  <link href="http://es.wikipedia.org/wiki/William%20Shakespeare" type="text/html" rel="related" title="William Shakespeare en Wikipedia" />
+  <link href="http://www.librarything.com/author/ShakespeareWilliam" type="text/html" rel="related" title="William Shakespeare en LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=William%20Shakespeare" type="text/html" rel="related" title="William Shakespeare en Amazon" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?William%20Shakespeare" type="text/html" rel="related" title="William Shakespeare en ISFDB" />
+</entry>
+

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>No sonrías que me enamoro</title>
+  <id>urn:book:4aa02b1f-bf5d-4f28-bfb8-f48e81ab23b8</id>
+  <updated>2015-03-27T01:53:45Z</updated>
+  <link href="./4a5562c%40book_194.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="No sonrías que me enamoro" />
+  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Biblioteca de Calibre de CJ" />
+  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Biblioteca de Calibre de CJ" />
+  <link href="../8f6fb6ff%40authorlist/e8e4356e%40authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../8f6fb6ff%40author_0/a98baf5f%40author_68_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Jeans, Blue" />
+  <link href="4a5562c@book_194_cover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../8f6fb6ff@book_0/4a5562c@book_194_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Blue%20Jeans/No%20sonrias%20que%20me%20enamoro%20%28194%29/No%20sonrias%20que%20me%20enamoro%20-%20Blue%20Jeans.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Descargar este libro como PDF" />
+  <author>
+    <name>Blue Jeans</name>
+    <uri>../8f6fb6ff@author_0/a98baf5f@author_68_Page_1.xml</uri>
+  </author>
+  <published>0101-01-01T00:00:00Z</published>
+  <dcterms:language>es</dcterms:language>
+  <dcterms:publisher>Grupo Planeta</dcterms:publisher>
+  <category term="Lang:es" />
+  <category term="El Club de los Incomprendidos" />
+  <content type="text/html">
+    <p>
+      <strong>Series:</strong>
+      Libro 2 en la El Club de los Incomprendidos serie
+    </p>
+    <p>
+      <strong>Rating:</strong>
+      Sin puntuación
+    </p>
+    <p>
+      <strong>Etiquetas:</strong>
+      Lang:es
+    </p>
+    <p>
+      <strong>Published:</strong>
+      1 de enero de 0101
+    </p>
+  </content>
+  <link href="../8f6fb6ff%40series_0/3d5bb93%40series_8_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Libro 2 en la El Club de los Incomprendidos serie" />
+  <link href="../8f6fb6ff%40author_0/a98baf5f%40author_68_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Libros de Blue Jeans" />
+  <link href="http://www.goodreads.com/book/title/No%20sonr%C3%ADas%20que%20me%20enamoro" type="text/html" rel="related" title="Este libro en Goodreads" />
+  <link href="http://es.wikipedia.org/wiki/No%20sonr%C3%ADas%20que%20me%20enamoro" type="text/html" rel="related" title="Este libro en Wikipedia" />
+  <link href="http://www.librarything.com/title/No%20sonr%C3%ADas%20que%20me%20enamoro%20Blue%20Jeans" type="text/html" rel="related" title="Este libro en LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=No%20sonr%C3%ADas%20que%20me%20enamoro&amp;field-author=Blue%20Jeans" type="text/html" rel="related" title="Este libro en Amazon" />
+  <link href="http://www.goodreads.com/book/author/Blue%20Jeans" type="text/html" rel="related" title="Blue Jeans en Goodreads" />
+  <link href="http://es.wikipedia.org/wiki/Blue%20Jeans" type="text/html" rel="related" title="Blue Jeans en Wikipedia" />
+  <link href="http://www.librarything.com/author/JeansBlue" type="text/html" rel="related" title="Blue Jeans en LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Blue%20Jeans" type="text/html" rel="related" title="Blue Jeans en Amazon" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Blue%20Jeans" type="text/html" rel="related" title="Blue Jeans en ISFDB" />
+</entry>
+

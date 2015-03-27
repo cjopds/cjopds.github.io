@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Traición</title>
+  <id>urn:book:57283904-5706-49c9-9189-8bc2653ab197</id>
+  <updated>2015-03-27T01:53:46Z</updated>
+  <link href="./6d332bcf%40book_166.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Traición" />
+  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Biblioteca de Calibre de CJ" />
+  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Biblioteca de Calibre de CJ" />
+  <link href="../8f6fb6ff%40authorlist/e8e4356e%40authorlist_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../8f6fb6ff%40author_0/b926d235%40author_74_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Westerfeld, Scott" />
+  <link href="6d332bcf@book_166_cover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../8f6fb6ff@book_0/6d332bcf@book_166_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Scott%20Westerfeld/Traicion%20%28166%29/Traicion%20-%20Scott%20Westerfeld.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+  <author>
+    <name>Scott Westerfeld</name>
+    <uri>../8f6fb6ff@author_0/b926d235@author_74_Page_1.xml</uri>
+  </author>
+  <published>0101-01-01T00:00:00Z</published>
+  <dcterms:language>es</dcterms:language>
+  <dcterms:publisher>Montena</dcterms:publisher>
+  <category term="Ciencia Ficción" />
+  <category term="Romántica" />
+  <category term="Lang:es" />
+  <category term="Uglies" />
+  <content type="text/html">
+    <p>
+      <strong>Series:</strong>
+      Libro 1 en la Uglies serie
+    </p>
+    <p>
+      <strong>Rating:</strong>
+      Sin puntuación
+    </p>
+    <p>
+      <strong>Etiquetas:</strong>
+      Ciencia Ficción, Romántica, Lang:es
+    </p>
+    <p>
+      <strong>Published:</strong>
+      1 de enero de 0101
+    </p>
+    <p>
+      <strong>Sumario:</strong>
+    </p>
+    <font xmlns="" class="Apple-style-span" face="'MS Shell Dlg 2', sans-serif">
+      <span class="Apple-style-span" style="font-size: 12px;">Como
+      todos los chicos y las chicas de su edad, Tally espera con
+      impaciencia cumplir los 16 años, porque a esa edad se
+      someterá a una intervención quirúrgica que la
+      convertirá en perfecta. Su transformación, sin
+      embargo, se ve amenazada cuando su amiga Shay huye para
+      unirse a la resistencia, un grupo de disidentes que no
+      quieren someterse a la operación y que viven en El Humo,
+      una ciudad clandestina. Tras la huida de Shay, las
+      autoridades le ofrecen a Tally una disyuntiva. Tally no
+      está dispuesta a renunciar a la belleza y por eso acepta
+      el trato. Tras una agotadora semana de viaje, Tally encuentra
+      el lugar donde se esconden los disidentes y conoce a David,
+      de quien se enamora. Gracias a él, Tally descubre que
+      tras la fachada de la belleza y la perfección se esconde
+      un oscuro secreto. Un secreto que supone una extraordinaria
+      arma de poder para las autoridades y que, de salir a la luz,
+      podría cambiar el mundo para siempre...</span>
+    </font>
+  </content>
+  <link href="../8f6fb6ff%40series_0/7d64c72e%40series_5_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Libro 1 en la Uglies serie" />
+  <link href="../8f6fb6ff%40author_0/b926d235%40author_74_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Libros de Scott Westerfeld" />
+  <link href="http://www.goodreads.com/book/title/Traici%C3%B3n" type="text/html" rel="related" title="Este libro en Goodreads" />
+  <link href="http://es.wikipedia.org/wiki/Traici%C3%B3n" type="text/html" rel="related" title="Este libro en Wikipedia" />
+  <link href="http://www.librarything.com/title/Traici%C3%B3n%20Scott%20Westerfeld" type="text/html" rel="related" title="Este libro en LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=Traici%C3%B3n&amp;field-author=Scott%20Westerfeld" type="text/html" rel="related" title="Este libro en Amazon" />
+  <link href="http://www.goodreads.com/book/author/Scott%20Westerfeld" type="text/html" rel="related" title="Scott Westerfeld en Goodreads" />
+  <link href="http://es.wikipedia.org/wiki/Scott%20Westerfeld" type="text/html" rel="related" title="Scott Westerfeld en Wikipedia" />
+  <link href="http://www.librarything.com/author/WesterfeldScott" type="text/html" rel="related" title="Scott Westerfeld en LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Scott%20Westerfeld" type="text/html" rel="related" title="Scott Westerfeld en Amazon" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Scott%20Westerfeld" type="text/html" rel="related" title="Scott Westerfeld en ISFDB" />
+</entry>
+

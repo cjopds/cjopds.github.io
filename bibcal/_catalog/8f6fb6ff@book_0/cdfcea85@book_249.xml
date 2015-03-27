@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>El resplandor</title>
+  <id>urn:book:eb549da1-697a-4f7f-ad76-5d16eb8d28e4</id>
+  <updated>2015-03-27T01:53:51Z</updated>
+  <link href="./cdfcea85%40book_249.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="El resplandor" />
+  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Biblioteca de Calibre de CJ" />
+  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Biblioteca de Calibre de CJ" />
+  <link href="../8f6fb6ff%40authorlist/e8e4356e%40authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../8f6fb6ff%40author_0/c9ab9e97%40author_96_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="King, Stephen" />
+  <link href="cdfcea85@book_249_cover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../8f6fb6ff@book_0/cdfcea85@book_249_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Stephen%20King/El%20resplandor%20%28249%29/El%20resplandor%20-%20Stephen%20King.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+  <author>
+    <name>Stephen King</name>
+    <uri>../8f6fb6ff@author_0/c9ab9e97@author_96_Page_1.xml</uri>
+  </author>
+  <published>1976-12-31T11:00:00Z</published>
+  <dcterms:language>es</dcterms:language>
+  <dcterms:publisher>ePubLibre</dcterms:publisher>
+  <category term="Novela" />
+  <category term="Terror" />
+  <category term="Lang:es" />
+  <category term="El resplandor" />
+  <content type="text/html">
+    <p>
+      <strong>Series:</strong>
+      Libro 1 en la El resplandor serie
+    </p>
+    <p>
+      <strong>Rating:</strong>
+      Sin puntuación
+    </p>
+    <p>
+      <strong>Etiquetas:</strong>
+      Novela, Terror, Lang:es
+    </p>
+    <p>
+      <strong>Published:</strong>
+      31 de diciembre de 1976
+    </p>
+    <p>
+      <strong>Sumario:</strong>
+    </p>
+    <p xmlns="">REDRUM. Esa es la palabra que Danny había visto en el
+    espejo. Y aunque no sabía leer, entendió que era un
+    mensaje de horror. Danny tenía cinco años. Y a esa
+    edad pocos niños saben que los espejos invierten las
+    imágenes y menos aún saben diferenciar entre realidad
+    y fantasía. Pero Danny tenía pruebas de que sus
+    fantasías relacionadas con el resplandor del espejo
+    acabarían cumpliéndose: REDRUM&amp; MURDER,
+    asesinato. Pero su padre necesitaba aquel trabajo en el hotel.
+    Danny sabía que su madre pensaba en el divorcio y que su
+    padre se obsesionaba con algo muy malo, tan malo como la muerte
+    y el suicidio. Sí, su padre necesitaba aceptar la
+    propuesta de cuidar de aquel hotel de lujo de más de cien
+    habitaciones, aislado por la nieve durante seis meses. Hasta el
+    deshielo iban a estar solos. ¿Solos?...</p>
+  </content>
+  <link href="../8f6fb6ff%40series_0/35c0cb89%40series_19_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Libro 1 en la El resplandor serie" />
+  <link href="../8f6fb6ff%40author_0/c9ab9e97%40author_96_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Libros de Stephen King" />
+  <link href="http://www.goodreads.com/book/title/El%20resplandor" type="text/html" rel="related" title="Este libro en Goodreads" />
+  <link href="http://es.wikipedia.org/wiki/El%20resplandor" type="text/html" rel="related" title="Este libro en Wikipedia" />
+  <link href="http://www.librarything.com/title/El%20resplandor%20Stephen%20King" type="text/html" rel="related" title="Este libro en LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=El%20resplandor&amp;field-author=Stephen%20King" type="text/html" rel="related" title="Este libro en Amazon" />
+  <link href="http://www.goodreads.com/book/author/Stephen%20King" type="text/html" rel="related" title="Stephen King en Goodreads" />
+  <link href="http://es.wikipedia.org/wiki/Stephen%20King" type="text/html" rel="related" title="Stephen King en Wikipedia" />
+  <link href="http://www.librarything.com/author/KingStephen" type="text/html" rel="related" title="Stephen King en LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Stephen%20King" type="text/html" rel="related" title="Stephen King en Amazon" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Stephen%20King" type="text/html" rel="related" title="Stephen King en ISFDB" />
+</entry>
+

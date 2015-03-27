@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:opds="http://opds-spec.org/2010/catalog">
+  <title>Libros que empiezan por A</title>
+  <id>Calibre2opds:taglist:L:190:A</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./f36b71a1%40tag_190_A_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Libros que empiezan por A" />
+  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Biblioteca de Calibre de CJ" />
+  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Biblioteca de Calibre de CJ" />
+  <link href="../8f6fb6ff%40taglist/87d7be0%40taglist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="etiquetas" />
+  <link href="../8f6fb6ff%40taglist/87d7be0%40taglist_L_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Etiquetas que empiezan por L" />
+  <link href="./f36b71a1%40tag_190_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Lang:es" />
+  <entry>
+    <title>Allegiant</title>
+    <id>calibre:book:204</id>
+    <updated>2015-03-27T01:53:45Z</updated>
+    <link href="../8f6fb6ff@book_0/d721533c@book_204_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Veronica%20Roth/Allegiant%20%28204%29/Allegiant%20-%20Veronica%20Roth.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>Veronica Roth</name>
+      <uri>../8f6fb6ff@author_0/27424796@author_73_Page_1.xml</uri>
+    </author>
+    <published>2013-10-21T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <category term="Juvenile Fiction" />
+    <category term="Dystopian" />
+    <category term="Love &amp; Romance" />
+    <category term="Social Issues" />
+    <category term="Values &amp; Virtues" />
+    <category term="YA" />
+    <category term="Distopía" />
+    <category term="Ciencia Ficción" />
+    <category term="Romance" />
+    <category term="Aventura" />
+    <category term="Lang:es" />
+    <category term="Divergent" />
+    <summary>Divergent [3]: What if your whole world was a lie?What if a single revelation—like a single choice—changed everything?What if love and loyalty made you do things you never expected?The explosive conclusion to Veronica Roth's #1 New York Times bestselling Divergent trilogy reveals the secrets of the dystopian world that has captivated millions of readers in Divergent and Insurgent.</summary>
+    <link href="../8f6fb6ff%40book_0/d721533c%40book_204.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Amanecer</title>
+    <id>calibre:book:200</id>
+    <updated>2015-03-27T01:53:45Z</updated>
+    <link href="../8f6fb6ff@book_0/d04c9725@book_200_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Stephenie%20Meyer/Amanecer%20%28200%29/Amanecer%20-%20Stephenie%20Meyer.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>Stephenie Meyer</name>
+      <uri>../8f6fb6ff@author_0/50457700@author_72_Page_1.xml</uri>
+    </author>
+    <published>2008-10-01T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Alfaguara</dcterms:publisher>
+    <category term="Fantasía; terror y ciencia ficción" />
+    <category term="Fantástico" />
+    <category term="Infantil y Juvenil" />
+    <category term="Lang:es" />
+    <category term="Crepúsculo" />
+    <summary>Crepúsculo [4]: Críticas"Crepúsculo tentó a la imaginación. Luna nueva dejó a los lectores sedientos de más. Eclipse convirtió la saga en un fenómeno. Y ahora, Amanecer, te dejará sin aliento." Little, Brown for Young readers --Este texto se refiere a la edición Tapa blanda .Reseña del editorTe quedas sin opciones cuando amas a tu potencial asesino. ¿Acaso es posible huir o luchar si eso causa un grave perjuicio a quien quieres? Si la vida es cuanto puedes darle y de verdad le amas por encima de...</summary>
+    <link href="../8f6fb6ff%40book_0/d04c9725%40book_200.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Análisis 1º</title>
+    <id>calibre:book:198</id>
+    <updated>2015-03-27T01:53:45Z</updated>
+    <link href="../8f6fb6ff@book_0/d131a07@book_198_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Katalin%20Szekely/Analisis%201o%20%28198%29/Analisis%201o%20-%20Katalin%20Szekely.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Descargar este libro como PDF" />
+    <author>
+      <name>Katalin Szekely</name>
+      <uri>../8f6fb6ff@author_0/be4b162c@author_70_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <category term="Lang:es" />
+    <link href="../8f6fb6ff%40book_0/d131a07%40book_198.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Las alegres comadres de Windsor</title>
+    <id>calibre:book:256</id>
+    <updated>2015-03-27T01:53:52Z</updated>
+    <link href="../8f6fb6ff@book_0/4458c655@book_256_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/William%20Shakespeare/Las%20alegres%20comadres%20de%20Windsor%20%28256%29/Las%20alegres%20comadres%20de%20Windsor%20-%20William%20Shakespeare.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>William Shakespeare</name>
+      <uri>../8f6fb6ff@author_0/beacae01@author_97_Page_1.xml</uri>
+    </author>
+    <published>1599-12-31T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>ePubLibre</dcterms:publisher>
+    <category term="Teatro" />
+    <category term="Humor" />
+    <category term="Drama" />
+    <category term="Lang:es" />
+    <summary>Falstaff llega a Windsor escaso de fondos. Para mejorar su situación financiera, decide cortejar a dos señoras bien casadas, mistress Ford y mistress Page. Escribe cartas de amor idénticas a ambas señoras, y pide a sus respectivos criados, Pistol y Nym, que las entreguen. Ellos se niegan, por lo que Falstaff les sacude. Como venganza, los criados informan a los maridos de las intenciones de Falstaff. El señor Page hace caso omiso, pero el celoso señor Ford decide averiguar por sí mismo los plane...</summary>
+    <link href="../8f6fb6ff%40book_0/4458c655%40book_256.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>El amor en los tiempos del cólera</title>
+    <id>calibre:book:245</id>
+    <updated>2015-03-27T01:53:46Z</updated>
+    <link href="../8f6fb6ff@book_0/c44aa6ae@book_245_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Gabriel%20Garcia%20Marquez/El%20amor%20en%20los%20tiempos%20del%20colera%20%28245%29/El%20amor%20en%20los%20tiempos%20del%20colera%20-%20Gabriel%20Garcia%20Marquez.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>Gabriel García Márquez</name>
+      <uri>../8f6fb6ff@author_0/b0909e1e@author_78_Page_1.xml</uri>
+    </author>
+    <published>1984-12-31T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>ePubLibre</dcterms:publisher>
+    <category term="Novela" />
+    <category term="Romántico" />
+    <category term="Drama" />
+    <category term="Lang:es" />
+    <summary>En este relato infinitamente seductor, Gabriel García Márquez narra la obsesión del deseo con un arrebato que lo aparta de sus grandes novelas anteriores y a la vez lo acerca a ellas. A la circularidad del tiempo en Macondo, al enclaustramiento del tirano aislado en su poder demencial, sucede ahora la vigencia imbatible del deseo, ahincado en sí mismo. Un deseo que avanza hacia su origen en un movimiento que no cesa. Como el movimiento del barco Nueva Fidelidad, que seguirá yendo y viniendo "tod...</summary>
+    <link href="../8f6fb6ff%40book_0/c44aa6ae%40book_245.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Las aventuras de Sherlock Holmes</title>
+    <id>calibre:book:147</id>
+    <updated>2015-03-27T01:53:42Z</updated>
+    <link href="../8f6fb6ff@book_0/280279db@book_147_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Arthur%20Conan%20Doyle/Las%20aventuras%20de%20Sherlock%20Holmes%20%28147%29/Las%20aventuras%20de%20Sherlock%20Holmes%20-%20Arthur%20Conan%20Doyle.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>Arthur Conan Doyle</name>
+      <uri>../8f6fb6ff@author_0/e2617579@author_41_Page_1.xml</uri>
+    </author>
+    <published>1892-04-11T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Feedbooks</dcterms:publisher>
+    <category term="Ficción" />
+    <category term="Policiacas y de misterio" />
+    <category term="Historias cortas" />
+    <category term="Lang:es" />
+    <summary>Las Aventuras de Sherlock Holmes es un libro que recopila cuentos policíacos escritos por Sir Arthur Conan Doyle en donde el protagonista es su celebre detective privado "Sherlock Holmes". El libro original fue ilustrado por Sidney Paget. Aquí se cuentan las primeras aventuras de Sherlock Holmes.</summary>
+    <link href="../8f6fb6ff%40book_0/280279db%40book_147.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>El árbol de la ciencia</title>
+    <id>calibre:book:209</id>
+    <updated>2015-03-27T01:53:46Z</updated>
+    <link href="../8f6fb6ff@book_0/a9902f81@book_209_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Pio%20Baroja/El%20arbol%20de%20la%20ciencia%20%28209%29/El%20arbol%20de%20la%20ciencia%20-%20Pio%20Baroja.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>Pío Baroja</name>
+      <uri>../8f6fb6ff@author_0/ce21e2a3@author_75_Page_1.xml</uri>
+    </author>
+    <published>1911-04-08T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>espaebook</dcterms:publisher>
+    <category term="Novela" />
+    <category term="Lang:es" />
+    <summary>Se considera que “El árbol de la ciencia” es una de las obras capitales de Baroja. La escribió en época de plenitud completa y apareció en la biblioteca "Renacimiento", en 1911. La vida de Andrés Hurtado, como estudiante de Medicina en el Madrid de finales del siglo XIX, es, en gran parte, la vida del novelista, que, en general, no conservaba muy buenos recuerdos de sus profesores. Los retratos que aparecen al principio de algunos de ellos, pueden compararse con los que, mucho después, trazó en ...</summary>
+    <link href="../8f6fb6ff%40book_0/a9902f81%40book_209.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>
+

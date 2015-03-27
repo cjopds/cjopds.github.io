@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:opds="http://opds-spec.org/2010/catalog">
+  <title>Grandes, Almudena</title>
+  <id>Calibre2opds:author:65</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./d73ad3e2%40author_65_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Grandes, Almudena" />
+  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Biblioteca de Calibre de CJ" />
+  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Biblioteca de Calibre de CJ" />
+  <link href="../8f6fb6ff%40authorlist/e8e4356e%40authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <entry>
+    <title>Inés y la alegría</title>
+    <id>calibre:book:187</id>
+    <updated>2015-03-27T01:53:44Z</updated>
+    <link href="../8f6fb6ff@book_0/84b736d7@book_187_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Almudena%20Grandes/Ines%20y%20la%20alegria%20%28187%29/Ines%20y%20la%20alegria%20-%20Almudena%20Grandes.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Descargar este libro como MOBI" />
+    <author>
+      <name>Almudena Grandes</name>
+      <uri>../8f6fb6ff@author_0/d73ad3e2@author_65_Page_1.xml</uri>
+    </author>
+    <published>2010-12-24T11:00:00Z</published>
+    <dcterms:publisher>Spanish Pubs Llc</dcterms:publisher>
+    <category term="Historical" />
+    <category term="Fiction" />
+    <summary>Toulouse, verano de 1939. Carmen de Pedro, responsable en Francia de los diezmados comunistas españoles, se cruza con Jesús Monzón, un cargo menor del partido que, sin ella intuirlo, alberga un ambicioso plan. Unos años después, en 1944, Monzón, convertido en su pareja, ha organizado el grupo más disciplinado de la Resistencia contra la ocupación alemana, prepara la plataforma de la Unión Nacional Española y cuenta con un ejército de hombres dispuestos a invadir España. Entre ellos está Galán, q...</summary>
+    <link href="../8f6fb6ff%40book_0/84b736d7%40book_187.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>
+

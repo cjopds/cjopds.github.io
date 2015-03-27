@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:opds="http://opds-spec.org/2010/catalog">
+  <title>Libros que empiezan por P</title>
+  <id>Calibre2opds:taglist:L:190:P</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./f36b71a1%40tag_190_P_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Libros que empiezan por P" />
+  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Biblioteca de Calibre de CJ" />
+  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Biblioteca de Calibre de CJ" />
+  <link href="../8f6fb6ff%40taglist/87d7be0%40taglist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="etiquetas" />
+  <link href="../8f6fb6ff%40taglist/87d7be0%40taglist_L_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Etiquetas que empiezan por L" />
+  <link href="./f36b71a1%40tag_190_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Lang:es" />
+  <entry>
+    <title>Perfección</title>
+    <id>calibre:book:167</id>
+    <updated>2015-03-27T01:53:46Z</updated>
+    <link href="../8f6fb6ff@book_0/1a341b59@book_167_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Scott%20Westerfeld/Perfeccion%20%28167%29/Perfeccion%20-%20Scott%20Westerfeld.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>Scott Westerfeld</name>
+      <uri>../8f6fb6ff@author_0/b926d235@author_74_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Montena</dcterms:publisher>
+    <category term="Ciencia Ficción" />
+    <category term="Romántica" />
+    <category term="Lang:es" />
+    <category term="Uglies" />
+    <summary>Uglies [2]: Tally se ha sometido a "la operación" para infiltrarse en la casta de los perfectos y ahora debe cumplir una difícil misión... Tally tenía un sueño: ser perfecta. Ahora ya lo ha hecho realidad y ha perdido, como consecuencia, todos los recuerdos de su pasado. Su única preocupación es ser admitida en la mejor pandilla de la ciudad, la de los Crim, y para lograrlo solo tiene que ganarse la aprobación de Zane -el chico más popular y deseado- durante una peculiar fiesta de disfraces que ...</summary>
+    <link href="../8f6fb6ff%40book_0/1a341b59%40book_167.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>¿Puedo soñar contigo?</title>
+    <id>calibre:book:195</id>
+    <updated>2015-03-27T01:53:45Z</updated>
+    <link href="../8f6fb6ff@book_0/73a266ba@book_195_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Blue%20Jeans/_Puedo%20sonar%20contigo_%20%28195%29/_Puedo%20sonar%20contigo_%20-%20Blue%20Jeans.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Blue%20Jeans/_Puedo%20sonar%20contigo_%20%28195%29/_Puedo%20sonar%20contigo_%20-%20Blue%20Jeans.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Descargar este libro como PDF" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Blue%20Jeans/_Puedo%20sonar%20contigo_%20%28195%29/_Puedo%20sonar%20contigo_%20-%20Blue%20Jeans.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Descargar este libro como MOBI" />
+    <author>
+      <name>Blue Jeans</name>
+      <uri>../8f6fb6ff@author_0/a98baf5f@author_68_Page_1.xml</uri>
+    </author>
+    <published>2014-02-03T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Grupo Planeta</dcterms:publisher>
+    <category term="Lang:es" />
+    <category term="El Club de los Incomprendidos" />
+    <summary>El Club de los Incomprendidos [3]:</summary>
+    <link href="../8f6fb6ff%40book_0/73a266ba%40book_195.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>El principito</title>
+    <id>calibre:book:246</id>
+    <updated>2015-03-27T01:53:51Z</updated>
+    <link href="../8f6fb6ff@book_0/5d43f714@book_246_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Antoine%20de%20Saint-Exupery/El%20principito%20%28246%29/El%20principito%20-%20Antoine%20de%20Saint-Exupery.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>Antoine de Saint-Exupéry</name>
+      <uri>../8f6fb6ff@author_0/50a2cf2d@author_95_Page_1.xml</uri>
+    </author>
+    <published>1943-04-05T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>ePubLibre</dcterms:publisher>
+    <category term="Relato" />
+    <category term="Didáctico" />
+    <category term="Infantil" />
+    <category term="Lang:es" />
+    <summary>El Principito (en francés: Le Petit Prince), publicado el 6 de abril de 1943, es el relato corto más conocido del escritor y aviador francés Antoine de Saint-Exupéry. Lo escribió mientras se hospedaba en un hotel en Nueva York y fue publicado por primera vez en los Estados Unidos. Ha sido traducido a ciento ochenta lenguas y dialectos, convirtiéndose en una de las obras más reconocidas de la literatura universal. El principito habita un pequeñísimo asteroide, que comparte con una flor caprichosa...</summary>
+    <link href="../8f6fb6ff%40book_0/5d43f714%40book_246.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Las pruebas</title>
+    <id>calibre:book:163</id>
+    <updated>2015-03-27T01:53:42Z</updated>
+    <link href="../8f6fb6ff@book_0/1d59df40@book_163_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/James%20Dashner/Las%20pruebas%20%28163%29/Las%20pruebas%20-%20James%20Dashner.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>James Dashner</name>
+      <uri>../8f6fb6ff@author_0/e50cb160@author_45_Page_1.xml</uri>
+    </author>
+    <published>2011-08-01T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Nocturna Ediciones, S. L.</dcterms:publisher>
+    <category term="Fantasía" />
+    <category term="Ciencia Ficción" />
+    <category term="Lang:es" />
+    <category term="El corredor del laberinto" />
+    <summary>El corredor del laberinto [2]: Resolver el laberinto se suponía que era el final. No más pruebas, no más huidas. Thomas creía que salir significaba que todos recobrarían sus vidas, pero ninguno sabía a qué clase de vida estaban volviendo. Árida y carbonizada, gran parte de la tierra es un territorio inservible. El sol abrasa, los gobiernos han caído y una misteriosa enfermedad se ha ido apoderando poco a poco de la gente. Sus causas son desconocidas; su resultado, la locura. En un lugar infestad...</summary>
+    <link href="../8f6fb6ff%40book_0/1d59df40%40book_163.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>
+

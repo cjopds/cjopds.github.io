@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:opds="http://opds-spec.org/2010/catalog">
+  <title>***</title>
+  <id>Calibre2opds:rated:THREE</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./c7072efb%40rated_THREE_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="***" />
+  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Biblioteca de Calibre de CJ" />
+  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Biblioteca de Calibre de CJ" />
+  <link href="./c7072efb%40rated.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Valoración" />
+  <entry>
+    <title>El dilema: 600 días de vértigo</title>
+    <id>calibre:book:171</id>
+    <updated>2015-03-27T01:53:43Z</updated>
+    <link href="../8f6fb6ff@book_0/ea4c8f2d@book_171_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Jose%20Luis%20Rodriguez%20Zapatero/El%20dilema_%20600%20dias%20de%20vertigo%20%28171%29/El%20dilema_%20600%20dias%20de%20vertigo%20-%20Jose%20Luis%20Rodriguez%20Zapatero.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>José Luis Rodríguez Zapatero</name>
+      <uri>../8f6fb6ff@author_0/fc178021@author_55_Page_1.xml</uri>
+    </author>
+    <published>2013-11-25T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Editorial Planeta</dcterms:publisher>
+    <category term="Biography &amp; Autobiography" />
+    <category term="Historical" />
+    <category term="Crónica" />
+    <category term="Memorias" />
+    <category term="Lang:es" />
+    <summary>Descripción del productoÉste es el relato en primera persona de quien tuvo en España la principal responsabilidad ante la crisis en el periodo 2008-2011.Sobre las decisiones adoptadas por el Gobierno en mayo de 2010, escribe el autor: «Qué dilema tan acuciante. O recortabas, o podías alimentar la espiral de la falta de solvencia, del riesgo sobre el cumplimiento de nuestros compromisos de deuda. No había un camino intermedio. Y en apenas días, casi horas, debías actuar en una intersección en la ...</summary>
+    <link href="../8f6fb6ff%40book_0/ea4c8f2d%40book_171.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>
+

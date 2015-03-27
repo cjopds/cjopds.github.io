@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:opds="http://opds-spec.org/2010/catalog">
+  <title>Libros que empiezan por M</title>
+  <id>Calibre2opds:allbooks:M</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./c67a4b73%40allbooks_M_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Libros que empiezan por M" />
+  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Biblioteca de Calibre de CJ" />
+  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Biblioteca de Calibre de CJ" />
+  <link href="./c67a4b73%40allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Todos los libros" />
+  <entry>
+    <title>Macbeth</title>
+    <id>calibre:book:266</id>
+    <updated>2015-03-27T01:53:52Z</updated>
+    <link href="../8f6fb6ff@book_0/6f759596@book_266_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/William%20Shakespeare/Macbeth%20%28266%29/Macbeth%20-%20William%20Shakespeare.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>William Shakespeare</name>
+      <uri>../8f6fb6ff@author_0/beacae01@author_97_Page_1.xml</uri>
+    </author>
+    <published>1605-12-31T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>ePubLibre</dcterms:publisher>
+    <category term="Teatro" />
+    <category term="Drama" />
+    <category term="Lang:es" />
+    <summary>Una de las tragedias más conocidas de William Shakespeare. Macbeth es una obra tenebrosa e inquietante a la vez que vigorosa y fascinante, debido a su tratamiento dramático del mal, del mal que nace del ansia de poder. Macbeth cuenta la historia de un crimen y castigo, entreverada de brujería y elementos sobrenaturales, cuya acción vertiginosa mantiene el interés hasta el final. Pero una obra tan activa, es también profundamente introspectiva. En ella van paralelas la acción física con el torbel...</summary>
+    <link href="../8f6fb6ff%40book_0/6f759596%40book_266.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Maze Runner Files (Maze Runner Trilogy)</title>
+    <id>calibre:book:160</id>
+    <updated>2015-03-27T01:53:42Z</updated>
+    <link href="../8f6fb6ff@book_0/84508efa@book_160_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/James%20Dashner/The%20Maze%20Runner%20Files%20%28Maze%20Runner%20Trilogy%29%20%28160%29/The%20Maze%20Runner%20Files%20%28Maze%20Runner%20Trilogy%20-%20James%20Dashner.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>James Dashner</name>
+      <uri>../8f6fb6ff@author_0/e50cb160@author_45_Page_1.xml</uri>
+    </author>
+    <published>2013-08-12T04:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Random House Children's Books</dcterms:publisher>
+    <category term="Lang:en" />
+    <category term="The Maze Runner" />
+    <summary>The Maze Runner [0,60]:</summary>
+    <link href="../8f6fb6ff%40book_0/84508efa%40book_160.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Maze Runner</title>
+    <id>calibre:book:158</id>
+    <updated>2015-03-27T01:53:42Z</updated>
+    <link href="../8f6fb6ff@book_0/a1a6550b@book_158_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/James%20Dashner/The%20Maze%20Runner%20%28158%29/The%20Maze%20Runner%20-%20James%20Dashner.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>James Dashner</name>
+      <uri>../8f6fb6ff@author_0/e50cb160@author_45_Page_1.xml</uri>
+    </author>
+    <published>2009-10-28T02:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Random House Children's Books</dcterms:publisher>
+    <category term="Lang:en" />
+    <category term="The Maze Runner" />
+    <summary>The Maze Runner [1]:</summary>
+    <link href="../8f6fb6ff%40book_0/a1a6550b%40book_158.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Misery</title>
+    <id>calibre:book:248</id>
+    <updated>2015-03-27T01:53:51Z</updated>
+    <link href="../8f6fb6ff@book_0/bafbda13@book_248_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Stephen%20King/Misery%20%28248%29/Misery%20-%20Stephen%20King.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>Stephen King</name>
+      <uri>../8f6fb6ff@author_0/c9ab9e97@author_96_Page_1.xml</uri>
+    </author>
+    <published>1986-12-31T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>ePubLibre</dcterms:publisher>
+    <category term="Novela" />
+    <category term="Terror" />
+    <category term="Lang:es" />
+    <summary>Paul Sheldon es un escritor que sufre un grave accidente y recobra el conocimiento en una apartada casa en la que vive una misteriosa mujer, corpulenta y de extraño carácter. Se trata de una antigua enfermera, involucrada en varias muertes misteriosas ocurridas en diversos hospitales. Fanática de un personaje de una serie de libros que él ha decidido deja de escribir, está dispuesto a hacer todo lo necesario para "convencerlo" de que retome la escritura. Esta mujer es capaz de los mayores horror...</summary>
+    <link href="../8f6fb6ff%40book_0/bafbda13%40book_248.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Mucho ruido y pocas nueces</title>
+    <id>calibre:book:262</id>
+    <updated>2015-03-27T01:53:52Z</updated>
+    <link href="../8f6fb6ff@book_0/6818518f@book_262_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/William%20Shakespeare/Mucho%20ruido%20y%20pocas%20nueces%20%28262%29/Mucho%20ruido%20y%20pocas%20nueces%20-%20William%20Shakespeare.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>William Shakespeare</name>
+      <uri>../8f6fb6ff@author_0/beacae01@author_97_Page_1.xml</uri>
+    </author>
+    <published>1597-12-31T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>ePubLibre</dcterms:publisher>
+    <category term="Teatro" />
+    <category term="Humor" />
+    <category term="Lang:es" />
+    <summary>Situada en su mayor parte en un amable marco de jardines, aposentos y fiestas cortesanas, la obra gira principalmente en torno a dos fuertes personajes enfrentados, Benedicto de Padua y Beatriz, adversarios irreconciliables y ambos tan ingeniosos, mordaces y sarcásticos como desdeñosos del amor. A lomos de una trama animada por los equívocos, las traiciones y los imprevistos, los enemigos jurados acaban sin embargo, para su propia sorpresa, en aquel lugar a donde se prometieron nunca ir a parar ...</summary>
+    <link href="../8f6fb6ff%40book_0/6818518f%40book_262.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>La maldición del titán</title>
+    <id>calibre:book:181</id>
+    <updated>2015-03-27T01:53:43Z</updated>
+    <link href="../8f6fb6ff@book_0/6dd493e2@book_181_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Rick%20Riordan/La%20maldicion%20del%20titan%20%28181%29/La%20maldicion%20del%20titan%20-%20Rick%20Riordan.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>Rick Riordan</name>
+      <uri>../8f6fb6ff@author_0/82a6fc9c@author_58_Page_1.xml</uri>
+    </author>
+    <published>2007-05-10T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Salamandra</dcterms:publisher>
+    <category term="Literatura y narrativa" />
+    <category term="Infantil y Juvenil" />
+    <category term="Fantástico" />
+    <category term="Lang:es" />
+    <category term="Percy Jackson y los dioses del Olimpo" />
+    <summary>Percy Jackson y los dioses del Olimpo [3]: Cuando Percy Jackson recibe una llamada urgente de auxilio de su amigo Grover, de inmediato se prepara para la batalla. Sabe que tendrá sus poderosos aliados semidióses a su lado, su fiel espada de bronce "Riptide", y... un viaje de su mamá. Los semidioses corren al rescate para encontrar que Grover ha hecho un descubrimiento importante: dos mestizos poderosos cuya filiación se desconoce. Pero eso no es todo lo que les espera. El señor titán Kronos ha e...</summary>
+    <link href="../8f6fb6ff%40book_0/6dd493e2%40book_181.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>El mar de los monstruos</title>
+    <id>calibre:book:180</id>
+    <updated>2015-03-27T01:53:43Z</updated>
+    <link href="../8f6fb6ff@book_0/1ad3a374@book_180_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Rick%20Riordan/El%20mar%20de%20los%20monstruos%20%28180%29/El%20mar%20de%20los%20monstruos%20-%20Rick%20Riordan.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>Rick Riordan</name>
+      <uri>../8f6fb6ff@author_0/82a6fc9c@author_58_Page_1.xml</uri>
+    </author>
+    <published>2006-05-02T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Salamandra</dcterms:publisher>
+    <category term="Infantil y Juvenil" />
+    <category term="Literary Criticism" />
+    <category term="Fantástico" />
+    <category term="Children's Literature" />
+    <category term="Lang:es" />
+    <category term="Percy Jackson y los dioses del Olimpo" />
+    <summary>Percy Jackson y los dioses del Olimpo [2]: Desde que sabe que es hijo de un dios y una mortal, Percy Jackson espera que el destino le depare continuas aventuras. Y su expectativa se cumplirá con creses. Aunque el nuevo curso en la Escuela Meriwether transcurre con inusual normalidad, un simple partido de balón prisionero acaba en batalla compal contra una banda de feroces gigantes. A partir de ahí las cosas se precipitan: el perímentro mágico que protege el Campamento Mestizo es destruido por un...</summary>
+    <link href="../8f6fb6ff%40book_0/1ad3a374%40book_180.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>El mercader de Venecia &amp; Como gustéis</title>
+    <id>calibre:book:258</id>
+    <updated>2015-03-27T01:53:52Z</updated>
+    <link href="../8f6fb6ff@book_0/a3e0eb52@book_258_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/William%20Shakespeare/El%20mercader%20de%20Venecia%20%26%20Como%20gusteis%20%28258%29/El%20mercader%20de%20Venecia%20%26%20Como%20gusteis%20-%20William%20Shakespeare.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>William Shakespeare</name>
+      <uri>../8f6fb6ff@author_0/beacae01@author_97_Page_1.xml</uri>
+    </author>
+    <published>1622-12-31T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>ePubLibre</dcterms:publisher>
+    <category term="Teatro" />
+    <category term="Humor" />
+    <category term="Romántico" />
+    <category term="Lang:es" />
+    <summary>El mercader de Venecia y Como gustéis pertenecen al grupo de las llamadas «comedias románticas» de William Shakespeare. En ellas, con el amor como motor principal de la acción, los protagonistas alcanzan la solución feliz en un mundo alternativo de fantasía —Belmont, en El mercader de Venecia y el bosque de Arden en Como gustéis—, no sin antes haber tenido que enfrentarse a obstáculos materiales y humanos, estos últimos personificados en seres anticómicos o malvados —Shylock y Jaime—. Pero la va...</summary>
+    <link href="../8f6fb6ff%40book_0/a3e0eb52%40book_258.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>
+

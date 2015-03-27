@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>¿Sabes que te quiero?</title>
+  <id>urn:book:d656ea7e-920e-4aef-90aa-5fc00bcaf2f1</id>
+  <updated>2015-03-27T01:53:45Z</updated>
+  <link href="./eaab3700%40book_196.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="¿Sabes que te quiero?" />
+  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Biblioteca de Calibre de CJ" />
+  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Biblioteca de Calibre de CJ" />
+  <link href="../8f6fb6ff%40authorlist/e8e4356e%40authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../8f6fb6ff%40author_0/a98baf5f%40author_68_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Jeans, Blue" />
+  <link href="eaab3700@book_196_cover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../8f6fb6ff@book_0/eaab3700@book_196_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Blue%20Jeans/_Sabes%20que%20te%20quiero_%20%28196%29/_Sabes%20que%20te%20quiero_%20-%20Blue%20Jeans.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+  <author>
+    <name>Blue Jeans</name>
+    <uri>../8f6fb6ff@author_0/a98baf5f@author_68_Page_1.xml</uri>
+  </author>
+  <published>2010-09-01T10:14:45Z</published>
+  <dcterms:language>es</dcterms:language>
+  <dcterms:publisher>Everest</dcterms:publisher>
+  <category term="Romantico" />
+  <category term="Infantil y Juvenil" />
+  <category term="Literatura y ficción" />
+  <category term="Ficción contemporánea" />
+  <category term="Romántica" />
+  <category term="Literatura y narrativa" />
+  <category term="Infantil-Juvenil" />
+  <category term="Lang:es" />
+  <category term="Canciones para Paula" />
+  <content type="text/html">
+    <p>
+      <strong>Series:</strong>
+      Libro 2 en la Canciones para Paula serie
+    </p>
+    <p>
+      <strong>Rating:</strong>
+      ****
+    </p>
+    <p>
+      <strong>Etiquetas:</strong>
+      Romantico, Infantil y Juvenil, Literatura y ficción, Ficción contemporánea, Romántica, Literatura y narrativa, Infantil-Juvenil, Lang:es
+    </p>
+    <p>
+      <strong>Published:</strong>
+      1 de septiembre de 2010
+    </p>
+    <p>
+      <strong>Sumario:</strong>
+    </p>
+    <div xmlns="">
+      <h3>Reseña del editor</h3>
+      <p>Los problemas que Paula intentó olvidar cuando se fue
+      a París, siguen esperándole a su regreso y no le
+      será nada fácil dejarlos pasar. Surgirán
+      nuevos líos amorosos y desengaños, a los que se
+      sumará un error imperdonable que pudo cometer la
+      protagonista en la “ciudad del amor”. Pero no
+      todo girará en torno a Paula, si no que el resto de
+      “las Sugus” también adquirirán un mayor
+      protagonismo en la novela, que se verá salpicada de
+      mentiras, traiciones y problemas realmente serios en la vida
+      adolescente. www.cancionesparapaula.com</p>
+    </div>
+  </content>
+  <link href="../8f6fb6ff%40series_0/74d28b05%40series_9_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Libro 2 en la Canciones para Paula serie" />
+  <link href="../8f6fb6ff%40author_0/a98baf5f%40author_68_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Libros de Blue Jeans" />
+  <link href="http://www.goodreads.com/book/title/%C2%BFSabes%20que%20te%20quiero%3F" type="text/html" rel="related" title="Este libro en Goodreads" />
+  <link href="http://es.wikipedia.org/wiki/%C2%BFSabes%20que%20te%20quiero%3F" type="text/html" rel="related" title="Este libro en Wikipedia" />
+  <link href="http://www.librarything.com/title/%C2%BFSabes%20que%20te%20quiero%3F%20Blue%20Jeans" type="text/html" rel="related" title="Este libro en LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=%C2%BFSabes%20que%20te%20quiero%3F&amp;field-author=Blue%20Jeans" type="text/html" rel="related" title="Este libro en Amazon" />
+  <link href="http://www.goodreads.com/book/author/Blue%20Jeans" type="text/html" rel="related" title="Blue Jeans en Goodreads" />
+  <link href="http://es.wikipedia.org/wiki/Blue%20Jeans" type="text/html" rel="related" title="Blue Jeans en Wikipedia" />
+  <link href="http://www.librarything.com/author/JeansBlue" type="text/html" rel="related" title="Blue Jeans en LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Blue%20Jeans" type="text/html" rel="related" title="Blue Jeans en Amazon" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Blue%20Jeans" type="text/html" rel="related" title="Blue Jeans en ISFDB" />
+</entry>
+

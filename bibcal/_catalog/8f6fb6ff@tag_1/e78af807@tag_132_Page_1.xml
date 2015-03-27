@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:opds="http://opds-spec.org/2010/catalog">
+  <title>Literatura y narrativa</title>
+  <id>Calibre2opds:taglist:L:132</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./e78af807%40tag_132_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Literatura y narrativa" />
+  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Biblioteca de Calibre de CJ" />
+  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Biblioteca de Calibre de CJ" />
+  <link href="../8f6fb6ff%40taglist/87d7be0%40taglist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="etiquetas" />
+  <link href="../8f6fb6ff%40taglist/87d7be0%40taglist_L_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Etiquetas que empiezan por L" />
+  <entry>
+    <title>¿Sabes que te quiero?</title>
+    <id>calibre:book:196</id>
+    <updated>2015-03-27T01:53:45Z</updated>
+    <link href="../8f6fb6ff@book_0/eaab3700@book_196_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Blue%20Jeans/_Sabes%20que%20te%20quiero_%20%28196%29/_Sabes%20que%20te%20quiero_%20-%20Blue%20Jeans.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>Blue Jeans</name>
+      <uri>../8f6fb6ff@author_0/a98baf5f@author_68_Page_1.xml</uri>
+    </author>
+    <published>2010-09-01T10:14:45Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Everest</dcterms:publisher>
+    <category term="Romantico" />
+    <category term="Infantil y Juvenil" />
+    <category term="Literatura y ficción" />
+    <category term="Ficción contemporánea" />
+    <category term="Romántica" />
+    <category term="Literatura y narrativa" />
+    <category term="Infantil-Juvenil" />
+    <category term="Lang:es" />
+    <category term="Canciones para Paula" />
+    <summary>Canciones para Paula [2]: Reseña del editorLos problemas que Paula intentó olvidar cuando se fue a París, siguen esperándole a su regreso y no le será nada fácil dejarlos pasar. Surgirán nuevos líos amorosos y desengaños, a los que se sumará un error imperdonable que pudo cometer la protagonista en la “ciudad del amor”. Pero no todo girará en torno a Paula, si no que el resto de “las Sugus” también adquirirán un mayor protagonismo en la novela, que se verá salpicada de mentiras, traiciones y pro...</summary>
+    <link href="../8f6fb6ff%40book_0/eaab3700%40book_196.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>An Abundance of Katherines</title>
+    <id>calibre:book:173</id>
+    <updated>2015-03-27T01:53:42Z</updated>
+    <link href="../8f6fb6ff@book_0/442ee01@book_173_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/John%20Green/An%20Abundance%20of%20Katherines%20%28173%29/An%20Abundance%20of%20Katherines%20-%20John%20Green.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>John Green</name>
+      <uri>../8f6fb6ff@author_0/7c05e0da@author_46_Page_1.xml</uri>
+    </author>
+    <published>2006-09-01T10:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Dutton E P</dcterms:publisher>
+    <category term="Infantil y Juvenil" />
+    <category term="Literatura y narrativa" />
+    <category term="Juvenile Fiction" />
+    <category term="General" />
+    <category term="Lang:en" />
+    <summary>From the #1 bestselling author of The Fault in Our Stars   Michael L. Printz Honor Book Los Angeles Times Book Prize Finalist   Katherine V thought boys were gross Katherine X just wanted to be friends Katherine XVIII dumped him in an e-mail K-19 broke his heart  When it comes to relationships, Colin Singleton's type happens to be girls named Katherine. And when it comes to girls named Katherine, Colin is always getting dumped. Nineteen times, to be exact.  On a road trip miles from home, this a...</summary>
+    <link href="../8f6fb6ff%40book_0/442ee01%40book_173.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Canciones para Paula</title>
+    <id>calibre:book:193</id>
+    <updated>2015-03-27T01:53:44Z</updated>
+    <link href="../8f6fb6ff@book_0/9ac1c38f@book_193_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Blue%20Jeans/Canciones%20para%20Paula%20%28193%29/Canciones%20para%20Paula%20-%20Blue%20Jeans.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>Blue Jeans</name>
+      <uri>../8f6fb6ff@author_0/a98baf5f@author_68_Page_1.xml</uri>
+    </author>
+    <published>2009-12-11T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Everest</dcterms:publisher>
+    <category term="Romántico" />
+    <category term="Infantil y Juvenil" />
+    <category term="Literatura y ficción" />
+    <category term="Ficción contemporánea" />
+    <category term="GusiX" />
+    <category term="Literatura y narrativa" />
+    <category term="Lang:es" />
+    <category term="Canciones para Paula" />
+    <summary>Canciones para Paula [1]: Reseña del editorPaula, una joven a punto de cumplir los 17, se ha citado con Ángel, un chico de 22 años al que ha conocido por internet. Está nerviosa e ilusionada. Los minutos pasan y el chico no llega, por lo que ella decide meterse en un café cercano. Allí tiene un divertido encuentro con Álex, un desconocido, que casualmente está leyendo el mismo libro que ella. Ambos son jóvenes y guapos... Álex tiene que irse precipitadamente porque tiene un compromiso. Cuando Pa...</summary>
+    <link href="../8f6fb6ff%40book_0/9ac1c38f%40book_193.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Eclipse</title>
+    <id>calibre:book:202</id>
+    <updated>2015-03-27T01:53:45Z</updated>
+    <link href="../8f6fb6ff@book_0/3e42f609@book_202_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Stephenie%20Meyer/Eclipse%20%28202%29/Eclipse%20-%20Stephenie%20Meyer.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Stephenie%20Meyer/Eclipse%20%28202%29/Eclipse%20-%20Stephenie%20Meyer.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Descargar este libro como PDF" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Stephenie%20Meyer/Eclipse%20%28202%29/Eclipse%20-%20Stephenie%20Meyer.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Descargar este libro como MOBI" />
+    <author>
+      <name>Stephenie Meyer</name>
+      <uri>../8f6fb6ff@author_0/50457700@author_72_Page_1.xml</uri>
+    </author>
+    <published>2008-11-19T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Alfaguara</dcterms:publisher>
+    <category term="Infantil y Juvenil" />
+    <category term="Literatura y narrativa" />
+    <category term="Lang:es" />
+    <category term="Crepúsculo" />
+    <summary>Crepúsculo [3]: Reseña del editor«De pronto, saltó una chispa de intuición en aquel silencio sepulcral y encajaron todos los detalles. Algo que Edward no quería que supiera. Algo que Jacob no me hubiera ocultado. Algo que había hecho que los Cullen y los licántropos anduvieran juntos por los bosques en una peligrosa proximidad.» Biografía del autorStephenie Meyer nació en Connecticut en 1973. Su familia se trasladó a Phoenix (Arizona) cuando ella tenía cuatro años. Su particular nombre (Stepheni...</summary>
+    <link href="../8f6fb6ff%40book_0/3e42f609%40book_202.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>La maldición del titán</title>
+    <id>calibre:book:181</id>
+    <updated>2015-03-27T01:53:43Z</updated>
+    <link href="../8f6fb6ff@book_0/6dd493e2@book_181_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Rick%20Riordan/La%20maldicion%20del%20titan%20%28181%29/La%20maldicion%20del%20titan%20-%20Rick%20Riordan.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>Rick Riordan</name>
+      <uri>../8f6fb6ff@author_0/82a6fc9c@author_58_Page_1.xml</uri>
+    </author>
+    <published>2007-05-10T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Salamandra</dcterms:publisher>
+    <category term="Literatura y narrativa" />
+    <category term="Infantil y Juvenil" />
+    <category term="Fantástico" />
+    <category term="Lang:es" />
+    <category term="Percy Jackson y los dioses del Olimpo" />
+    <summary>Percy Jackson y los dioses del Olimpo [3]: Cuando Percy Jackson recibe una llamada urgente de auxilio de su amigo Grover, de inmediato se prepara para la batalla. Sabe que tendrá sus poderosos aliados semidióses a su lado, su fiel espada de bronce "Riptide", y... un viaje de su mamá. Los semidioses corren al rescate para encontrar que Grover ha hecho un descubrimiento importante: dos mestizos poderosos cuya filiación se desconoce. Pero eso no es todo lo que les espera. El señor titán Kronos ha e...</summary>
+    <link href="../8f6fb6ff%40book_0/6dd493e2%40book_181.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Will Grayson, Will Grayson</title>
+    <id>calibre:book:177</id>
+    <updated>2015-03-27T01:53:43Z</updated>
+    <link href="../8f6fb6ff@book_0/32f2a18@book_177_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/John%20Green/Will%20Grayson%2C%20Will%20Grayson%20%28177%29/Will%20Grayson%2C%20Will%20Grayson%20-%20John%20Green.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>John Green</name>
+      <uri>../8f6fb6ff@author_0/7c05e0da@author_46_Page_1.xml</uri>
+    </author>
+    <author>
+      <name>David Levithan</name>
+      <uri>../8f6fb6ff@author_0/1219e10d@author_57_Page_1.xml</uri>
+    </author>
+    <published>2010-04-01T10:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Dutton Juvenile</dcterms:publisher>
+    <category term="Infantil y Juvenil" />
+    <category term="Literatura y narrativa" />
+    <category term="Lang:en" />
+    <summary>One cold night, in a most unlikely corner of Chicago, two teens?both named Will Grayson?are about to cross paths. As their worlds collide and intertwine, the Will Graysons find their lives going in new and unexpected directions, building toward romantic turns-of-heart and the epic production of history's most fabulous high school musical.  Hilarious, poignant, and deeply insightful, John Green and David Levithan's collaborative novel is brimming with a double helping of the heart and humor that ...</summary>
+    <link href="../8f6fb6ff%40book_0/32f2a18%40book_177.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>
+

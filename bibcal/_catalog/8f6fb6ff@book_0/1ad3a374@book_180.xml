@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>El mar de los monstruos</title>
+  <id>urn:book:bc85ee5b-a6f2-4305-9358-4a0a49ac0b6c</id>
+  <updated>2015-03-27T01:53:43Z</updated>
+  <link href="./1ad3a374%40book_180.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="El mar de los monstruos" />
+  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Biblioteca de Calibre de CJ" />
+  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Biblioteca de Calibre de CJ" />
+  <link href="../8f6fb6ff%40authorlist/e8e4356e%40authorlist_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../8f6fb6ff%40author_0/82a6fc9c%40author_58_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Riordan, Rick" />
+  <link href="1ad3a374@book_180_cover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../8f6fb6ff@book_0/1ad3a374@book_180_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Rick%20Riordan/El%20mar%20de%20los%20monstruos%20%28180%29/El%20mar%20de%20los%20monstruos%20-%20Rick%20Riordan.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+  <author>
+    <name>Rick Riordan</name>
+    <uri>../8f6fb6ff@author_0/82a6fc9c@author_58_Page_1.xml</uri>
+  </author>
+  <published>2006-05-02T10:00:00Z</published>
+  <dcterms:language>es</dcterms:language>
+  <dcterms:publisher>Salamandra</dcterms:publisher>
+  <category term="Infantil y Juvenil" />
+  <category term="Literary Criticism" />
+  <category term="Fantástico" />
+  <category term="Children's Literature" />
+  <category term="Lang:es" />
+  <category term="Percy Jackson y los dioses del Olimpo" />
+  <content type="text/html">
+    <p>
+      <strong>Series:</strong>
+      Libro 2 en la Percy Jackson y los dioses del Olimpo serie
+    </p>
+    <p>
+      <strong>Rating:</strong>
+      ****
+    </p>
+    <p>
+      <strong>Etiquetas:</strong>
+      Infantil y Juvenil, Literary Criticism, Fantástico, Children's Literature, Lang:es
+    </p>
+    <p>
+      <strong>Published:</strong>
+      2 de mayo de 2006
+    </p>
+    <p>
+      <strong>Sumario:</strong>
+    </p>
+    <p xmlns="" class="description">Desde que sabe que es hijo de un dios y
+    una mortal, Percy Jackson espera que el destino le depare
+    continuas aventuras. Y su expectativa se cumplirá con
+    creses. Aunque el nuevo curso en la Escuela Meriwether
+    transcurre con inusual normalidad, un simple partido de
+    balón prisionero acaba en batalla compal contra una banda
+    de feroces gigantes. A partir de ahí las cosas se
+    precipitan: el perímentro mágico que protege el
+    Campamento Mestizo es destruido por un misterioso enemigo y la
+    única seguridad con que contaban los semidioses
+    desaparece. Así, para impedir este daño irreparable,
+    Percy y sus amigos inician la travesía del temible Mar de
+    los Monstruos en busca de lo único que puede salvar el
+    campamento: el Vellocino de Oro.</p>
+  </content>
+  <link href="../8f6fb6ff%40series_0/936aa602%40series_7_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Libro 2 en la Percy Jackson y los dioses del Olimpo serie" />
+  <link href="../8f6fb6ff%40author_0/82a6fc9c%40author_58_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Libros de Rick Riordan" />
+  <link href="http://www.goodreads.com/book/title/El%20mar%20de%20los%20monstruos" type="text/html" rel="related" title="Este libro en Goodreads" />
+  <link href="http://es.wikipedia.org/wiki/El%20mar%20de%20los%20monstruos" type="text/html" rel="related" title="Este libro en Wikipedia" />
+  <link href="http://www.librarything.com/title/El%20mar%20de%20los%20monstruos%20Rick%20Riordan" type="text/html" rel="related" title="Este libro en LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=El%20mar%20de%20los%20monstruos&amp;field-author=Rick%20Riordan" type="text/html" rel="related" title="Este libro en Amazon" />
+  <link href="http://www.goodreads.com/book/author/Rick%20Riordan" type="text/html" rel="related" title="Rick Riordan en Goodreads" />
+  <link href="http://es.wikipedia.org/wiki/Rick%20Riordan" type="text/html" rel="related" title="Rick Riordan en Wikipedia" />
+  <link href="http://www.librarything.com/author/RiordanRick" type="text/html" rel="related" title="Rick Riordan en LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Rick%20Riordan" type="text/html" rel="related" title="Rick Riordan en Amazon" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Rick%20Riordan" type="text/html" rel="related" title="Rick Riordan en ISFDB" />
+</entry>
+

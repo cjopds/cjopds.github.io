@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:opds="http://opds-spec.org/2010/catalog">
+  <title>Pérez-Reverte, Arturo</title>
+  <id>Calibre2opds:author:66</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./4e338258%40author_66_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Pérez-Reverte, Arturo" />
+  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Biblioteca de Calibre de CJ" />
+  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Biblioteca de Calibre de CJ" />
+  <link href="../8f6fb6ff%40authorlist/e8e4356e%40authorlist_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <entry>
+    <title>El Asedio</title>
+    <id>calibre:book:188</id>
+    <updated>2015-03-27T01:53:44Z</updated>
+    <link href="../8f6fb6ff@book_0/14082b46@book_188_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Arturo%20Perez-Reverte/El%20Asedio%20%28188%29/El%20Asedio%20-%20Arturo%20Perez-Reverte.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Descargar este libro como MOBI" />
+    <author>
+      <name>Arturo Pérez-Reverte</name>
+      <uri>../8f6fb6ff@author_0/4e338258@author_66_Page_1.xml</uri>
+    </author>
+    <published>2010-04-28T10:00:00Z</published>
+    <dcterms:publisher>Santillana USA Pub Co Inc</dcterms:publisher>
+    <category term="spanish" />
+    <category term="Novela Histórica" />
+    <summary>Cádiz, 1811. España lucha por su independencia mientras América lo hace por la suya. En las calles de la ciudad más liberal de Europa se libran batallas de otra índole. Mujeres jóvenes aparecen desolladas a latigazos. En cada lugar, antes del hallazgo del cadáver, ha caído una bomba francesa. Eso traza sobre la ciudad un mapa superpuesto y siniestro: un complejo tablero de ajedrez donde la mano de un jugador oculto -un asesino despiadado, el azar, las curvas de artillería, la dirección de los vi...</summary>
+    <link href="../8f6fb6ff%40book_0/14082b46%40book_188.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>
+

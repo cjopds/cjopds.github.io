@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Ensayo sobre la ceguera</title>
+  <id>urn:book:140a4c45-f2e3-48a6-b15f-dd309d002872</id>
+  <updated>2015-03-27T01:53:42Z</updated>
+  <link href="./2a44c782%40book_247.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Ensayo sobre la ceguera" />
+  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Biblioteca de Calibre de CJ" />
+  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Biblioteca de Calibre de CJ" />
+  <link href="../8f6fb6ff%40authorlist/e8e4356e%40authorlist_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="2a44c782@book_247_cover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../8f6fb6ff@book_0/2a44c782@book_247_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Jose%20Saramago/Ensayo%20sobre%20la%20ceguera%20%28247%29/Ensayo%20sobre%20la%20ceguera%20-%20Jose%20Saramago.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+  <author>
+    <name>José Saramago</name>
+    <uri>../8f6fb6ff@author_0/a3fb6b8c@author_39_Page_1.xml</uri>
+  </author>
+  <published>1994-12-31T11:00:00Z</published>
+  <dcterms:language>es</dcterms:language>
+  <dcterms:publisher>ePubLibre</dcterms:publisher>
+  <category term="Novela" />
+  <category term="Drama" />
+  <category term="Lang:es" />
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      Sin puntuación
+    </p>
+    <p>
+      <strong>Etiquetas:</strong>
+      Novela, Drama, Lang:es
+    </p>
+    <p>
+      <strong>Published:</strong>
+      31 de diciembre de 1994
+    </p>
+    <p>
+      <strong>Sumario:</strong>
+    </p>
+    <p xmlns="">Un hombre parado ante un semáforo en rojo se queda
+    ciego súbitamente. Es el primer caso de una «ceguera
+    blanca» que se expande de manera fulminante. Internados en
+    cuarentena o perdidos en la ciudad, los ciegos tendrán que
+    enfrentarse con lo que existe de más primitivo en la
+    naturaleza humana: la voluntad de sobrevivir a cualquier
+    precio. Ensayo sobre la ceguera es la ficción de un autor
+    que nos alerta sobre «la responsabilidad de tener ojos
+    cuando otros los perdieron». José Saramago traza en
+    este libro una imagen aterradora y conmovedora de los tiempos
+    que estamos viviendo. En un mundo así, ¿cabrá
+    alguna esperanza? El lector conocerá una experiencia
+    imaginativa única. En un punto donde se cruzan literatura
+    y sabiduría, José Saramago nos obliga a parar, cerrar
+    los ojos y ver. Recuperar la lucidez y rescatar el afecto son
+    dos propuestas fundamentales de una novela que es,
+    también, una reflexión sobre la ética del amor y
+    la solidaridad.</p>
+  </content>
+  <link href="../8f6fb6ff%40author_0/a3fb6b8c%40author_39_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Libros de José Saramago" />
+  <link href="http://www.goodreads.com/book/title/Ensayo%20sobre%20la%20ceguera" type="text/html" rel="related" title="Este libro en Goodreads" />
+  <link href="http://es.wikipedia.org/wiki/Ensayo%20sobre%20la%20ceguera" type="text/html" rel="related" title="Este libro en Wikipedia" />
+  <link href="http://www.librarything.com/title/Ensayo%20sobre%20la%20ceguera%20Jos%C3%A9%20Saramago" type="text/html" rel="related" title="Este libro en LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=Ensayo%20sobre%20la%20ceguera&amp;field-author=Jos%C3%A9%20Saramago" type="text/html" rel="related" title="Este libro en Amazon" />
+  <link href="http://www.goodreads.com/book/author/Jos%C3%A9%20Saramago" type="text/html" rel="related" title="José Saramago en Goodreads" />
+  <link href="http://es.wikipedia.org/wiki/Jos%C3%A9%20Saramago" type="text/html" rel="related" title="José Saramago en Wikipedia" />
+  <link href="http://www.librarything.com/author/SaramagoJos%C3%A9" type="text/html" rel="related" title="José Saramago en LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Jos%C3%A9%20Saramago" type="text/html" rel="related" title="José Saramago en Amazon" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Jos%C3%A9%20Saramago" type="text/html" rel="related" title="José Saramago en ISFDB" />
+</entry>
+

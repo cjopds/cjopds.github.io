@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>El Asedio</title>
+  <id>urn:book:3fcfd654-55b3-4256-a5cd-e2b06b31edc0</id>
+  <updated>2015-03-27T01:53:44Z</updated>
+  <link href="./14082b46%40book_188.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="El Asedio" />
+  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Biblioteca de Calibre de CJ" />
+  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Biblioteca de Calibre de CJ" />
+  <link href="../8f6fb6ff%40authorlist/e8e4356e%40authorlist_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="14082b46@book_188_cover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../8f6fb6ff@book_0/14082b46@book_188_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Arturo%20Perez-Reverte/El%20Asedio%20%28188%29/El%20Asedio%20-%20Arturo%20Perez-Reverte.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Descargar este libro como MOBI" />
+  <author>
+    <name>Arturo Pérez-Reverte</name>
+    <uri>../8f6fb6ff@author_0/4e338258@author_66_Page_1.xml</uri>
+  </author>
+  <published>2010-04-28T10:00:00Z</published>
+  <dcterms:publisher>Santillana USA Pub Co Inc</dcterms:publisher>
+  <category term="spanish" />
+  <category term="Novela Histórica" />
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      Sin puntuación
+    </p>
+    <p>
+      <strong>Etiquetas:</strong>
+      spanish, Novela Histórica
+    </p>
+    <p>
+      <strong>Published:</strong>
+      28 de abril de 2010
+    </p>
+    <p>
+      <strong>Sumario:</strong>
+    </p>
+    <p xmlns="">Cádiz, 1811. España lucha por su independencia
+    mientras América lo hace por la suya. En las calles de la
+    ciudad más liberal de Europa se libran batallas de otra
+    índole. Mujeres jóvenes aparecen desolladas a
+    latigazos. En cada lugar, antes del hallazgo del cadáver,
+    ha caído una bomba francesa. Eso traza sobre la ciudad un
+    mapa superpuesto y siniestro: un complejo tablero de ajedrez
+    donde la mano de un jugador oculto -un asesino despiadado, el
+    azar, las curvas de artillería, la dirección de los
+    vientos, el cálculo de probabilidades- mueve piezas que
+    deciden el destino de los protagonistas: un policía
+    corrupto y brutal, la heredera de una importante casa comercial
+    gaditana, un capitán corsario de pocos escrúpulos, un
+    taxidermista misántropo y espía, un enternecedor
+    guerrillero de las salinas y un excéntrico artillero a
+    quien las guerras importan menos que resolver el problema
+    técnico del corto alcance de sus obuses.El asedio narra el
+    pulso asombroso de un mundo que pudo ser y no fue. El fin de
+    una época y unos personajes condenados por la Historia,
+    sentenciados a un vida que, como la ciudad que los alberga -una
+    Cádiz equívoca, enigmática, sólo en
+    apariencia luminosa y blanca-, nunca volverá a ser la
+    misma.</p>
+  </content>
+  <link href="../8f6fb6ff%40author_0/4e338258%40author_66_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Libros de Arturo Pérez-Reverte" />
+  <link href="http://www.goodreads.com/book/title/El%20Asedio" type="text/html" rel="related" title="Este libro en Goodreads" />
+  <link href="http://es.wikipedia.org/wiki/El%20Asedio" type="text/html" rel="related" title="Este libro en Wikipedia" />
+  <link href="http://www.librarything.com/title/El%20Asedio%20Arturo%20P%C3%A9rez-Reverte" type="text/html" rel="related" title="Este libro en LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=El%20Asedio&amp;field-author=Arturo%20P%C3%A9rez-Reverte" type="text/html" rel="related" title="Este libro en Amazon" />
+  <link href="http://www.goodreads.com/book/author/Arturo%20P%C3%A9rez-Reverte" type="text/html" rel="related" title="Arturo Pérez-Reverte en Goodreads" />
+  <link href="http://es.wikipedia.org/wiki/Arturo%20P%C3%A9rez-Reverte" type="text/html" rel="related" title="Arturo Pérez-Reverte en Wikipedia" />
+  <link href="http://www.librarything.com/author/P%C3%A9rez-ReverteArturo" type="text/html" rel="related" title="Arturo Pérez-Reverte en LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Arturo%20P%C3%A9rez-Reverte" type="text/html" rel="related" title="Arturo Pérez-Reverte en Amazon" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Arturo%20P%C3%A9rez-Reverte" type="text/html" rel="related" title="Arturo Pérez-Reverte en ISFDB" />
+</entry>
+

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Canciones para Paula</title>
+  <id>urn:book:c056faa6-3aaa-4944-bd24-cdcadd10fabc</id>
+  <updated>2015-03-27T01:53:44Z</updated>
+  <link href="./9ac1c38f%40book_193.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Canciones para Paula" />
+  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Biblioteca de Calibre de CJ" />
+  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Biblioteca de Calibre de CJ" />
+  <link href="../8f6fb6ff%40authorlist/e8e4356e%40authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../8f6fb6ff%40author_0/a98baf5f%40author_68_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Jeans, Blue" />
+  <link href="9ac1c38f@book_193_cover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../8f6fb6ff@book_0/9ac1c38f@book_193_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Blue%20Jeans/Canciones%20para%20Paula%20%28193%29/Canciones%20para%20Paula%20-%20Blue%20Jeans.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+  <author>
+    <name>Blue Jeans</name>
+    <uri>../8f6fb6ff@author_0/a98baf5f@author_68_Page_1.xml</uri>
+  </author>
+  <published>2009-12-11T00:00:00Z</published>
+  <dcterms:language>es</dcterms:language>
+  <dcterms:publisher>Everest</dcterms:publisher>
+  <category term="Romántico" />
+  <category term="Infantil y Juvenil" />
+  <category term="Literatura y ficción" />
+  <category term="Ficción contemporánea" />
+  <category term="GusiX" />
+  <category term="Literatura y narrativa" />
+  <category term="Lang:es" />
+  <category term="Canciones para Paula" />
+  <content type="text/html">
+    <p>
+      <strong>Series:</strong>
+      Libro 1 en la Canciones para Paula serie
+    </p>
+    <p>
+      <strong>Rating:</strong>
+      ****
+    </p>
+    <p>
+      <strong>Etiquetas:</strong>
+      Romántico, Infantil y Juvenil, Literatura y ficción, Ficción contemporánea, GusiX, Literatura y narrativa, Lang:es
+    </p>
+    <p>
+      <strong>Published:</strong>
+      11 de diciembre de 2009
+    </p>
+    <p>
+      <strong>Sumario:</strong>
+    </p>
+    <div xmlns="">
+      <h3>Reseña del editor</h3>
+      <p>Paula, una joven a punto de cumplir los 17, se ha citado
+      con Ángel, un chico de 22 años al que ha conocido
+      por internet. Está nerviosa e ilusionada. Los minutos
+      pasan y el chico no llega, por lo que ella decide meterse en
+      un café cercano. Allí tiene un divertido encuentro
+      con Álex, un desconocido, que casualmente está
+      leyendo el mismo libro que ella. Ambos son jóvenes y
+      guapos... Álex tiene que irse precipitadamente porque
+      tiene un compromiso. Cuando Paula ya se dispone a salir,
+      aparece Ángel y se disculpa por el gran retraso. Él
+      es periodista y esa tarde ha tenido que entrevistar a Katia,
+      la cantante de moda...</p>
+    </div>
+  </content>
+  <link href="../8f6fb6ff%40series_0/74d28b05%40series_9_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Libro 1 en la Canciones para Paula serie" />
+  <link href="../8f6fb6ff%40author_0/a98baf5f%40author_68_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Libros de Blue Jeans" />
+  <link href="http://www.goodreads.com/book/title/Canciones%20para%20Paula" type="text/html" rel="related" title="Este libro en Goodreads" />
+  <link href="http://es.wikipedia.org/wiki/Canciones%20para%20Paula" type="text/html" rel="related" title="Este libro en Wikipedia" />
+  <link href="http://www.librarything.com/title/Canciones%20para%20Paula%20Blue%20Jeans" type="text/html" rel="related" title="Este libro en LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=Canciones%20para%20Paula&amp;field-author=Blue%20Jeans" type="text/html" rel="related" title="Este libro en Amazon" />
+  <link href="http://www.goodreads.com/book/author/Blue%20Jeans" type="text/html" rel="related" title="Blue Jeans en Goodreads" />
+  <link href="http://es.wikipedia.org/wiki/Blue%20Jeans" type="text/html" rel="related" title="Blue Jeans en Wikipedia" />
+  <link href="http://www.librarything.com/author/JeansBlue" type="text/html" rel="related" title="Blue Jeans en LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Blue%20Jeans" type="text/html" rel="related" title="Blue Jeans en Amazon" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Blue%20Jeans" type="text/html" rel="related" title="Blue Jeans en ISFDB" />
+</entry>
+

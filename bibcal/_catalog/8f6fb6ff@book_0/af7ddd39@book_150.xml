@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Nueva antología del disparate</title>
+  <id>urn:book:e68a642b-32a1-4f56-b60d-a791b4d97a88</id>
+  <updated>2015-03-27T01:53:42Z</updated>
+  <link href="./af7ddd39%40book_150.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Nueva antología del disparate" />
+  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Biblioteca de Calibre de CJ" />
+  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Biblioteca de Calibre de CJ" />
+  <link href="../8f6fb6ff%40authorlist/e8e4356e%40authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="af7ddd39@book_150_cover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../8f6fb6ff@book_0/af7ddd39@book_150_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Luis%20Diez%20Jimenez/Nueva%20antologia%20del%20disparate%20%28150%29/Nueva%20antologia%20del%20disparate%20-%20Luis%20Diez%20Jimenez.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+  <author>
+    <name>Luis Díez Jiménez</name>
+    <uri>../8f6fb6ff@author_0/920b81f6@author_44_Page_1.xml</uri>
+  </author>
+  <published>1981-12-31T11:00:00Z</published>
+  <dcterms:language>es</dcterms:language>
+  <dcterms:publisher>Planeta</dcterms:publisher>
+  <category term="General" />
+  <category term="Education" />
+  <category term="Examinations" />
+  <category term="Computers" />
+  <category term="Wit and humor in education" />
+  <category term="Humor in children" />
+  <category term="Spanish wit and humor" />
+  <category term="Certification Guides" />
+  <category term="Lang:es" />
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      Sin puntuación
+    </p>
+    <p>
+      <strong>Etiquetas:</strong>
+      General, Education, Examinations, Computers, Wit and humor in education, Humor in children, Spanish wit and humor, Certification Guides, Lang:es
+    </p>
+    <p>
+      <strong>Published:</strong>
+      31 de diciembre de 1981
+    </p>
+    <p>
+      <strong>Sumario:</strong>
+    </p>
+    <p xmlns="" class="description">El libro recoge los disparates más
+    sonados que han dicho los alumnos en las aulas
+    españolas.</p>
+  </content>
+  <link href="../8f6fb6ff%40author_0/920b81f6%40author_44_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Libros de Luis Díez Jiménez" />
+  <link href="http://www.goodreads.com/book/title/Nueva%20antolog%C3%ADa%20del%20disparate" type="text/html" rel="related" title="Este libro en Goodreads" />
+  <link href="http://es.wikipedia.org/wiki/Nueva%20antolog%C3%ADa%20del%20disparate" type="text/html" rel="related" title="Este libro en Wikipedia" />
+  <link href="http://www.librarything.com/title/Nueva%20antolog%C3%ADa%20del%20disparate%20Luis%20D%C3%ADez%20Jim%C3%A9nez" type="text/html" rel="related" title="Este libro en LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=Nueva%20antolog%C3%ADa%20del%20disparate&amp;field-author=Luis%20D%C3%ADez%20Jim%C3%A9nez" type="text/html" rel="related" title="Este libro en Amazon" />
+  <link href="http://www.goodreads.com/book/author/Luis%20D%C3%ADez%20Jim%C3%A9nez" type="text/html" rel="related" title="Luis Díez Jiménez en Goodreads" />
+  <link href="http://es.wikipedia.org/wiki/Luis%20D%C3%ADez%20Jim%C3%A9nez" type="text/html" rel="related" title="Luis Díez Jiménez en Wikipedia" />
+  <link href="http://www.librarything.com/author/D%C3%ADezJim%C3%A9nezLuis" type="text/html" rel="related" title="Luis Díez Jiménez en LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Luis%20D%C3%ADez%20Jim%C3%A9nez" type="text/html" rel="related" title="Luis Díez Jiménez en Amazon" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Luis%20D%C3%ADez%20Jim%C3%A9nez" type="text/html" rel="related" title="Luis Díez Jiménez en ISFDB" />
+</entry>
+

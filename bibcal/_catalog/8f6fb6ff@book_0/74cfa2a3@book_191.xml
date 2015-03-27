@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Buenos dias, Princesa</title>
+  <id>urn:book:13d94461-94b2-4035-acd8-241a7e84fa1e</id>
+  <updated>2015-03-27T01:53:44Z</updated>
+  <link href="./74cfa2a3%40book_191.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Buenos dias, Princesa" />
+  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Biblioteca de Calibre de CJ" />
+  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Biblioteca de Calibre de CJ" />
+  <link href="../8f6fb6ff%40authorlist/e8e4356e%40authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../8f6fb6ff%40author_0/a98baf5f%40author_68_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Jeans, Blue" />
+  <link href="74cfa2a3@book_191_cover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../8f6fb6ff@book_0/74cfa2a3@book_191_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Blue%20Jeans/Buenos%20dias%2C%20Princesa%20%28191%29/Buenos%20dias%2C%20Princesa%20-%20Blue%20Jeans.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+  <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Blue%20Jeans/Buenos%20dias%2C%20Princesa%20%28191%29/Buenos%20dias%2C%20Princesa%20-%20Blue%20Jeans.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Descargar este libro como PDF" />
+  <author>
+    <name>Blue Jeans</name>
+    <uri>../8f6fb6ff@author_0/a98baf5f@author_68_Page_1.xml</uri>
+  </author>
+  <published>0101-01-01T00:00:00Z</published>
+  <dcterms:language>es</dcterms:language>
+  <dcterms:publisher>Grupo Planeta</dcterms:publisher>
+  <category term="Lang:es" />
+  <category term="El Club de los Incomprendidos" />
+  <content type="text/html">
+    <p>
+      <strong>Series:</strong>
+      Libro 1 en la El Club de los Incomprendidos serie
+    </p>
+    <p>
+      <strong>Rating:</strong>
+      Sin puntuación
+    </p>
+    <p>
+      <strong>Etiquetas:</strong>
+      Lang:es
+    </p>
+    <p>
+      <strong>Published:</strong>
+      1 de enero de 0101
+    </p>
+    <p>
+      <strong>Sumario:</strong>
+    </p>
+    <p xmlns="" class="description">Hace dos años se conocieron cuando
+    más se necesitaban y formaron el CLUB DE LOS
+    INCOMPRENDIDOS. Sin embargo, algo ha cambiado y ahora ya no
+    saben si pueden contar los unos con los otros. Valeria no sabe
+    si al dejarse llevar por lo que siente puede traicionar a su
+    mejor amiga; Bruno escribe cartas de amor que no dan resultado;
+    María es el patito feo que busca su sitio; Elísabet
+    no está acostumbrada a que le digan que no; Raúl no
+    quiere equivocarse esta vez, y a Ester le gustaría gritar
+    su amor a los cuatro vientos. Amores desbordantes, dudas
+    existenciales, secretos inconfesables y mucha, mucha
+    diversión. Únete al fenómeno BLUE JEANS, el
+    autor de la trilogía «Canciones para Paula», la
+    primera novela que salta de Internet a las librerías
+    gracias a su éxito en las redes sociales.</p>
+  </content>
+  <link href="../8f6fb6ff%40series_0/3d5bb93%40series_8_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Libro 1 en la El Club de los Incomprendidos serie" />
+  <link href="../8f6fb6ff%40author_0/a98baf5f%40author_68_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Libros de Blue Jeans" />
+  <link href="http://www.goodreads.com/book/title/Buenos%20dias%2C%20Princesa" type="text/html" rel="related" title="Este libro en Goodreads" />
+  <link href="http://es.wikipedia.org/wiki/Buenos%20dias%2C%20Princesa" type="text/html" rel="related" title="Este libro en Wikipedia" />
+  <link href="http://www.librarything.com/title/Buenos%20dias%2C%20Princesa%20Blue%20Jeans" type="text/html" rel="related" title="Este libro en LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=Buenos%20dias%2C%20Princesa&amp;field-author=Blue%20Jeans" type="text/html" rel="related" title="Este libro en Amazon" />
+  <link href="http://www.goodreads.com/book/author/Blue%20Jeans" type="text/html" rel="related" title="Blue Jeans en Goodreads" />
+  <link href="http://es.wikipedia.org/wiki/Blue%20Jeans" type="text/html" rel="related" title="Blue Jeans en Wikipedia" />
+  <link href="http://www.librarything.com/author/JeansBlue" type="text/html" rel="related" title="Blue Jeans en LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Blue%20Jeans" type="text/html" rel="related" title="Blue Jeans en Amazon" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Blue%20Jeans" type="text/html" rel="related" title="Blue Jeans en ISFDB" />
+</entry>
+

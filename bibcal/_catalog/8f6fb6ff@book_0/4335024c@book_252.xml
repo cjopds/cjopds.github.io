@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>El sueño de una noche de verano</title>
+  <id>urn:book:9914c7ff-a583-4ddd-81a6-5ed06d1cdcc6</id>
+  <updated>2015-03-27T01:53:52Z</updated>
+  <link href="./4335024c%40book_252.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="El sueño de una noche de verano" />
+  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Biblioteca de Calibre de CJ" />
+  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Biblioteca de Calibre de CJ" />
+  <link href="../8f6fb6ff%40authorlist/e8e4356e%40authorlist_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="4335024c@book_252_cover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../8f6fb6ff@book_0/4335024c@book_252_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/William%20Shakespeare/El%20sueno%20de%20una%20noche%20de%20verano%20%28252%29/El%20sueno%20de%20una%20noche%20de%20verano%20-%20William%20Shakespeare.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+  <author>
+    <name>William Shakespeare</name>
+    <uri>../8f6fb6ff@author_0/beacae01@author_97_Page_1.xml</uri>
+  </author>
+  <published>1594-12-31T11:00:00Z</published>
+  <dcterms:language>es</dcterms:language>
+  <dcterms:publisher>ePubLibre</dcterms:publisher>
+  <category term="Teatro" />
+  <category term="Humor" />
+  <category term="Lang:es" />
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      Sin puntuación
+    </p>
+    <p>
+      <strong>Etiquetas:</strong>
+      Teatro, Humor, Lang:es
+    </p>
+    <p>
+      <strong>Published:</strong>
+      31 de diciembre de 1594
+    </p>
+    <p>
+      <strong>Sumario:</strong>
+    </p>
+    <p xmlns="">Esta comedia en cinco actos en verso y prosa de William
+    Shakespeare fue escrita alrededor de 1595 y representada hacia
+    la misma época. Los principales temas de esta obra son los
+    sueños y la realidad, el amor y la magia. Esta comedia
+    relata la historia de cinco parejas de enamorados que sufren y
+    disfrutan por causa de su amor y de las argucias de sus
+    enamorados. El trasfondo común se encuentra en las
+    celebraciones de la boda entre el Duque Teseo y la reina de las
+    amazonas Hipólita, anteriormente enemigos en batalla
+    amantes a punto de casarse al comenzar la obra. Personajes
+    mitólogicos como el rey y la reina de las hadas,
+    Oberón y Titania, o el duende Puck entremezclan sus
+    propios destinos y el de dos parejas de enamorados: Hermia y
+    Lisandro, Demetrio y Helena. Shakespeare parece haber bebido en
+    las fuentes más dispares para este drama: en El
+    descubrimiento de la hechicería, de Reginald Scot
+    (1538?-1599) pudo haber hallado las noticias en torno a Robin
+    Goodfellow, mientras que la historia de la transformación
+    en asno se remonta al Asno de oro de Apuleyo, pero pudo tomarla
+    de Chaucer o Plutarco.</p>
+  </content>
+  <link href="../8f6fb6ff%40author_0/beacae01%40author_97_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Libros de William Shakespeare" />
+  <link href="http://www.goodreads.com/book/title/El%20sue%C3%B1o%20de%20una%20noche%20de%20verano" type="text/html" rel="related" title="Este libro en Goodreads" />
+  <link href="http://es.wikipedia.org/wiki/El%20sue%C3%B1o%20de%20una%20noche%20de%20verano" type="text/html" rel="related" title="Este libro en Wikipedia" />
+  <link href="http://www.librarything.com/title/El%20sue%C3%B1o%20de%20una%20noche%20de%20verano%20William%20Shakespeare" type="text/html" rel="related" title="Este libro en LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=El%20sue%C3%B1o%20de%20una%20noche%20de%20verano&amp;field-author=William%20Shakespeare" type="text/html" rel="related" title="Este libro en Amazon" />
+  <link href="http://www.goodreads.com/book/author/William%20Shakespeare" type="text/html" rel="related" title="William Shakespeare en Goodreads" />
+  <link href="http://es.wikipedia.org/wiki/William%20Shakespeare" type="text/html" rel="related" title="William Shakespeare en Wikipedia" />
+  <link href="http://www.librarything.com/author/ShakespeareWilliam" type="text/html" rel="related" title="William Shakespeare en LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=William%20Shakespeare" type="text/html" rel="related" title="William Shakespeare en Amazon" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?William%20Shakespeare" type="text/html" rel="related" title="William Shakespeare en ISFDB" />
+</entry>
+

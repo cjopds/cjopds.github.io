@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>El último héroe del Olimpo</title>
+  <id>urn:book:c7c9c4bd-42cb-4903-b7d8-52833d9cd858</id>
+  <updated>2015-03-27T01:53:43Z</updated>
+  <link href="./93903789%40book_178.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="El último héroe del Olimpo" />
+  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Biblioteca de Calibre de CJ" />
+  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Biblioteca de Calibre de CJ" />
+  <link href="../8f6fb6ff%40authorlist/e8e4356e%40authorlist_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../8f6fb6ff%40author_0/82a6fc9c%40author_58_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Riordan, Rick" />
+  <link href="93903789@book_178_cover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../8f6fb6ff@book_0/93903789@book_178_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Rick%20Riordan/El%20ultimo%20heroe%20del%20Olimpo%20%28178%29/El%20ultimo%20heroe%20del%20Olimpo%20-%20Rick%20Riordan.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+  <author>
+    <name>Rick Riordan</name>
+    <uri>../8f6fb6ff@author_0/82a6fc9c@author_58_Page_1.xml</uri>
+  </author>
+  <published>2009-05-04T10:00:00Z</published>
+  <dcterms:language>es</dcterms:language>
+  <dcterms:publisher>Salamandra</dcterms:publisher>
+  <category term="Fantasía; terror y ciencia ficción" />
+  <category term="Infantil y Juvenil" />
+  <category term="Aventura" />
+  <category term="Fantástico" />
+  <category term="Lang:es" />
+  <category term="Percy Jackson y los dioses del Olimpo" />
+  <content type="text/html">
+    <p>
+      <strong>Series:</strong>
+      Libro 5 en la Percy Jackson y los dioses del Olimpo serie
+    </p>
+    <p>
+      <strong>Rating:</strong>
+      *****
+    </p>
+    <p>
+      <strong>Etiquetas:</strong>
+      Fantasía; terror y ciencia ficción, Infantil y Juvenil, Aventura, Fantástico, Lang:es
+    </p>
+    <p>
+      <strong>Published:</strong>
+      4 de mayo de 2009
+    </p>
+    <p>
+      <strong>Sumario:</strong>
+    </p>
+    <div xmlns="">
+      <h3>Reseña del editor</h3>
+      <p>Los mestizos han dedicado mucho tiempo a prepararse para
+      la batalla decisiva contra los titanes, aunque saben que sus
+      posibilidades de obtener la victoria son mínimas. El
+      ejército de Cronos es ahora más formidable que
+      nunca y, con cada dios y cada mestizo que logra reclutar,
+      aumentan los poderes del maligno titán. Tras fracasar en
+      un primer intento de detener en alta mar las arrolladoras
+      huestes de Cronos, Percy Jackson y los olímpicos se
+      esfuerzan por mantener a raya la furia desatada del monstruo
+      Tifón. Y cuando Cronos ordena el avance definitivo hacia
+      Nueva York, donde el monte Olimpo, en lo alto del Empire
+      State, se encuentra prácticamente indefenso, pararle los
+      pies al implacable Señor del Tiempo dependerá
+      exclusivamente de Percy y su pequeño ejército de
+      jóvenes semidioses. En esta entrega final de la serie,
+      la profecía largamente anunciada en torno al decimosexto
+      cumpleaños de Percy se hace por fin realidad. Y mientras
+      en las calles de Manhattan se libra una despiadada batalla
+      por la civilización occidental, Percy abriga la terrible
+      sospecha de estar luchando contra su propio destino.</p>
+    </div>
+  </content>
+  <link href="../8f6fb6ff%40series_0/936aa602%40series_7_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Libro 5 en la Percy Jackson y los dioses del Olimpo serie" />
+  <link href="../8f6fb6ff%40author_0/82a6fc9c%40author_58_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Libros de Rick Riordan" />
+  <link href="http://www.goodreads.com/book/title/El%20%C3%BAltimo%20h%C3%A9roe%20del%20Olimpo" type="text/html" rel="related" title="Este libro en Goodreads" />
+  <link href="http://es.wikipedia.org/wiki/El%20%C3%BAltimo%20h%C3%A9roe%20del%20Olimpo" type="text/html" rel="related" title="Este libro en Wikipedia" />
+  <link href="http://www.librarything.com/title/El%20%C3%BAltimo%20h%C3%A9roe%20del%20Olimpo%20Rick%20Riordan" type="text/html" rel="related" title="Este libro en LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=El%20%C3%BAltimo%20h%C3%A9roe%20del%20Olimpo&amp;field-author=Rick%20Riordan" type="text/html" rel="related" title="Este libro en Amazon" />
+  <link href="http://www.goodreads.com/book/author/Rick%20Riordan" type="text/html" rel="related" title="Rick Riordan en Goodreads" />
+  <link href="http://es.wikipedia.org/wiki/Rick%20Riordan" type="text/html" rel="related" title="Rick Riordan en Wikipedia" />
+  <link href="http://www.librarything.com/author/RiordanRick" type="text/html" rel="related" title="Rick Riordan en LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Rick%20Riordan" type="text/html" rel="related" title="Rick Riordan en Amazon" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Rick%20Riordan" type="text/html" rel="related" title="Rick Riordan en ISFDB" />
+</entry>
+

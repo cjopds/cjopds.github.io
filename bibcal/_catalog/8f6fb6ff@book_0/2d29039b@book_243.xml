@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Fahrenheit 451</title>
+  <id>urn:book:ca7aead0-86b9-4853-801f-869b3a7f2b7b</id>
+  <updated>2015-03-27T01:53:51Z</updated>
+  <link href="./2d29039b%40book_243.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Fahrenheit 451" />
+  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Biblioteca de Calibre de CJ" />
+  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Biblioteca de Calibre de CJ" />
+  <link href="../8f6fb6ff%40authorlist/e8e4356e%40authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="2d29039b@book_243_cover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../8f6fb6ff@book_0/2d29039b@book_243_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Ray%20Bradbury/Fahrenheit%20451%20%28243%29/Fahrenheit%20451%20-%20Ray%20Bradbury.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+  <author>
+    <name>Ray Bradbury</name>
+    <uri>../8f6fb6ff@author_0/b9c16a18@author_93_Page_1.xml</uri>
+  </author>
+  <published>1952-12-31T11:00:00Z</published>
+  <dcterms:language>es</dcterms:language>
+  <dcterms:publisher>ePubLibre</dcterms:publisher>
+  <category term="Relato" />
+  <category term="Ciencia Ficción" />
+  <category term="Lang:es" />
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      Sin puntuación
+    </p>
+    <p>
+      <strong>Etiquetas:</strong>
+      Relato, Ciencia Ficción, Lang:es
+    </p>
+    <p>
+      <strong>Published:</strong>
+      31 de diciembre de 1952
+    </p>
+    <p>
+      <strong>Sumario:</strong>
+    </p>
+    <p xmlns="">Fahrenheit 451: la temperatura a la que el papel se enciende
+    y arde. Guy Montag es un bombero y el trabajo de un bombero es
+    quemar libros, que están prohibidos porque son causa de
+    discordia y sufrimiento. El Sabueso Mecánico del
+    Departamento de Incendios, armado con una letal inyección
+    hipodérmica, escoltado por helicópteros, está
+    preparado para rastrear a los disidentes que aún conservan
+    y leen libros. Como 1984, de George Orwell, como Un mundo
+    feliz, de Aldous Huxley, Fahrenheit 451 describe una
+    civilización occidental esclavizada por los medios, los
+    tranquilizantes y el conformismo. La visión de Bradbury es
+    asombrosamente profética: pantallas de televisión que
+    ocupan paredes y exhiben folletines interactivos; avenidas
+    donde los coches corren a 150 kilómetros por hora
+    persiguiendo a peatones; una población que no escucha otra
+    cosa que una insípida corriente de música y noticias
+    transmitidas por unos diminutos auriculares insertados en las
+    orejas.</p>
+  </content>
+  <link href="../8f6fb6ff%40author_0/b9c16a18%40author_93_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Libros de Ray Bradbury" />
+  <link href="http://www.goodreads.com/book/title/Fahrenheit%20451" type="text/html" rel="related" title="Este libro en Goodreads" />
+  <link href="http://es.wikipedia.org/wiki/Fahrenheit%20451" type="text/html" rel="related" title="Este libro en Wikipedia" />
+  <link href="http://www.librarything.com/title/Fahrenheit%20451%20Ray%20Bradbury" type="text/html" rel="related" title="Este libro en LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=Fahrenheit%20451&amp;field-author=Ray%20Bradbury" type="text/html" rel="related" title="Este libro en Amazon" />
+  <link href="http://www.goodreads.com/book/author/Ray%20Bradbury" type="text/html" rel="related" title="Ray Bradbury en Goodreads" />
+  <link href="http://es.wikipedia.org/wiki/Ray%20Bradbury" type="text/html" rel="related" title="Ray Bradbury en Wikipedia" />
+  <link href="http://www.librarything.com/author/BradburyRay" type="text/html" rel="related" title="Ray Bradbury en LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Ray%20Bradbury" type="text/html" rel="related" title="Ray Bradbury en Amazon" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Ray%20Bradbury" type="text/html" rel="related" title="Ray Bradbury en ISFDB" />
+</entry>
+

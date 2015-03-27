@@ -1,0 +1,480 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:opds="http://opds-spec.org/2010/catalog">
+  <title>Año pasado</title>
+  <id>Calibre2opds:recent:YEAR</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./6d63577e%40recent_YEAR_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Año pasado" />
+  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Biblioteca de Calibre de CJ" />
+  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Biblioteca de Calibre de CJ" />
+  <link href="./6d63577e%40recent_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Añadidos recientemente" />
+  <entry>
+    <title>En llamas [14 de agosto de 2014]</title>
+    <id>calibre:book:170</id>
+    <updated>2015-03-27T01:53:43Z</updated>
+    <link href="../8f6fb6ff@book_0/9d4bbfbb@book_170_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Suzanne%20Collins/En%20llamas%20%28170%29/En%20llamas%20-%20Suzanne%20Collins.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>Suzanne Collins</name>
+      <uri>../8f6fb6ff@author_0/62731582@author_52_Page_1.xml</uri>
+    </author>
+    <author>
+      <name>Pilar Ramírez Tello</name>
+      <uri>../8f6fb6ff@author_0/8b10b0b7@author_54_Page_1.xml</uri>
+    </author>
+    <published>2012-03-20T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Molino</dcterms:publisher>
+    <category term="Fantasía; terror y ciencia ficción" />
+    <category term="Aventura" />
+    <category term="Ciencia Ficción" />
+    <category term="Infantil y Juvenil" />
+    <category term="Lang:es" />
+    <category term="Los Juegos del Hambre" />
+    <summary>Los Juegos del Hambre [2]: Reseña del editorKatniss Everdeen ha sobrevivido a Los juegos del hambre. Pero el Capitolio quiere venganza. Contra todo pronóstico, Katniss Everdeen y Peeta Mellark siguen vivos. Aunque Katniss debería sentirse aliviada, se rumorea que existe una rebelión contra el Capitolio, una rebelión que puede que Katniss y Peeta hayan ayudado a inspirar. La nación les observa y hay mucho en juego. Un movimiento en falso y las consecuencias serán inimaginables. Biografía del auto...</summary>
+    <link href="../8f6fb6ff%40book_0/9d4bbfbb%40book_170.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Los juegos del hambre [14 de agosto de 2014]</title>
+    <id>calibre:book:169</id>
+    <updated>2015-03-27T01:53:43Z</updated>
+    <link href="../8f6fb6ff@book_0/fd8c365e@book_169_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Suzanne%20Collins/Los%20juegos%20del%20hambre%20%28169%29/Los%20juegos%20del%20hambre%20-%20Suzanne%20Collins.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>Suzanne Collins</name>
+      <uri>../8f6fb6ff@author_0/62731582@author_52_Page_1.xml</uri>
+    </author>
+    <author>
+      <name>Pilar Ramírez Tello</name>
+      <uri>../8f6fb6ff@author_0/8b10b0b7@author_54_Page_1.xml</uri>
+    </author>
+    <published>2012-03-20T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Molino</dcterms:publisher>
+    <category term="Fantasía; terror y ciencia ficción" />
+    <category term="Aventura" />
+    <category term="Ciencia Ficción" />
+    <category term="Infantil y Juvenil" />
+    <category term="Lang:es" />
+    <category term="Los Juegos del Hambre" />
+    <summary>Los Juegos del Hambre [1]: Reseña del editorGANAR SIGNIFICA FAMA Y RIQUEZA. PERDER SIGNIFICA UNA MUERTE SEGURA. En una oscura versión del futuro próximo, doce chicos y doce chicas se ven obligados a participar en un reality show llamado Los juegos del hambre. Solo hay una regla: matar o morir. Cuando Katniss Everdeen, una joven de dieciséis años se presenta voluntaria para ocupar el lugar de su hermana en los juegos, lo entiende como una condena a muerte. Sin embargo Katniss ya ha visto la muert...</summary>
+    <link href="../8f6fb6ff%40book_0/fd8c365e%40book_169.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Sinsajo [14 de agosto de 2014]</title>
+    <id>calibre:book:168</id>
+    <updated>2015-03-27T01:53:43Z</updated>
+    <link href="../8f6fb6ff@book_0/8a8b06c8@book_168_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Suzanne%20Collins/Sinsajo%20%28168%29/Sinsajo%20-%20Suzanne%20Collins.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>Suzanne Collins</name>
+      <uri>../8f6fb6ff@author_0/62731582@author_52_Page_1.xml</uri>
+    </author>
+    <author>
+      <name>Pilar Ramírez Tello</name>
+      <uri>../8f6fb6ff@author_0/8b10b0b7@author_54_Page_1.xml</uri>
+    </author>
+    <published>2012-03-20T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Molino</dcterms:publisher>
+    <category term="Fantasía; terror y ciencia ficción" />
+    <category term="Aventura" />
+    <category term="Ciencia Ficción" />
+    <category term="Infantil y Juvenil" />
+    <category term="Lang:es" />
+    <category term="Los Juegos del Hambre" />
+    <summary>Los Juegos del Hambre [3]: Reseña del editorKatnis Everdeen ha sobrevivido dos veces a Los juegos del hambre, pero no está a salvo. La revolución se extiende y, al parecer, todos han tenido algo que ver en el meticuloso plan, todos excepto Katniss. Aun así su papel en la batalla final es el más importante de todos. Katniss debe convertirse en el Sinsajo, en el símbolo de la rebelión... a cualquier precio. ¡Que empiecen los septuagésimo sextos juegos del hambre! Biografía del autorSuzanne Collins...</summary>
+    <link href="../8f6fb6ff%40book_0/8a8b06c8%40book_168.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Perfección [14 de agosto de 2014]</title>
+    <id>calibre:book:167</id>
+    <updated>2015-03-27T01:53:46Z</updated>
+    <link href="../8f6fb6ff@book_0/1a341b59@book_167_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Scott%20Westerfeld/Perfeccion%20%28167%29/Perfeccion%20-%20Scott%20Westerfeld.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>Scott Westerfeld</name>
+      <uri>../8f6fb6ff@author_0/b926d235@author_74_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Montena</dcterms:publisher>
+    <category term="Ciencia Ficción" />
+    <category term="Romántica" />
+    <category term="Lang:es" />
+    <category term="Uglies" />
+    <summary>Uglies [2]: Tally se ha sometido a "la operación" para infiltrarse en la casta de los perfectos y ahora debe cumplir una difícil misión... Tally tenía un sueño: ser perfecta. Ahora ya lo ha hecho realidad y ha perdido, como consecuencia, todos los recuerdos de su pasado. Su única preocupación es ser admitida en la mejor pandilla de la ciudad, la de los Crim, y para lograrlo solo tiene que ganarse la aprobación de Zane -el chico más popular y deseado- durante una peculiar fiesta de disfraces que ...</summary>
+    <link href="../8f6fb6ff%40book_0/1a341b59%40book_167.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Traición [14 de agosto de 2014]</title>
+    <id>calibre:book:166</id>
+    <updated>2015-03-27T01:53:46Z</updated>
+    <link href="../8f6fb6ff@book_0/6d332bcf@book_166_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Scott%20Westerfeld/Traicion%20%28166%29/Traicion%20-%20Scott%20Westerfeld.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>Scott Westerfeld</name>
+      <uri>../8f6fb6ff@author_0/b926d235@author_74_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Montena</dcterms:publisher>
+    <category term="Ciencia Ficción" />
+    <category term="Romántica" />
+    <category term="Lang:es" />
+    <category term="Uglies" />
+    <summary>Uglies [1]: Como todos los chicos y las chicas de su edad, Tally espera con impaciencia cumplir los 16 años, porque a esa edad se someterá a una intervención quirúrgica que la convertirá en perfecta. Su transformación, sin embargo, se ve amenazada cuando su amiga Shay huye para unirse a la resistencia, un grupo de disidentes que no quieren someterse a la operación y que viven en El Humo, una ciudad clandestina. Tras la huida de Shay, las autoridades le ofrecen a Tally una disyuntiva. Tally no es...</summary>
+    <link href="../8f6fb6ff%40book_0/6d332bcf%40book_166.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Extras [14 de agosto de 2014]</title>
+    <id>calibre:book:165</id>
+    <updated>2015-03-27T01:53:45Z</updated>
+    <link href="../8f6fb6ff@book_0/f43a7a75@book_165_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Scott%20Westerfeld/Extras%20%28165%29/Extras%20-%20Scott%20Westerfeld.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>Scott Westerfeld</name>
+      <uri>../8f6fb6ff@author_0/b926d235@author_74_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Montena</dcterms:publisher>
+    <category term="Ciencia Ficción" />
+    <category term="Romántica" />
+    <category term="Lang:es" />
+    <category term="Uglies" />
+    <summary>Uglies [4]: Tras el fin de la era de los perfectos, la sociedad está sumida en un renacimiento completo... en el que la popularidad manda. Ser famoso implica tener mejor casa, mejor ropa e incluso mejores amigos. En cambio, no serlo te convierte en invisible, en un perdedor, en un completo desconocido. En definitiva, en un extra.Aya Fuse lo es. Pero a sus quince años hay algo que tiene ya muy claro: por nada del mundo piensa resignarse al anonimato. Y está dispuesta a todo para hacer realidad su...</summary>
+    <link href="../8f6fb6ff%40book_0/f43a7a75%40book_165.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Especiales [14 de agosto de 2014]</title>
+    <id>calibre:book:164</id>
+    <updated>2015-03-27T01:53:45Z</updated>
+    <link href="../8f6fb6ff@book_0/833d4ae3@book_164_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Scott%20Westerfeld/Especiales%20%28164%29/Especiales%20-%20Scott%20Westerfeld.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>Scott Westerfeld</name>
+      <uri>../8f6fb6ff@author_0/b926d235@author_74_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Montena</dcterms:publisher>
+    <category term="Ciencia Ficción" />
+    <category term="Romántica" />
+    <category term="Lang:es" />
+    <category term="Uglies" />
+    <summary>Uglies [3]: Tally se ha unido a Circunstancias Especiales y ahora está programada para vencer a la resistencia... Ya hace mucho tiempo que Tally dejó de ser una una imperfecta rebelde e indisciplinada. Por aquel entonces, ella aún creía que los especiales eran solo un rumor siniestro y aterrador: de ellos se decía que eran veloces, atractivos y crueles como nadie. Irónicamente, el destino ha llevado a Tally a convertirse en especial y, tras someterse a la más sofisticada de las operaciones quirú...</summary>
+    <link href="../8f6fb6ff%40book_0/833d4ae3%40book_164.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Las pruebas [14 de agosto de 2014]</title>
+    <id>calibre:book:163</id>
+    <updated>2015-03-27T01:53:42Z</updated>
+    <link href="../8f6fb6ff@book_0/1d59df40@book_163_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/James%20Dashner/Las%20pruebas%20%28163%29/Las%20pruebas%20-%20James%20Dashner.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>James Dashner</name>
+      <uri>../8f6fb6ff@author_0/e50cb160@author_45_Page_1.xml</uri>
+    </author>
+    <published>2011-08-01T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Nocturna Ediciones, S. L.</dcterms:publisher>
+    <category term="Fantasía" />
+    <category term="Ciencia Ficción" />
+    <category term="Lang:es" />
+    <category term="El corredor del laberinto" />
+    <summary>El corredor del laberinto [2]: Resolver el laberinto se suponía que era el final. No más pruebas, no más huidas. Thomas creía que salir significaba que todos recobrarían sus vidas, pero ninguno sabía a qué clase de vida estaban volviendo. Árida y carbonizada, gran parte de la tierra es un territorio inservible. El sol abrasa, los gobiernos han caído y una misteriosa enfermedad se ha ido apoderando poco a poco de la gente. Sus causas son desconocidas; su resultado, la locura. En un lugar infestad...</summary>
+    <link href="../8f6fb6ff%40book_0/1d59df40%40book_163.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Rise [14 de agosto de 2014]</title>
+    <id>calibre:book:162</id>
+    <updated>2015-03-27T01:53:43Z</updated>
+    <link href="../8f6fb6ff@book_0/6a5eefd6@book_162_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Anna%20Carey/Rise%20%28162%29/Rise%20-%20Anna%20Carey.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>Anna Carey</name>
+      <uri>../8f6fb6ff@author_0/ecbafd4b@author_49_Page_1.xml</uri>
+    </author>
+    <published>2013-04-01T10:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>HarperCollins</dcterms:publisher>
+    <category term="Juvenile Fiction" />
+    <category term="Fantasy &amp; Magic" />
+    <category term="Love &amp; Romance" />
+    <category term="Social Issues" />
+    <category term="Adolescence" />
+    <category term="Lang:en" />
+    <category term="Eve" />
+    <summary>Eve [3]: In the stunning conclusion to Anna Carey's epic tale of romance and sacrifice, Eve must choose who to leave behind, who to save, and who to fight in her final stand against the New America.When Eve lost her soul mate, Caleb, she felt like her world ended. Now, trapped in the palace, as a reluctant bride and unhappy princess, Eve's entire life is a lie. The only thing that keeps her going is Caleb's memory—and the revolution he started. Eve plots to destroy the New America, beginning wit...</summary>
+    <link href="../8f6fb6ff%40book_0/6a5eefd6%40book_162.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Once [14 de agosto de 2014]</title>
+    <id>calibre:book:161</id>
+    <updated>2015-03-27T01:53:43Z</updated>
+    <link href="../8f6fb6ff@book_0/f357be6c@book_161_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Anna%20Carey/Once%20%28161%29/Once%20-%20Anna%20Carey.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>Anna Carey</name>
+      <uri>../8f6fb6ff@author_0/ecbafd4b@author_49_Page_1.xml</uri>
+    </author>
+    <published>2012-07-02T04:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>HarperCollins</dcterms:publisher>
+    <category term="Fiction" />
+    <category term="Fantasy" />
+    <category term="epic" />
+    <category term="General" />
+    <category term="Juvenile Fiction" />
+    <category term="Social Issues" />
+    <category term="Love &amp; Romance" />
+    <category term="Fantasy &amp; Magic" />
+    <category term="Adolescence" />
+    <category term="Lang:en" />
+    <category term="Eve" />
+    <summary>Eve [2]: When you're being hunted, who can you trust?  For the first time since she escaped from her school many months ago, Eve can sleep soundly. She's living in Califia, a haven for women, protected from the terrifying fate that awaits orphaned girls in The New America.  But her safety came at a price: She was forced to abandon Caleb, the boy she loves, wounded and alone at the city gates. When Eve gets word that Caleb is in trouble, she sets out into the wild again to rescue him, only to be ...</summary>
+    <link href="../8f6fb6ff%40book_0/f357be6c%40book_161.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Maze Runner Files (Maze Runner Trilogy) [14 de agosto de 2014]</title>
+    <id>calibre:book:160</id>
+    <updated>2015-03-27T01:53:42Z</updated>
+    <link href="../8f6fb6ff@book_0/84508efa@book_160_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/James%20Dashner/The%20Maze%20Runner%20Files%20%28Maze%20Runner%20Trilogy%29%20%28160%29/The%20Maze%20Runner%20Files%20%28Maze%20Runner%20Trilogy%20-%20James%20Dashner.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>James Dashner</name>
+      <uri>../8f6fb6ff@author_0/e50cb160@author_45_Page_1.xml</uri>
+    </author>
+    <published>2013-08-12T04:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Random House Children's Books</dcterms:publisher>
+    <category term="Lang:en" />
+    <category term="The Maze Runner" />
+    <summary>The Maze Runner [0,60]:</summary>
+    <link href="../8f6fb6ff%40book_0/84508efa%40book_160.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Kill Order [14 de agosto de 2014]</title>
+    <id>calibre:book:159</id>
+    <updated>2015-03-27T01:53:42Z</updated>
+    <link href="../8f6fb6ff@book_0/d6a1659d@book_159_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/James%20Dashner/The%20Kill%20Order%20%28159%29/The%20Kill%20Order%20-%20James%20Dashner.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>James Dashner</name>
+      <uri>../8f6fb6ff@author_0/e50cb160@author_45_Page_1.xml</uri>
+    </author>
+    <published>2012-08-14T04:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Random House</dcterms:publisher>
+    <category term="Lang:en" />
+    <category term="The Maze Runner" />
+    <summary>The Maze Runner [0,50]: The prequel to the New York Times bestselling Maze Runner series.Before WICKED was formed, before the Glade was built, before Thomas entered the Maze, sun flares hit the earth and mankind fell to disease.Mark and Trina were there when it happened, and they survived. But surviving the sun flares was easy compared to what came next.Now a disease of rage and lunacy races across the eastern United States, and there’s something suspicious about its origin. Worse yet, it’s muta...</summary>
+    <link href="../8f6fb6ff%40book_0/d6a1659d%40book_159.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Maze Runner [14 de agosto de 2014]</title>
+    <id>calibre:book:158</id>
+    <updated>2015-03-27T01:53:42Z</updated>
+    <link href="../8f6fb6ff@book_0/a1a6550b@book_158_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/James%20Dashner/The%20Maze%20Runner%20%28158%29/The%20Maze%20Runner%20-%20James%20Dashner.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>James Dashner</name>
+      <uri>../8f6fb6ff@author_0/e50cb160@author_45_Page_1.xml</uri>
+    </author>
+    <published>2009-10-28T02:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Random House Children's Books</dcterms:publisher>
+    <category term="Lang:en" />
+    <category term="The Maze Runner" />
+    <summary>The Maze Runner [1]:</summary>
+    <link href="../8f6fb6ff%40book_0/a1a6550b%40book_158.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Thomas's First Memory of the Flare [14 de agosto de 2014]</title>
+    <id>calibre:book:157</id>
+    <updated>2015-03-27T01:53:42Z</updated>
+    <link href="../8f6fb6ff@book_0/3119489a@book_157_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/James%20Dashner/Thomas%27s%20First%20Memory%20of%20the%20Flare%20%28157%29/Thomas%27s%20First%20Memory%20of%20the%20Flare%20-%20James%20Dashner.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>James Dashner</name>
+      <uri>../8f6fb6ff@author_0/e50cb160@author_45_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <category term="Lang:en" />
+    <category term="The Maze Runner" />
+    <summary>The Maze Runner [2,50]:</summary>
+    <link href="../8f6fb6ff%40book_0/3119489a%40book_157.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Death Cure [14 de agosto de 2014]</title>
+    <id>calibre:book:156</id>
+    <updated>2015-03-27T01:53:42Z</updated>
+    <link href="../8f6fb6ff@book_0/461e780c@book_156_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/James%20Dashner/The%20Death%20Cure%20%28156%29/The%20Death%20Cure%20-%20James%20Dashner.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>James Dashner</name>
+      <uri>../8f6fb6ff@author_0/e50cb160@author_45_Page_1.xml</uri>
+    </author>
+    <published>2012-07-19T10:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Delacorte</dcterms:publisher>
+    <category term="Lang:en" />
+    <category term="The Maze Runner" />
+    <summary>The Maze Runner [3]:</summary>
+    <link href="../8f6fb6ff%40book_0/461e780c%40book_156.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Scorch Trials [14 de agosto de 2014]</title>
+    <id>calibre:book:155</id>
+    <updated>2015-03-27T01:53:42Z</updated>
+    <link href="../8f6fb6ff@book_0/df1729b6@book_155_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/James%20Dashner/The%20Scorch%20Trials%20%28155%29/The%20Scorch%20Trials%20-%20James%20Dashner.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>James Dashner</name>
+      <uri>../8f6fb6ff@author_0/e50cb160@author_45_Page_1.xml</uri>
+    </author>
+    <published>2010-10-12T03:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Random House Children's Books</dcterms:publisher>
+    <category term="Lang:en" />
+    <category term="The Maze Runner" />
+    <summary>The Maze Runner [2]:</summary>
+    <link href="../8f6fb6ff%40book_0/df1729b6%40book_155.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Eve [14 de agosto de 2014]</title>
+    <id>calibre:book:153</id>
+    <updated>2015-03-27T01:53:43Z</updated>
+    <link href="../8f6fb6ff@book_0/36748c83@book_153_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Anna%20Carey/Eve%20%28153%29/Eve%20-%20Anna%20Carey.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>Anna Carey</name>
+      <uri>../8f6fb6ff@author_0/ecbafd4b@author_49_Page_1.xml</uri>
+    </author>
+    <published>2012-04-01T10:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>HarperCollins US</dcterms:publisher>
+    <category term="Lang:en" />
+    <category term="Eve" />
+    <summary>Eve [1]: Where do you go when nowhere is safe?Sixteen years after a deadly virus wiped out most of Earth's population, the world is a perilous place. Eighteen-year-old Eve has never been beyond the heavily guarded perimeter of her school, where she and two hundred other orphaned girls have been promised a future as the teachers and artists of the New America. But the night before graduation, Eve learns the shocking truth about her school's real purpose&amp;#8212;and the horrifying fate that awaits h...</summary>
+    <link href="../8f6fb6ff%40book_0/36748c83%40book_153.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>El corredor del laberinto [20 de junio de 2014]</title>
+    <id>calibre:book:151</id>
+    <updated>2015-03-27T01:53:42Z</updated>
+    <link href="../8f6fb6ff@book_0/d87aedaf@book_151_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/James%20Dashner/El%20corredor%20del%20laberinto%20%28151%29/El%20corredor%20del%20laberinto%20-%20James%20Dashner.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>James Dashner</name>
+      <uri>../8f6fb6ff@author_0/e50cb160@author_45_Page_1.xml</uri>
+    </author>
+    <published>2010-11-01T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Nocturna Ediciones</dcterms:publisher>
+    <category term="Juvenile Nonfiction" />
+    <category term="Language Arts" />
+    <category term="Composition &amp; Creative Writing" />
+    <category term="Fantasía. Ciencia ficción" />
+    <category term="Lang:es" />
+    <category term="El corredor del laberinto" />
+    <summary>El corredor del laberinto [1]: «Bienvenido al bosque. Verás que una vez a la semana, siempre el mismo día y a la misma hora, nos llegan víveres. Una vez al mes, siempre el mismo día y a la misma hora, aparece un nuevo chico, como tú. Siempre un chico. Como ves, este lugar está cercado por muros de piedra? Has de saber que estos muros se abren por la mañana y se cierran por la noche, siempre a la hora exacta. Al otro lado se encuentra el laberinto. De noche, las puertas se cierran? y, si quieres ...</summary>
+    <link href="../8f6fb6ff%40book_0/d87aedaf%40book_151.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Nueva antología del disparate [12 de abril de 2014]</title>
+    <id>calibre:book:150</id>
+    <updated>2015-03-27T01:53:42Z</updated>
+    <link href="../8f6fb6ff@book_0/af7ddd39@book_150_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Luis%20Diez%20Jimenez/Nueva%20antologia%20del%20disparate%20%28150%29/Nueva%20antologia%20del%20disparate%20-%20Luis%20Diez%20Jimenez.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>Luis Díez Jiménez</name>
+      <uri>../8f6fb6ff@author_0/920b81f6@author_44_Page_1.xml</uri>
+    </author>
+    <published>1981-12-31T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Planeta</dcterms:publisher>
+    <category term="General" />
+    <category term="Education" />
+    <category term="Examinations" />
+    <category term="Computers" />
+    <category term="Wit and humor in education" />
+    <category term="Humor in children" />
+    <category term="Spanish wit and humor" />
+    <category term="Certification Guides" />
+    <category term="Lang:es" />
+    <summary>El libro recoge los disparates más sonados que han dicho los alumnos en las aulas españolas.</summary>
+    <link href="../8f6fb6ff%40book_0/af7ddd39%40book_150.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>El conde de montecristo [12 de abril de 2014]</title>
+    <id>calibre:book:149</id>
+    <updated>2015-03-27T01:53:42Z</updated>
+    <link href="../8f6fb6ff@book_0/cfba54dc@book_149_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Alexandre%20Dumas/El%20conde%20de%20montecristo%20%28149%29/El%20conde%20de%20montecristo%20-%20Alexandre%20Dumas.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>Alexandre Dumas</name>
+      <uri>../8f6fb6ff@author_0/c6f1455@author_43_Page_1.xml</uri>
+    </author>
+    <published>1845-04-11T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Feedbooks</dcterms:publisher>
+    <category term="Ficción" />
+    <category term="Acción y Aventura" />
+    <category term="Lang:es" />
+    <summary>Novela de aventuras que tiene lugar en Francia, Italia y varias islas del Mediterráneo entre 1814 y 1838. La historia esta basada en las memorias de Jacques Peuchet, quien escribió sobre un zapatero llamado François Picaud.</summary>
+    <link href="../8f6fb6ff%40book_0/cfba54dc%40book_149.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>El ingenioso hidalgo Don Quijote de la Mancha [12 de abril de 2014]</title>
+    <id>calibre:book:148</id>
+    <updated>2015-03-27T01:53:44Z</updated>
+    <link href="../8f6fb6ff@book_0/b8bd644a@book_148_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Miguel%20de%20Cervantes%20Saavedra/El%20ingenioso%20hidalgo%20Don%20Quijote%20de%20la%20Mancha%20%28148%29/El%20ingenioso%20hidalgo%20Don%20Quijote%20de%20la%20Man%20-%20Miguel%20de%20Cervantes%20Saavedra.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>Miguel de Cervantes Saavedra</name>
+      <uri>../8f6fb6ff@author_0/7b6824c3@author_42_Page_1.xml</uri>
+    </author>
+    <published>1605-04-11T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Feedbooks</dcterms:publisher>
+    <category term="Ficción" />
+    <category term="Novela" />
+    <category term="Lang:es" />
+    <summary>Don Quijote de la Mancha, escrito por Miguel de Cervantes Saavedra, editado en 1605, es una de las obras más destacadas de la literatura española y la literatura universal, y una de las más traducidas
+
+La novela consta de dos partes: la primera, El ingenioso hidalgo don Quijote de la Mancha, fue publicada en 1605; la segunda, El ingenioso caballero don Quijote de la Mancha, en 1615.
+
+
+http://es.wikipedia.org/wiki/Don_Quijote_de_la_Mancha</summary>
+    <link href="../8f6fb6ff%40book_0/b8bd644a%40book_148.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Las aventuras de Sherlock Holmes [12 de abril de 2014]</title>
+    <id>calibre:book:147</id>
+    <updated>2015-03-27T01:53:42Z</updated>
+    <link href="../8f6fb6ff@book_0/280279db@book_147_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Arthur%20Conan%20Doyle/Las%20aventuras%20de%20Sherlock%20Holmes%20%28147%29/Las%20aventuras%20de%20Sherlock%20Holmes%20-%20Arthur%20Conan%20Doyle.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+    <author>
+      <name>Arthur Conan Doyle</name>
+      <uri>../8f6fb6ff@author_0/e2617579@author_41_Page_1.xml</uri>
+    </author>
+    <published>1892-04-11T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Feedbooks</dcterms:publisher>
+    <category term="Ficción" />
+    <category term="Policiacas y de misterio" />
+    <category term="Historias cortas" />
+    <category term="Lang:es" />
+    <summary>Las Aventuras de Sherlock Holmes es un libro que recopila cuentos policíacos escritos por Sir Arthur Conan Doyle en donde el protagonista es su celebre detective privado "Sherlock Holmes". El libro original fue ilustrado por Sidney Paget. Aquí se cuentan las primeras aventuras de Sherlock Holmes.</summary>
+    <link href="../8f6fb6ff%40book_0/280279db%40book_147.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <link href="../8f6fb6ff@recent/6d63577e@recent_YEAR_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="prev" title="previous page (1 of 2)" />
+</feed>
+

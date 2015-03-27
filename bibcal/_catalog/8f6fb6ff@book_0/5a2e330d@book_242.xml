@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Sobre la libertad</title>
+  <id>urn:book:74a6d937-a4aa-459b-8757-40bab331fdc6</id>
+  <updated>2015-03-27T01:53:51Z</updated>
+  <link href="./5a2e330d%40book_242.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Sobre la libertad" />
+  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Biblioteca de Calibre de CJ" />
+  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Biblioteca de Calibre de CJ" />
+  <link href="../8f6fb6ff%40authorlist/e8e4356e%40authorlist_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="5a2e330d@book_242_cover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../8f6fb6ff@book_0/5a2e330d@book_242_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/John%20Stuart%20Mill/Sobre%20la%20libertad%20%28242%29/Sobre%20la%20libertad%20-%20John%20Stuart%20Mill.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+  <author>
+    <name>John Stuart Mill</name>
+    <uri>../8f6fb6ff@author_0/cec65a8e@author_92_Page_1.xml</uri>
+  </author>
+  <published>1858-12-31T11:00:00Z</published>
+  <dcterms:language>es</dcterms:language>
+  <dcterms:publisher>ePubLibre</dcterms:publisher>
+  <category term="Ensayo" />
+  <category term="Filosofía" />
+  <category term="Lang:es" />
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      Sin puntuación
+    </p>
+    <p>
+      <strong>Etiquetas:</strong>
+      Ensayo, Filosofía, Lang:es
+    </p>
+    <p>
+      <strong>Published:</strong>
+      31 de diciembre de 1858
+    </p>
+    <p>
+      <strong>Sumario:</strong>
+    </p>
+    <p xmlns="">El ensayo «Sobre la libertad» figura por derecho
+    propio en la breve galería de obras de combate
+    político que, tras modificar de manera decisiva las ideas
+    de su época, continúan determinando, siglos
+    después, los comportamientos de los hombres a través
+    de las instituciones o formas generalizadas de pensar creadas
+    bajo su influencia. El ensayo de John Stuart Mill (1806-1873)
+    es una vibrante defensa de la libertad de pensamiento y
+    expresión, una apasionada apología de la tolerancia y
+    del respeto debido a las creencias o minorías disidentes,
+    una audaz reivindicación de la espontaneidad y
+    singularidad humana frente a la opresión ejercida por las
+    autoridades, la costumbre o la opinión. Las circunstancias
+    en que la obra fue escrita y sus supuestos filosóficos
+    condicionan algunos de sus planteamientos, pero no ahogan el
+    poderoso aliento que recorre sus páginas, ni privan de
+    validez a las conclusiones generales que de ellos se derivan.
+    «Es todavía —escribe Isaiah Berlin en el
+    prólogo— la exposición más clara, simple,
+    persuasiva y conmovedora de aquellos que desean una sociedad
+    abierta y tolerante».</p>
+  </content>
+  <link href="../8f6fb6ff%40author_0/cec65a8e%40author_92_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Libros de John Stuart Mill" />
+  <link href="http://www.goodreads.com/book/title/Sobre%20la%20libertad" type="text/html" rel="related" title="Este libro en Goodreads" />
+  <link href="http://es.wikipedia.org/wiki/Sobre%20la%20libertad" type="text/html" rel="related" title="Este libro en Wikipedia" />
+  <link href="http://www.librarything.com/title/Sobre%20la%20libertad%20John%20Stuart%20Mill" type="text/html" rel="related" title="Este libro en LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=Sobre%20la%20libertad&amp;field-author=John%20Stuart%20Mill" type="text/html" rel="related" title="Este libro en Amazon" />
+  <link href="http://www.goodreads.com/book/author/John%20Stuart%20Mill" type="text/html" rel="related" title="John Stuart Mill en Goodreads" />
+  <link href="http://es.wikipedia.org/wiki/John%20Stuart%20Mill" type="text/html" rel="related" title="John Stuart Mill en Wikipedia" />
+  <link href="http://www.librarything.com/author/MillJohnStuart" type="text/html" rel="related" title="John Stuart Mill en LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=John%20Stuart%20Mill" type="text/html" rel="related" title="John Stuart Mill en Amazon" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?John%20Stuart%20Mill" type="text/html" rel="related" title="John Stuart Mill en ISFDB" />
+</entry>
+

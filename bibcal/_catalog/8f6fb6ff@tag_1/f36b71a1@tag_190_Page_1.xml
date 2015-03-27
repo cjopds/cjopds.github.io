@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:opds="http://opds-spec.org/2010/catalog">
+  <title>Lang:es</title>
+  <id>Calibre2opds:taglist:L:190</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./f36b71a1%40tag_190_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Lang:es" />
+  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Biblioteca de Calibre de CJ" />
+  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Biblioteca de Calibre de CJ" />
+  <link href="../8f6fb6ff%40taglist/87d7be0%40taglist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="etiquetas" />
+  <link href="../8f6fb6ff%40taglist/87d7be0%40taglist_L_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Etiquetas que empiezan por L" />
+  <entry>
+    <title>Libros que empiezan por 1</title>
+    <id>Calibre2opds:taglist:L:190:1</id>
+    <content type="text">1984</content>
+    <link href="../8f6fb6ff%40tag_1/f36b71a1%40tag_190_1_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../tags.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Libros que empiezan por A</title>
+    <id>Calibre2opds:taglist:L:190:A</id>
+    <content type="text">7 libros</content>
+    <link href="../8f6fb6ff%40tag_1/f36b71a1%40tag_190_A_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../tags.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Libros que empiezan por B</title>
+    <id>Calibre2opds:taglist:L:190:B</id>
+    <content type="text">3 libros</content>
+    <link href="../8f6fb6ff%40tag_1/f36b71a1%40tag_190_B_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../tags.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Libros que empiezan por C</title>
+    <id>Calibre2opds:taglist:L:190:C</id>
+    <content type="text">9 libros</content>
+    <link href="../8f6fb6ff%40tag_1/f36b71a1%40tag_190_C_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../tags.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Libros que empiezan por D</title>
+    <id>Calibre2opds:taglist:L:190:D</id>
+    <content type="text">2 libros</content>
+    <link href="../8f6fb6ff%40tag_1/f36b71a1%40tag_190_D_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../tags.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Libros que empiezan por E</title>
+    <id>Calibre2opds:taglist:L:190:E</id>
+    <content type="text">10 libros</content>
+    <link href="../8f6fb6ff%40tag_1/f36b71a1%40tag_190_E_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../tags.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Libros que empiezan por F</title>
+    <id>Calibre2opds:taglist:L:190:F</id>
+    <content type="text">2 libros</content>
+    <link href="../8f6fb6ff%40tag_1/f36b71a1%40tag_190_F_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../tags.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Libros que empiezan por G</title>
+    <id>Calibre2opds:taglist:L:190:G</id>
+    <content type="text">2 libros</content>
+    <link href="../8f6fb6ff%40tag_1/f36b71a1%40tag_190_G_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../tags.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Libros que empiezan por H</title>
+    <id>Calibre2opds:taglist:L:190:H</id>
+    <content type="text">Hamlet, Príncipe de Dinamarca</content>
+    <link href="../8f6fb6ff%40tag_1/f36b71a1%40tag_190_H_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../tags.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Libros que empiezan por I</title>
+    <id>Calibre2opds:taglist:L:190:I</id>
+    <content type="text">2 libros</content>
+    <link href="../8f6fb6ff%40tag_1/f36b71a1%40tag_190_I_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../tags.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Libros que empiezan por J</title>
+    <id>Calibre2opds:taglist:L:190:J</id>
+    <content type="text">3 libros</content>
+    <link href="../8f6fb6ff%40tag_1/f36b71a1%40tag_190_J_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../tags.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Libros que empiezan por L</title>
+    <id>Calibre2opds:taglist:L:190:L</id>
+    <content type="text">4 libros</content>
+    <link href="../8f6fb6ff%40tag_1/f36b71a1%40tag_190_L_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../tags.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Libros que empiezan por M</title>
+    <id>Calibre2opds:taglist:L:190:M</id>
+    <content type="text">6 libros</content>
+    <link href="../8f6fb6ff%40tag_1/f36b71a1%40tag_190_M_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../tags.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Libros que empiezan por N</title>
+    <id>Calibre2opds:taglist:L:190:N</id>
+    <content type="text">5 libros</content>
+    <link href="../8f6fb6ff%40tag_1/f36b71a1%40tag_190_N_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../tags.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Libros que empiezan por O</title>
+    <id>Calibre2opds:taglist:L:190:O</id>
+    <content type="text">Otelo</content>
+    <link href="../8f6fb6ff%40tag_1/f36b71a1%40tag_190_O_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../tags.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Libros que empiezan por P</title>
+    <id>Calibre2opds:taglist:L:190:P</id>
+    <content type="text">4 libros</content>
+    <link href="../8f6fb6ff%40tag_1/f36b71a1%40tag_190_P_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../tags.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Libros que empiezan por R</title>
+    <id>Calibre2opds:taglist:L:190:R</id>
+    <content type="text">3 libros</content>
+    <link href="../8f6fb6ff%40tag_1/f36b71a1%40tag_190_R_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../tags.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Libros que empiezan por S</title>
+    <id>Calibre2opds:taglist:L:190:S</id>
+    <content type="text">6 libros</content>
+    <link href="../8f6fb6ff%40tag_1/f36b71a1%40tag_190_S_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../tags.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Libros que empiezan por T</title>
+    <id>Calibre2opds:taglist:L:190:T</id>
+    <content type="text">6 libros</content>
+    <link href="../8f6fb6ff%40tag_1/f36b71a1%40tag_190_T_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../tags.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Libros que empiezan por U</title>
+    <id>Calibre2opds:taglist:L:190:U</id>
+    <content type="text">El último héroe del Olimpo</content>
+    <link href="../8f6fb6ff%40tag_1/f36b71a1%40tag_190_U_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../tags.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Libros que empiezan por Y</title>
+    <id>Calibre2opds:taglist:L:190:Y</id>
+    <content type="text">2 libros</content>
+    <link href="../8f6fb6ff%40tag_1/f36b71a1%40tag_190_Y_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../tags.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+</feed>
+

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Los juegos del hambre</title>
+  <id>urn:book:62ede5b2-17c9-4010-94e8-78b20a3dac9a</id>
+  <updated>2015-03-27T01:53:43Z</updated>
+  <link href="./fd8c365e%40book_169.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Los juegos del hambre" />
+  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Biblioteca de Calibre de CJ" />
+  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Biblioteca de Calibre de CJ" />
+  <link href="../8f6fb6ff%40authorlist/e8e4356e%40authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../8f6fb6ff%40author_0/62731582%40author_52_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Collins, Suzanne" />
+  <link href="fd8c365e@book_169_cover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../8f6fb6ff@book_0/fd8c365e@book_169_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Suzanne%20Collins/Los%20juegos%20del%20hambre%20%28169%29/Los%20juegos%20del%20hambre%20-%20Suzanne%20Collins.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+  <author>
+    <name>Suzanne Collins</name>
+    <uri>../8f6fb6ff@author_0/62731582@author_52_Page_1.xml</uri>
+  </author>
+  <author>
+    <name>Pilar Ramírez Tello</name>
+    <uri>../8f6fb6ff@author_0/8b10b0b7@author_54_Page_1.xml</uri>
+  </author>
+  <published>2012-03-20T11:00:00Z</published>
+  <dcterms:language>es</dcterms:language>
+  <dcterms:publisher>Molino</dcterms:publisher>
+  <category term="Fantasía; terror y ciencia ficción" />
+  <category term="Aventura" />
+  <category term="Ciencia Ficción" />
+  <category term="Infantil y Juvenil" />
+  <category term="Lang:es" />
+  <category term="Los Juegos del Hambre" />
+  <content type="text/html">
+    <p>
+      <strong>Series:</strong>
+      Libro 1 en la Los Juegos del Hambre serie
+    </p>
+    <p>
+      <strong>Rating:</strong>
+      ****
+    </p>
+    <p>
+      <strong>Etiquetas:</strong>
+      Fantasía; terror y ciencia ficción, Aventura, Ciencia Ficción, Infantil y Juvenil, Lang:es
+    </p>
+    <p>
+      <strong>Published:</strong>
+      20 de marzo de 2012
+    </p>
+    <p>
+      <strong>Sumario:</strong>
+    </p>
+    <div xmlns="">
+      <h3>Reseña del editor</h3>
+      <p>GANAR SIGNIFICA FAMA Y RIQUEZA. PERDER SIGNIFICA UNA
+      MUERTE SEGURA. En una oscura versión del futuro
+      próximo, doce chicos y doce chicas se ven obligados a
+      participar en un reality show llamado Los juegos del hambre.
+      Solo hay una regla: matar o morir. Cuando Katniss Everdeen,
+      una joven de dieciséis años se presenta voluntaria
+      para ocupar el lugar de su hermana en los juegos, lo entiende
+      como una condena a muerte. Sin embargo Katniss ya ha visto la
+      muerte de cerca y la supervivencia forma parte de su
+      naturaleza. ¡Que empiecen los septuagésimo cuartos
+      juegos del hambre!</p>
+      <h3>Biografía del autor</h3>
+      <p>Suzanne Collins ha cosechado un rotundo éxito con la
+      trilogía Los juegos del hambre (Los juegos del hambre,
+      En llamas, Sinsajo) y ha alcanzado las primeras posiciones en
+      la lista de los más vendidos en Estados Unidos y en todo
+      el mundo. Ha recibido innumerables críticas positivas
+      así como multitud de elogios y galardones. La serie ha
+      sido traducida a más de 40 idiomas, el primer libro ya
+      se ha adaptado a la gran pantalla y se prepara el estreno
+      mundial de la segunda película. También es la
+      autora de la saga de fantasía Gregor (Gregor. Las
+      Tierras Bajas, Gregor. La Segunda Profecía, Gregor. La
+      Gran Plaga, Gregor. El Oscuro Secreto y Gregor. La
+      Profecía Final) y de Un año en la selva, un
+      álbum ilustrado autobiográfico basado en su propia
+      infancia, publicados también por RBA Molino.</p>
+    </div>
+  </content>
+  <link href="../8f6fb6ff%40series_0/e46d9694%40series_6_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Libro 1 en la Los Juegos del Hambre serie" />
+  <link href="../8f6fb6ff%40author_0/62731582%40author_52_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Libros de Suzanne Collins" />
+  <link href="../8f6fb6ff%40author_0/8b10b0b7%40author_54_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Libros de Pilar Ramírez Tello" />
+  <link href="http://www.goodreads.com/book/title/Los%20juegos%20del%20hambre" type="text/html" rel="related" title="Este libro en Goodreads" />
+  <link href="http://es.wikipedia.org/wiki/Los%20juegos%20del%20hambre" type="text/html" rel="related" title="Este libro en Wikipedia" />
+  <link href="http://www.librarything.com/title/Los%20juegos%20del%20hambre%20Suzanne%20Collins" type="text/html" rel="related" title="Este libro en LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=Los%20juegos%20del%20hambre&amp;field-author=Suzanne%20Collins" type="text/html" rel="related" title="Este libro en Amazon" />
+  <link href="http://www.goodreads.com/book/author/Suzanne%20Collins" type="text/html" rel="related" title="Suzanne Collins en Goodreads" />
+  <link href="http://www.goodreads.com/book/author/Pilar%20Ram%C3%ADrez%20Tello" type="text/html" rel="related" title="Pilar Ramírez Tello en Goodreads" />
+  <link href="http://es.wikipedia.org/wiki/Suzanne%20Collins" type="text/html" rel="related" title="Suzanne Collins en Wikipedia" />
+  <link href="http://es.wikipedia.org/wiki/Pilar%20Ram%C3%ADrez%20Tello" type="text/html" rel="related" title="Pilar Ramírez Tello en Wikipedia" />
+  <link href="http://www.librarything.com/author/CollinsSuzanne" type="text/html" rel="related" title="Suzanne Collins en LibraryThing" />
+  <link href="http://www.librarything.com/author/Ram%C3%ADrezTelloPilar" type="text/html" rel="related" title="Pilar Ramírez Tello en LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Suzanne%20Collins" type="text/html" rel="related" title="Suzanne Collins en Amazon" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Pilar%20Ram%C3%ADrez%20Tello" type="text/html" rel="related" title="Pilar Ramírez Tello en Amazon" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Suzanne%20Collins" type="text/html" rel="related" title="Suzanne Collins en ISFDB" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Pilar%20Ram%C3%ADrez%20Tello" type="text/html" rel="related" title="Pilar Ramírez Tello en ISFDB" />
+</entry>
+

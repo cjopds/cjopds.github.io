@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>El juego de Ender</title>
+  <id>urn:book:37870de8-b854-4fc6-8b37-7e4ee512ef9a</id>
+  <updated>2015-03-27T01:53:51Z</updated>
+  <link href="./c32762b7%40book_241.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="El juego de Ender" />
+  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Biblioteca de Calibre de CJ" />
+  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Biblioteca de Calibre de CJ" />
+  <link href="../8f6fb6ff%40authorlist/e8e4356e%40authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../8f6fb6ff%40author_0/57cf0b34%40author_91_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Card, Orson Scott" />
+  <link href="c32762b7@book_241_cover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../8f6fb6ff@book_0/c32762b7@book_241_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Orson%20Scott%20Card/El%20juego%20de%20Ender%20%28241%29/El%20juego%20de%20Ender%20-%20Orson%20Scott%20Card.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+  <author>
+    <name>Orson Scott Card</name>
+    <uri>../8f6fb6ff@author_0/57cf0b34@author_91_Page_1.xml</uri>
+  </author>
+  <published>1984-12-31T11:00:00Z</published>
+  <dcterms:language>es</dcterms:language>
+  <dcterms:publisher>ePubLibre</dcterms:publisher>
+  <category term="Novela" />
+  <category term="Ciencia Ficción" />
+  <category term="Lang:es" />
+  <category term="Saga de Ender" />
+  <content type="text/html">
+    <p>
+      <strong>Series:</strong>
+      Libro 1 en la Saga de Ender serie
+    </p>
+    <p>
+      <strong>Rating:</strong>
+      Sin puntuación
+    </p>
+    <p>
+      <strong>Etiquetas:</strong>
+      Novela, Ciencia Ficción, Lang:es
+    </p>
+    <p>
+      <strong>Published:</strong>
+      31 de diciembre de 1984
+    </p>
+    <p>
+      <strong>Sumario:</strong>
+    </p>
+    <p xmlns="">La Tierra se ve amenazada por los insectores, una raza
+    extraterrestre completamente ajena a los humanos, a los que
+    pretende destruir. Para vencer a los insectores es necesario un
+    nuevo tipo de genio militar, y por ello se ha permitido el
+    nacimiento de Ender, quien en cierta forma constituye una
+    anomalía viviente: es el tercer hijo de una pareja en un
+    mundo que ha limitado estrictamente a dos el número de
+    descendientes. El niño Ender deberá aprender todo lo
+    relativo a la guerra en los videojuegos y en los peligrosos
+    ensayos de batallas que realiza con sus compañeros. A la
+    habilidad en el tratamiento de las emociones, ya
+    característica de Orson Scott Card, se une en este libro
+    el interés por el empleo de las simulaciones de ordenador
+    y juegos de fantasía en la formación militar,
+    estratégica y psicológica del protagonista.</p>
+  </content>
+  <link href="../8f6fb6ff%40series_0/d278e68e%40series_17_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Libro 1 en la Saga de Ender serie" />
+  <link href="../8f6fb6ff%40author_0/57cf0b34%40author_91_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Libros de Orson Scott Card" />
+  <link href="http://www.goodreads.com/book/title/El%20juego%20de%20Ender" type="text/html" rel="related" title="Este libro en Goodreads" />
+  <link href="http://es.wikipedia.org/wiki/El%20juego%20de%20Ender" type="text/html" rel="related" title="Este libro en Wikipedia" />
+  <link href="http://www.librarything.com/title/El%20juego%20de%20Ender%20Orson%20Scott%20Card" type="text/html" rel="related" title="Este libro en LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=El%20juego%20de%20Ender&amp;field-author=Orson%20Scott%20Card" type="text/html" rel="related" title="Este libro en Amazon" />
+  <link href="http://www.goodreads.com/book/author/Orson%20Scott%20Card" type="text/html" rel="related" title="Orson Scott Card en Goodreads" />
+  <link href="http://es.wikipedia.org/wiki/Orson%20Scott%20Card" type="text/html" rel="related" title="Orson Scott Card en Wikipedia" />
+  <link href="http://www.librarything.com/author/CardOrsonScott" type="text/html" rel="related" title="Orson Scott Card en LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Orson%20Scott%20Card" type="text/html" rel="related" title="Orson Scott Card en Amazon" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Orson%20Scott%20Card" type="text/html" rel="related" title="Orson Scott Card en ISFDB" />
+</entry>
+

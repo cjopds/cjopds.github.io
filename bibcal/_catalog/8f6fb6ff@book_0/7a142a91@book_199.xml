@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Divergent</title>
+  <id>urn:book:9d978609-275f-40ff-996c-84e342869fec</id>
+  <updated>2015-03-27T01:53:45Z</updated>
+  <link href="./7a142a91%40book_199.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Divergent" />
+  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Biblioteca de Calibre de CJ" />
+  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Biblioteca de Calibre de CJ" />
+  <link href="../8f6fb6ff%40authorlist/e8e4356e%40authorlist_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../8f6fb6ff%40author_0/27424796%40author_73_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Roth, Veronica" />
+  <link href="7a142a91@book_199_cover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../8f6fb6ff@book_0/7a142a91@book_199_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/Veronica%20Roth/Divergent%20%28199%29/Divergent%20-%20Veronica%20Roth.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+  <author>
+    <name>Veronica Roth</name>
+    <uri>../8f6fb6ff@author_0/27424796@author_73_Page_1.xml</uri>
+  </author>
+  <published>2011-05-02T02:00:00Z</published>
+  <dcterms:language>en</dcterms:language>
+  <dcterms:publisher>Harper Collins, Inc.</dcterms:publisher>
+  <category term="Lang:en" />
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      Sin puntuación
+    </p>
+    <p>
+      <strong>Etiquetas:</strong>
+      Lang:en
+    </p>
+    <p>
+      <strong>Published:</strong>
+      2 de mayo de 2011
+    </p>
+  </content>
+  <link href="../8f6fb6ff%40author_0/27424796%40author_73_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Libros de Veronica Roth" />
+  <link href="http://www.goodreads.com/book/title/Divergent" type="text/html" rel="related" title="Este libro en Goodreads" />
+  <link href="http://es.wikipedia.org/wiki/Divergent" type="text/html" rel="related" title="Este libro en Wikipedia" />
+  <link href="http://www.librarything.com/title/Divergent%20Veronica%20Roth" type="text/html" rel="related" title="Este libro en LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=Divergent&amp;field-author=Veronica%20Roth" type="text/html" rel="related" title="Este libro en Amazon" />
+  <link href="http://www.goodreads.com/book/author/Veronica%20Roth" type="text/html" rel="related" title="Veronica Roth en Goodreads" />
+  <link href="http://es.wikipedia.org/wiki/Veronica%20Roth" type="text/html" rel="related" title="Veronica Roth en Wikipedia" />
+  <link href="http://www.librarything.com/author/RothVeronica" type="text/html" rel="related" title="Veronica Roth en LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Veronica%20Roth" type="text/html" rel="related" title="Veronica Roth en Amazon" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Veronica%20Roth" type="text/html" rel="related" title="Veronica Roth en ISFDB" />
+</entry>
+

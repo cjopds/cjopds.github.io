@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:opds="http://opds-spec.org/2010/catalog">
+  <title>Autores</title>
+  <id>Calibre2opds:authorlist</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./e8e4356e%40authorlist_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Autores" />
+  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Biblioteca de Calibre de CJ" />
+  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Biblioteca de Calibre de CJ" />
+  <entry>
+    <title>Meyer, Stephenie</title>
+    <id>Calibre2opds:author:72</id>
+    <content type="text">4 libros</content>
+    <link href="../8f6fb6ff%40author_0/50457700%40author_72_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Mill, John Stuart</title>
+    <id>Calibre2opds:author:92</id>
+    <content type="text">Sobre la libertad</content>
+    <link href="../8f6fb6ff%40author_0/cec65a8e%40author_92_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Orwell, George</title>
+    <id>Calibre2opds:author:89</id>
+    <content type="text">1984</content>
+    <link href="../8f6fb6ff%40author_0/400fb247%40author_89_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Pérez-Reverte, Arturo</title>
+    <id>Calibre2opds:author:66</id>
+    <content type="text">El Asedio</content>
+    <link href="../8f6fb6ff%40author_0/4e338258%40author_66_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Punset, Eduard</title>
+    <id>Calibre2opds:author:69</id>
+    <content type="text">El sueño de Alicia</content>
+    <link href="../8f6fb6ff%40author_0/de8c9fc9%40author_69_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Ramírez Tello, Pilar</title>
+    <id>Calibre2opds:author:54</id>
+    <content type="text">5 libros</content>
+    <link href="../8f6fb6ff%40author_0/8b10b0b7%40author_54_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Revilla, Miguel Ángel</title>
+    <id>Calibre2opds:author:38</id>
+    <content type="text">Nadie es más que nadie</content>
+    <link href="../8f6fb6ff%40author_0/d4fc5b1a%40author_38_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Riordan, Rick</title>
+    <id>Calibre2opds:author:58</id>
+    <content type="text">5 libros</content>
+    <link href="../8f6fb6ff%40author_0/82a6fc9c%40author_58_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Rossi, Veronica</title>
+    <id>Calibre2opds:author:83</id>
+    <content type="text">4 libros</content>
+    <link href="../8f6fb6ff%40author_0/a0da5b59%40author_83_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Roth, Veronica</title>
+    <id>Calibre2opds:author:73</id>
+    <content type="text">6 libros</content>
+    <link href="../8f6fb6ff%40author_0/27424796%40author_73_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Saint-Exupéry, Antoine de</title>
+    <id>Calibre2opds:author:95</id>
+    <content type="text">El principito</content>
+    <link href="../8f6fb6ff%40author_0/50a2cf2d%40author_95_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Saramago, José</title>
+    <id>Calibre2opds:author:39</id>
+    <content type="text">3 libros</content>
+    <link href="../8f6fb6ff%40author_0/a3fb6b8c%40author_39_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Schember, John</title>
+    <id>Calibre2opds:author:67</id>
+    <content type="text">Calibre Quick Start Guide</content>
+    <link href="../8f6fb6ff%40author_0/3934b2ce%40author_67_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Shakespeare, William</title>
+    <id>Calibre2opds:author:97</id>
+    <content type="text">17 libros</content>
+    <link href="../8f6fb6ff%40author_0/beacae01%40author_97_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Stamateas, Bernardo</title>
+    <id>Calibre2opds:author:59</id>
+    <content type="text">Gente Tóxica</content>
+    <link href="../8f6fb6ff%40author_0/f5a1cc0a%40author_59_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Szekely, Katalin</title>
+    <id>Calibre2opds:author:70</id>
+    <content type="text">Análisis 1º</content>
+    <link href="../8f6fb6ff%40author_0/be4b162c%40author_70_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Twain, Mark</title>
+    <id>Calibre2opds:author:48</id>
+    <content type="text">1 libro</content>
+    <link href="../8f6fb6ff%40author_0/9bbdcddd%40author_48_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Valle-Inclán, Ramón María del</title>
+    <id>Calibre2opds:author:76</id>
+    <content type="text">Luces de bohemia</content>
+    <link href="../8f6fb6ff%40author_0/5728b319%40author_76_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Wendler, Daniel</title>
+    <id>Calibre2opds:author:82</id>
+    <content type="text">Improve Your Social Skills</content>
+    <link href="../8f6fb6ff%40author_0/d7dd6bcf%40author_82_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Westerfeld, Scott</title>
+    <id>Calibre2opds:author:74</id>
+    <content type="text">4 libros</content>
+    <link href="../8f6fb6ff%40author_0/b926d235%40author_74_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Wyoming, El Gran</title>
+    <id>Calibre2opds:author:56</id>
+    <content type="text">No estamos locos</content>
+    <link href="../8f6fb6ff%40author_0/651ed19b%40author_56_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Zafón, Carlos Ruiz</title>
+    <id>Calibre2opds:author:90</id>
+    <content type="text">La sombra del viento</content>
+    <link href="../8f6fb6ff%40author_0/20c83ba2%40author_90_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Zapatero, José Luis Rodríguez</title>
+    <id>Calibre2opds:author:55</id>
+    <content type="text">1 libro</content>
+    <link href="../8f6fb6ff%40author_0/fc178021%40author_55_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <link href="../8f6fb6ff@authorlist/e8e4356e@authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="prev" title="previous page (1 of 2)" />
+</feed>
+

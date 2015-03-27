@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Las pruebas</title>
+  <id>urn:book:618be7d7-62c8-4d7d-9f0d-1da94ca0cd46</id>
+  <updated>2015-03-27T01:53:42Z</updated>
+  <link href="./1d59df40%40book_163.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Las pruebas" />
+  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Biblioteca de Calibre de CJ" />
+  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Biblioteca de Calibre de CJ" />
+  <link href="../8f6fb6ff%40authorlist/e8e4356e%40authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../8f6fb6ff%40author_0/e50cb160%40author_45_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Dashner, James" />
+  <link href="1d59df40@book_163_cover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../8f6fb6ff@book_0/1d59df40@book_163_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="https://dl.dropboxusercontent.com/u/13030543/ocabiblio/James%20Dashner/Las%20pruebas%20%28163%29/Las%20pruebas%20-%20James%20Dashner.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" />
+  <author>
+    <name>James Dashner</name>
+    <uri>../8f6fb6ff@author_0/e50cb160@author_45_Page_1.xml</uri>
+  </author>
+  <published>2011-08-01T10:00:00Z</published>
+  <dcterms:language>es</dcterms:language>
+  <dcterms:publisher>Nocturna Ediciones, S. L.</dcterms:publisher>
+  <category term="Fantasía" />
+  <category term="Ciencia Ficción" />
+  <category term="Lang:es" />
+  <category term="El corredor del laberinto" />
+  <content type="text/html">
+    <p>
+      <strong>Series:</strong>
+      Libro 2 en la El corredor del laberinto serie
+    </p>
+    <p>
+      <strong>Rating:</strong>
+      Sin puntuación
+    </p>
+    <p>
+      <strong>Etiquetas:</strong>
+      Fantasía, Ciencia Ficción, Lang:es
+    </p>
+    <p>
+      <strong>Published:</strong>
+      1 de agosto de 2011
+    </p>
+    <p>
+      <strong>Sumario:</strong>
+    </p>
+    <p xmlns="">Resolver el laberinto se suponía que era el final. No
+    más pruebas, no más huidas. Thomas creía que
+    salir significaba que todos recobrarían sus vidas, pero
+    ninguno sabía a qué clase de vida estaban volviendo.
+    Árida y carbonizada, gran parte de la tierra es un
+    territorio inservible. El sol abrasa, los gobiernos han
+    caído y una misteriosa enfermedad se ha ido apoderando
+    poco a poco de la gente. Sus causas son desconocidas; su
+    resultado, la locura. En un lugar infestado de miseria y ruina,
+    y por donde la gente ha enloquecido y deambula en busca de
+    víctimas, Thomas conoce a una chica, Brenda, que asegura
+    haber contraído la enfermedad y estar a punto de sucumbir
+    a sus efectos. Entretanto, Teresa ha desaparecido, la
+    organización CRUEL les ha dejado un mensaje, un misterioso
+    chico ha llegado y alguien ha tatuado unas palabras en los
+    cuellos de los clarianos. La de Minho dice «el
+    líder»; la de Thomas, «el que debe ser
+    asesinado».</p>
+  </content>
+  <link href="../8f6fb6ff%40series_0/7a090337%40series_1_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Libro 2 en la El corredor del laberinto serie" />
+  <link href="../8f6fb6ff%40author_0/e50cb160%40author_45_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Libros de James Dashner" />
+  <link href="http://www.goodreads.com/book/title/Las%20pruebas" type="text/html" rel="related" title="Este libro en Goodreads" />
+  <link href="http://es.wikipedia.org/wiki/Las%20pruebas" type="text/html" rel="related" title="Este libro en Wikipedia" />
+  <link href="http://www.librarything.com/title/Las%20pruebas%20James%20Dashner" type="text/html" rel="related" title="Este libro en LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=Las%20pruebas&amp;field-author=James%20Dashner" type="text/html" rel="related" title="Este libro en Amazon" />
+  <link href="http://www.goodreads.com/book/author/James%20Dashner" type="text/html" rel="related" title="James Dashner en Goodreads" />
+  <link href="http://es.wikipedia.org/wiki/James%20Dashner" type="text/html" rel="related" title="James Dashner en Wikipedia" />
+  <link href="http://www.librarything.com/author/DashnerJames" type="text/html" rel="related" title="James Dashner en LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=James%20Dashner" type="text/html" rel="related" title="James Dashner en Amazon" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?James%20Dashner" type="text/html" rel="related" title="James Dashner en ISFDB" />
+</entry>
+

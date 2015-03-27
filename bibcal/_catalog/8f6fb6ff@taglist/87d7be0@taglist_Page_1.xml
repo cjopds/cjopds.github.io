@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:opds="http://opds-spec.org/2010/catalog">
+  <title>etiquetas</title>
+  <id>Calibre2opds:taglist</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./87d7be0%40taglist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="etiquetas" />
+  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Biblioteca de Calibre de CJ" />
+  <link href="../8f6fb6ff@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Biblioteca de Calibre de CJ" />
+  <entry>
+    <title>Etiquetas que empiezan por A</title>
+    <id>Calibre2opds:taglist:A</id>
+    <content type="text">etiquetas</content>
+    <link href="../8f6fb6ff%40taglist/87d7be0%40taglist_A_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../tags.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Etiquetas que empiezan por B</title>
+    <id>Calibre2opds:taglist:B</id>
+    <content type="text">etiquetas</content>
+    <link href="../8f6fb6ff%40taglist/87d7be0%40taglist_B_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../tags.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Etiquetas que empiezan por C</title>
+    <id>Calibre2opds:taglist:C</id>
+    <content type="text">etiquetas</content>
+    <link href="../8f6fb6ff%40taglist/87d7be0%40taglist_C_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../tags.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Etiquetas que empiezan por D</title>
+    <id>Calibre2opds:taglist:D</id>
+    <content type="text">etiquetas</content>
+    <link href="../8f6fb6ff%40taglist/87d7be0%40taglist_D_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../tags.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Etiquetas que empiezan por E</title>
+    <id>Calibre2opds:taglist:E</id>
+    <content type="text">etiquetas</content>
+    <link href="../8f6fb6ff%40taglist/87d7be0%40taglist_E_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../tags.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Etiquetas que empiezan por F</title>
+    <id>Calibre2opds:taglist:F</id>
+    <content type="text">etiquetas</content>
+    <link href="../8f6fb6ff%40taglist/87d7be0%40taglist_F_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../tags.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Etiquetas que empiezan por G</title>
+    <id>Calibre2opds:taglist:G</id>
+    <content type="text">General, GusiX</content>
+    <link href="../8f6fb6ff%40taglist/87d7be0%40taglist_G_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../tags.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Etiquetas que empiezan por H</title>
+    <id>Calibre2opds:taglist:H</id>
+    <content type="text">etiquetas</content>
+    <link href="../8f6fb6ff%40taglist/87d7be0%40taglist_H_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../tags.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Etiquetas que empiezan por I</title>
+    <id>Calibre2opds:taglist:I</id>
+    <content type="text">etiquetas</content>
+    <link href="../8f6fb6ff%40taglist/87d7be0%40taglist_I_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../tags.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Etiquetas que empiezan por J</title>
+    <id>Calibre2opds:taglist:J</id>
+    <content type="text">etiquetas</content>
+    <link href="../8f6fb6ff%40taglist/87d7be0%40taglist_J_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../tags.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Etiquetas que empiezan por L</title>
+    <id>Calibre2opds:taglist:L</id>
+    <content type="text">etiquetas</content>
+    <link href="../8f6fb6ff%40taglist/87d7be0%40taglist_L_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../tags.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Etiquetas que empiezan por M</title>
+    <id>Calibre2opds:taglist:M</id>
+    <content type="text">Memorias, Music</content>
+    <link href="../8f6fb6ff%40taglist/87d7be0%40taglist_M_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../tags.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Etiquetas que empiezan por N</title>
+    <id>Calibre2opds:taglist:N</id>
+    <content type="text">etiquetas</content>
+    <link href="../8f6fb6ff%40taglist/87d7be0%40taglist_N_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../tags.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Etiquetas que empiezan por O</title>
+    <id>Calibre2opds:taglist:O</id>
+    <content type="text">Otros</content>
+    <link href="../8f6fb6ff%40taglist/87d7be0%40taglist_O_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../tags.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Etiquetas que empiezan por P</title>
+    <id>Calibre2opds:taglist:P</id>
+    <content type="text">etiquetas</content>
+    <link href="../8f6fb6ff%40taglist/87d7be0%40taglist_P_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../tags.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Etiquetas que empiezan por R</title>
+    <id>Calibre2opds:taglist:R</id>
+    <content type="text">etiquetas</content>
+    <link href="../8f6fb6ff%40taglist/87d7be0%40taglist_R_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../tags.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Etiquetas que empiezan por S</title>
+    <id>Calibre2opds:taglist:S</id>
+    <content type="text">etiquetas</content>
+    <link href="../8f6fb6ff%40taglist/87d7be0%40taglist_S_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../tags.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Etiquetas que empiezan por T</title>
+    <id>Calibre2opds:taglist:T</id>
+    <content type="text">Teatro, Terror</content>
+    <link href="../8f6fb6ff%40taglist/87d7be0%40taglist_T_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../tags.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Etiquetas que empiezan por V</title>
+    <id>Calibre2opds:taglist:V</id>
+    <content type="text">Values &amp; Virtues</content>
+    <link href="../8f6fb6ff%40taglist/87d7be0%40taglist_V_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../tags.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Etiquetas que empiezan por W</title>
+    <id>Calibre2opds:taglist:W</id>
+    <content type="text">Wit and humor in education</content>
+    <link href="../8f6fb6ff%40taglist/87d7be0%40taglist_W_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../tags.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Etiquetas que empiezan por Y</title>
+    <id>Calibre2opds:taglist:Y</id>
+    <content type="text">YA, Young Adult</content>
+    <link href="../8f6fb6ff%40taglist/87d7be0%40taglist_Y_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../tags.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+</feed>
+
